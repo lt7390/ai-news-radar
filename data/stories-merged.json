@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T03:21:36.861222Z",
+  "generated_at": "2026-09-07T04:22:07.531055Z",
   "window_hours": 24,
-  "total_stories": 133,
+  "total_stories": 137,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -10,11 +10,19 @@
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source_count": 3,
       "source_names": [
+        "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com",
-        "Hacker News · 24h最热"
+        "openai.com"
       ],
       "sources": [
+        {
+          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T08:00:00Z"
+        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -30,49 +38,98 @@
           "source": "openai.com",
           "site_id": "buzzing",
           "published_at": "2026-09-07T00:17:54.906000Z"
-        },
-        {
-          "id": "0799e5d3a85065759ca6d5774d9940ede2f9dd47",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 3,
       "score": 10080
     },
     {
-      "story_id": "story_08d94691",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source_count": 2,
+      "story_id": "story_8e69cfeb",
+      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+      "url": "https://www.aibase.com/news/30864",
+      "primary_url": "https://www.aibase.com/news/30864",
+      "source_count": 1,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "AIbase"
       ],
       "sources": [
         {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
+          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
+          "url": "https://www.aibase.com/news/30864",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T04:04:22.044367Z"
         }
       ],
-      "item_count": 2,
-      "score": 10070
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_063de277",
+      "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+      "url": "https://www.aibase.com/news/30865",
+      "primary_url": "https://www.aibase.com/news/30865",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "f777308bb08f89b51b8661b25bc9f2116c88c185",
+          "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+          "url": "https://www.aibase.com/news/30865",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T04:04:22.044367Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_cffbf05b",
+      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+      "url": "https://www.aibase.com/news/30866",
+      "primary_url": "https://www.aibase.com/news/30866",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "e0ff566020e35871055507058e039095e3752046",
+          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/news/30866",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T04:04:22.044367Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_e78c5b85",
+      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "sources": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_7790a390",
@@ -581,6 +638,50 @@
       "score": 9820
     },
     {
+      "story_id": "story_97dbd0f6",
+      "title": "答澎湃丨工信部：通过制作百集AI短剧等，讲好新时代中国历史经典产业的品牌故事",
+      "url": "https://m.thepaper.cn/detail/34022801",
+      "primary_url": "https://m.thepaper.cn/detail/34022801",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "9dad8c78be36b28afcbaf3277b9d8bd3db8882e0",
+          "title": "答澎湃丨工信部：通过制作百集AI短剧等，讲好新时代中国历史经典产业的品牌故事",
+          "url": "https://m.thepaper.cn/detail/34022801",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T03:27:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e27ee788",
+      "title": "新华网科技观察丨走向实用，具身智能机器人还要闯几关？",
+      "url": "http://www.news.cn/20260907/a0347c2c9d7b416383fb1ee765405603/c.html",
+      "primary_url": "http://www.news.cn/20260907/a0347c2c9d7b416383fb1ee765405603/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "b8fc869440ba681fb587fc4c32154b74cb87aa99",
+          "title": "新华网科技观察丨走向实用，具身智能机器人还要闯几关？",
+          "url": "http://www.news.cn/20260907/a0347c2c9d7b416383fb1ee765405603/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T02:36:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f8e14130",
       "title": "人工智能让“中国智造”更具吸引力",
       "url": "http://www.news.cn/20260907/fd821dcf62d549fc9486ec5e5306f43e/c.html",
@@ -809,28 +910,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c6a48e7f",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "dd1798f1bb5949fc3609535aaa7b054245b6bc8e",
-          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T23:36:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_aa13ece5",
       "title": "对话｜陈颂瑛谈AI：做“有灵魂的艺术家”，还是单纯的“指令输入员”",
       "url": "https://m.thepaper.cn/detail/34019066",
@@ -854,7 +933,7 @@
     },
     {
       "story_id": "story_ab165529",
-      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "source_count": 1,
@@ -863,19 +942,19 @@
       ],
       "sources": [
         {
-          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
-          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "id": "02d9dae0b31276f524df592808eebc41bbb93888",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T20:47:37Z"
         },
         {
-          "id": "4a6c5d6a9f5c64a64621142812dc7e404403b6e4",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-09-06T20:47:37Z"
         }
       ],
@@ -1177,114 +1256,44 @@
       "score": 9720
     },
     {
-      "story_id": "story_d58b8013",
-      "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
-      "url": "https://www.tmtpost.com/8129268.html",
-      "primary_url": "https://www.tmtpost.com/8129268.html",
-      "source_count": 1,
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source_count": 3,
       "source_names": [
-        "钛媒体 TMTPost"
+        "Hacker News · 24h最热",
+        "Hacker News",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9ed22dcd19aea9dd3cd29f7ffb6814a16e2e4fd1",
-          "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
-          "url": "https://www.tmtpost.com/8129268.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T03:57:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7aae61f6",
-      "title": "从“看见世界”到“读懂家庭”：海信在IFA2026亮出的AI答卷",
-      "url": "https://m.thepaper.cn/detail/34018946",
-      "primary_url": "https://m.thepaper.cn/detail/34018946",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
         {
-          "id": "8e4fd2b03994c582463ad2fba9c149271b7d2c87",
-          "title": "从“看见世界”到“读懂家庭”：海信在IFA2026亮出的AI答卷",
-          "url": "https://m.thepaper.cn/detail/34018946",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T03:22:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_869e90e2",
-      "title": "AI时代，年轻人正在“忘记”打字",
-      "url": "https://www.tmtpost.com/8129736.html",
-      "primary_url": "https://www.tmtpost.com/8129736.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
         {
-          "id": "79ff00d9b1c1df5505343a2b8418484b3646ff9b",
-          "title": "AI时代，年轻人正在“忘记”打字",
-          "url": "https://www.tmtpost.com/8129736.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T03:22:32Z"
+          "id": "0a941a1961d8acb99621a69a466de79a90802697",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:37:55Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_2c46e07d",
-      "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
-      "url": "https://www.tmtpost.com/8129798.html",
-      "primary_url": "https://www.tmtpost.com/8129798.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "ce91a2dfc1f01db4229d73673629caa7e952fef8",
-          "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
-          "url": "https://www.tmtpost.com/8129798.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T03:22:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6bd96692",
-      "title": "银行“抢着借钱”，字节贷款近2000亿搞AI？",
-      "url": "https://www.tmtpost.com/8129806.html",
-      "primary_url": "https://www.tmtpost.com/8129806.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "2751c411d012b9b4c944edfdc5fac8217cb3c481",
-          "title": "银行“抢着借钱”，字节贷款近2000亿搞AI？",
-          "url": "https://www.tmtpost.com/8129806.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T03:22:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9580
     },
     {
       "story_id": "story_2905b2c1",
@@ -1327,46 +1336,6 @@
       "score": 9580
     },
     {
-      "story_id": "story_4435d37c",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source_count": 3,
-      "source_names": [
-        "keepitfree.ai",
-        "Hacker News (黑客新闻)",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
-          "title": "A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_9ea71268",
       "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
       "url": "https://news.ycombinator.com/item?id=49592366",
@@ -1377,6 +1346,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "92b3add0f0f07ee01a46210a270bda3aa70325f0",
+          "title": "YouTube had a bug – I used ChatGPT to investigate",
+          "url": "https://news.ycombinator.com/item?id=49588483",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T04:04:38.752000Z"
+        },
         {
           "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
           "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
@@ -1440,57 +1417,102 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-06T11:45:05.235000Z"
-        },
-        {
-          "id": "b99d2aaa28ce835e5b8bfbdd8ed0c2675981eef8",
-          "title": "AI, Tools and Transformation",
-          "url": "https://news.ycombinator.com/item?id=49582656",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T03:54:40.173000Z"
         }
       ],
       "item_count": 9,
       "score": 9570
     },
     {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "story_id": "story_08d94691",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "openai.com",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
         },
         {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
           "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
+          "published_at": "2026-09-06T16:27:05Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_4435d37c",
+      "title": "人工智能关机——保持人性",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "source_count": 2,
+      "source_names": [
+        "keepitfree.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+          "title": "人工智能关机——保持人性",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "keepitfree.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
+          "id": "d99d9067ae36803e05aadde62718427389c1660f",
+          "title": "A/I shuts down",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T14:34:34Z"
+        },
+        {
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
+          "title": "A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "item_count": 3,
       "score": 9570
+    },
+    {
+      "story_id": "story_60a4c283",
+      "title": "Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls (Nikkei Asia)",
+      "url": "https://www.techmeme.com/260906/p12",
+      "primary_url": "https://www.techmeme.com/260906/p12",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e545765025b44675fee4df8c1d6bff7b134d915c",
+          "title": "Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls (Nikkei Asia)",
+          "url": "https://www.techmeme.com/260906/p12",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T03:10:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_8387283a",
@@ -1581,6 +1603,28 @@
       "score": 7
     },
     {
+      "story_id": "story_bb978357",
+      "title": "How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex (Hannah Erin Lang/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260906/p11",
+      "primary_url": "https://www.techmeme.com/260906/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "98c3de56a8a631a2dc15dc1fae5409cf3d9daa09",
+          "title": "How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex (Hannah Erin Lang/Wall Street Journal)",
+          "url": "https://www.techmeme.com/260906/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T02:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_17af2a9b",
       "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
       "url": "https://www.techmeme.com/260906/p10",
@@ -1609,16 +1653,38 @@
       "primary_url": "https://github.com/Staatsgeheim/MathKernel",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "1bdf0532d50604bfdd1c175eef37d870476ed6eb",
+          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
           "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
           "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-07T00:21:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c6a48e7f",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "6b9631cc69bb14598508758714dd03d3f6a951e3",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T23:36:04Z"
         }
       ],
       "item_count": 1,
@@ -2059,6 +2125,28 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-09-06T17:03:58.350000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0eea7056",
+      "title": "YouTube had a bug – I used ChatGPT to investigate",
+      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+      "primary_url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "24f03fb277a4ccc50430c7257c0718ec8b57bd73",
+          "title": "YouTube had a bug – I used ChatGPT to investigate",
+          "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T17:01:39Z"
         }
       ],
       "item_count": 1,
@@ -2577,15 +2665,15 @@
       "primary_url": "https://github.com/pigeonlabsHQ/pigeon",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "76846b2f8d854bcfb5936bf671fb55c6f1d3e44b",
+          "id": "55dab66e7dfa6d5ff3018054e5fbdf35cdee57d3",
           "title": "Pigeon, a signed Pass for what a sub-agent may do",
           "url": "https://github.com/pigeonlabsHQ/pigeon",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T10:47:19Z"
         }
       ],
