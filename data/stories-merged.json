@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T01:19:56.900272Z",
+  "generated_at": "2026-09-07T02:21:34.127919Z",
   "window_hours": 24,
-  "total_stories": 113,
+  "total_stories": 126,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -10,19 +10,11 @@
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source_count": 3,
       "source_names": [
-        "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "openai.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -38,10 +30,216 @@
           "source": "openai.com",
           "site_id": "buzzing",
           "published_at": "2026-09-07T00:17:54.906000Z"
+        },
+        {
+          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 3,
       "score": 10080
+    },
+    {
+      "story_id": "story_82f3bdbf",
+      "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+      "url": "https://www.aibase.com/news/30859",
+      "primary_url": "https://www.aibase.com/news/30859",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "970241c1c6ec9c77457258fc6f654bf5617f5bf5",
+          "title": "AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口",
+          "url": "https://www.aibase.com/news/30859",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_09639a30",
+      "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+      "url": "https://www.aibase.com/news/30858",
+      "primary_url": "https://www.aibase.com/news/30858",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "acdc9b7d83ecd60e8bfd58d1cf85cd8e11041cb7",
+          "title": "Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断",
+          "url": "https://www.aibase.com/news/30858",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_24744b13",
+      "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+      "url": "https://www.aibase.com/news/30855",
+      "primary_url": "https://www.aibase.com/news/30855",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "110ebe51ef721223bbf241c3b3348de955932089",
+          "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+          "url": "https://www.aibase.com/news/30855",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_0a3f2b75",
+      "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+      "url": "https://www.aibase.com/news/30852",
+      "primary_url": "https://www.aibase.com/news/30852",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "75912c1da02a2511e0161b6b88ab9805b57e2aef",
+          "title": "GPT-6 Astra测试数据罗生门：OpenAI频繁修改成绩引「刷榜」质疑，大模型基准测试信任危机爆发",
+          "url": "https://www.aibase.com/news/30852",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_d85f35dd",
+      "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
+      "url": "https://www.aibase.com/news/30854",
+      "primary_url": "https://www.aibase.com/news/30854",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "bb2119b75f24c8261e0487a58c15bbc8b0917c0f",
+          "title": "OpenAI 发布 GPT-6Astra，黄仁勋称 AGI 已经到来",
+          "url": "https://www.aibase.com/news/30854",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_9927d737",
+      "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+      "url": "https://www.aibase.com/news/30857",
+      "primary_url": "https://www.aibase.com/news/30857",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "606f256c98c054194ea97ac39e1a4ec8f820c2b3",
+          "title": "告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进",
+          "url": "https://www.aibase.com/news/30857",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5ea67f41",
+      "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+      "url": "https://www.aibase.com/news/30853",
+      "primary_url": "https://www.aibase.com/news/30853",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "54c0098ec076fae6dd785ba33b8ee6215398952e",
+          "title": "微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%",
+          "url": "https://www.aibase.com/news/30853",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_cda6ad1b",
+      "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
+      "url": "https://www.aibase.com/news/30860",
+      "primary_url": "https://www.aibase.com/news/30860",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "90c78a2521949cc38056d7cddfc8eef667c56391",
+          "title": "空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗",
+          "url": "https://www.aibase.com/news/30860",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_001ce210",
+      "title": "黄仁勋祝贺 OpenAI 发布 Astra：“AGI 已经到来”，学者当场泼冷水",
+      "url": "https://www.aibase.com/news/30856",
+      "primary_url": "https://www.aibase.com/news/30856",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "5bd143d81f47c9db5a0bde2069402ac4dc27fc5b",
+          "title": "黄仁勋祝贺 OpenAI 发布 Astra：“AGI 已经到来”，学者当场泼冷水",
+          "url": "https://www.aibase.com/news/30856",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T02:04:34.284232Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_336357ab",
@@ -286,6 +484,50 @@
       "score": 9820
     },
     {
+      "story_id": "story_fa8ad281",
+      "title": "巴伦对话钟兆民：AI时代，价值投资如何进化？ | 巴伦独家 | 巴伦独家",
+      "url": "https://www.tmtpost.com/8130463.html",
+      "primary_url": "https://www.tmtpost.com/8130463.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "d0ad6eb7a879be438aa99dfff2211f410ef53c8c",
+          "title": "巴伦对话钟兆民：AI时代，价值投资如何进化？ | 巴伦独家 | 巴伦独家",
+          "url": "https://www.tmtpost.com/8130463.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T01:46:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7c36397a",
+      "title": "太空算力突然开始密集融资，资本到底在押什么？",
+      "url": "https://www.tmtpost.com/8130283.html",
+      "primary_url": "https://www.tmtpost.com/8130283.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "69af8d7dba9fbb5f8efbd72656707e8972d1210c",
+          "title": "太空算力突然开始密集融资，资本到底在押什么？",
+          "url": "https://www.tmtpost.com/8130283.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T01:03:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_24ca3a28",
       "title": "谁在捧红AI超创",
       "url": "https://www.tmtpost.com/8129834.html",
@@ -302,6 +544,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-07T00:58:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_35a01c0b",
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "url": "https://sspai.com/post/114250",
+      "primary_url": "https://sspai.com/post/114250",
+      "source_count": 1,
+      "source_names": [
+        "少数派"
+      ],
+      "sources": [
+        {
+          "id": "f36c1b2fcf59f30c17becb84011ea2a6f46ef774",
+          "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+          "url": "https://sspai.com/post/114250",
+          "source": "少数派",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T00:20:41Z"
         }
       ],
       "item_count": 1,
@@ -896,112 +1160,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2f459e66",
-      "title": "中国大模型简史02：一张突然值钱的船票",
-      "url": "https://www.tmtpost.com/8129912.html",
-      "primary_url": "https://www.tmtpost.com/8129912.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "152e30b08fa7aeee5cec03d372781176f357bfae",
-          "title": "中国大模型简史02：一张突然值钱的船票",
-          "url": "https://www.tmtpost.com/8129912.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T02:03:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4050d94b",
-      "title": "首席展望丨中欧瑞博黄松杰：AI硬件是周期成长股，A股整体处于震荡上行格局",
-      "url": "https://m.thepaper.cn/detail/33985807",
-      "primary_url": "https://m.thepaper.cn/detail/33985807",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "b9e2ddc9b22b956803bfa333ac953203e1ccb9e6",
-          "title": "首席展望丨中欧瑞博黄松杰：AI硬件是周期成长股，A股整体处于震荡上行格局",
-          "url": "https://m.thepaper.cn/detail/33985807",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T01:32:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_21bd7ee5",
-      "title": "对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装",
-      "url": "https://www.tmtpost.com/8128608.html",
-      "primary_url": "https://www.tmtpost.com/8128608.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "e5483058100900493e72f1342edd1aa6ca9a5104",
-          "title": "对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装",
-          "url": "https://www.tmtpost.com/8128608.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T01:11:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_2905b2c1",
       "title": "我对人工智能的看法",
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
@@ -1010,7 +1168,7 @@
       "source_names": [
         "beza1e1.tuxen.de",
         "Hacker News · 24h最热",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1030,11 +1188,11 @@
           "published_at": "2026-09-06T15:00:19Z"
         },
         {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "id": "f47fc4ae248fad806d59cd4f9b27ba3f13717994",
           "title": "I Feel about AI",
           "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T15:00:19Z"
         }
       ],
@@ -1042,16 +1200,72 @@
       "score": 9580
     },
     {
-      "story_id": "story_bd3c3040",
-      "title": "Running a personal AI agent on an old Android phone instead of a server",
-      "url": "https://news.ycombinator.com/item?id=49517567",
-      "primary_url": "https://news.ycombinator.com/item?id=49517567",
+      "story_id": "story_4435d37c",
+      "title": "人工智能关机——保持人性",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "source_count": 3,
+      "source_names": [
+        "keepitfree.ai",
+        "Hacker News · 24h最热",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+          "title": "人工智能关机——保持人性",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "keepitfree.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T15:26:17.429000Z"
+        },
+        {
+          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
+          "title": "A/I shuts down",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T14:34:34Z"
+        },
+        {
+          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "title": "A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T14:34:34Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_9ea71268",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://news.ycombinator.com/item?id=49592366",
+      "primary_url": "https://news.ycombinator.com/item?id=49592366",
       "source_count": 2,
       "source_names": [
         "hackernews",
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T02:04:51.722000Z"
+        },
+        {
+          "id": "a2a3350e6faec0ee0eaa7e39e500b7423e23313d",
+          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+          "url": "https://news.ycombinator.com/item?id=49585644",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T02:04:51.722000Z"
+        },
         {
           "id": "57892e2ad0c80704b65dc915c42ff7ba08f695db",
           "title": "Running a personal AI agent on an old Android phone instead of a server",
@@ -1117,7 +1331,7 @@
           "published_at": "2026-09-06T02:54:24.905000Z"
         }
       ],
-      "item_count": 8,
+      "item_count": 10,
       "score": 9570
     },
     {
@@ -1128,7 +1342,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1140,11 +1354,11 @@
           "published_at": "2026-09-06T18:33:46.745000Z"
         },
         {
-          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
+          "id": "2aa8cbeff305e88294e6fa5501aa6aa192d41a5e",
           "title": "An Alien Mind",
           "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-06T16:27:05Z"
         }
       ],
@@ -1152,34 +1366,42 @@
       "score": 9570
     },
     {
-      "story_id": "story_4435d37c",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "source_count": 2,
       "source_names": [
-        "keepitfree.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热",
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
         },
         {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -1214,35 +1436,48 @@
       "score": 9570
     },
     {
-      "story_id": "story_8c654f2b",
-      "title": "安装在机械臂上的GPT-6 Astra",
-      "url": "https://openai.robocurve.org/gpt-6-astra",
-      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
-      "source_count": 2,
+      "story_id": "story_17af2a9b",
+      "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
+      "url": "https://www.techmeme.com/260906/p10",
+      "primary_url": "https://www.techmeme.com/260906/p10",
+      "source_count": 1,
       "source_names": [
-        "openai.robocurve.org",
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "dedd30596b7d9a517e9e74d50aa4bc37b26ec099",
+          "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
+          "url": "https://www.techmeme.com/260906/p10",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T00:45:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1756a38b",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "primary_url": "https://github.com/Staatsgeheim/MathKernel",
+      "source_count": 1,
+      "source_names": [
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
-        },
-        {
-          "id": "2cb5943154d4f0ac1742ffdf7c5c7c5001a628eb",
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "id": "1bdf0532d50604bfdd1c175eef37d870476ed6eb",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-06T01:52:45Z"
+          "published_at": "2026-09-07T00:21:01Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_c6a48e7f",
@@ -1283,6 +1518,50 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-06T23:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_737bb234",
+      "title": "GOP issues stark warning to AI companies",
+      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "primary_url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "9451b50fb02e17646e796ea9d694778ce337f391",
+          "title": "GOP issues stark warning to AI companies",
+          "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T22:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7e129935",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "6ed58cd146696532ec7a908b51e3bd51f7add65a",
+          "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T22:59:32Z"
         }
       ],
       "item_count": 1,
@@ -1449,15 +1728,15 @@
       "primary_url": "https://github.com/mmeyerlein/meclaw",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "93bb7d420560c6bc9cfa03f600f69e46f5f33ce5",
+          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
           "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
           "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T20:07:16Z"
         }
       ],
@@ -2009,6 +2288,28 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-09-06T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_09cd1a64",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "primary_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "cb57dabe5391acac15e7edd0c4047eae739f9fbf",
+          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T11:56:43Z"
         }
       ],
       "item_count": 1,
@@ -2609,6 +2910,28 @@
       "score": 7
     },
     {
+      "story_id": "story_8c654f2b",
+      "title": "安装在机械臂上的GPT-6 Astra",
+      "url": "https://openai.robocurve.org/gpt-6-astra",
+      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "openai.robocurve.org"
+      ],
+      "sources": [
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_6264988a",
       "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
       "url": "https://www.techmeme.com/260906/p1",
@@ -2625,28 +2948,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-06T04:40:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_040562f4",
-      "title": "How US Campaigns Are Already Using AI to Try to Sway Voters",
-      "url": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters",
-      "primary_url": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "d4cc773f0865a517a0c894328bfbbe080e6e3aac",
-          "title": "How US Campaigns Are Already Using AI to Try to Sway Voters",
-          "url": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T01:34:00Z"
         }
       ],
       "item_count": 1,
