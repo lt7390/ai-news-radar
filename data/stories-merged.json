@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T04:22:07.531055Z",
+  "generated_at": "2026-09-07T05:21:53.266189Z",
   "window_hours": 24,
-  "total_stories": 137,
+  "total_stories": 140,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -10,19 +10,11 @@
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source_count": 3,
       "source_names": [
-        "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "openai.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -38,6 +30,14 @@
           "source": "openai.com",
           "site_id": "buzzing",
           "published_at": "2026-09-07T00:17:54.906000Z"
+        },
+        {
+          "id": "0799e5d3a85065759ca6d5774d9940ede2f9dd47",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 3,
@@ -638,6 +638,147 @@
       "score": 9820
     },
     {
+      "story_id": "story_08d94691",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "sources": [
+        {
+          "id": "e949dbc394fadc1382919e037bbef0420f2533a4",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_9bb1f680",
+      "title": "疯魔化的AI对赌事件",
+      "url": "https://www.tmtpost.com/8130661.html",
+      "primary_url": "https://www.tmtpost.com/8130661.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "5ca87cf15550d3b265dbd64e525cba68bae40ab9",
+          "title": "疯魔化的AI对赌事件",
+          "url": "https://www.tmtpost.com/8130661.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T04:49:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f532dc97",
+      "title": "OpenAI最新内部数据公开：AI正在重写研究员的工作方式",
+      "url": "https://www.huxiu.com/article/4889081.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889081.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "b027cc769520f9878ae80b3c3e7404d396895e83",
+          "title": "OpenAI最新内部数据公开：AI正在重写研究员的工作方式",
+          "url": "https://www.huxiu.com/article/4889081.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T04:01:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e78d4aed",
+      "title": "科技巨头争相入局AI气象预测，但极端天气下的信任红线仍未逾越",
+      "url": "https://m.thepaper.cn/detail/34022960",
+      "primary_url": "https://m.thepaper.cn/detail/34022960",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "b12c015d1618f86ddab0db1c638160720098d2c4",
+          "title": "科技巨头争相入局AI气象预测，但极端天气下的信任红线仍未逾越",
+          "url": "https://m.thepaper.cn/detail/34022960",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T03:57:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f6397ace",
+      "title": "疯魔化的AI对赌事件",
+      "url": "https://www.huxiu.com/article/4889076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889076.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "b0fe7c7f38a7b5944a21b8f2101bc084ae175023",
+          "title": "疯魔化的AI对赌事件",
+          "url": "https://www.huxiu.com/article/4889076.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T03:50:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a341edce",
+      "title": "AI客服乱象有人治了！新国标实施，企业必须为AI客服负责！",
+      "url": "https://www.huxiu.com/article/4889070.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889070.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "c1a6ce755ed97a978993b61e0b6fcb503d224c18",
+          "title": "AI客服乱象有人治了！新国标实施，企业必须为AI客服负责！",
+          "url": "https://www.huxiu.com/article/4889070.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T03:37:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_97dbd0f6",
       "title": "答澎湃丨工信部：通过制作百集AI短剧等，讲好新时代中国历史经典产业的品牌故事",
       "url": "https://m.thepaper.cn/detail/34022801",
@@ -933,7 +1074,7 @@
     },
     {
       "story_id": "story_ab165529",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "source_count": 1,
@@ -942,19 +1083,19 @@
       ],
       "sources": [
         {
-          "id": "02d9dae0b31276f524df592808eebc41bbb93888",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T20:47:37Z"
         },
         {
-          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
-          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "id": "4a6c5d6a9f5c64a64621142812dc7e404403b6e4",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-06T20:47:37Z"
         }
       ],
@@ -1234,68 +1375,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_89bd0f78",
-      "title": "2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标",
-      "url": "https://www.tmtpost.com/8129971.html",
-      "primary_url": "https://www.tmtpost.com/8129971.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "72b6fbe74c1e39d43477aaef42002ec7d65b6b70",
-          "title": "2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标",
-          "url": "https://www.tmtpost.com/8129971.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T04:40:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_2905b2c1",
       "title": "我对人工智能的看法",
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
@@ -1330,6 +1409,46 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-09-06T15:00:19Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_4435d37c",
+      "title": "人工智能关机——保持人性",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "source_count": 3,
+      "source_names": [
+        "keepitfree.ai",
+        "Hacker News · 24h最热",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+          "title": "人工智能关机——保持人性",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "keepitfree.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T15:26:17.429000Z"
+        },
+        {
+          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
+          "title": "A/I shuts down",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T14:34:34Z"
+        },
+        {
+          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "title": "A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "item_count": 3,
@@ -1423,74 +1542,65 @@
       "score": 9570
     },
     {
-      "story_id": "story_08d94691",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "source_count": 2,
       "source_names": [
-        "openai.com",
+        "Hacker News · 24h最热",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
         },
         {
-          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
-          "title": "An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
           "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-09-06T16:27:05Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_4435d37c",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source_count": 2,
-      "source_names": [
-        "keepitfree.ai",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
+          "published_at": "2026-09-06T16:37:55Z"
         },
         {
-          "id": "d99d9067ae36803e05aadde62718427389c1660f",
-          "title": "A/I shuts down",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
+          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
         }
       ],
       "item_count": 3,
       "score": 9570
+    },
+    {
+      "story_id": "story_2bbee85b",
+      "title": "三年了，AI为何还没有抢走程序员饭碗？",
+      "url": "https://juejin.cn/post/7682262550978936884",
+      "primary_url": "https://juejin.cn/post/7682262550978936884",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "597f0806159d12739746080f83167ca6731f812b",
+          "title": "三年了，AI为何还没有抢走程序员饭碗？",
+          "url": "https://juejin.cn/post/7682262550978936884",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T04:50:56.735000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_60a4c283",
@@ -1653,15 +1763,15 @@
       "primary_url": "https://github.com/Staatsgeheim/MathKernel",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
+          "id": "1bdf0532d50604bfdd1c175eef37d870476ed6eb",
           "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
           "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-07T00:21:01Z"
         }
       ],
@@ -3137,50 +3247,6 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-06T05:54:52.217000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8c654f2b",
-      "title": "安装在机械臂上的GPT-6 Astra",
-      "url": "https://openai.robocurve.org/gpt-6-astra",
-      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
-      "source_count": 1,
-      "source_names": [
-        "openai.robocurve.org"
-      ],
-      "sources": [
-        {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6264988a",
-      "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
-      "url": "https://www.techmeme.com/260906/p1",
-      "primary_url": "https://www.techmeme.com/260906/p1",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "2177ac66231a6d7df59338a23676153149d82084",
-          "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
-          "url": "https://www.techmeme.com/260906/p1",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T04:40:01Z"
         }
       ],
       "item_count": 1,
