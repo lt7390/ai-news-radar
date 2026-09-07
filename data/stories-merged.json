@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T06:25:43.535927Z",
+  "generated_at": "2026-09-07T07:28:30.164050Z",
   "window_hours": 24,
-  "total_stories": 145,
+  "total_stories": 159,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -12,7 +12,7 @@
       "source_names": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "openai.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -32,11 +32,11 @@
           "published_at": "2026-09-07T00:17:54.906000Z"
         },
         {
-          "id": "b9d69e00d699bee0f5d6e9aacd8e71da8f4006a8",
+          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
           "title": "Research acceleration: The view inside OpenAI",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T15:08:44Z"
         }
       ],
@@ -44,22 +44,119 @@
       "score": 10080
     },
     {
-      "story_id": "story_68481cc4",
-      "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-      "url": "https://www.aibase.com/news/30868",
-      "primary_url": "https://www.aibase.com/news/30868",
+      "story_id": "story_815672ed",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "sources": [
+        {
+          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "url": "https://www.aibase.com/news/30871",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T07:06:35.266903Z"
+        },
+        {
+          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
+          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T18:23:14Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_48db455f",
+      "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+      "url": "https://www.aibase.com/news/30874",
+      "primary_url": "https://www.aibase.com/news/30874",
       "source_count": 1,
       "source_names": [
         "AIbase"
       ],
       "sources": [
         {
-          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
-          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-          "url": "https://www.aibase.com/news/30868",
+          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "url": "https://www.aibase.com/news/30874",
           "source": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:06:09.951439Z"
+          "published_at": "2026-09-07T07:06:35.266903Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_977608a8",
+      "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+      "url": "https://www.aibase.com/news/30872",
+      "primary_url": "https://www.aibase.com/news/30872",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
+          "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "url": "https://www.aibase.com/news/30872",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T07:06:35.266903Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_1f7f535f",
+      "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+      "url": "https://www.aibase.com/news/30873",
+      "primary_url": "https://www.aibase.com/news/30873",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "de63239747d4967b618130607f3283ca5282a6d8",
+          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "url": "https://www.aibase.com/news/30873",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T07:06:35.266903Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_60b9edc2",
+      "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+      "url": "https://www.aibase.com/news/30869",
+      "primary_url": "https://www.aibase.com/news/30869",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
+          "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
+          "url": "https://www.aibase.com/news/30869",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T07:06:35.266903Z"
         }
       ],
       "item_count": 1,
@@ -76,9 +173,39 @@
       ],
       "sources": [
         {
+          "id": "fdee4adfda3756f276f9dc85aa486580fd5f7891",
+          "title": "讯飞星火X2.5发布：MoE架构重磅加持，代码与智能体能力实现跨越式升级",
+          "url": "https://www.aibase.com/news/30870",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T07:06:35.266903Z"
+        },
+        {
           "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
           "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
           "url": "https://www.aibase.com/news/30867",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:06:09.951439Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9920
+    },
+    {
+      "story_id": "story_68481cc4",
+      "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+      "url": "https://www.aibase.com/news/30868",
+      "primary_url": "https://www.aibase.com/news/30868",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
+          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+          "url": "https://www.aibase.com/news/30868",
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-07T06:06:09.951439Z"
@@ -484,48 +611,70 @@
       "score": 9920
     },
     {
-      "story_id": "story_815672ed",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "story_id": "story_28ea715f",
+      "title": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+      "url": "https://x.com/zarazhangrui/status/2096824861108928701",
+      "primary_url": "https://x.com/zarazhangrui/status/2096824861108928701",
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Follow Builders · X · Zara Zhang"
       ],
       "sources": [
         {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
+          "id": "9387ce080b5c0418e4488aa5023a7b58f61a5a8a",
+          "title": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+          "url": "https://x.com/zarazhangrui/status/2096824861108928701",
+          "source": "Follow Builders · X · Zara Zhang",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-07T04:56:18Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
     },
     {
-      "story_id": "story_2347266e",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "primary_url": "https://www.ithome.com/0/998/927.htm",
+      "story_id": "story_ec4a96e7",
+      "title": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s https://t.co/TzSjTfEb5d",
+      "url": "https://x.com/petergyang/status/2096815819997204639",
+      "primary_url": "https://x.com/petergyang/status/2096815819997204639",
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Follow Builders · X · Peter Yang"
       ],
       "sources": [
         {
-          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
-          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T06:46:16Z"
+          "id": "02478a89cce01962937cc2268944f187ac8113dc",
+          "title": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s https://t.co/TzSjTfEb5d",
+          "url": "https://x.com/petergyang/status/2096815819997204639",
+          "source": "Follow Builders · X · Peter Yang",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-07T04:20:23Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
+    },
+    {
+      "story_id": "story_441aa26a",
+      "title": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructur...",
+      "url": "https://x.com/levie/status/2096735726750908464",
+      "primary_url": "https://x.com/levie/status/2096735726750908464",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "sources": [
+        {
+          "id": "12a2eaa55844aa82da3e877cae77a66e8067e0e8",
+          "title": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructur...",
+          "url": "https://x.com/levie/status/2096735726750908464",
+          "source": "Follow Builders · X · Aaron Levie",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-06T23:02:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_6fa51ad6",
@@ -711,6 +860,160 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_ee9efa27",
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "2a25fe7a5cc7c681a31c7093b3b7064fb2360dd8",
+          "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+          "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T06:32:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_72c385ce",
+      "title": "935亿涌入具身智能：资本转向大脑，技术验证仍在早期",
+      "url": "https://m.thepaper.cn/detail/34007591",
+      "primary_url": "https://m.thepaper.cn/detail/34007591",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "41ecb506a03aa107b95211a6fc8a574657e33d4c",
+          "title": "935亿涌入具身智能：资本转向大脑，技术验证仍在早期",
+          "url": "https://m.thepaper.cn/detail/34007591",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T06:17:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2607314a",
+      "title": "“不给钱，草稿都不给你看”，AI干的第一件事：收拾无能老板",
+      "url": "https://www.huxiu.com/article/4889062.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889062.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "aa45e986fec49905f8a3a9ed1b11a5cf9ed0ff65",
+          "title": "“不给钱，草稿都不给你看”，AI干的第一件事：收拾无能老板",
+          "url": "https://www.huxiu.com/article/4889062.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T06:02:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8221c3bc",
+      "title": "AI时代学数学，出路在哪？同济陈小杨：别局限于小方向，大胆挑战核心问题",
+      "url": "https://m.thepaper.cn/detail/34001100",
+      "primary_url": "https://m.thepaper.cn/detail/34001100",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "8d03a8f097309d6a5a58885456e394765c9017e7",
+          "title": "AI时代学数学，出路在哪？同济陈小杨：别局限于小方向，大胆挑战核心问题",
+          "url": "https://m.thepaper.cn/detail/34001100",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T05:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_25864084",
+      "title": "菲尔兹奖得主陶哲轩警告：AI虽能大幅加快科研速度，但代价可能是“牺牲”下一代科学家",
+      "url": "https://m.thepaper.cn/detail/34023156",
+      "primary_url": "https://m.thepaper.cn/detail/34023156",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "aa0d50ceff5ee19dbec556ab6e6ac5b401d92f46",
+          "title": "菲尔兹奖得主陶哲轩警告：AI虽能大幅加快科研速度，但代价可能是“牺牲”下一代科学家",
+          "url": "https://m.thepaper.cn/detail/34023156",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T05:56:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_70cc874a",
+      "title": "Agent 没有终局赢家",
+      "url": "https://www.huxiu.com/article/4889103.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889103.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "e872653ae398a617b2df80e232a8b993920e2c98",
+          "title": "Agent 没有终局赢家",
+          "url": "https://www.huxiu.com/article/4889103.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T05:56:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_219c9bb8",
+      "title": "AI开除了人类员工？",
+      "url": "https://www.huxiu.com/article/4889093.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889093.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "582fd30d3e78fc50e04ebf8dd19bc7aa051860a6",
+          "title": "AI开除了人类员工？",
+          "url": "https://www.huxiu.com/article/4889093.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T05:40:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_4a1186bb",
@@ -1324,7 +1627,7 @@
     },
     {
       "story_id": "story_ab977239",
-      "title": "索尼、华纳围剿Anthropic，AI 时代的版权大战怎么打？",
+      "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
       "url": "https://www.huxiu.com/article/4888906.html?f=rss",
       "primary_url": "https://www.huxiu.com/article/4888906.html?f=rss",
       "source_count": 1,
@@ -1339,58 +1642,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T07:30:15Z"
-        },
-        {
-          "id": "fddf51bb1ab93cc1ba8c1061898883f5500ba861",
-          "title": "索尼、华纳围剿Anthropic，AI 时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T06:07:15Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_618f68e5",
-      "title": "“国家反诈AI”App上线",
-      "url": "http://www.news.cn/20260906/70683e70b06e4db5b1d61a4e06cdd62f/c.html",
-      "primary_url": "http://www.news.cn/20260906/70683e70b06e4db5b1d61a4e06cdd62f/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
-        {
-          "id": "3cb87f58f103140e1aa8733861d1fa47c2820cb0",
-          "title": "“国家反诈AI”App上线",
-          "url": "http://www.news.cn/20260906/70683e70b06e4db5b1d61a4e06cdd62f/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T06:54:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6c6a5a31",
-      "title": "“国家反诈AI”App上线：多维度识别诈骗套路",
-      "url": "https://m.thepaper.cn/detail/34019441",
-      "primary_url": "https://m.thepaper.cn/detail/34019441",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "2f6adba8d9c3b32601d394ab64a3196b017795b2",
-          "title": "“国家反诈AI”App上线：多维度识别诈骗套路",
-          "url": "https://m.thepaper.cn/detail/34019441",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T06:37:38Z"
         }
       ],
       "item_count": 1,
@@ -1445,7 +1696,7 @@
       "source_names": [
         "beza1e1.tuxen.de",
         "Hacker News · 24h最热",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1465,11 +1716,11 @@
           "published_at": "2026-09-06T15:00:19Z"
         },
         {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "id": "f47fc4ae248fad806d59cd4f9b27ba3f13717994",
           "title": "I Feel about AI",
           "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T15:00:19Z"
         }
       ],
@@ -1651,7 +1902,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1663,11 +1914,11 @@
           "published_at": "2026-09-06T18:33:46.745000Z"
         },
         {
-          "id": "ccf79e17c723cade588aed5a17db7cd1cb416cde",
+          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
           "title": "An Alien Mind",
           "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T16:27:05Z"
         }
       ],
@@ -1675,22 +1926,88 @@
       "score": 9570
     },
     {
-      "story_id": "story_7e129935",
-      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "story_id": "story_867f1532",
+      "title": "AI Photo Effects & FIlters",
+      "url": "https://www.producthunt.com/products/ai-photo-effects-filters",
+      "primary_url": "https://www.producthunt.com/products/ai-photo-effects-filters",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "producthunt"
       ],
       "sources": [
         {
-          "id": "37e715135d4fcc3af5607aba1f841037649dd000",
-          "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-07T05:23:31Z"
+          "id": "c92ac0ec9c250b694bf051aee6e9d0242a85a563",
+          "title": "AI Photo Effects & FIlters",
+          "url": "https://www.producthunt.com/products/ai-photo-effects-filters",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T07:06:52.461000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ab4edeb0",
+      "title": "Cantrip AI",
+      "url": "https://www.producthunt.com/products/cantrip-ai",
+      "primary_url": "https://www.producthunt.com/products/cantrip-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "46747272aaafb23eb4491ac45c8438382903ea2a",
+          "title": "Cantrip AI",
+          "url": "https://www.producthunt.com/products/cantrip-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T07:06:52.461000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fe6ec654",
+      "title": "PR Lens by Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
+      "primary_url": "https://www.producthunt.com/products/coldtea",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "d3affdb42be3bf106fa4bbab312060e5dd2b103c",
+          "title": "PR Lens by Coldtea.ai",
+          "url": "https://www.producthunt.com/products/coldtea",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T07:06:52.461000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a162e98a",
+      "title": "走进AI Agent第三篇：让 Agent 记住你",
+      "url": "https://juejin.cn/post/7682394398210932763",
+      "primary_url": "https://juejin.cn/post/7682394398210932763",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "ad9d6700a6d3e54184d4900642920e867769a96b",
+          "title": "走进AI Agent第三篇：让 Agent 记住你",
+          "url": "https://juejin.cn/post/7682394398210932763",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:51:06.594000Z"
         }
       ],
       "item_count": 1,
@@ -1769,15 +2086,15 @@
       "primary_url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "2974ed3e3b3d67ea712369ac54b9fedace51087b",
+          "id": "2d7c2c831a6d1505e1895205a76f353d7d064d7c",
           "title": "I refused to train the AI that could replace me",
           "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-07T04:38:22Z"
         }
       ],
@@ -1813,16 +2130,38 @@
       "primary_url": "https://github.com/trailofbits/coop",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "2ab7da731dc02356e67415a50029b7e0b7b2c372",
+          "id": "204f9d79bbbc363ef213e7c196c1585e2cd01dfc",
           "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-07T04:18:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_364900ca",
+      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+      "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+      "primary_url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1e407c2750ef845265243e0168a3bbadceedb2a8",
+          "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+          "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:07:07Z"
         }
       ],
       "item_count": 1,
@@ -1989,15 +2328,15 @@
       "primary_url": "https://github.com/Staatsgeheim/MathKernel",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "1bdf0532d50604bfdd1c175eef37d870476ed6eb",
+          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
           "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
           "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-07T00:21:01Z"
         }
       ],
@@ -2065,6 +2404,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-06T22:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7e129935",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "6ed58cd146696532ec7a908b51e3bd51f7add65a",
+          "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T22:59:32Z"
         }
       ],
       "item_count": 1,
@@ -2231,15 +2592,15 @@
       "primary_url": "https://github.com/mmeyerlein/meclaw",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
+          "id": "93bb7d420560c6bc9cfa03f600f69e46f5f33ce5",
           "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
           "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T20:07:16Z"
         }
       ],
@@ -3363,50 +3724,6 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-06T07:44:16.747000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f1471629",
-      "title": "Claude Fable 5.1正式上线：Claude 最强，还降价？",
-      "url": "https://juejin.cn/post/7680972429381009471",
-      "primary_url": "https://juejin.cn/post/7680972429381009471",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "71a991fd31245f193266dff51166712e74628412",
-          "title": "Claude Fable 5.1正式上线：Claude 最强，还降价？",
-          "url": "https://juejin.cn/post/7680972429381009471",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T07:04:26.152000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_de9b3e3e",
-      "title": "二、《从零手撸 Agent》 — 聊聊 LLM 的失忆真相",
-      "url": "https://juejin.cn/post/7680445889979301907",
-      "primary_url": "https://juejin.cn/post/7680445889979301907",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "e6244c987e0844e643daec18ef30fa20516aff3d",
-          "title": "二、《从零手撸 Agent》 — 聊聊 LLM 的失忆真相",
-          "url": "https://juejin.cn/post/7680445889979301907",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T07:04:26.152000Z"
         }
       ],
       "item_count": 1,
