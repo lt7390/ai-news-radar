@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T14:21:57.980289Z",
+  "generated_at": "2026-09-08T15:24:58.388229Z",
   "window_hours": 24,
-  "total_stories": 227,
+  "total_stories": 233,
   "stories": [
     {
       "story_id": "story_c8523869",
@@ -13,7 +13,7 @@
         "Mistral AI：News（网页）",
         "mistral.ai",
         "Hacker News (黑客新闻)",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -41,16 +41,38 @@
           "published_at": "2026-09-08T05:06:23Z"
         },
         {
-          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "id": "1367ae4cdbebf1ec62380b1b4a287a3d2b731ea6",
           "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
           "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-08T05:06:23Z"
         }
       ],
       "item_count": 4,
       "score": 10090
+    },
+    {
+      "story_id": "story_c847825e",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_b09a7c72",
@@ -69,28 +91,6 @@
           "source": "Google DeepMind",
           "site_id": "official_ai",
           "published_at": "2026-09-08T14:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_6c888c96",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "primary_url": "https://openai.com/index/the-work-now-within-reach",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "0c225103d8bbdb274acb89884cf1925952614089",
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1043,59 +1043,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_7cc9ce8c",
-      "title": "More and more people are coming to the same conclusion.. As building gets easier, what to build becomes the important bottle neck. You might not need many of them, but the good ones are extremely well setup for the AI...",
-      "url": "https://x.com/nikunj/status/2096963347359150348",
-      "primary_url": "https://x.com/nikunj/status/2096963347359150348",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
-        {
-          "id": "49e6411c0817e35c12128daefe3314c309343580",
-          "title": "More and more people are coming to the same conclusion.. As building gets easier, what to build becomes the important bottle neck. You might not need many of them, but the good ones are extremely well setup for the AI...",
-          "url": "https://x.com/nikunj/status/2096963347359150348",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-07T14:06:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_217198a7",
-      "title": "英国芯片巨头老板称人工智能将在我们有生之年治愈癌症",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source_count": 2,
-      "source_names": [
-        "BBC World",
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "e47d2890674483f26b69be4fd598b33d0a19dde9",
-          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-08T09:17:48Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
       "story_id": "story_b783499a",
       "title": "思维链让AI变聪明，Astra却用它骗人",
       "url": "https://www.tmtpost.com/8132568.html",
@@ -1220,6 +1167,72 @@
       "score": 9770
     },
     {
+      "story_id": "story_cd75cd6f",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "primary_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4789b09e0523ba9ae86ee61eb6061e153909365d",
+          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T15:04:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6f797b86",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "primary_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "250068409d711c01060022882664e07069550a56",
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T14:17:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_3e434d00",
+      "title": "Spoiler alert: AI in cinema 'just a tool, won’t replace actors and human beings'",
+      "url": "https://www.france24.com/en/video/20260908-spoiler-alert-ai-in-cinema-just-a-tool-won-t-replace-actors-and-human-beings-1",
+      "primary_url": "https://www.france24.com/en/video/20260908-spoiler-alert-ai-in-cinema-just-a-tool-won-t-replace-actors-and-human-beings-1",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "135013ad26134878a2b64e04b2f57f5009472a6a",
+          "title": "Spoiler alert: AI in cinema 'just a tool, won’t replace actors and human beings'",
+          "url": "https://www.france24.com/en/video/20260908-spoiler-alert-ai-in-cinema-just-a-tool-won-t-replace-actors-and-human-beings-1",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T14:11:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_49b3f47d",
       "title": "3.8万亿投资，智能算力目标增逾5倍，信息通信业“十五五”规划释放了哪些信号",
       "url": "https://m.thepaper.cn/detail/34030295",
@@ -1236,6 +1249,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-08T13:29:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_56b6fc44",
+      "title": "AI驱动8月进出口高增，贸易保护主义或成后续“逆风”",
+      "url": "https://www.huxiu.com/article/4889622.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4889622.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "f1d6f69eed6ab10a0803c6a6b76f7326c8f16d97",
+          "title": "AI驱动8月进出口高增，贸易保护主义或成后续“逆风”",
+          "url": "https://www.huxiu.com/article/4889622.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T13:20:21Z"
         }
       ],
       "item_count": 1,
@@ -1278,6 +1313,28 @@
           "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
           "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
           "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6c888c96",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "663e3972d10e9976dc9d439ddc4bb6fef088ecc7",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-09-08T13:00:00Z"
         }
@@ -1657,6 +1714,36 @@
         }
       ],
       "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_217198a7",
+      "title": "英国最大科技公司老板表示，人工智能癌症治疗因芯片短缺而放缓",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "e47d2890674483f26b69be4fd598b33d0a19dde9",
+          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T09:17:48Z"
+        },
+        {
+          "id": "0571ce5c5bc79f92919df311c1b123b48106c5c2",
+          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T23:05:12Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -2878,70 +2965,75 @@
       "score": 9720
     },
     {
-      "story_id": "story_0b7bf78f",
-      "title": "战魔田默｜英伟达拟斥资近130亿美元收购Hugging Face，芯片之王为什么要争夺AI开发者入口？",
-      "url": "https://www.huxiu.com/article/4889297.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4889297.html?f=rss",
-      "source_count": 1,
+      "story_id": "story_bf275d11",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "primary_url": "https://news.ycombinator.com/item?id=49600233",
+      "source_count": 3,
       "source_names": [
-        "虎嗅"
+        "news.ycombinator.com",
+        "hackernews",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "2c20778d09e46fbfb3b43494338fff3bb9b0442c",
-          "title": "战魔田默｜英伟达拟斥资近130亿美元收购Hugging Face，芯片之王为什么要争夺AI开发者入口？",
-          "url": "https://www.huxiu.com/article/4889297.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-07T14:31:59Z"
+          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
+          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "news.ycombinator.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T18:58:53.306000Z"
+        },
+        {
+          "id": "e889e8dd958d40012a358271872f99db40edc113",
+          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://news.ycombinator.com/item?id=49601338",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T18:44:15.353000Z"
+        },
+        {
+          "id": "d6f9dddb144f319ffbbffbc335158e513d86e529",
+          "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+          "url": "https://news.ycombinator.com/item?id=49600233",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-07T16:40:32Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9580
     },
     {
-      "story_id": "story_c119a840",
-      "title": "AI+能源：未来前景与投资思路",
-      "url": "https://www.tmtpost.com/8131644.html",
-      "primary_url": "https://www.tmtpost.com/8131644.html",
-      "source_count": 1,
+      "story_id": "story_7c2aa92c",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "source_count": 2,
       "source_names": [
-        "钛媒体 TMTPost"
+        "manualdousuario.net",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "8e9256b65be3210fda23df162169d56bfa845a70",
-          "title": "AI+能源：未来前景与投资思路",
-          "url": "https://www.tmtpost.com/8131644.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-07T14:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_43b0e803",
-      "title": "马克龙主持峰会，敦促在人工智能、流媒体的影响下支持电影",
-      "url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
-      "primary_url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
         {
-          "id": "d0b65ae03368c7941003f634895f4b4dcceadd46",
-          "title": "Macron hosts summit to urge support for cinema amid impact of AI, streaming",
-          "url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-07T14:23:25Z"
+          "id": "d7b4cf5907dd1391564f32cd48c03cf9db5d8239",
+          "title": "LibreOffice breaks download records after declaring it has no AI features",
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-08T14:05:57Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_d910d248",
@@ -2951,7 +3043,7 @@
       "source_count": 2,
       "source_names": [
         "www.bottlenecklabs.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2963,11 +3055,11 @@
           "published_at": "2026-09-08T06:33:02.028000Z"
         },
         {
-          "id": "ba5544f2dcc3d8bef42f8009dffd4f258df28dd4",
+          "id": "62e6d1c18c92f3b0682711709bb2ec37454dc0fb",
           "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
           "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-07T18:24:32Z"
         }
       ],
@@ -3006,51 +3098,180 @@
       "score": 9570
     },
     {
-      "story_id": "story_bf275d11",
-      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "primary_url": "https://news.ycombinator.com/item?id=49600233",
-      "source_count": 2,
+      "story_id": "story_fbe5c2b3",
+      "title": "How Climate Resilient Are the Largest Cities?",
+      "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities",
+      "primary_url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities",
+      "source_count": 1,
       "source_names": [
-        "news.ycombinator.com",
-        "hackernews"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "e889e8dd958d40012a358271872f99db40edc113",
-          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "url": "https://news.ycombinator.com/item?id=49601338",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T18:44:15.353000Z"
-        },
-        {
-          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-          "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T17:43:59.379000Z"
-        },
-        {
-          "id": "47bf337585aa6ad4608fbe53479acd5cc0cdc047",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "url": "https://news.ycombinator.com/item?id=49596610",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T14:43:12.419000Z"
+          "id": "cd8bb614b9a5a2338a15f6d8be35baac8cf11330",
+          "title": "How Climate Resilient Are the Largest Cities?",
+          "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-08T14:49:39Z"
         }
       ],
-      "item_count": 4,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_04c69250",
+      "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
+      "url": "https://juejin.cn/post/7682698191627911211",
+      "primary_url": "https://juejin.cn/post/7682698191627911211",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "577329a3a6d9571110dbe8b1cd05d81e6241674f",
+          "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
+          "url": "https://juejin.cn/post/7682698191627911211",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-08T14:43:59.073000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c742c19f",
+      "title": "OpenAI stole mathematicians' private research from their own Codex chats",
+      "url": "https://www.reddit.com/r/technology/comments/1waoiai/report_openai_stole_mathematicians_private",
+      "primary_url": "https://www.reddit.com/r/technology/comments/1waoiai/report_openai_stole_mathematicians_private",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "b05d60b1f30fe22a8e824b072f664971e5f60928",
+          "title": "OpenAI stole mathematicians' private research from their own Codex chats",
+          "url": "https://www.reddit.com/r/technology/comments/1waoiai/report_openai_stole_mathematicians_private",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-08T14:35:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fa7ad4b5",
+      "title": "How to let Claude send emails for you",
+      "url": "https://www.engadget.com/2249396/how-to-let-claude-send-emails",
+      "primary_url": "https://www.engadget.com/2249396/how-to-let-claude-send-emails",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "014f6c325fd7f9486023af328552952eb74be850",
+          "title": "How to let Claude send emails for you",
+          "url": "https://www.engadget.com/2249396/how-to-let-claude-send-emails",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_194967de",
+      "title": "China has 70% of a material AI needs, IQE’s CEO warns, Bloomberg reports",
+      "url": "https://thenextweb.com/news/iqe-indium-phosphide-china-export-controls-supply-risk",
+      "primary_url": "https://thenextweb.com/news/iqe-indium-phosphide-china-export-controls-supply-risk",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0494bca88fc728f4eae6ec4a12d5699c987905d4",
+          "title": "China has 70% of a material AI needs, IQE’s CEO warns, Bloomberg reports",
+          "url": "https://thenextweb.com/news/iqe-indium-phosphide-china-export-controls-supply-risk",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T13:57:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_055d4c74",
+      "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260908/p19",
+      "primary_url": "https://www.techmeme.com/260908/p19",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "7c9065c868a87df3205fed6101182b9ce2cee77a",
+          "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)",
+          "url": "https://www.techmeme.com/260908/p19",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T13:45:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ff108f35",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "primary_url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "c41553f243a74189301251535c6cddb2d50d49c2",
+          "title": "We Must Return to the Office to Use AI in Person",
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T13:41:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_74187004",
+      "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)",
+      "url": "https://www.techmeme.com/260908/p17",
+      "primary_url": "https://www.techmeme.com/260908/p17",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ff4d085d11b62fb33b863ddaef026ce8b370ac59",
+          "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)",
+          "url": "https://www.techmeme.com/260908/p17",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T13:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_c055c1b5",
@@ -3267,6 +3488,28 @@
           "source": "github",
           "site_id": "newsnow",
           "published_at": "2026-09-08T11:39:02.691000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_11bf222f",
+      "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
+      "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket",
+      "primary_url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "85a7921ff276d1dd49860a1ce3b9dff9f082839b",
+          "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
+          "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T11:35:08Z"
         }
       ],
       "item_count": 1,
@@ -3961,15 +4204,15 @@
       "primary_url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "9ef2372e136e55e6b46c1c71d4401653ea5346c2",
+          "id": "ffca34b714fdd27fd4507f3389a83f9f24dce89b",
           "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
           "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T06:39:20Z"
         }
       ],
@@ -4049,15 +4292,15 @@
       "primary_url": "https://github.com/TauricResearch/TradingAgents",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
+          "id": "54b5bd38a441574d45c17fb445831e9bb02c3ab9",
           "title": "Multi-Agents LLM Financial Trading Framework",
           "url": "https://github.com/TauricResearch/TradingAgents",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-08T05:20:23Z"
         }
       ],
@@ -4093,15 +4336,15 @@
       "primary_url": "https://rohanadwankar.github.io/posts/platforms.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "83355fcde8b0d0cde2817074cea21864ccaa23a0",
+          "id": "ace41da1ba16a8cc29927454a818c608878b1770",
           "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
           "url": "https://rohanadwankar.github.io/posts/platforms.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-08T04:36:26Z"
         }
       ],
@@ -4115,15 +4358,15 @@
       "primary_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "43e87242aa5b034fc48318ab05ec995166e53001",
+          "id": "c6d51fb68aa5d4e7e79e190960ce47f45e192bf1",
           "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
           "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-08T04:06:20Z"
         }
       ],
@@ -4181,15 +4424,15 @@
       "primary_url": "https://danluu.com/agentic-testing",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "183684ed999478ce1ef46b5ba6426fd09f705fef",
+          "id": "fa6e2ce5ed6072becdcf5ea1af5d811f4d59f8fc",
           "title": "How well do agents use test/verification techniques?",
           "url": "https://danluu.com/agentic-testing",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T02:58:16Z"
         }
       ],
@@ -4203,15 +4446,15 @@
       "primary_url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "24cb9eeed3a8c18afdd22042019e13fb58c47375",
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
           "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
           "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-08T02:53:51Z"
         }
       ],
@@ -4511,15 +4754,15 @@
       "primary_url": "https://tiiny.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6eadff9cf9fd2fa6e1bc674d04969ed39fa75bca",
+          "id": "040d0328e6efedd67ba46649ee84d28875dfd94a",
           "title": "The smallest edge AI device for local LLMs",
           "url": "https://tiiny.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-07T21:09:12Z"
         }
       ],
@@ -5005,116 +5248,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-07T15:13:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e47d4335",
-      "title": "Jensen Huang once again declares that ‘AGI has arrived’ — but his GPT-6 celebration feels like he’s just trying to sell next-gen Nvidia GPUs",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/jensen-huang-once-again-declares-that-agi-has-arrived-but-his-gpt-6-celebration-feels-like-hes-just-trying-to-sell-next-gen-nvidia-gpus",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/jensen-huang-once-again-declares-that-agi-has-arrived-but-his-gpt-6-celebration-feels-like-hes-just-trying-to-sell-next-gen-nvidia-gpus",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "43510eaf262614d87f9bb624d3643f25c22d81d1",
-          "title": "Jensen Huang once again declares that ‘AGI has arrived’ — but his GPT-6 celebration feels like he’s just trying to sell next-gen Nvidia GPUs",
-          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/jensen-huang-once-again-declares-that-agi-has-arrived-but-his-gpt-6-celebration-feels-like-hes-just-trying-to-sell-next-gen-nvidia-gpus",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T14:56:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c62a8f3e",
-      "title": "作者告诉法庭，ChatGPT 是建立在隐藏的“大规模盗版”之上的",
-      "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court",
-      "primary_url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "2f1ac671495502e3c0fdad404d230ccb5c339846",
-          "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
-          "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T14:31:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b5bc2aaa",
-      "title": "OpenAI 正在研究如何在其代理失控时告诉人们",
-      "url": "https://mashable.com/tech/openai-framework-for-misalignment-incidents-of-rogue-agents",
-      "primary_url": "https://mashable.com/tech/openai-framework-for-misalignment-incidents-of-rogue-agents",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "68fe6fcb9588a380da3962d8ece902323e116ea9",
-          "title": "OpenAI is figuring out how to tell people when its agents go rogue",
-          "url": "https://mashable.com/tech/openai-framework-for-misalignment-incidents-of-rogue-agents",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T14:23:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_35a551db",
-      "title": "Shadow AI 已经进入您的公司。以下是如何控制它",
-      "url": "https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control",
-      "primary_url": "https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "f8b8dc6320b41d7504ead29d8ed13446e256e224",
-          "title": "Shadow AI is already inside your company. Here’s how to get control of it",
-          "url": "https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T14:22:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3248cd09",
-      "title": "'The ideal charging companion': Ugreen's quirky 5-star robot fast charger is a fun desk upgrade powering your laptop, phone and more — and it's got an Amazon price cut",
-      "url": "https://www.techradar.com/pro/the-ideal-charging-companion-ugreens-quirky-5-star-robot-fast-charger-is-a-fun-desk-upgrade-powering-your-laptop-phone-and-more-and-its-got-an-amazon-price-cut",
-      "primary_url": "https://www.techradar.com/pro/the-ideal-charging-companion-ugreens-quirky-5-star-robot-fast-charger-is-a-fun-desk-upgrade-powering-your-laptop-phone-and-more-and-its-got-an-amazon-price-cut",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "7fbfebf5f9d2c5266f68bca30691f0fb74070840",
-          "title": "'The ideal charging companion': Ugreen's quirky 5-star robot fast charger is a fun desk upgrade powering your laptop, phone and more — and it's got an Amazon price cut",
-          "url": "https://www.techradar.com/pro/the-ideal-charging-companion-ugreens-quirky-5-star-robot-fast-charger-is-a-fun-desk-upgrade-powering-your-laptop-phone-and-more-and-its-got-an-amazon-price-cut",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T14:14:50Z"
         }
       ],
       "item_count": 1,
