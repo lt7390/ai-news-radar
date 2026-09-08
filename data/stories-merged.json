@@ -1,58 +1,19 @@
 {
-  "generated_at": "2026-09-08T20:34:57.200672Z",
+  "generated_at": "2026-09-08T21:37:08.230627Z",
   "window_hours": 24,
-  "total_stories": 266,
+  "total_stories": 276,
   "stories": [
-    {
-      "story_id": "story_4b61789c",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "primary_url": "https://openai.com/index/navier-stokes-solution",
-      "source_count": 3,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "d151f0116d2050d37ec79754e51fcc92097f1e2e",
-          "title": "On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 10080
-    },
     {
       "story_id": "story_c8523869",
       "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Mistral AI：News（网页）",
         "mistral.ai",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Hacker News"
       ],
       "sources": [
         {
@@ -80,16 +41,87 @@
           "published_at": "2026-09-08T05:06:23Z"
         },
         {
-          "id": "1367ae4cdbebf1ec62380b1b4a287a3d2b731ea6",
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
           "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
           "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T05:06:23Z"
         }
       ],
       "item_count": 4,
+      "score": 10090
+    },
+    {
+      "story_id": "story_4b61789c",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "primary_url": "https://openai.com/index/navier-stokes-solution",
+      "source_count": 3,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
+          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T10:00:00Z"
+        },
+        {
+          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
+          "title": "关于纳维-斯托克斯千禧奖问题",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T17:37:53.153000Z"
+        },
+        {
+          "id": "03b189edf7004f0b61312f394120757efdbbc00a",
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T17:13:21Z"
+        }
+      ],
+      "item_count": 3,
       "score": 10080
+    },
+    {
+      "story_id": "story_c76ec6f9",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "e2475f9da4eb6104eda4fab36f0f5224436a47fc",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "7a82effee60b356f09e7d7a3fc2357981dc04d13",
+          "title": "ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T18:37:51Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
     },
     {
       "story_id": "story_c847825e",
@@ -136,22 +168,22 @@
       "score": 10020
     },
     {
-      "story_id": "story_fddf04f3",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "primary_url": "https://openai.com/index/1password",
+      "story_id": "story_6c888c96",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "c21c7aaca763f641ec6d60a0fd7ddbe50c08b210",
-          "title": "1Password increases engineering productivity 21% with Codex",
-          "url": "https://openai.com/index/1password",
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T00:00:00Z"
+          "published_at": "2026-09-08T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -184,10 +216,11 @@
       "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
       "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
       "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "TechCrunch：AI（RSS）",
-        "TechCrunch"
+        "TechCrunch",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -199,16 +232,24 @@
           "published_at": "2026-09-08T17:32:15Z"
         },
         {
-          "id": "c4ec636b0782c6208a649b36913a7b209ac65cf3",
+          "id": "1667ef0ae4ab0b1a4c87a261d09a6a1d8326e276",
           "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
           "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "e89293ec6919f4d3fe3fc093346e3b4871e4a0f8",
+          "title": "OpenAI fought dirty on career-making math problem",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-08T19:47:13Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 3,
+      "score": 9980
     },
     {
       "story_id": "story_2e07e28b",
@@ -989,6 +1030,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_e77e5005",
+      "title": "Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉",
+      "url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity",
+      "primary_url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity",
+      "source_count": 1,
+      "source_names": [
+        "Tomer Tunguz 博客（VC 分析）"
+      ],
+      "sources": [
+        {
+          "id": "8dc5e4e91b44d337d1efd8ce1bfc4e9ea09f7dce",
+          "title": "Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉",
+          "url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity",
+          "source": "Tomer Tunguz 博客（VC 分析）",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_3734caa3",
       "title": "1天通关游戏，1周造城：GPT-6 Astra 这7个玩法太上头",
       "url": "https://waytoagi.feishu.cn/wiki/Wd2Dwp5lnizVkrkTQAxchCgmnV7?from=from_copylink",
@@ -1253,31 +1316,31 @@
       "score": 9820
     },
     {
-      "story_id": "story_c76ec6f9",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "story_id": "story_217198a7",
+      "title": "英国芯片巨头老板称人工智能将在我们有生之年治愈癌症",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "Hacker News (黑客新闻)"
+        "BBC World",
+        "BBC News"
       ],
       "sources": [
         {
-          "id": "c82dfde1e73a8ca255ea6beb0bd168965e50f690",
-          "title": "Introducing ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI News",
+          "id": "e47d2890674483f26b69be4fd598b33d0a19dde9",
+          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
           "site_id": "opmlrss",
-          "published_at": "2026-09-08T11:30:00Z"
+          "published_at": "2026-09-08T09:17:48Z"
         },
         {
-          "id": "3149f0d1558a1154059303ac1b1f829775feaa27",
-          "title": "ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-08T18:37:51Z"
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
         }
       ],
       "item_count": 2,
@@ -1408,6 +1471,102 @@
       "score": 9770
     },
     {
+      "story_id": "story_04139f2b",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+      "primary_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "cc785e439bb4270cfdef050360cde195a53ab1c9",
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T21:04:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_adeeaa46",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "8a968ee4c812e92fc05da43d003d4907dc55a49e",
+          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T20:53:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_41a7f206",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "2517639c7ba11c8092b6d0feff27324828a62a67",
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T20:16:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1d38a49c",
+      "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
+      "primary_url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "9509d9142d71fb26e334fe3b964d2c97cb83493c",
+          "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+          "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T20:12:51Z"
+        },
+        {
+          "id": "d5bf8eb19704bbf3ca8cdeb8cbe628190be86855",
+          "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+          "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T20:12:51Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
       "story_id": "story_8b1fcccd",
       "title": "Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean",
       "url": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
@@ -1452,22 +1611,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_f903c700",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "story_id": "story_6a54c84b",
+      "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxCWTR0NFhUWndfdFRSLWVkNjVkTDV6MTlaQ2U0OFpZaUJxbnJyVWUyTmQyLVdCLTlrUkJpNnBjaXotdWlJWWlhbFlUTExyS3VVNThrZVpPNU54bm5YR085YkEtN3Yzajh2am9nd1dGcXh3RkpSQm5KS3N4RlV5azIwenM?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxCWTR0NFhUWndfdFRSLWVkNjVkTDV6MTlaQ2U0OFpZaUJxbnJyVWUyTmQyLVdCLTlrUkJpNnBjaXotdWlJWWlhbFlUTExyS3VVNThrZVpPNU54bm5YR085YkEtN3Yzajh2am9nd1dGcXh3RkpSQm5KS3N4RlV5azIwenM?oc=5",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "fd52634e2aaa2f572fb4e7e994139a8119566b11",
-          "title": "Meta bets on AI agent Muse to catch up in AI race",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-          "source": "The Verge",
+          "id": "4b3bacf35cfa3f3208c04a65bd02f366a63ec370",
+          "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy - AP News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxCWTR0NFhUWndfdFRSLWVkNjVkTDV6MTlaQ2U0OFpZaUJxbnJyVWUyTmQyLVdCLTlrUkJpNnBjaXotdWlJWWlhbFlUTExyS3VVNThrZVpPNU54bm5YR085YkEtN3Yzajh2am9nd1dGcXh3RkpSQm5KS3N4RlV5azIwenM?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-08T19:00:00Z"
+          "published_at": "2026-09-08T19:05:00Z"
         }
       ],
       "item_count": 1,
@@ -1504,6 +1663,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_48232c1c",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "b8a0ad296b95f2f030d1e4d6d7071ea4be657b25",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_fef8122d",
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics",
@@ -1526,6 +1707,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_627f5fd7",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+      "primary_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2ac5b8c7e723debb42023ef6c9f7d3f2cfe42e7b",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T16:20:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_bb241d61",
       "title": "UK air traffic control glitch prompts nearly 300 cancellations, monitor says - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalgtcVdScXdZR1gySE55eG1fd2dYRHNacEVNN01FeVVWOS0tOEJnYkYtajR0S1luMnpRVG56Y0Y0aXlZRHJ4M3FQU3E5LVVtdGRaZVVXSUlRX09uOW1SUWM3bVQ0cUx3eGZ4MWZxdS1NdUlzYVZieGZpU0JMZ3VxSjEyWDZ6UGxvVS1JVXdqSlVmeGZrRU1jekNPSVN4Y2df?oc=5",
@@ -1542,6 +1745,50 @@
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-09-08T16:04:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_cd75cd6f",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "primary_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4789b09e0523ba9ae86ee61eb6061e153909365d",
+          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T15:04:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6f797b86",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "primary_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "250068409d711c01060022882664e07069550a56",
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T14:17:48Z"
         }
       ],
       "item_count": 1,
@@ -1650,28 +1897,6 @@
           "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
           "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
           "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-08T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6c888c96",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "primary_url": "https://openai.com/index/the-work-now-within-reach",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "663e3972d10e9976dc9d439ddc4bb6fef088ecc7",
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-09-08T13:00:00Z"
         }
@@ -1966,28 +2191,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2be9dd3e",
-      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
-      "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
-      "primary_url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "ba4bad635a7137b0b2e2af8faeeeeb55873f6f3f",
-          "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
-          "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-08T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_725f30a0",
       "title": "从AI PC到个人AI，联想敲定新赛道｜IFA 2026",
       "url": "https://www.tmtpost.com/8132045.html",
@@ -2073,36 +2276,6 @@
         }
       ],
       "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_217198a7",
-      "title": "英国最大科技公司老板表示，人工智能癌症治疗因芯片短缺而放缓",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "e47d2890674483f26b69be4fd598b33d0a19dde9",
-          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-08T09:17:48Z"
-        },
-        {
-          "id": "0571ce5c5bc79f92919df311c1b123b48106c5c2",
-          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "item_count": 2,
       "score": 9720
     },
     {
@@ -3126,6 +3299,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_fddf04f3",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "primary_url": "https://openai.com/index/1password",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "f9e378bf1dee91101df64771a90ce56e6eea2391",
+          "title": "1Password increases engineering productivity 21% with Codex",
+          "url": "https://openai.com/index/1password",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_fe460c0d",
       "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
       "url": "https://www.nature.com/articles/d41586-026-02842-5",
@@ -3324,26 +3519,35 @@
       "score": 9720
     },
     {
-      "story_id": "story_3c8be824",
-      "title": "波兰机器人抗议人工智能监管问题",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-      "source_count": 1,
+      "story_id": "story_07ff388c",
+      "title": "Muse：Meta的个人AI助手，功能与特性",
+      "url": "https://ai.meta.com/muse",
+      "primary_url": "https://ai.meta.com/muse",
+      "source_count": 2,
       "source_names": [
-        "Al Jazeera English"
+        "ai.meta.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "2e35f4bc05727273cca05d33c423b4c62112b4a7",
-          "title": "Robots protest in Poland over AI regulation concerns",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-07T20:59:12Z"
+          "id": "bcd13837cc6367edd81b0c8abd778ca5df24d554",
+          "title": "Muse：Meta的个人AI助手，功能与特性",
+          "url": "https://ai.meta.com/muse",
+          "source": "ai.meta.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T20:33:44.476000Z"
+        },
+        {
+          "id": "343823d72c329f5a6d6b74d21ed2c371283602a7",
+          "title": "Muse: Meta's personal AI agent, features and capabilities",
+          "url": "https://ai.meta.com/muse",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-08T19:25:00Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_ff108f35",
@@ -3353,7 +3557,7 @@
       "source_count": 2,
       "source_names": [
         "www.mcsweeneys.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3365,11 +3569,11 @@
           "published_at": "2026-09-08T15:14:46.168000Z"
         },
         {
-          "id": "58be3c16fd95555027144bc1fc750dfb78571b2a",
+          "id": "c41553f243a74189301251535c6cddb2d50d49c2",
           "title": "We Must Return to the Office to Use AI in Person",
           "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-08T13:41:25Z"
         }
       ],
@@ -3384,7 +3588,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3396,11 +3600,11 @@
           "published_at": "2026-09-08T14:59:10.036000Z"
         },
         {
-          "id": "54b5bd38a441574d45c17fb445831e9bb02c3ab9",
+          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
           "title": "Multi-Agents LLM Financial Trading Framework",
           "url": "https://github.com/TauricResearch/TradingAgents",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T05:20:23Z"
         }
       ],
@@ -3415,7 +3619,7 @@
       "source_count": 2,
       "source_names": [
         "manualdousuario.net",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3427,11 +3631,11 @@
           "published_at": "2026-09-08T14:42:54.403000Z"
         },
         {
-          "id": "c8e4f9110067bc2e295c123021faadc076435bc7",
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
           "title": "LibreOffice breaks download records after declaring it has no AI features",
           "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T14:05:57Z"
         }
       ],
@@ -3477,7 +3681,7 @@
       "source_count": 2,
       "source_names": [
         "mcpherrin.ca",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3489,11 +3693,11 @@
           "published_at": "2026-09-08T02:51:51.808000Z"
         },
         {
-          "id": "e5cbf8b523d5e9ad616004ddd2f829654fc66f90",
+          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
           "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
           "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T01:16:59Z"
         }
       ],
@@ -3501,22 +3705,88 @@
       "score": 9570
     },
     {
-      "story_id": "story_07ff388c",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "url": "https://ai.meta.com/muse",
-      "primary_url": "https://ai.meta.com/muse",
+      "story_id": "story_851b4565",
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "primary_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "343823d72c329f5a6d6b74d21ed2c371283602a7",
-          "title": "Muse: Meta's personal AI agent, features and capabilities",
-          "url": "https://ai.meta.com/muse",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-08T19:25:00Z"
+          "id": "6f7c073e59a1288ab0b493153292ced84469c545",
+          "title": "Mercury 2.5",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T20:14:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ff423776",
+      "title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters.",
+      "url": "https://thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+      "primary_url": "https://thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "8a6c719ee1f39766803358bc835f05e33f98bc54",
+          "title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters.",
+          "url": "https://thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T20:03:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_781dd8da",
+      "title": "South Korea, US agree on $22 billion deal for 6.3 GW Texas gas power plant — Encinal facility to feed AI data centers under Washington and Seoul's $350 billion pact",
+      "url": "https://www.techradar.com/pro/south-korea-us-agree-on-usd22-billion-deal-for-6-3-gw-texas-gas-power-plant-encinal-facility-to-feed-ai-data-centers-under-washington-and-seouls-usd350-billion-pact",
+      "primary_url": "https://www.techradar.com/pro/south-korea-us-agree-on-usd22-billion-deal-for-6-3-gw-texas-gas-power-plant-encinal-facility-to-feed-ai-data-centers-under-washington-and-seouls-usd350-billion-pact",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "79bc73a5387c7e58172b99de474338a866edb285",
+          "title": "South Korea, US agree on $22 billion deal for 6.3 GW Texas gas power plant — Encinal facility to feed AI data centers under Washington and Seoul's $350 billion pact",
+          "url": "https://www.techradar.com/pro/south-korea-us-agree-on-usd22-billion-deal-for-6-3-gw-texas-gas-power-plant-encinal-facility-to-feed-ai-data-centers-under-washington-and-seouls-usd350-billion-pact",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_993c9e3c",
+      "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
+      "url": "https://www.techmeme.com/260908/p39",
+      "primary_url": "https://www.techmeme.com/260908/p39",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "778d933c0b351ba222d1c9cc531f3f38c472d2c6",
+          "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
+          "url": "https://www.techmeme.com/260908/p39",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T19:55:02Z"
         }
       ],
       "item_count": 1,
@@ -3627,6 +3897,28 @@
           "source": "New York Times",
           "site_id": "techurls",
           "published_at": "2026-09-08T19:00:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f903c700",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "eaecf0754293c0d3c5245e81b60f24e48b4ad4d6",
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T19:00:00Z"
         }
       ],
       "item_count": 1,
@@ -4079,16 +4371,38 @@
       "primary_url": "https://ishamf.dev/p/llm-attention-visualizer",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "c7d72dddbf69a6deac243f859d69452404cf09fb",
+          "id": "59a1d15bc5389e1137446ab53106d9f2b67b1882",
           "title": "Show HN: LLM Attention Visualization",
           "url": "https://ishamf.dev/p/llm-attention-visualizer",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T16:59:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ea02da8b",
+      "title": "Controversy over OpenAI's Maths Breakthrough",
+      "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy",
+      "primary_url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "7ec9bf3ad39afbf18758c12509cf3b76e4d10c61",
+          "title": "Controversy over OpenAI's Maths Breakthrough",
+          "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T16:57:23Z"
         }
       ],
       "item_count": 1,
@@ -4111,28 +4425,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-08T16:54:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_627f5fd7",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
-      "primary_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b1ff3eee371e04218e504c57caca8a6a4e2f4622",
-          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T16:20:31Z"
         }
       ],
       "item_count": 1,
@@ -4205,43 +4497,21 @@
       "score": 7
     },
     {
-      "story_id": "story_cd75cd6f",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "primary_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b47dc4c57311944af02044bced76007d81d6658e",
-          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T15:04:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_93f84d3b",
       "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
       "url": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html",
       "primary_url": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "b96e9506339cc6b3cfe55de6e8da99d76ba5b2f6",
+          "id": "7cf18e9d0aa672f1ef9b166fc4b492beeccb80fe",
           "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
           "url": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-08T15:02:35Z"
         }
       ],
@@ -4397,28 +4667,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-08T14:33:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f797b86",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
-      "primary_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "8c91fd5b219a1c4e862f2d934135f71807378ae8",
-          "title": "Mistral raises €3B as sovereign AI becomes big business",
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T14:17:48Z"
         }
       ],
       "item_count": 1,
@@ -5041,6 +5289,28 @@
       "score": 7
     },
     {
+      "story_id": "story_2be9dd3e",
+      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+      "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
+      "primary_url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "1c6923f4b465a189b3ad2aa8c1e1050f6d1c2d4a",
+          "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+          "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a0b8a38a",
       "title": "Merry AI",
       "url": "https://www.producthunt.com/products/merry-ai",
@@ -5443,15 +5713,15 @@
       "primary_url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "9ef2372e136e55e6b46c1c71d4401653ea5346c2",
+          "id": "ffca34b714fdd27fd4507f3389a83f9f24dce89b",
           "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
           "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-08T06:39:20Z"
         }
       ],
@@ -5575,15 +5845,15 @@
       "primary_url": "https://rohanadwankar.github.io/posts/platforms.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "4c9ff8ff99ec0b59ba79bdfe364209f66754bbc4",
+          "id": "ace41da1ba16a8cc29927454a818c608878b1770",
           "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
           "url": "https://rohanadwankar.github.io/posts/platforms.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-08T04:36:26Z"
         }
       ],
@@ -5597,15 +5867,15 @@
       "primary_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "c6d51fb68aa5d4e7e79e190960ce47f45e192bf1",
+          "id": "950574e052571fd14e7ce26a173dbddc82fbdcf7",
           "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
           "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-08T04:06:20Z"
         }
       ],
@@ -5663,15 +5933,15 @@
       "primary_url": "https://danluu.com/agentic-testing",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "183684ed999478ce1ef46b5ba6426fd09f705fef",
+          "id": "91d7a5b7c49e3c98802dcdb57b9699139eca5f0d",
           "title": "How well do agents use test/verification techniques?",
           "url": "https://danluu.com/agentic-testing",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-08T02:58:16Z"
         }
       ],
@@ -5685,15 +5955,15 @@
       "primary_url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "id": "24cb9eeed3a8c18afdd22042019e13fb58c47375",
           "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
           "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-08T02:53:51Z"
         }
       ],
@@ -5839,15 +6109,15 @@
       "primary_url": "https://github.com/aispace-sh/aispace-client",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "e3514a1c8ae04751ebcca7a95acba379c7f5f311",
+          "id": "e1cb90bb4a4b5817b711f440ed8971799f515409",
           "title": "Secure temporary file sharing for AI agents and humans",
           "url": "https://github.com/aispace-sh/aispace-client",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-07T23:59:58Z"
         }
       ],
@@ -5993,38 +6263,16 @@
       "primary_url": "https://tiiny.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6eadff9cf9fd2fa6e1bc674d04969ed39fa75bca",
+          "id": "040d0328e6efedd67ba46649ee84d28875dfd94a",
           "title": "The smallest edge AI device for local LLMs",
           "url": "https://tiiny.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-07T21:09:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_867da6df",
-      "title": "一些老师没有与人工智能作斗争，而是将其融入到课程中",
-      "url": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons",
-      "primary_url": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "5d126f0d655f9e002b8d1b78c99500eeac1775c0",
-          "title": "Instead of Fighting AI, Some Teachers Work It Into Their Lessons",
-          "url": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T20:34:00Z"
         }
       ],
       "item_count": 1,
