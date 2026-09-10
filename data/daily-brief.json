@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-10T12:45:34.524414Z",
+  "generated_at": "2026-09-10T13:05:43.678765Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 17,
   "items": [
     {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "title_zh": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-10T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "title_zh": null,
+      "title_zh": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face Blog",
       "source_tier_rank": 0,
@@ -15,17 +26,6 @@
       "ai_score": 0.95
     },
     {
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "title_zh": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-10T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
       "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
       "url": "https://mistral.ai/news/legacy-code-modernization",
@@ -33,6 +33,17 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-09T18:59:11.761000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "title_zh": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "source": "The Decoder：AI News（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-10T12:40:51Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -103,17 +114,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "source": "MarkTechPost（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-10T07:31:01Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "Finally got cloud sessions working *fast* in OpenClaw. Remote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p",
       "title_zh": null,
       "url": "https://x.com/steipete/status/2097935551735423464",
@@ -137,23 +137,12 @@
     },
     {
       "title": "‘Call My Agent’ returns: George Clooney, Eva Longoria guest star in French film spinoff",
-      "title_zh": null,
+      "title_zh": "《呼叫我的经纪人》回归：乔治·克鲁尼、伊娃·朗格利亚客串法国电影衍生剧",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260909-call-my-agent-returns-george-clooney-eva-longoria-guest-star-in-french-film-spinoff",
       "source": "France24 English",
       "source_tier_rank": 3,
       "source_tier_label": "RSS/OPML",
       "published_at": "2026-09-09T14:29:06Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "实测神秘模型Omen Alpha：我用它25分钟速搓“牛来”版YouTube",
-      "title_zh": "实测神秘模型Omen Alpha：我用它25分钟速搓“牛来”版YouTube",
-      "url": "https://www.huxiu.com/article/4889915.html?f=rss",
-      "source": "虎嗅",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-09-09T12:29:27Z",
       "ai_is_related": false,
       "ai_score": 0.47
     },

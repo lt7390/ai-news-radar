@@ -1,11 +1,33 @@
 {
-  "generated_at": "2026-09-10T12:45:34.526691Z",
+  "generated_at": "2026-09-10T13:05:43.681017Z",
   "window_hours": 24,
-  "total_stories": 259,
+  "total_stories": 252,
   "stories": [
     {
+      "story_id": "story_54954960",
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_0e4c7024",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source_count": 1,
@@ -20,28 +42,6 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-09-09T15:36:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_54954960",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
         }
       ],
       "item_count": 1,
@@ -78,7 +78,7 @@
       "source_names": [
         "Hacker News：AI 热帖",
         "magazine.sebastianraschka.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -98,11 +98,11 @@
           "published_at": "2026-09-09T17:08:36.065000Z"
         },
         {
-          "id": "fc984bb67d95b41f15bab23b8b6e9c3cca4f3ef6",
+          "id": "c1e1284961f9ccf0accbb63e80d38e406536fe64",
           "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
           "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-09T14:37:47Z"
         }
       ],
@@ -118,7 +118,7 @@
       "source_names": [
         "Anthropic：The Institute（旗舰研究长文 · 网页）",
         "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -138,16 +138,38 @@
           "published_at": "2026-09-09T16:05:40.926000Z"
         },
         {
-          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
+          "id": "ebe1e557d46290b460107ae51674912e93e0570c",
           "title": "What will our economic future look like?",
           "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-09T13:38:23Z"
         }
       ],
       "item_count": 3,
       "score": 9980
+    },
+    {
+      "story_id": "story_76a56e9c",
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "primary_url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "f82edb2c6b58716870b18a16535bf8e316799e81",
+          "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+          "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+          "source": "The Decoder：AI News（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:40:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_1ccdfc42",
@@ -1061,7 +1083,7 @@
     },
     {
       "story_id": "story_39f2047e",
-      "title": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK",
+      "title": "工作和远程 Codex 线程何时会出现在移动设备上？似乎仅适用于聊天线程 https://t.co/SjpzARwZfK",
       "url": "https://x.com/petergyang/status/2097763574886375832",
       "primary_url": "https://x.com/petergyang/status/2097763574886375832",
       "source_count": 1,
@@ -1215,7 +1237,7 @@
     },
     {
       "story_id": "story_3aead6fb",
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
       "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
       "source_count": 2,
@@ -1239,6 +1261,37 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-10T11:18:58Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_cb7156de",
+      "title": "“人工智能可能杀死所有人类”：人工智能研究员退出 Anthropic",
+      "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
+      "primary_url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
+      "source_count": 2,
+      "source_names": [
+        "France24 English",
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "2e03144164245e8ac70e7664237eda0103ea7bb5",
+          "title": "'AI could kill all humans': AI researcher quits Anthropic",
+          "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T10:28:39Z"
+        },
+        {
+          "id": "4949f50672d9d588a588e1649b318677bffb7f54",
+          "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+          "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-09T16:59:40Z"
         }
       ],
       "item_count": 2,
@@ -1284,8 +1337,74 @@
       "score": 9770
     },
     {
+      "story_id": "story_9626932f",
+      "title": "在OpenAI宣布攻克数学难题后，谁知道背后研究者的数据和署名？",
+      "url": "https://www.huxiu.com/article/4890203.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890203.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "91b1418cb9cc3f2ef63f02a4b08a4e9ac261664a",
+          "title": "在OpenAI宣布攻克数学难题后，谁知道背后研究者的数据和署名？",
+          "url": "https://www.huxiu.com/article/4890203.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T11:48:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6df654ce",
+      "title": "联合国贸发会议：AI可能拉大国家间数字服务贸易水平差距",
+      "url": "https://m.thepaper.cn/detail/34045734",
+      "primary_url": "https://m.thepaper.cn/detail/34045734",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "079c719fcec2c97d98ad64ad7031f306418092bc",
+          "title": "联合国贸发会议：AI可能拉大国家间数字服务贸易水平差距",
+          "url": "https://m.thepaper.cn/detail/34045734",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T11:44:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2a3342af",
+      "title": "外滩大会上的具身智能讨论：大规模数据采集还有必要吗？",
+      "url": "https://www.huxiu.com/article/4890201.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890201.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "04114a75076fcb9cfe3489adb5bc19629f074dcd",
+          "title": "外滩大会上的具身智能讨论：大规模数据采集还有必要吗？",
+          "url": "https://www.huxiu.com/article/4890201.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T11:40:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_1566fc04",
-      "title": "South Korea to boost artificial intelligence ties with Africa",
+      "title": "韩国将加强与非洲的人工智能联系",
       "url": "https://www.france24.com/en/video/20260910-south-korea-to-boost-artificial-intelligence-ties-with-africa",
       "primary_url": "https://www.france24.com/en/video/20260910-south-korea-to-boost-artificial-intelligence-ties-with-africa",
       "source_count": 1,
@@ -1300,6 +1419,28 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-10T11:22:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_17db46da",
+      "title": "人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济",
+      "url": "https://m.thepaper.cn/detail/34045224",
+      "primary_url": "https://m.thepaper.cn/detail/34045224",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "8bb3882313da2ac0f8a290682a3ac84cdaa26656",
+          "title": "人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济",
+          "url": "https://m.thepaper.cn/detail/34045224",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T11:14:52Z"
         }
       ],
       "item_count": 1,
@@ -1417,7 +1558,7 @@
     },
     {
       "story_id": "story_c1fc8d34",
-      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
+      "title": "“Killmonger Locs”在电子游戏中随处可见。这位艺术家已经厌倦了",
       "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it",
       "primary_url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it",
       "source_count": 1,
@@ -1461,7 +1602,7 @@
     },
     {
       "story_id": "story_8d9ab340",
-      "title": "Everything New You Can Do With Siri AI",
+      "title": "Siri AI 可以做的一切新事",
       "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai",
       "primary_url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai",
       "source_count": 1,
@@ -1498,28 +1639,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-10T10:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cb7156de",
-      "title": "'AI could kill all humans': AI researcher quits Anthropic",
-      "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
-      "primary_url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "2e03144164245e8ac70e7664237eda0103ea7bb5",
-          "title": "'AI could kill all humans': AI researcher quits Anthropic",
-          "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T10:28:39Z"
         }
       ],
       "item_count": 1,
@@ -1608,28 +1727,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-10T10:05:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_726e839f",
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
-      "primary_url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "115c9918907510e8ce10c89f3128d43fb3108a46",
-          "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-          "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1732,28 +1829,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_cb8df559",
-      "title": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
-      "url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
-      "primary_url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "0e8ea3acc858d858427b745b82cd0f6d3ff96fab",
-          "title": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
-          "url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T09:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_24ef0e16",
       "title": "当AI教育开始帮孩子提分，我们该高兴吗？",
       "url": "https://www.huxiu.com/article/4890150.html?f=rss",
@@ -1843,7 +1918,7 @@
     },
     {
       "story_id": "story_b08ed863",
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "title": "沃尔沃 XC40 PHEV 以全新外观、更好的传感器和 Gemini AI 回归",
       "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
       "primary_url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
       "source_count": 1,
@@ -1858,9 +1933,17 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-10T07:00:00Z"
+        },
+        {
+          "id": "76dcb8a798e177728800373d97427e32c8227401",
+          "title": "Volvo XC40 has a new look, better sensors, and Gemini AI",
+          "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T07:00:00Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1931,7 +2014,7 @@
     },
     {
       "story_id": "story_45d02953",
-      "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
+      "title": "Anthropic 披露第四起人工智能黑客事件，研究人员因安全问题辞职",
       "url": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss",
       "primary_url": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss",
       "source_count": 1,
@@ -2194,30 +2277,8 @@
       "score": 9720
     },
     {
-      "story_id": "story_a16c6e09",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "primary_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "ee4c55c9c7db2aa95d4e5466c9ea72444ddb37c3",
-          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T00:00:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_30d6f05b",
-      "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
+      "title": "AI 研究人员估算 150 万美元的“学术税”",
       "url": "https://www.nature.com/articles/d41586-026-02026-1",
       "primary_url": "https://www.nature.com/articles/d41586-026-02026-1",
       "source_count": 1,
@@ -2239,7 +2300,7 @@
     },
     {
       "story_id": "story_0d0210b4",
-      "title": "Why some experts increasingly fear AI will take over",
+      "title": "为什么一些专家越来越担心人工智能会取代",
       "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "primary_url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "source_count": 1,
@@ -2260,30 +2321,8 @@
       "score": 9720
     },
     {
-      "story_id": "story_610b363d",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
-      "primary_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "85f987c2aad83841ae3875a953fce149e70a1881",
-          "title": "OpenAI adds a prominent AI doomer to its board of directors",
-          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T22:25:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_30a506c8",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "title": "刚刚退出 Anthropic 的人工智能研究员表示，现在是“人类的关键时刻”",
       "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity",
       "primary_url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity",
       "source_count": 1,
@@ -2305,7 +2344,7 @@
     },
     {
       "story_id": "story_93146d7d",
-      "title": "Anthropic researcher resigns with warning about the dangers of AI development - AP News",
+      "title": "人类研究人员辞职，警告人工智能发展的危险 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
       "source_count": 1,
@@ -2327,7 +2366,7 @@
     },
     {
       "story_id": "story_355f3717",
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "title": "旧金山命令 Meta 停止“允许”人工智能虐待儿童广告",
       "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads",
       "primary_url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads",
       "source_count": 1,
@@ -2348,8 +2387,52 @@
       "score": 9720
     },
     {
+      "story_id": "story_eeff4985",
+      "title": "六家中国人工智能公司被指控大肆抄袭美国前沿模型",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "e1fa2a4547eeb54946c13ca0f4ab18c2a41115bc",
+          "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+          "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-09T20:06:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fbe332b8",
+      "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+      "primary_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3676a3f9e8185827b3b775e03f687cbb21498509",
+          "title": "The hinge for Apple’s new foldable phone was built with AI",
+          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-09T19:21:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_00de53e3",
-      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+      "title": "英国立法者对人工智能的混乱之夏感到惊慌",
       "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos",
       "primary_url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos",
       "source_count": 1,
@@ -2371,7 +2454,7 @@
     },
     {
       "story_id": "story_bb8a1681",
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "title": "我让人工智能代理破解了我所有的小工具——我会再做一次",
       "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network",
       "primary_url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network",
       "source_count": 1,
@@ -2392,8 +2475,30 @@
       "score": 9720
     },
     {
+      "story_id": "story_18f173ad",
+      "title": "Apple 推出配备 AI 升级的 Watch Series 12 和 Watch Ultra 4，可帮助您回顾一天的生活",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+      "primary_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1aac8f6b75de4cc71ba01a509e4448fba84f9e66",
+          "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+          "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-09T18:08:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_230d4895",
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "title": "Apple 有一种新方法可以证明你的 iPhone 照片不是 AI 处理的",
       "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
       "primary_url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
       "source_count": 1,
@@ -2423,7 +2528,7 @@
     },
     {
       "story_id": "story_d4c361bf",
-      "title": "iOS 27 launches on September 14th with Siri AI",
+      "title": "iOS 27 将于 9 月 14 日发布，搭载 Siri AI",
       "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
       "primary_url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
       "source_count": 1,
@@ -2445,7 +2550,7 @@
     },
     {
       "story_id": "story_20be4e14",
-      "title": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
+      "title": "Apple Watch Series 12 配备始终在线的 Siri，可让 AI 回顾您的一天",
       "url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
       "primary_url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
       "source_count": 1,
@@ -2467,7 +2572,7 @@
     },
     {
       "story_id": "story_b9df75c9",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "title": "苹果首席执行官 John Ternus 表示，最好的人工智能设备仍然是 iPhone",
       "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
       "primary_url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
       "source_count": 1,
@@ -2489,7 +2594,7 @@
     },
     {
       "story_id": "story_6004f692",
-      "title": "Microsoft has new AI privacy rules for schools",
+      "title": "微软为学校制定新的人工智能隐私规则",
       "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
       "primary_url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
       "source_count": 1,
@@ -2511,7 +2616,7 @@
     },
     {
       "story_id": "story_bb894e92",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "title": "Paul Christiano 加入 OpenAI 基金会董事会",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "source_count": 1,
@@ -2526,28 +2631,6 @@
           "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-09-09T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cce24d2a",
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
-      "primary_url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "813d43b0e5eadb03f68977f18b81e474362df99e",
-          "title": "Google's AI genome system evaluates every possible one-base change",
-          "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T16:34:18Z"
         }
       ],
       "item_count": 1,
@@ -2620,30 +2703,8 @@
       "score": 9720
     },
     {
-      "story_id": "story_12c5bc18",
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
-      "primary_url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1ff3232596c98b16cf232976d179d62f71b035fd",
-          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T14:51:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_540327a9",
-      "title": "‘Call My Agent’ returns: George Clooney, Eva Longoria guest star in French film spinoff",
+      "title": "《呼叫我的经纪人》回归：乔治·克鲁尼、伊娃·朗格利亚客串法国电影衍生剧",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260909-call-my-agent-returns-george-clooney-eva-longoria-guest-star-in-french-film-spinoff",
       "primary_url": "https://www.france24.com/en/tv-shows/arts24/20260909-call-my-agent-returns-george-clooney-eva-longoria-guest-star-in-french-film-spinoff",
       "source_count": 1,
@@ -2775,7 +2836,7 @@
     },
     {
       "story_id": "story_85b7c242",
-      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+      "title": "一个新的Anthropic模型试图测试人工智能如何影响美国经济",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
       "primary_url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
       "source_count": 1,
@@ -2840,206 +2901,8 @@
       "score": 9720
     },
     {
-      "story_id": "story_4c31ccfb",
-      "title": "Amazon Prime Video 的全新 AI 技术可将嘴唇与配音音频相匹配",
-      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "primary_url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "e55c6b0ba29ca172b1c2c158e69ec6704847d510",
-          "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-          "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6f97424c",
-      "title": "Instacart 推出人工智能杂货购物助手 Clementine",
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
-      "primary_url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "aea484dcec773c42adb7f36c7e0b8d872d5e7fdf",
-          "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-          "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e50720e5",
-      "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
-      "url": "https://openai.com/index/ai-policy-window",
-      "primary_url": "https://openai.com/index/ai-policy-window",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "929f381b1f245c184f548eb55a12acec6a15350e",
-          "title": "The AI policy window is open. We need to act.",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_dbd2abe0",
-      "title": "万字长文 | FDE的前世今生，AI越强，企业为什么越需要人去一线",
-      "url": "https://www.huxiu.com/article/4889923.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4889923.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "927de6c8bba97df7818edadad470582b428b40db",
-          "title": "万字长文 | FDE的前世今生，AI越强，企业为什么越需要人去一线",
-          "url": "https://www.huxiu.com/article/4889923.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:53:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_738f7b52",
-      "title": "人工智能研究员退出 Anthropic 称人工智能竞赛“可能会杀死我们所有人”",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "d06b72315ec656786ee4da2de5861fdfe756314b",
-          "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:45:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_79c38f17",
-      "title": "每天5个亿砸向具身智能，快递小哥的“钢铁工友”来了？",
-      "url": "https://www.huxiu.com/article/4889917.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4889917.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "e4474d9db503b696c090ee11eecd54b534341332",
-          "title": "每天5个亿砸向具身智能，快递小哥的“钢铁工友”来了？",
-          "url": "https://www.huxiu.com/article/4889917.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:36:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ad95c91f",
-      "title": "实测神秘模型Omen Alpha：我用它25分钟速搓“牛来”版YouTube",
-      "url": "https://www.huxiu.com/article/4889915.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4889915.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "6be5cefc831b0c48d57a21d220cd97952b4aae3f",
-          "title": "实测神秘模型Omen Alpha：我用它25分钟速搓“牛来”版YouTube",
-          "url": "https://www.huxiu.com/article/4889915.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d396dcdb",
-      "title": "当AI让悬置了数十年的数学猜想突破时，陶哲轩在想什么？",
-      "url": "https://www.huxiu.com/article/4889911.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4889911.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "34925dd064a40b27490463df6d0156ae229bcb4f",
-          "title": "当AI让悬置了数十年的数学猜想突破时，陶哲轩在想什么？",
-          "url": "https://www.huxiu.com/article/4889911.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:20:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_aebbd159",
-      "title": "公共安全科技装备展聚焦“反诈力量”：AI识骗与智能分析",
-      "url": "https://m.thepaper.cn/detail/34038853",
-      "primary_url": "https://m.thepaper.cn/detail/34038853",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "a7e3b1bca7f9f28155a4db47650f3b78289d7a53",
-          "title": "公共安全科技装备展聚焦“反诈力量”：AI识骗与智能分析",
-          "url": "https://m.thepaper.cn/detail/34038853",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T12:14:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_7bdcd3f1",
-      "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+      "title": "显示 HN：Type.com – 适用于非技术用例的云端 Codex 和 Claude Code",
       "url": "https://news.ycombinator.com/item?id=49626148",
       "primary_url": "https://news.ycombinator.com/item?id=49626148",
       "source_count": 3,
@@ -3124,7 +2987,7 @@
       "source_count": 2,
       "source_names": [
         "twitter.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3136,11 +2999,11 @@
           "published_at": "2026-09-10T06:51:55.810000Z"
         },
         {
-          "id": "8c7f453c5916c19ab3c60a7cae0c2a7d0152f2e2",
+          "id": "d343b229fa29f61b82add0dc1d8add90fb10d0f9",
           "title": "OpenAI might have stolen another major proof",
           "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T04:19:48Z"
         }
       ],
@@ -3149,21 +3012,21 @@
     },
     {
       "story_id": "story_126c7589",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "title": "将 3.8B LLM 培训至 0.384 CORE，仅需 998 美元 – Hugo Vergnes",
       "url": "https://hugovergnes.github.io/little-lm-3-8b",
       "primary_url": "https://hugovergnes.github.io/little-lm-3-8b",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "5faa80de39eaf4dacfc0ea0cdc8661fc06a34ea7",
+          "id": "cc826c4eac14dda03e66ab45cbd0741538533849",
           "title": "Training a 3.8B LLM to 0.384 CORE for $998",
           "url": "https://hugovergnes.github.io/little-lm-3-8b",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-10T02:04:11Z"
         },
         {
@@ -3210,10 +3073,10 @@
       "score": 9570
     },
     {
-      "story_id": "story_0b3ac2fd",
-      "title": "Apple's New iPhone Camera Mode Promises to Prove Your Photo Isn't AI",
-      "url": "https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai",
-      "primary_url": "https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai",
+      "story_id": "story_8c5653d8",
+      "title": "苹果新的 iPhone 相机模式有望证明你的照片不是人工智能",
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "primary_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
       "source_count": 2,
       "source_names": [
         "Slashdot",
@@ -3242,13 +3105,13 @@
     },
     {
       "story_id": "story_87b7a574",
-      "title": "Anthropic Researcher Believes More Than 10% Chance AI 'Could Kill All Humans'",
+      "title": "人类研究人员相信超过 10% 的机会人工智能“可以杀死所有人类”",
       "url": "https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans",
       "primary_url": "https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans",
       "source_count": 2,
       "source_names": [
         "Slashdot",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3260,11 +3123,11 @@
           "published_at": "2026-09-09T21:00:00Z"
         },
         {
-          "id": "48dfe5a93a6025db70429dab24ecbc9a5ca9bbd9",
+          "id": "b1f3ab74f748f21570a77c8780064f1b82466cf6",
           "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
           "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-09T15:10:39Z"
         }
       ],
@@ -3279,7 +3142,7 @@
       "source_count": 2,
       "source_names": [
         "gist.github.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3291,11 +3154,11 @@
           "published_at": "2026-09-09T20:46:59.030000Z"
         },
         {
-          "id": "a540507f7e12168df80a26c5e702a5757215fbe3",
+          "id": "5e18eed4fe5ce5a98d0d8b5abc7daddf2433ac9e",
           "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
           "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-09T17:24:28Z"
         }
       ],
@@ -3304,7 +3167,7 @@
     },
     {
       "story_id": "story_7d49edc8",
-      "title": "OpenAI's Rogue Agents Used At Least 10 More Sites For Unauthorized Communications",
+      "title": "OpenAI 的恶意代理至少还使用了 10 个站点进行未经授权的通信",
       "url": "https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications",
       "primary_url": "https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications",
       "source_count": 2,
@@ -3341,7 +3204,7 @@
       "source_count": 2,
       "source_names": [
         "prospect.org",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3353,16 +3216,126 @@
           "published_at": "2026-09-09T16:52:18.399000Z"
         },
         {
-          "id": "97880cccdcdf2bf359a0e95157945a27eea6ad37",
+          "id": "c1dbd19a61ef50584612d49c0d092e81ba84830e",
           "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
           "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-09T16:01:41Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_389b0225",
+      "title": "Apple’s AI-packed macOS 27 upgrade for Macs launches on September 14, but can it win over macOS Tahoe haters?",
+      "url": "https://www.techradar.com/computing/mac-os/apples-ai-packed-macos-27-upgrade-for-macs-launches-on-september-14-but-can-it-win-over-macos-tahoe-haters",
+      "primary_url": "https://www.techradar.com/computing/mac-os/apples-ai-packed-macos-27-upgrade-for-macs-launches-on-september-14-but-can-it-win-over-macos-tahoe-haters",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "a495f8deb015ae0f9c8d5e43f9157c58fbfc6e03",
+          "title": "Apple’s AI-packed macOS 27 upgrade for Macs launches on September 14, but can it win over macOS Tahoe haters?",
+          "url": "https://www.techradar.com/computing/mac-os/apples-ai-packed-macos-27-upgrade-for-macs-launches-on-september-14-but-can-it-win-over-macos-tahoe-haters",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T12:27:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_48b7cbaa",
+      "title": "研究人员利用人工智能构建了一种通过电话传播的微信蠕虫",
+      "url": "https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click",
+      "primary_url": "https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "4d80e90ec02bf3656a23beef6b690847b388c250",
+          "title": "Researchers used AI to build a WeChat worm that spreads through phone calls",
+          "url": "https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T12:19:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8852ef39",
+      "title": "Apple Watch Series 12 和 Ultra 4 抢先看：AI 和健康状况重大升级！",
+      "url": "https://mashable.com/tech/apple-watch-series-12-hands-on",
+      "primary_url": "https://mashable.com/tech/apple-watch-series-12-hands-on",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "eb46d4e19392ea94a80e1a91710882c40e700f20",
+          "title": "Apple Watch Series 12 and Ultra 4 first look: AI and major health upgrades!",
+          "url": "https://mashable.com/tech/apple-watch-series-12-hands-on",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T12:18:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d32115c8",
+      "title": "IBM is launching a new open source AI model to get NASA back to the Moon — and making petabytes of lunar data available to study",
+      "url": "https://www.techradar.com/pro/ibm-is-launching-a-new-open-source-ai-model-to-get-nasa-back-to-the-moon-and-making-petabytes-of-lunar-data-available-to-study",
+      "primary_url": "https://www.techradar.com/pro/ibm-is-launching-a-new-open-source-ai-model-to-get-nasa-back-to-the-moon-and-making-petabytes-of-lunar-data-available-to-study",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "485465213f4355ee3df48c5e7703eb9eb4202046",
+          "title": "IBM is launching a new open source AI model to get NASA back to the Moon — and making petabytes of lunar data available to study",
+          "url": "https://www.techradar.com/pro/ibm-is-launching-a-new-open-source-ai-model-to-get-nasa-back-to-the-moon-and-making-petabytes-of-lunar-data-available-to-study",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bcc693bc",
+      "title": "NASA 和 IBM 打造了探索月球的人工智能模型",
+      "url": "https://www.engadget.com/2254569/nasa-ibm-ai-model-moon",
+      "primary_url": "https://www.engadget.com/2254569/nasa-ibm-ai-model-moon",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "f760bb6a593a5d774c0c2ab353cd61fc3240d381",
+          "title": "NASA and IBM made an AI model for exploring the Moon",
+          "url": "https://www.engadget.com/2254569/nasa-ibm-ai-model-moon",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_018703fa",
@@ -3410,7 +3383,7 @@
     },
     {
       "story_id": "story_029dfd9a",
-      "title": "AI Observability by OpenObserve",
+      "title": "OpenObserve 的 AI 可观测性",
       "url": "https://www.producthunt.com/products/openobserve",
       "primary_url": "https://www.producthunt.com/products/openobserve",
       "source_count": 1,
@@ -3607,6 +3580,28 @@
       "score": 7
     },
     {
+      "story_id": "story_fddad6c9",
+      "title": "Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 (Evelyn Cheng/CNBC)",
+      "url": "https://www.techmeme.com/260910/p17",
+      "primary_url": "https://www.techmeme.com/260910/p17",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e4c469bd98004080cf92f2afcd84cfb710014e0e",
+          "title": "Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 (Evelyn Cheng/CNBC)",
+          "url": "https://www.techmeme.com/260910/p17",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T11:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_41427097",
       "title": "‘The noise patterns are awful’ — some Reddit users aren’t happy with the new ChatGPT Images 2.5, so I did my own tests and have to agree",
       "url": "https://www.techradar.com/ai-platforms-assistants/the-noise-patterns-are-awful-some-reddit-users-arent-happy-with-the-new-chatgpt-images-2-5-so-i-did-my-own-tests-and-have-to-agree",
@@ -3652,7 +3647,7 @@
     },
     {
       "story_id": "story_0a274459",
-      "title": "AI can’t mark its own homework",
+      "title": "AI无法批改自己的作业",
       "url": "https://www.techradar.com/pro/ai-cant-mark-its-own-homework",
       "primary_url": "https://www.techradar.com/pro/ai-cant-mark-its-own-homework",
       "source_count": 1,
@@ -3674,7 +3669,7 @@
     },
     {
       "story_id": "story_86b2fabb",
-      "title": "Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain",
+      "title": "Nvidia 和 Palantir 正在出售主权人工智能堆栈，从 Nvidia 自己的供应链开始",
       "url": "https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains",
       "primary_url": "https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains",
       "source_count": 1,
@@ -3696,7 +3691,7 @@
     },
     {
       "story_id": "story_1da18a5d",
-      "title": "Time to power is becoming the new measure of AI infrastructure readiness",
+      "title": "通电时间正在成为衡量人工智能基础设施准备情况的新指标",
       "url": "https://www.techradar.com/pro/time-to-power-is-becoming-the-new-measure-of-ai-infrastructure-readiness",
       "primary_url": "https://www.techradar.com/pro/time-to-power-is-becoming-the-new-measure-of-ai-infrastructure-readiness",
       "source_count": 1,
@@ -3740,7 +3735,7 @@
     },
     {
       "story_id": "story_2b39cb3b",
-      "title": "A Republican senator is now investigating OpenAI over the Hugging Face incident",
+      "title": "一名共和党参议员正在就“抱脸”事件调查 OpenAI",
       "url": "https://thenextweb.com/news/hawley-senate-probe-openai-hugging-face-16-questions",
       "primary_url": "https://thenextweb.com/news/hawley-senate-probe-openai-hugging-face-16-questions",
       "source_count": 1,
@@ -3777,6 +3772,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-10T10:20:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_726e839f",
+      "title": "Clearview AI 正在测试一款人工智能工具，可以让警察在网上挖掘你的生活",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
+      "primary_url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "f4fd6ba0fbf46fe847122984c279c879d11739ab",
+          "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+          "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3850,7 +3867,7 @@
     },
     {
       "story_id": "story_d3dbf846",
-      "title": "One of McKinsey's top AI leaders explains how it's stopping staff from overspending on tokens",
+      "title": "麦肯锡的一位人工智能高管解释了如何阻止员工在代币上超支",
       "url": "https://www.businessinsider.com/mckinsey-partner-consultants-managing-ai-costs-token-spend-2026-9",
       "primary_url": "https://www.businessinsider.com/mckinsey-partner-consultants-managing-ai-costs-token-spend-2026-9",
       "source_count": 1,
@@ -3872,7 +3889,7 @@
     },
     {
       "story_id": "story_002976a7",
-      "title": "EU cybersecurity agency is now testing Mythos 5 and GPT-6 Astra, the Commission says",
+      "title": "欧盟网络安全机构正在测试 Mythos 5 和 GPT-6 Astra，委员会表示",
       "url": "https://thenextweb.com/news/eu-cybersecurity-agency-is-now-testing-mythos-5-and-gpt-6-astra-the-commission-says",
       "primary_url": "https://thenextweb.com/news/eu-cybersecurity-agency-is-now-testing-mythos-5-and-gpt-6-astra-the-commission-says",
       "source_count": 1,
@@ -3909,6 +3926,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-10T09:45:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cb8df559",
+      "title": "一名少女的死亡促使人们呼吁禁止色情片中的窒息行为",
+      "url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
+      "primary_url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "2a09bde36f16e9ffc8ed14b0d315d1a42758768e",
+          "title": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
+          "url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T09:45:00Z"
         }
       ],
       "item_count": 1,
@@ -3960,7 +3999,7 @@
     },
     {
       "story_id": "story_3c3646fe",
-      "title": "Investors share their top investment advice with AI-apocalypse fears on the rise",
+      "title": "随着人工智能末日的担忧加剧，投资者分享他们的最佳投资建议",
       "url": "https://www.businessinsider.com/where-to-invest-ai-doomsday-scenario-cybersecurity-gold-land-2026-9",
       "primary_url": "https://www.businessinsider.com/where-to-invest-ai-doomsday-scenario-cybersecurity-gold-land-2026-9",
       "source_count": 1,
@@ -3982,7 +4021,7 @@
     },
     {
       "story_id": "story_681030a5",
-      "title": "Jimmy Kimmel responds to Anthropic researcher saying AI could kill us all by the end of the decade",
+      "title": "吉米·金梅尔回应人类研究人员的说法，人工智能可能会在本世纪末杀死我们所有人",
       "url": "https://mashable.com/entertainment/jimmy-kimmel-anthropic-ai-threat",
       "primary_url": "https://mashable.com/entertainment/jimmy-kimmel-anthropic-ai-threat",
       "source_count": 1,
@@ -4026,7 +4065,7 @@
     },
     {
       "story_id": "story_8b438d60",
-      "title": "Anthropic scanned 481 million transcripts to find four models that reached the open internet",
+      "title": "Anthropic 扫描了 4.81 亿份转录本，找到了四种进入开放互联网的模型",
       "url": "https://thenextweb.com/news/anthropic-alignment-assessment-cybersecurity-incidents-481-million-transcripts",
       "primary_url": "https://thenextweb.com/news/anthropic-alignment-assessment-cybersecurity-incidents-481-million-transcripts",
       "source_count": 1,
@@ -4048,7 +4087,7 @@
     },
     {
       "story_id": "story_245ef7c5",
-      "title": "Pay $79 once for an AI platform that lets you write, humanize, detect, and polish",
+      "title": "一次性支付 79 美元即可购买可让您进行编写、人性化、检测和润色的 AI 平台",
       "url": "https://mashable.com/tech/sept-10-umanwrite-ai-humanizing-content-creator-unlimited-plan-lifetime",
       "primary_url": "https://mashable.com/tech/sept-10-umanwrite-ai-humanizing-content-creator-unlimited-plan-lifetime",
       "source_count": 1,
@@ -4070,7 +4109,7 @@
     },
     {
       "story_id": "story_d73992db",
-      "title": "Nvidia signs eight Australian data centre partners for up to 2GW of AI capacity by 2027",
+      "title": "Nvidia 与 8 个澳大利亚数据中心合作伙伴签署协议，到 2027 年人工智能容量将达到 2GW",
       "url": "https://thenextweb.com/news/nvidia-australia-eight-partners-2gw-ai-capacity",
       "primary_url": "https://thenextweb.com/news/nvidia-australia-eight-partners-2gw-ai-capacity",
       "source_count": 1,
@@ -4092,7 +4131,7 @@
     },
     {
       "story_id": "story_ad3ecc25",
-      "title": "Germany is evaluating 30 AI tools for its military with a prototype due in 2027",
+      "title": "德国正在为其军队评估 30 种人工智能工具，原型将于 2027 年推出",
       "url": "https://thenextweb.com/news/bundeswehr-30-ai-tools-prototype-2027-palantir-alternative",
       "primary_url": "https://thenextweb.com/news/bundeswehr-30-ai-tools-prototype-2027-palantir-alternative",
       "source_count": 1,
@@ -4224,20 +4263,20 @@
     },
     {
       "story_id": "story_5c78bdd8",
-      "title": "OpenAI have no mathematicians capable of understanding what they put out",
+      "title": "OpenAI 没有数学家能够理解他们的成果",
       "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
       "primary_url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "03d096afe53a497b6a865149842cbab3584375d9",
+          "id": "9c8815d8badc19d63ca0ef8ba27ca4df3a03c27a",
           "title": "OpenAI have no mathematicians capable of understanding what they put out",
           "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T05:01:50Z"
         }
       ],
@@ -4268,7 +4307,7 @@
     },
     {
       "story_id": "story_d62da675",
-      "title": "Anthropic Reveals Fourth Likely Crime Committed By Its AI",
+      "title": "Anthropic 揭示了其人工智能第四种可能犯下的犯罪行为",
       "url": "https://yro.slashdot.org/story/26/09/10/0224247/anthropic-reveals-fourth-likely-crime-committed-by-its-ai",
       "primary_url": "https://yro.slashdot.org/story/26/09/10/0224247/anthropic-reveals-fourth-likely-crime-committed-by-its-ai",
       "source_count": 1,
@@ -4290,20 +4329,20 @@
     },
     {
       "story_id": "story_06541b7e",
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "title": "我们通过查看游戏规格得出了一个关于人工智能对齐的愚蠢想法",
       "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours",
       "primary_url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "5310ac92a58849d4384182c40dd67865b8342b2e",
+          "id": "581c305c7f702af3ff26e6ec46c3c4a905a9c648",
           "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
           "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T01:59:51Z"
         }
       ],
@@ -4334,7 +4373,7 @@
     },
     {
       "story_id": "story_96fb6bb2",
-      "title": "UK needs new laws for AI in healthcare, says watchdog",
+      "title": "监管机构表示，英国需要针对医疗保健领域的人工智能制定新法律",
       "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "primary_url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "source_count": 1,
@@ -4349,6 +4388,28 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-09-10T00:48:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a16c6e09",
+      "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+      "primary_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "25610fb1e0bd84a90be88593aaa9abfd417b3f6d",
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T00:00:37Z"
         }
       ],
       "item_count": 1,
@@ -4378,7 +4439,7 @@
     },
     {
       "story_id": "story_2af3b4f1",
-      "title": "Google to Invest Record $15 Billion In AI Infrastructure In Finland",
+      "title": "谷歌将在芬兰的人工智能基础设施上投资创纪录的 150 亿美元",
       "url": "https://hardware.slashdot.org/story/26/09/09/2151202/google-to-invest-record-15-billion-in-ai-infrastructure-in-finland",
       "primary_url": "https://hardware.slashdot.org/story/26/09/09/2151202/google-to-invest-record-15-billion-in-ai-infrastructure-in-finland",
       "source_count": 1,
@@ -4399,8 +4460,30 @@
       "score": 7
     },
     {
+      "story_id": "story_610b363d",
+      "title": "OpenAI 董事会增加了一位杰出的 AI 毁灭者",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+      "primary_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8be7fd64b2ba2b8eb619cd7ba6debdc1a42912f1",
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T22:25:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_65f77bd4",
-      "title": "Suno releases its first AI music model made with record industry help",
+      "title": "Suno 发布首个在唱片业帮助下制作的 AI 音乐模型",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
       "source_count": 1,
@@ -4422,7 +4505,7 @@
     },
     {
       "story_id": "story_167d8cf9",
-      "title": "Google AI Mode can hold your hand through fantasy football season",
+      "title": "谷歌人工智能模式可以帮助你度过梦幻足球赛季",
       "url": "https://www.engadget.com/2254366/google-ai-mode-can-hold-your-hand-through-fantasy-football-season",
       "primary_url": "https://www.engadget.com/2254366/google-ai-mode-can-hold-your-hand-through-fantasy-football-season",
       "source_count": 1,
@@ -4466,7 +4549,7 @@
     },
     {
       "story_id": "story_919df85a",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
       "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
       "primary_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
       "source_count": 1,
@@ -4488,7 +4571,7 @@
     },
     {
       "story_id": "story_184d6387",
-      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us",
+      "title": "他帮助 OpenAI 和 Anthropic 构建了强大的人工智能。现在他担心它会杀了我们",
       "url": "https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon",
       "primary_url": "https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon",
       "source_count": 1,
@@ -4510,7 +4593,7 @@
     },
     {
       "story_id": "story_747ab12a",
-      "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "title": "雅各布·考克森的辞职似乎是人工智能监管的公关噱头",
       "url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
       "primary_url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
       "source_count": 1,
@@ -4531,52 +4614,8 @@
       "score": 7
     },
     {
-      "story_id": "story_eeff4985",
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "83ad0b887f094a81473ec234470a3381681138d7",
-          "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-          "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T20:06:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fbe332b8",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-      "primary_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0667c3a6a0065a4bee025f70746d8b39bbea71e9",
-          "title": "The hinge for Apple’s new foldable phone was built with AI",
-          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T19:21:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_308295b7",
-      "title": "LittleSwitch, my personnal router for Claude/Codex (Desktop/CLI/Cowork) on macOS",
+      "title": "LittleSwitch，我在 macOS 上用于 Claude/Codex（桌面/CLI/Cowork）的个人路由器",
       "url": "https://little-switch.alfredlabs.io",
       "primary_url": "https://little-switch.alfredlabs.io",
       "source_count": 1,
@@ -4597,30 +4636,8 @@
       "score": 7
     },
     {
-      "story_id": "story_18f173ad",
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-      "primary_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "20840351bdfad2e5d554ca9fb5fba674d742c0bd",
-          "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-          "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T18:08:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_f2fa6d32",
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "title": "Show HN：自托管公司操作系统、各部门的 Claude Code 和 Codex 代理",
       "url": "https://github.com/OtoDock/oto-dock",
       "primary_url": "https://github.com/OtoDock/oto-dock",
       "source_count": 1,
@@ -4664,7 +4681,7 @@
     },
     {
       "story_id": "story_d4344570",
-      "title": "My Mental Model of AI Broke on September 8",
+      "title": "我的人工智能思维模型在 9 月 8 日崩溃了",
       "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
       "primary_url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
       "source_count": 1,
@@ -4686,7 +4703,7 @@
     },
     {
       "story_id": "story_8b2b7a6a",
-      "title": "Growing proof that autonomous cars save lives",
+      "title": "越来越多的证据表明自动驾驶汽车可以拯救生命",
       "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "primary_url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "source_count": 1,
@@ -4708,7 +4725,7 @@
     },
     {
       "story_id": "story_d203a66a",
-      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration",
+      "title": "人类研究人员对人工智能发出警报加速",
       "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
       "primary_url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
       "source_count": 1,
@@ -4730,7 +4747,7 @@
     },
     {
       "story_id": "story_543ba013",
-      "title": "Apple finally launches Siri AI",
+      "title": "苹果终于推出 Siri AI",
       "url": "https://mashable.com/tech/siri-ai-beta-apple-intelligence-updates-iphone-event-2026",
       "primary_url": "https://mashable.com/tech/siri-ai-beta-apple-intelligence-updates-iphone-event-2026",
       "source_count": 1,
@@ -4752,7 +4769,7 @@
     },
     {
       "story_id": "story_a12aece0",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "title": "程序图：LLM 代理的自演化执行结构",
       "url": "https://arxiv.org/abs/2609.09153",
       "primary_url": "https://arxiv.org/abs/2609.09153",
       "source_count": 1,
@@ -4774,7 +4791,7 @@
     },
     {
       "story_id": "story_07b29eb1",
-      "title": "Is OpenAI Taking Everyone for Fools?",
+      "title": "OpenAI 是把所有人都当傻子了吗？",
       "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
       "primary_url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
       "source_count": 1,
@@ -4817,30 +4834,8 @@
       "score": 7
     },
     {
-      "story_id": "story_393ba078",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all",
-      "primary_url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "7b71e3369a44d78421dbb57e33e92af12dab79a6",
-          "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-          "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T16:59:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_fa5b1b39",
-      "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
+      "title": "摇滚乐队 Muse 失去了 Meta 新人工智能工具的社交媒体控制权",
       "url": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html",
       "primary_url": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html",
       "source_count": 1,
@@ -4855,6 +4850,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-09T16:43:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cce24d2a",
+      "title": "谷歌的人工智能基因组系统评估每一个可能的单碱基变化",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
+      "primary_url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "2f14006419b39f21f7a2d4b2b07bcc0ede93d331",
+          "title": "Google's AI genome system evaluates every possible one-base change",
+          "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T16:34:18Z"
         }
       ],
       "item_count": 1,
@@ -4928,7 +4945,7 @@
     },
     {
       "story_id": "story_9084ae0d",
-      "title": "Good Taste Can't Be Taught, Bought or Learned, Sorry AI",
+      "title": "好的品味是无法教授、购买或学习的，对不起人工智能",
       "url": "https://emilyoberg.substack.com/p/good-taste-cant-be-taught-bought",
       "primary_url": "https://emilyoberg.substack.com/p/good-taste-cant-be-taught-bought",
       "source_count": 1,
@@ -4950,20 +4967,20 @@
     },
     {
       "story_id": "story_058c0dec",
-      "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+      "title": "定义人工智能精神病。第 2 部分：“多产的人工智能精神病”",
       "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
       "primary_url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "12913f344e6e1f8cd02fdb35bb4948a4ca615dfd",
+          "id": "531e64e50fd544ca9feea53af2e8c10fbfe41089",
           "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
           "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-09T16:13:11Z"
         }
       ],
@@ -4972,7 +4989,7 @@
     },
     {
       "story_id": "story_9454372a",
-      "title": "Alex Gibney’s Musk documentary premieres in Venice with an AI-simulated interview",
+      "title": "亚历克斯·吉布尼 (Alex Gibney) 的马斯克纪录片在威尼斯首映，并进行了人工智能模拟采访",
       "url": "https://thenextweb.com/news/gibney-musk-documentary-venice-ai-simulated-interview",
       "primary_url": "https://thenextweb.com/news/gibney-musk-documentary-venice-ai-simulated-interview",
       "source_count": 1,
@@ -4994,7 +5011,7 @@
     },
     {
       "story_id": "story_079c0cf8",
-      "title": "Dive into FrontierHarness Eval: Claude Code cost 5.6× for the same pass rate",
+      "title": "深入研究 FrontierHarness 评估：相同通过率下，Claude 代码成本为 5.6 倍",
       "url": "https://runta.com/blog/introducing-frontierharness-eval",
       "primary_url": "https://runta.com/blog/introducing-frontierharness-eval",
       "source_count": 1,
@@ -5016,7 +5033,7 @@
     },
     {
       "story_id": "story_4aa77f6b",
-      "title": "AI could kill all humans in next decade, warn experts",
+      "title": "专家警告人工智能可能在未来十年杀死所有人类",
       "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
       "primary_url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
       "source_count": 1,
@@ -5038,20 +5055,20 @@
     },
     {
       "story_id": "story_2890ba8d",
-      "title": "Better AI code comment detector",
+      "title": "更好的人工智能代码注释检测器",
       "url": "https://entropicthoughts.com/better-ai-comment-classifier",
       "primary_url": "https://entropicthoughts.com/better-ai-comment-classifier",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "d62cefc59f3cf1f5d22086047f502789ec814b64",
+          "id": "a8ee8a56fda7a62a409ce6ac13bd691e5dc564f8",
           "title": "Better AI code comment detector",
           "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-09T15:45:43Z"
         }
       ],
@@ -5104,7 +5121,7 @@
     },
     {
       "story_id": "story_7e724edc",
-      "title": "NordVPN warns AI is making scams more personal and devastating than ever",
+      "title": "NordVPN 警告人工智能正在使诈骗变得比以往任何时候都更加个人化和破坏性",
       "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-warns-ai-is-making-scams-more-personal-and-devastating-than-ever",
       "primary_url": "https://www.techradar.com/vpn/vpn-services/nordvpn-warns-ai-is-making-scams-more-personal-and-devastating-than-ever",
       "source_count": 1,
@@ -5148,7 +5165,7 @@
     },
     {
       "story_id": "story_fd5990f6",
-      "title": "Viral AI assistant Instinct now has its own email address",
+      "title": "病毒式 AI 助手 Instinct 现在拥有自己的电子邮件地址",
       "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address",
       "primary_url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address",
       "source_count": 1,
@@ -5170,7 +5187,7 @@
     },
     {
       "story_id": "story_2fde00ce",
-      "title": "Kawasaki signed an AI chip deal with a startup the Pentagon backs",
+      "title": "川崎与五角大楼支持的一家初创公司签署了人工智能芯片协议",
       "url": "https://thenextweb.com/news/edgecortix-kawasaki-teaming-agreement-aerial-defence-diu",
       "primary_url": "https://thenextweb.com/news/edgecortix-kawasaki-teaming-agreement-aerial-defence-diu",
       "source_count": 1,
@@ -5214,7 +5231,7 @@
     },
     {
       "story_id": "story_933707b7",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "title": "“拿我们的生命赌博”：人类研究人员辞职，警告不要自我改进人工智能",
       "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai",
       "primary_url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai",
       "source_count": 1,
@@ -5236,21 +5253,43 @@
     },
     {
       "story_id": "story_d13ee83e",
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "title": "Show HN: Geiger – 查看您机器上的每个 AI 代理以及它可以触及的内容",
       "url": "https://github.com/Atomburstofficial/geiger",
       "primary_url": "https://github.com/Atomburstofficial/geiger",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d054020777419c898149b0d0dfd39bfd8e3c82b9",
+          "id": "ba80a206d842f1ca3139b29ea800355ad66be8c5",
           "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
           "url": "https://github.com/Atomburstofficial/geiger",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-09T14:54:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_12c5bc18",
+      "title": "Shipt 成为最新的带有人工智能购物助手的送货应用程序",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
+      "primary_url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "7d03cc4882081a283d7768a65e7e1c57b64bb267",
+          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T14:51:45Z"
         }
       ],
       "item_count": 1,
@@ -5280,7 +5319,7 @@
     },
     {
       "story_id": "story_836f7136",
-      "title": "Anthropic users are taking the company to court over Max subscription terms",
+      "title": "Anthropic 用户因 Max 订阅条款将公司告上法庭",
       "url": "https://www.engadget.com/2253767/anthropic-users-are-taking-the-company-to-court-over-max-subscription-terms",
       "primary_url": "https://www.engadget.com/2253767/anthropic-users-are-taking-the-company-to-court-over-max-subscription-terms",
       "source_count": 1,
@@ -5324,7 +5363,7 @@
     },
     {
       "story_id": "story_62572329",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "title": "八月份顶级公司的人均人工智能支出大幅下降——夏季低迷还是警告信号？",
       "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
       "primary_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
       "source_count": 1,
@@ -5346,7 +5385,7 @@
     },
     {
       "story_id": "story_e76b46b6",
-      "title": "Pentagon AI chief says US allies lack the resources to keep pace",
+      "title": "五角大楼人工智能负责人表示美国盟友缺乏跟上步伐的资源",
       "url": "https://thenextweb.com/news/pentagon-ai-chief-allies-resources-scale",
       "primary_url": "https://thenextweb.com/news/pentagon-ai-chief-allies-resources-scale",
       "source_count": 1,
@@ -5368,7 +5407,7 @@
     },
     {
       "story_id": "story_74d4c89e",
-      "title": "How AI is reshaping the economics of cyberattacks and defense",
+      "title": "人工智能如何重塑网络攻击和防御的经济学",
       "url": "https://www.techradar.com/pro/how-ai-is-reshaping-the-economics-of-cyberattacks-and-defense",
       "primary_url": "https://www.techradar.com/pro/how-ai-is-reshaping-the-economics-of-cyberattacks-and-defense",
       "source_count": 1,
@@ -5478,7 +5517,7 @@
     },
     {
       "story_id": "story_9c057bf7",
-      "title": "Analog Devices will pay $1.35bn for edge AI chipmaker Alif Semiconductor",
+      "title": "Analog Devices 将斥资 13.5 亿美元收购边缘 AI 芯片制造商 Alif Semiconductor",
       "url": "https://thenextweb.com/news/analog-devices-alif-semiconductor-edge-ai-acquisition",
       "primary_url": "https://thenextweb.com/news/analog-devices-alif-semiconductor-edge-ai-acquisition",
       "source_count": 1,
@@ -5500,20 +5539,20 @@
     },
     {
       "story_id": "story_82acce55",
-      "title": "Do people prefer stories written by AI?",
+      "title": "人们更喜欢人工智能写的故事吗？",
       "url": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
       "primary_url": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "15c0c6996a0bb03236af1de72128f560732f6ec9",
+          "id": "4176927d9e93b8ca749622a8f9af8e484c2fc622",
           "title": "Do people prefer stories written by AI?",
           "url": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-09T13:38:14Z"
         }
       ],
@@ -5588,7 +5627,7 @@
     },
     {
       "story_id": "story_98388091",
-      "title": "The world of software engineering and AI meets in the Bay Area this September",
+      "title": "软件工程和人工智能世界将于今年九月在湾区相聚",
       "url": "https://thenextweb.com/news/the-world-of-software-engineering-and-ai",
       "primary_url": "https://thenextweb.com/news/the-world-of-software-engineering-and-ai",
       "source_count": 1,
@@ -5610,7 +5649,7 @@
     },
     {
       "story_id": "story_77349a20",
-      "title": "How multi-agent AI is redefining enterprise software",
+      "title": "多智能体人工智能如何重新定义企业软件",
       "url": "https://thenextweb.com/news/how-multi-agent-ai-is-redefining-enterprise-software",
       "primary_url": "https://thenextweb.com/news/how-multi-agent-ai-is-redefining-enterprise-software",
       "source_count": 1,
@@ -5713,182 +5752,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-09T13:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9b38c309",
-      "title": "Mark Zuckerberg laid out what he uses Meta's new AI agent for — kid-friendly cake recipes and MMA advice",
-      "url": "https://www.businessinsider.com/mark-zuckerberg-muse-ai-meta-baking-tips-mma-advice-2026-9",
-      "primary_url": "https://www.businessinsider.com/mark-zuckerberg-muse-ai-meta-baking-tips-mma-advice-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "9f731dac48e3795155254757da2e6ba53d7bd374",
-          "title": "Mark Zuckerberg laid out what he uses Meta's new AI agent for — kid-friendly cake recipes and MMA advice",
-          "url": "https://www.businessinsider.com/mark-zuckerberg-muse-ai-meta-baking-tips-mma-advice-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T13:01:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e0a6ad21",
-      "title": "Instacart 现在拥有自己的人工智能助手 Clementine",
-      "url": "https://www.engadget.com/2253622/instacart-ai-assistant-called-clementine",
-      "primary_url": "https://www.engadget.com/2253622/instacart-ai-assistant-called-clementine",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "77bbc959415e0bd6dcdc8331d61572cfad5564e2",
-          "title": "Instacart now has its own AI assistant called Clementine",
-          "url": "https://www.engadget.com/2253622/instacart-ai-assistant-called-clementine",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5a65b43f",
-      "title": "由于 AI 代理带来新的企业安全风险，红杉资本加倍押注 Cymphony",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
-      "primary_url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9c6acdbb18c5886f382a05a95ccb7ab853e173b2",
-          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_42344267",
-      "title": "“拿我们的生命赌博”：一位人工智能研究员辞去Anthropic的工作，并就安全问题发出严厉警告 - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUw0TUdzSWVyMTBITjI4c1lBREZaVnIwVkR2a2lWVjVDSkpTVVNvRTkzc0dRVXRDWUkxaDZaR2ZzXzg4a1d1RHpRWTF5V2dXazJ6eG1HQVZza2JlZk1SQUhldkJuUGNGM2tkYWVNTVFKWlNjUzhabXpVUlYxTVV5NTZDcDNwSnY0V2tzbTlqbTZGN2VwTDVsUDNKWkJMR1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUw0TUdzSWVyMTBITjI4c1lBREZaVnIwVkR2a2lWVjVDSkpTVVNvRTkzc0dRVXRDWUkxaDZaR2ZzXzg4a1d1RHpRWTF5V2dXazJ6eG1HQVZza2JlZk1SQUhldkJuUGNGM2tkYWVNTVFKWlNjUzhabXpVUlYxTVV5NTZDcDNwSnY0V2tzbTlqbTZGN2VwTDVsUDNKWkJMR1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "c3a4c6d7ba603207f0ec6f87f17fa7f6754cddd2",
-          "title": "“拿我们的生命赌博”：一位人工智能研究员辞去Anthropic的工作，并就安全问题发出严厉警告 - politico.eu",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUw0TUdzSWVyMTBITjI4c1lBREZaVnIwVkR2a2lWVjVDSkpTVVNvRTkzc0dRVXRDWUkxaDZaR2ZzXzg4a1d1RHpRWTF5V2dXazJ6eG1HQVZza2JlZk1SQUhldkJuUGNGM2tkYWVNTVFKWlNjUzhabXpVUlYxTVV5NTZDcDNwSnY0V2tzbTlqbTZGN2VwTDVsUDNKWkJMR1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T12:57:33.925000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f61e019",
-      "title": "OpenAI says it is working with Samsung on its next-gen chips, and Samsung is one of the \"largest-scale deployments of ChatGPT globally\" (Heekyong Yang/Reuters)",
-      "url": "https://www.techmeme.com/260909/p12",
-      "primary_url": "https://www.techmeme.com/260909/p12",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "751376831c580b65178afada75452f3f589f40ed",
-          "title": "OpenAI says it is working with Samsung on its next-gen chips, and Samsung is one of the \"largest-scale deployments of ChatGPT globally\" (Heekyong Yang/Reuters)",
-          "url": "https://www.techmeme.com/260909/p12",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T12:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_664a3cd0",
-      "title": "审查前沿人工智能模型的规则是秘密的。读过它们的公司都是大公司。",
-      "url": "https://thenextweb.com/news/white-house-ai-framework-secret-incumbent-advantage",
-      "primary_url": "https://thenextweb.com/news/white-house-ai-framework-secret-incumbent-advantage",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "84bc76efe44e37df2ac3e4704deb9f55f19f9cda",
-          "title": "The rules for reviewing frontier AI models are secret. The companies that have read them are the big ones.",
-          "url": "https://thenextweb.com/news/white-house-ai-framework-secret-incumbent-advantage",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T12:42:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f28b3e0e",
-      "title": "Harvey 以 156 亿美元估值完成 5.5 亿美元融资并收购 Guardrails AI",
-      "url": "https://thenextweb.com/news/harvey-550m-round-15-6bn-guardrails-acquisition",
-      "primary_url": "https://thenextweb.com/news/harvey-550m-round-15-6bn-guardrails-acquisition",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "16a2602b26830e4697ebed41454ac490a2306aa7",
-          "title": "Harvey closes a $550M round at a $15.6bn valuation and acquires Guardrails AI",
-          "url": "https://thenextweb.com/news/harvey-550m-round-15-6bn-guardrails-acquisition",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T12:41:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6c4636f7",
-      "title": "一项人工智能数学领域的突破如何引发争议",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "primary_url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "source_count": 1,
-      "source_names": [
-        "www.science.org"
-      ],
-      "sources": [
-        {
-          "id": "34aecda6528254814e51c8177bbe1302a7e432fa",
-          "title": "一项人工智能数学领域的突破如何引发争议",
-          "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-          "source": "www.science.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T12:10:19.037000Z"
         }
       ],
       "item_count": 1,
