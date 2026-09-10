@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-09-10T17:22:43.193883Z",
+  "generated_at": "2026-09-10T18:25:44.405074Z",
   "window_hours": 24,
-  "total_stories": 249,
+  "total_stories": 245,
   "stories": [
+    {
+      "story_id": "story_03142165",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "primary_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "fd465ec7bb37863901e6f1092e6bb1b9d73368c7",
+          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T00:00:00Z"
+        },
+        {
+          "id": "89d634d0796f15109d432d5999ea005b941b4806",
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_8e610a22",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -26,43 +57,21 @@
       "score": 10020
     },
     {
-      "story_id": "story_aa2ea623",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "primary_url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
-          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-          "url": "https://openai.com/index/expanding-ai-access-us-government",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_54954960",
       "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "Hugging Face Blog"
       ],
       "sources": [
         {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
           "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
           "published_at": "2026-09-10T00:00:00Z"
         }
       ],
@@ -130,6 +139,28 @@
       ],
       "item_count": 3,
       "score": 9980
+    },
+    {
+      "story_id": "story_7469f428",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "sources": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_7a5a789c",
@@ -910,28 +941,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_e1c89211",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "sources": [
-        {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_301a73e3",
       "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
       "url": "https://x.com/emollick/status/2097767414435844099",
@@ -970,94 +979,6 @@
           "source": "Apple：Newsroom（RSS）",
           "site_id": "aihot",
           "published_at": "2026-09-09T18:15:40.996000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_5f607366",
-      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-      "url": "https://x.com/natolambert/status/2097745018421236154",
-      "primary_url": "https://x.com/natolambert/status/2097745018421236154",
-      "source_count": 1,
-      "source_names": [
-        "X：Nathan Lambert (@natolambert)"
-      ],
-      "sources": [
-        {
-          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-          "url": "https://x.com/natolambert/status/2097745018421236154",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_59ede2dd",
-      "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-      "primary_url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-      "source_count": 1,
-      "source_names": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "c8dbde63bc12bfe95172fc111f79b56939d631a4",
-          "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-          "source": "Apple：Newsroom（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:05.481000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_d5486029",
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "primary_url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "source_count": 1,
-      "source_names": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "6a0ea830dd170b70f58e38851ed99cc71883d08a",
-          "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-          "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-          "source": "Apple：Newsroom（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:50:47.609000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_861d64a4",
-      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-      "primary_url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-      "source_count": 1,
-      "source_names": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "840838d1e0f4db308bedbb6d288147665214a540",
-          "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-          "source": "Apple：Newsroom（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:30:06.059000Z"
         }
       ],
       "item_count": 1,
@@ -1394,28 +1315,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_11d6ae78",
-      "title": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You cou...",
-      "url": "https://x.com/levie/status/2097738533297689012",
-      "primary_url": "https://x.com/levie/status/2097738533297689012",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "b98d3817f750a2c17687b0b19f73851bca30810f",
-          "title": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You cou...",
-          "url": "https://x.com/levie/status/2097738533297689012",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-09T17:26:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_3aead6fb",
       "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
       "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
@@ -1423,7 +1322,7 @@
       "source_count": 2,
       "source_names": [
         "The Verge",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1435,11 +1334,11 @@
           "published_at": "2026-09-10T11:00:57Z"
         },
         {
-          "id": "9dd30e6b8abf8dee1920a75c640d5f49cd14fbd2",
+          "id": "6c7670f9fe6018d6d28052ec4e5ae4e9ce6aa4b0",
           "title": "Mathematicians want proof OpenAI didn't use their work",
           "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T11:18:58Z"
         }
       ],
@@ -1476,6 +1375,50 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_064fbceb",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "primary_url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "9d8e296d436ef1048f62883387a741f5cf676a6f",
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T17:54:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f804a575",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
+      "primary_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1eb89fabea48003cdda919441de5b504ed644dee",
+          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+          "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T17:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_0ca2ef9c",
@@ -1568,28 +1511,6 @@
           "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_961eb36b",
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
-      "primary_url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f613d0abea5a05615f630bc390cb662fcb8c0d2e",
-          "title": "AI agents are flooding public services with new requests",
-          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T14:53:50Z"
         }
       ],
       "item_count": 1,
@@ -2396,6 +2317,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_aa2ea623",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "primary_url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "07342a3205651afb4e5aa031a7be4b1c194a2a2c",
+          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b08ed863",
       "title": "Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI",
       "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
@@ -2764,28 +2707,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_a16c6e09",
-      "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "primary_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "ee4c55c9c7db2aa95d4e5466c9ea72444ddb37c3",
-          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T00:00:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_30d6f05b",
       "title": "AI 研究人员估算 150 万美元的“学术税”",
       "url": "https://www.nature.com/articles/d41586-026-02026-1",
@@ -2868,28 +2789,6 @@
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-09-09T21:22:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_919df85a",
-      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
-      "primary_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9ce585ce7e2e28c2b77b95218af14ecbea36cf91",
-          "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T20:24:48Z"
         }
       ],
       "item_count": 1,
@@ -2984,6 +2883,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_18f173ad",
+      "title": "Apple 推出配备 AI 升级的 Watch Series 12 和 Watch Ultra 4，可帮助您回顾一天的生活",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+      "primary_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1aac8f6b75de4cc71ba01a509e4448fba84f9e66",
+          "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+          "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-09T18:08:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_230d4895",
       "title": "Apple 有一种新方法可以证明你的 iPhone 照片不是 AI 处理的",
       "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
@@ -3011,94 +2932,6 @@
         }
       ],
       "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d4c361bf",
-      "title": "iOS 27 将于 9 月 14 日发布，搭载 Siri AI",
-      "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-      "primary_url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "c6c303da0557b77edcb6801ba6f23241b93543fb",
-          "title": "iOS 27 launches on September 14th with Siri AI",
-          "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T17:41:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_20be4e14",
-      "title": "Apple Watch Series 12 配备始终在线的 Siri，可让 AI 回顾您的一天",
-      "url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-      "primary_url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "41a329810a98b64141218e072fd021ac428fd930",
-          "title": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-          "url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T17:37:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b9df75c9",
-      "title": "苹果首席执行官 John Ternus 表示，最好的人工智能设备仍然是 iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
-      "primary_url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "741a468b11e3e2b60aa04d63276cf1eff4415860",
-          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T17:36:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6004f692",
-      "title": "微软为学校制定新的人工智能隐私规则",
-      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "primary_url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "2f4edf6527c917be843e1f0a8bffe57028580166",
-          "title": "Microsoft has new AI privacy rules for schools",
-          "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-09T17:07:48Z"
-        }
-      ],
-      "item_count": 1,
       "score": 9720
     },
     {
@@ -3142,6 +2975,37 @@
       "score": 9580
     },
     {
+      "story_id": "story_98b38ad8",
+      "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+      "url": "https://cognition.com/blog/swe-2",
+      "primary_url": "https://cognition.com/blog/swe-2",
+      "source_count": 2,
+      "source_names": [
+        "cognition.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "188f61c192a18fdd9c4ec28327ac55253c69a170",
+          "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "cognition.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-10T17:27:36.339000Z"
+        },
+        {
+          "id": "d8717d7197b1c2434441f1afed9bd28ad065c44e",
+          "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-10T15:29:47Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_e04e915e",
       "title": "关于研究人员能否将未发表的数学成果托付给OpenAI，仍有更多疑问",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
@@ -3149,7 +3013,7 @@
       "source_count": 2,
       "source_names": [
         "mathstodon.xyz",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3161,11 +3025,11 @@
           "published_at": "2026-09-10T16:55:27.117000Z"
         },
         {
-          "id": "d483e8545c984848e0e82a00d8872fd1fa986e91",
+          "id": "5dc460967392dc56e20d290ab754feae1f22f16f",
           "title": "More questions about whether researchers can trust OpenAI with unpublished math",
           "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-10T06:49:43Z"
         }
       ],
@@ -3180,7 +3044,7 @@
       "source_count": 2,
       "source_names": [
         "news.ycombinator.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3192,11 +3056,11 @@
           "published_at": "2026-09-10T14:32:55.029000Z"
         },
         {
-          "id": "4e827bd763bd8bea00608a8d55771a97554af45b",
+          "id": "7ff1ed8e944dfb18cbc63d0b0cf145b73f43d108",
           "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
           "url": "https://news.ycombinator.com/item?id=49643556",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-10T13:39:53Z"
         }
       ],
@@ -3211,7 +3075,7 @@
       "source_count": 2,
       "source_names": [
         "bsky.app",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3223,11 +3087,11 @@
           "published_at": "2026-09-10T14:17:31.971000Z"
         },
         {
-          "id": "4e1eddc1b142a89491bbe57e2a151cc5d1b41eae",
+          "id": "2be5e181886e7593285afdd51b07c4a9a0dd41f2",
           "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
           "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-10T13:07:14Z"
         }
       ],
@@ -3242,7 +3106,7 @@
       "source_count": 2,
       "source_names": [
         "twitter.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3254,11 +3118,11 @@
           "published_at": "2026-09-10T07:39:52.730000Z"
         },
         {
-          "id": "610fef4778740e51d0e253986e11c00fb4128685",
+          "id": "18b44c494951aae6c7ca2c5bb7dcef6b05d7e893",
           "title": "DeepSeek v4.1 Flash",
           "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T06:11:05Z"
         }
       ],
@@ -3304,7 +3168,7 @@
       "source_count": 2,
       "source_names": [
         "www.engadget.com",
-        "Engadget"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3316,12 +3180,12 @@
           "published_at": "2026-09-10T01:00:14.760000Z"
         },
         {
-          "id": "259916d53d2e233b763fd7e7ebb57576f0b90b28",
+          "id": "f9e026e138f2ac35174404dcd7842370d4df25b0",
           "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
           "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
-          "source": "Engadget",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-09-09T22:52:49Z"
+          "published_at": "2026-09-09T23:57:29Z"
         }
       ],
       "item_count": 2,
@@ -3359,35 +3223,180 @@
       "score": 9570
     },
     {
-      "story_id": "story_da8be70e",
-      "title": "Qwen 3.8 遵循 GPT-5.5 Pro 的推理预填充机制",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "primary_url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "source_count": 2,
+      "story_id": "story_27f5d3dd",
+      "title": "Anthropic表示已阻止了可能用于制造生物武器的企图 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_count": 1,
       "source_names": [
-        "gist.github.com",
-        "HN Algolia · AI 24h"
+        "news.google.com"
       ],
       "sources": [
         {
-          "id": "53738d83b4d2eff7a64ce56af22917c20e080d26",
-          "title": "Qwen 3.8 遵循 GPT-5.5 Pro 的推理预填充机制",
-          "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-          "source": "gist.github.com",
+          "id": "8102e61f48f5b986a1ba651147e03cf973ee8439",
+          "title": "Anthropic表示已阻止了可能用于制造生物武器的企图 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "site_id": "buzzing",
-          "published_at": "2026-09-09T20:46:59.030000Z"
-        },
-        {
-          "id": "58c259d38c943aa8e8c51394aa88af8c3c0134b9",
-          "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-          "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-09T17:24:28Z"
+          "published_at": "2026-09-10T17:43:37.812000Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b3de948a",
+      "title": "Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons (Dustin Volz/New York Times)",
+      "url": "https://www.techmeme.com/260910/p28",
+      "primary_url": "https://www.techmeme.com/260910/p28",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "f0d8cb286562d9e326d516ae32150930298bfb7d",
+          "title": "Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons (Dustin Volz/New York Times)",
+          "url": "https://www.techmeme.com/260910/p28",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T17:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5d5b1338",
+      "title": "Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more (Anthropic)",
+      "url": "https://www.techmeme.com/260910/p27",
+      "primary_url": "https://www.techmeme.com/260910/p27",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "0741f896233fd16c10c93a53962e20bb78602351",
+          "title": "Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more (Anthropic)",
+          "url": "https://www.techmeme.com/260910/p27",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T17:21:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_99b8eb47",
+      "title": "Euno raises $23m to give enterprise AI agents the context they lack",
+      "url": "https://thenextweb.com/news/euno-raises-23m-series-a-n47-ai-agent-context-platform",
+      "primary_url": "https://thenextweb.com/news/euno-raises-23m-series-a-n47-ai-agent-context-platform",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "158541955d6df273370c2df6103814a6ea780a5d",
+          "title": "Euno raises $23m to give enterprise AI agents the context they lack",
+          "url": "https://thenextweb.com/news/euno-raises-23m-series-a-n47-ai-agent-context-platform",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T17:11:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3555de5b",
+      "title": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code",
+      "url": "https://www.techradar.com/pro/even-microsofts-own-software-teams-are-struggling-with-the-avalanche-of-ai-generated-code",
+      "primary_url": "https://www.techradar.com/pro/even-microsofts-own-software-teams-are-struggling-with-the-avalanche-of-ai-generated-code",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "497ae5e4c543510eaf930f2a8bad6eb1530026cc",
+          "title": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code",
+          "url": "https://www.techradar.com/pro/even-microsofts-own-software-teams-are-struggling-with-the-avalanche-of-ai-generated-code",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T17:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_80bc7940",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "primary_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1abe4745202d4ad3dcb301ef61bf156e7275f1ce",
+          "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+          "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-10T17:04:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c9eef624",
+      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+      "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform",
+      "primary_url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "a09da87f8e4a6b26e20979164b0c9f83080e6243",
+          "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+          "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T17:01:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1a9c2e88",
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "primary_url": "https://tokenstead.ai/models/swe-2",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "6eaa96af7e942a35a8b99a36b6cd74a152a82c37",
+          "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+          "url": "https://tokenstead.ai/models/swe-2",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T16:52:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_f3fe1f63",
@@ -3406,6 +3415,50 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-09-10T16:49:55.129000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d4d12e04",
+      "title": "Top Pentagon official dismisses viral AI warning from an Anthropic researcher",
+      "url": "https://thenextweb.com/news/pentagon-anthropic-eu-defence-gap",
+      "primary_url": "https://thenextweb.com/news/pentagon-anthropic-eu-defence-gap",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "aa3f270d1efbb85861ab4e3a887ee4d38a5136fe",
+          "title": "Top Pentagon official dismisses viral AI warning from an Anthropic researcher",
+          "url": "https://thenextweb.com/news/pentagon-anthropic-eu-defence-gap",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T16:38:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1d5ec16e",
+      "title": "Show HN: Nola – a TypeScript superset where LLM inference is a language feature",
+      "url": "https://nola.sh",
+      "primary_url": "https://nola.sh",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "e3678083a1c42341f8952469ff072153827177aa",
+          "title": "Show HN: Nola – a TypeScript superset where LLM inference is a language feature",
+          "url": "https://nola.sh",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-10T16:33:27Z"
         }
       ],
       "item_count": 1,
@@ -3462,15 +3515,15 @@
       "primary_url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "3085988be41399570d52466ef1b2ce42401c8a05",
+          "id": "783f537cd68ae29a203270897dd7ba44fa1b9d0a",
           "title": "One resignation turned the embers of AI fear into a wildfire",
           "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-10T16:09:43Z"
         }
       ],
@@ -3588,6 +3641,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c6d31716",
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "url": "https://usefeyn.com/blog/multimatte",
+      "primary_url": "https://usefeyn.com/blog/multimatte",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "6b5647fdfef701c04ed48ecaf13ff0f14e19eed5",
+          "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+          "url": "https://usefeyn.com/blog/multimatte",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-10T15:50:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_22ecd93b",
       "title": "The 'Godfather of AI' says it's not 'unreasonable' to believe there's a 10% chance the technology will end humanity",
       "url": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-human-extinction-odds-2026-9",
@@ -3626,28 +3701,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-10T15:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_98b38ad8",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "primary_url": "https://cognition.com/blog/swe-2",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "015ac4fd4e004d583007c06390e191e976e3c3c5",
-          "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-          "url": "https://cognition.com/blog/swe-2",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-10T15:29:47Z"
         }
       ],
       "item_count": 1,
@@ -3714,6 +3767,28 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_961eb36b",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+      "primary_url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3c0817e6840cd63cbecd03b9683483297e75854c",
+          "title": "AI agents are flooding public services with new requests",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T14:53:50Z"
         }
       ],
       "item_count": 1,
@@ -3836,15 +3911,15 @@
       "primary_url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "78044aaddbfa4d57f47f4d1fb55c3154239bbc66",
+          "id": "dbee8b3071904c0736727eb4d0ef1ef74f107c16",
           "title": "Amazon pilots ad services in ChatGPT",
           "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-10T14:13:09Z"
         }
       ],
@@ -5024,15 +5099,15 @@
       "primary_url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "9c8815d8badc19d63ca0ef8ba27ca4df3a03c27a",
+          "id": "03d096afe53a497b6a865149842cbab3584375d9",
           "title": "OpenAI have no mathematicians capable of understanding what they put out",
           "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-10T05:01:50Z"
         }
       ],
@@ -5144,6 +5219,28 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-09-10T00:48:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a16c6e09",
+      "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+      "primary_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "25610fb1e0bd84a90be88593aaa9abfd417b3f6d",
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-10T00:00:37Z"
         }
       ],
       "item_count": 1,
@@ -5326,6 +5423,50 @@
       "score": 7
     },
     {
+      "story_id": "story_da8be70e",
+      "title": "Qwen 3.8 遵循 GPT-5.5 Pro 的推理预填充机制",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "primary_url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "source_count": 1,
+      "source_names": [
+        "gist.github.com"
+      ],
+      "sources": [
+        {
+          "id": "53738d83b4d2eff7a64ce56af22917c20e080d26",
+          "title": "Qwen 3.8 遵循 GPT-5.5 Pro 的推理预填充机制",
+          "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+          "source": "gist.github.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-09T20:46:59.030000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_919df85a",
+      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+      "primary_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4506121b12312c7aa11f8636bb0d574b2908eb77",
+          "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T20:24:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_184d6387",
       "title": "他帮助 OpenAI 和 Anthropic 构建了强大的人工智能。现在他担心它会杀了我们",
       "url": "https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon",
@@ -5414,242 +5555,22 @@
       "score": 7
     },
     {
-      "story_id": "story_18f173ad",
-      "title": "Apple 推出配备 AI 升级的 Watch Series 12 和 Watch Ultra 4，可帮助您回顾一天的生活",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-      "primary_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "20840351bdfad2e5d554ca9fb5fba674d742c0bd",
-          "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-          "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T18:08:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f2fa6d32",
-      "title": "Show HN：自托管公司操作系统、各部门的 Claude Code 和 Codex 代理",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "primary_url": "https://github.com/OtoDock/oto-dock",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "0e5e71b2e12481a61dac79cc5601be4a8e104f32",
-          "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-          "url": "https://github.com/OtoDock/oto-dock",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-09T17:57:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aaf3bd29",
-      "title": "Sorry humanoid robots, the real highlight of IFA 2026 were the robot lawn mowers",
-      "url": "https://mashable.com/tech/ifa-2026-robot-lawn-mowers",
-      "primary_url": "https://mashable.com/tech/ifa-2026-robot-lawn-mowers",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "9253727b02da22531c3a29e340a7ca7a99a2c70b",
-          "title": "Sorry humanoid robots, the real highlight of IFA 2026 were the robot lawn mowers",
-          "url": "https://mashable.com/tech/ifa-2026-robot-lawn-mowers",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T17:23:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d4344570",
-      "title": "我的人工智能思维模型在 9 月 8 日崩溃了",
-      "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
-      "primary_url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
+      "story_id": "story_e1c89211",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
       "source_count": 1,
       "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "60230fe06e84fc3080de1d5b4fbec7d85fb95d82",
-          "title": "My Mental Model of AI Broke on September 8",
-          "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
+          "id": "f95cd5c91a711da186f99b1d6b52e1e4e48d49fa",
+          "title": "An alignment assessment of recent cybersecurity incidents",
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-09-09T17:18:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8b2b7a6a",
-      "title": "越来越多的证据表明自动驾驶汽车可以拯救生命",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "primary_url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "bc582cf86d61c08e4d29c7d7da0104aee34172bb",
-          "title": "Growing proof that autonomous cars save lives",
-          "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-09T17:14:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d203a66a",
-      "title": "人类研究人员对人工智能发出警报加速",
-      "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-      "primary_url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "bcd49344864f7ab20e73b356f0ddbd0b7ebbaa97",
-          "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration",
-          "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T17:14:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_543ba013",
-      "title": "苹果终于推出 Siri AI",
-      "url": "https://mashable.com/tech/siri-ai-beta-apple-intelligence-updates-iphone-event-2026",
-      "primary_url": "https://mashable.com/tech/siri-ai-beta-apple-intelligence-updates-iphone-event-2026",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "0cba3762f4abb07f941a4bcf2ea0d781700cd4ea",
-          "title": "Apple finally launches Siri AI",
-          "url": "https://mashable.com/tech/siri-ai-beta-apple-intelligence-updates-iphone-event-2026",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T17:14:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a12aece0",
-      "title": "程序图：LLM 代理的自演化执行结构",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "primary_url": "https://arxiv.org/abs/2609.09153",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "0bb4977133c5473f3c939522b82082e914b2e4c3",
-          "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-          "url": "https://arxiv.org/abs/2609.09153",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T17:13:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_07b29eb1",
-      "title": "OpenAI 是把所有人都当傻子了吗？",
-      "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
-      "primary_url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "253ee8a7bcb79f080039a1ed2275cf25cf2bdbda",
-          "title": "Is OpenAI Taking Everyone for Fools?",
-          "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T17:09:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_76ef028b",
-      "title": "OpenAI在数学领域取得的明显突破引发了深刻的问题",
-      "url": "https://www.economist.com/science-and-technology/2026/09/09/openais-apparent-maths-breakthrough-raises-profound-questions",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/09/09/openais-apparent-maths-breakthrough-raises-profound-questions",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "1ecf45078ce6a4fce9ada6e3df2abad502fb1f07",
-          "title": "OpenAI在数学领域取得的明显突破引发了深刻的问题",
-          "url": "https://www.economist.com/science-and-technology/2026/09/09/openais-apparent-maths-breakthrough-raises-profound-questions",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T17:08:36.923000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bd1732c2",
-      "title": "GPT-6 Astra、循环变压器模型与隐式推理",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "primary_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source_count": 1,
-      "source_names": [
-        "magazine.sebastianraschka.com"
-      ],
-      "sources": [
-        {
-          "id": "9f63c505cfd10f2bce0542a93ea540f2d7ebfa1a",
-          "title": "GPT-6 Astra、循环变压器模型与隐式推理",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "magazine.sebastianraschka.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-09T17:08:36.065000Z"
+          "published_at": "2026-09-09T19:03:45Z"
         }
       ],
       "item_count": 1,
