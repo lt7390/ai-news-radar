@@ -33,6 +33,9 @@ scripts/run_radar.sh
 data/update.log
 output/
 
+# Local-only skill copy with machine-specific absolute paths (never commit)
+skills/ai-news-radar-local/
+
 # Local OS/editor noise
 .DS_Store
 .idea/

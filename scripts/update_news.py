@@ -1167,7 +1167,12 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
             break
         try:
             if feedparser is not None:
-                parsed = feedparser.parse(feed_url)
+                # A6（2026-09-11）：feedparser 直传 URL 会自行发起无超时请求，
+                # 挂死的子 feed 可拖到 OS TCP 超时，是 40 分钟级尾延迟隐患。
+                # 改为先用 session 带超时取回内容，再交给 feedparser 解析。
+                feed_resp = session.get(feed_url, timeout=20)
+                feed_resp.raise_for_status()
+                parsed = feedparser.parse(feed_resp.content)
                 source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
                 for entry in parsed.entries:
                     if len(out) >= DISCUSSION_FETCH_CAP:
@@ -6481,13 +6486,17 @@ def main() -> int:
     latest_items_all = [record for record in latest_items_all_raw if record.get("ai_score", 0) >= AI_BROAD_RELEVANCE_FLOOR]
     latest_items = [record for record in latest_items_all_raw if record.get("ai_is_related", is_ai_related_record(record))]
     title_cache = load_title_zh_cache(title_cache_path)
+    # A1（2026-09-11）：上游翻译阶段停用。无 key 时每轮最多 110 条串行 Google gtx
+    # 请求（单条 timeout 12s + retry），是 Update data 步骤 30 分钟耗时的主因；
+    # 标题中文化下移到下游简报环节处理。此处预算传 0，不触发任何网络翻译，
+    # 但缓存命中与双语拼接照常工作（title-zh-cache.json 里的旧译文仍可复用）。
     latest_items, latest_items_all, title_cache = add_bilingual_fields(
         latest_items,
         latest_items_all,
         session,
         title_cache,
-        max_new_translations=max(0, args.translate_max_new),
-        max_new_translations_all=max(0, args.translate_max_new_broad),
+        max_new_translations=0,
+        max_new_translations_all=0,
     )
     creator_items_ai = build_creator_hot_items(archive, now, ai_only=True)
     creator_items_all = build_creator_hot_items(archive, now, ai_only=False)
