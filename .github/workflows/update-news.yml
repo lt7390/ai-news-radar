@@ -9,11 +9,14 @@ on:
         default: false
         type: boolean
   schedule:
-    # 每小时一次（UTC 整点，即北京时间每个整点）。公开仓库 Actions 免费，无分钟数限制。
-    - cron: "0 * * * *"
+    # 每 2 小时一次（UTC 偶数整点，即北京时间偶数整点）。公开仓库 Actions 免费，无分钟数
+    # 限制；降频只为削减 data/ 快照提交带来的仓库历史增长，24h 数据窗口下 2 小时粒度
+    # 够用，且本地 pull 也是每 2 小时一次。
+    - cron: "0 */2 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
+  # 保留：防重跑堆积。修复翻译瓶颈后单轮约 1 分钟，几乎不会触发取消。
   cancel-in-progress: true
 
 permissions:
@@ -21,6 +24,8 @@ permissions:
 
 jobs:
   update:
+    # 40 分钟兜底墙：翻译瓶颈修复后单轮约 1 分钟，此处仅给异常回归留裕度。不上调也不
+    # 收紧——免得慢而合法的 run 被误杀、整轮数据白跑。
     timeout-minutes: 40
     runs-on: ubuntu-latest
     steps:
