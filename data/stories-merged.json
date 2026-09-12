@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T11:45:03.134561Z",
+  "generated_at": "2026-09-12T14:25:53.429540Z",
   "window_hours": 24,
-  "total_stories": 198,
+  "total_stories": 177,
   "stories": [
     {
       "story_id": "story_ea5b1933",
@@ -26,28 +26,6 @@
       "score": 10020
     },
     {
-      "story_id": "story_bb3fa770",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_338f50ac",
       "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
       "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
@@ -56,7 +34,7 @@
       "source_names": [
         "Hacker News：AI 热帖",
         "www.minitap.ai",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -76,11 +54,11 @@
           "published_at": "2026-09-12T05:37:39.339000Z"
         },
         {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
           "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
           "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-12T02:39:39Z"
         }
       ],
@@ -96,7 +74,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.rubyhack.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -116,16 +94,47 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "03b4e1c91262e99e34781147780f95781e3efbc9",
           "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "item_count": 3,
       "score": 9980
+    },
+    {
+      "story_id": "story_cb8fa974",
+      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source_count": 2,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "www.dwarkesh.com"
+      ],
+      "sources": [
+        {
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        },
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_41bb568b",
@@ -144,28 +153,6 @@
           "source": "The Verge：AI（RSS）",
           "site_id": "aihot",
           "published_at": "2026-09-12T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c12a137a",
-      "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-      "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "sources": [
-        {
-          "id": "2434f57aa6d0b42bd419536553a0a24035b4c1a8",
-          "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
-          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-          "source": "Simon Willison 博客",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:42:25Z"
         }
       ],
       "item_count": 1,
@@ -254,50 +241,6 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-11T17:21:19.193933Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c527c75a",
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "primary_url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder：AI News（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T13:50:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_7e911a3c",
-      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-      "url": "https://www.aibase.com/news/31001",
-      "primary_url": "https://www.aibase.com/news/31001",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T12:00:52.700779Z"
         }
       ],
       "item_count": 1,
@@ -652,22 +595,44 @@
       "score": 9770
     },
     {
-      "story_id": "story_430ba77d",
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
-      "primary_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
+      "story_id": "story_959ab0fc",
+      "title": "智谱上市后募资，大模型战场变了",
+      "url": "https://www.huxiu.com/article/4890703.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890703.html?f=rss",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "dc20d4215adc602477c343fc0ca071f8d313841d",
-          "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-          "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
-          "source": "Wired",
+          "id": "b6efd83870c02dc49ef5a66c2413558131b01122",
+          "title": "智谱上市后募资，大模型战场变了",
+          "url": "https://www.huxiu.com/article/4890703.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T10:00:00Z"
+          "published_at": "2026-09-12T13:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_32bb7d32",
+      "title": "一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵",
+      "url": "https://m.thepaper.cn/detail/33809347",
+      "primary_url": "https://m.thepaper.cn/detail/33809347",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "444eb786d0fe95c3a1f29c545787d46b0bfad143",
+          "title": "一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵",
+          "url": "https://m.thepaper.cn/detail/33809347",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:46:12Z"
         }
       ],
       "item_count": 1,
@@ -932,6 +897,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-12T05:33:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_762ec877",
+      "title": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal",
+      "url": "https://www.france24.com/en/europe/20260912-battle-over-pervert-ai-glasses-in-europe-s-line-of-sight-after-scandal",
+      "primary_url": "https://www.france24.com/en/europe/20260912-battle-over-pervert-ai-glasses-in-europe-s-line-of-sight-after-scandal",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "1eee93094f28f342128cc2881030ac778c820459",
+          "title": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal",
+          "url": "https://www.france24.com/en/europe/20260912-battle-over-pervert-ai-glasses-in-europe-s-line-of-sight-after-scandal",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T05:15:12Z"
         }
       ],
       "item_count": 1,
@@ -1548,6 +1535,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_8c1d3b79",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "32856c0046e7d424bc8f6b98a6c48686a2b374d5",
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T19:34:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_62218c27",
       "title": "Deadly DRC school fire prompts calls for safety reforms",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
@@ -1570,28 +1579,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_e248d336",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
-      "primary_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1b5f59de5799cf3a37255c283271e9bb48724f46",
-          "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-          "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_c9a3ff3b",
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
       "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems",
@@ -1608,28 +1595,6 @@
           "source": "Wired",
           "site_id": "opmlrss",
           "published_at": "2026-09-11T18:59:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_2d388db2",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
-      "primary_url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "16d661ca2a269b84ce89760e7a2706966ce3e43c",
-          "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-          "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T18:58:01Z"
         }
       ],
       "item_count": 1,
@@ -1674,6 +1639,28 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-11T18:43:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_33502708",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+      "primary_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2f1bf0fa9ad66551f9a85423f7ebc9b49c556976",
+          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T16:46:25Z"
         }
       ],
       "item_count": 1,
@@ -1790,22 +1777,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_00e2e23b",
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
-      "primary_url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
+      "story_id": "story_bb3fa770",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "OpenAI News"
       ],
       "sources": [
         {
-          "id": "dea877c04f6439271b8aefdd23044053b0d90f30",
-          "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-          "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
-          "source": "Wired",
+          "id": "ba7e92d26d06cbba642bd3bc216fff9f69558b9d",
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "source": "OpenAI News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-11T15:00:00Z"
+          "published_at": "2026-09-11T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1840,213 +1827,6 @@
       ],
       "item_count": 2,
       "score": 9720
-    },
-    {
-      "story_id": "story_d3e4d96e",
-      "title": "More US lawmakers seek new AI rules after researchers warn of human extinction",
-      "url": "https://www.france24.com/en/video/20260911-more-us-lawmakers-seek-new-ai-rules-after-researchers-warn-of-human-extinction",
-      "primary_url": "https://www.france24.com/en/video/20260911-more-us-lawmakers-seek-new-ai-rules-after-researchers-warn-of-human-extinction",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "4234ddfdb225870ebf8b482e9cf990f561d3e9ab",
-          "title": "More US lawmakers seek new AI rules after researchers warn of human extinction",
-          "url": "https://www.france24.com/en/video/20260911-more-us-lawmakers-seek-new-ai-rules-after-researchers-warn-of-human-extinction",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T14:10:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cc91bd38",
-      "title": "打卡服贸会丨AI赋能 让生活更美好",
-      "url": "http://www.news.cn/20260911/8e1bd3758e224803bebd2d03f8fa70d1/c.html",
-      "primary_url": "http://www.news.cn/20260911/8e1bd3758e224803bebd2d03f8fa70d1/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
-        {
-          "id": "237948fb5d0b96ca467e32a383694107fcb99135",
-          "title": "打卡服贸会丨AI赋能 让生活更美好",
-          "url": "http://www.news.cn/20260911/8e1bd3758e224803bebd2d03f8fa70d1/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:50:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1a704372",
-      "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-      "url": "https://www.tmtpost.com/8135323.html",
-      "primary_url": "https://www.tmtpost.com/8135323.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "4caf79e502a995319679fd130d564212673d9cb6",
-          "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-          "url": "https://www.tmtpost.com/8135323.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:15:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_79a8c48c",
-      "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
-      "url": "https://www.tmtpost.com/8137504.html",
-      "primary_url": "https://www.tmtpost.com/8137504.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "76e6c899bcd83dc851cf730ddbab7e9d6d03f0f3",
-          "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
-          "url": "https://www.tmtpost.com/8137504.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:12:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_384d399b",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-      "primary_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "228be5abb72b21d2048ea68af051e65c8594a26f",
-          "title": "Claude users found ways around safeguards for bioweapons research",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:02:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_232d5e8c",
-      "title": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”",
-      "url": "https://www.tmtpost.com/8135584.html",
-      "primary_url": "https://www.tmtpost.com/8135584.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "b37c5d9b6839f0fadc6c0df2437132158573f112",
-          "title": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”",
-          "url": "https://www.tmtpost.com/8135584.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T12:58:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a87f30c9",
-      "title": "AI浪潮澎湃，在服贸会感受数字服务新趋势",
-      "url": "http://www.news.cn/20260911/bebc70763ec24b1b98a0d9d5cc7dfbc6/c.html",
-      "primary_url": "http://www.news.cn/20260911/bebc70763ec24b1b98a0d9d5cc7dfbc6/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
-        {
-          "id": "9c9782d23ee7d74be6deb31c62547195b3047987",
-          "title": "AI浪潮澎湃，在服贸会感受数字服务新趋势",
-          "url": "http://www.news.cn/20260911/bebc70763ec24b1b98a0d9d5cc7dfbc6/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T12:51:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7d7dbe43",
-      "title": "不靠AI驱动增长：8只精选个股",
-      "url": "https://www.tmtpost.com/8137427.html",
-      "primary_url": "https://www.tmtpost.com/8137427.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "19ae829aa033149244b37a6d5adf1b83ccedf785",
-          "title": "不靠AI驱动增长：8只精选个股",
-          "url": "https://www.tmtpost.com/8137427.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T12:36:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cb8fa974",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source_count": 2,
-      "source_names": [
-        "www.dwarkesh.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2444e6f08d025a600006bd958358804fc2d4d595",
-          "title": "AI researchers debate how close we are to recursive self-improvement",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
     },
     {
       "story_id": "story_8ae62f80",
@@ -2087,7 +1867,7 @@
       "source_count": 2,
       "source_names": [
         "sprinklz.io",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2099,11 +1879,11 @@
           "published_at": "2026-09-11T22:02:28.525000Z"
         },
         {
-          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "id": "75ad9663fe2c8e380948d00af638465fca4f3767",
           "title": "Hacker News with reduced priority for AI driven content",
           "url": "https://sprinklz.io/public/pdwt4dve5uai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-11T15:52:49Z"
         }
       ],
@@ -2118,7 +1898,7 @@
       "source_count": 2,
       "source_names": [
         "terrytao.wordpress.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2130,11 +1910,11 @@
           "published_at": "2026-09-11T19:07:02.862000Z"
         },
         {
-          "id": "90a9f01a51043897a1ae39cab395ed7f6b3b807e",
+          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
           "title": "A Misalignment of AI in Mathematics",
           "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-11T17:30:26Z"
         }
       ],
@@ -2211,7 +1991,7 @@
       "source_count": 2,
       "source_names": [
         "artificialworlds.net",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2223,11 +2003,11 @@
           "published_at": "2026-09-11T17:48:00.960000Z"
         },
         {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
+          "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
           "title": "Feeling Sad about AI",
           "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-11T16:50:51Z"
         }
       ],
@@ -2304,7 +2084,7 @@
       "source_count": 2,
       "source_names": [
         "huggingface.co",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2316,16 +2096,104 @@
           "published_at": "2026-09-11T16:29:16.989000Z"
         },
         {
-          "id": "1d6027036ce936848bbde7da633378b4b9f2fbeb",
+          "id": "499326b725a984f14220f013e8d45526e7ac1889",
           "title": "HuggingFace: Security.txt",
           "url": "https://huggingface.co/security.txt",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-11T14:38:13Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_5aa4676e",
+      "title": "用 AI 做短剧出海，赚麻了！（附 Skill 及教程）",
+      "url": "https://juejin.cn/post/7684069447021035562",
+      "primary_url": "https://juejin.cn/post/7684069447021035562",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "3f6ed2d16217abd1e638b29a3f7b7cadfcaf4cbf",
+          "title": "用 AI 做短剧出海，赚麻了！（附 Skill 及教程）",
+          "url": "https://juejin.cn/post/7684069447021035562",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T14:25:33.698000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7ca73ab6",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "primary_url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "14bd115cdaa7474a1341a14be79d897795d3b073",
+          "title": "A Mathematical Framework for Transformer Circuits (2021)",
+          "url": "https://transformer-circuits.pub/2021/framework/index.html",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-12T13:56:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a8f2f6a1",
+      "title": "Anthropic称，也门胡塞武装控制区内的用户试图利用人工智能研发先进武器 - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_count": 1,
+      "source_names": [
+        "news.google.com"
+      ],
+      "sources": [
+        {
+          "id": "1bd1c83a8e13e65b16c3d5acfd5fd90b30c4c515",
+          "title": "Anthropic称，也门胡塞武装控制区内的用户试图利用人工智能研发先进武器 - apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T13:42:43.575000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_65c56804",
+      "title": "I started automating Google Keep with Gemini Live; now I can't go back",
+      "url": "https://www.androidpolice.com/started-automating-google-keep-with-gemini-live-now-can-not-go-back",
+      "primary_url": "https://www.androidpolice.com/started-automating-google-keep-with-gemini-live-now-can-not-go-back",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "6d1744656ae3841ad9befcf892eb5006cb27f968",
+          "title": "I started automating Google Keep with Gemini Live; now I can't go back",
+          "url": "https://www.androidpolice.com/started-automating-google-keep-with-gemini-live-now-can-not-go-back",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T12:30:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_fed9e93b",
@@ -2366,6 +2234,28 @@
           "source": "github",
           "site_id": "newsnow",
           "published_at": "2026-09-12T11:44:46.654000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8e7f2ec0",
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11",
+      "primary_url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "48a9298f05c8bd41933818e80b18970536e4c2bc",
+          "title": "Altman tells staff OpenAI is open to slowing AI development",
+          "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T11:33:02Z"
         }
       ],
       "item_count": 1,
@@ -2548,6 +2438,28 @@
       "score": 7
     },
     {
+      "story_id": "story_0bdeeed4",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "74acbc23e07e20f56c65506947964aab5a43afda",
+          "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_1bee8c8c",
       "title": "Nvidia may put $10bn into Anthropic’s IPO, more than Europe’s largest AI round in full",
       "url": "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale",
@@ -2620,15 +2532,15 @@
       "primary_url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3191eea298f6f33154b6acbb36d6c017dadb7c5d",
+          "id": "b9fb1d001b3625b557ba839f63e20543c308177f",
           "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
           "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-12T10:49:22Z"
         }
       ],
@@ -2672,6 +2584,28 @@
           "title": "The week the AI freakout went mainstream",
           "url": "https://www.vox.com/politics/502717/ai-freakout-mainstream-openai-anthropic-humans",
           "source": "Recode",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_430ba77d",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
+      "primary_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "0854ab5b3aa3de6fffda2b423eef7f79565853f6",
+          "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+          "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs",
+          "source": "Wired",
           "site_id": "techurls",
           "published_at": "2026-09-12T10:00:00Z"
         }
@@ -2922,6 +2856,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c12a137a",
+      "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+      "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "129bb026d24ae5537abad88ea1dc4a04cc261e74",
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_cd9aa5a5",
       "title": "Anthropic称Claude曾被用于武器研发、间谍活动和网络行动 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -3038,15 +2994,15 @@
       "primary_url": "https://github.com/zachsaw/graphify-csharp",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "5a1b0ba212efb6e4b222e9be703fc646ace1efbc",
+          "id": "b0567efeb05e495d74a477c41a25d3c44a4d948a",
           "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
           "url": "https://github.com/zachsaw/graphify-csharp",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-12T00:16:10Z"
         }
       ],
@@ -3082,15 +3038,15 @@
       "primary_url": "https://www.firecrawl.dev/blog/ai-software-factory",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "3bdccd5054d3b3b04766485349f8a8add2983c93",
+          "id": "adffd72c15416146dcc52e74702e2eeb708d4e6e",
           "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
           "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-11T23:43:53Z"
         }
       ],
@@ -3434,15 +3390,15 @@
       "primary_url": "https://txt.hellman.io",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "abee8d47c8907d8f8261f5c2e5146a5c8d5a1bec",
+          "id": "1bbf7f0565d4f83a90a19cf82d613c4251aaceed",
           "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
           "url": "https://txt.hellman.io",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-11T19:46:43Z"
         }
       ],
@@ -3516,22 +3472,44 @@
       "score": 7
     },
     {
-      "story_id": "story_8c1d3b79",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "story_id": "story_e248d336",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
+      "primary_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
       "source_count": 1,
       "source_names": [
-        "Ars Technica"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "ceab2ecd5d593b06e7c7eaa8ecf418c40b0deef5",
-          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
-          "source": "Ars Technica",
+          "id": "a31d88abc13d5e6617b7782b5827408e858a5982",
+          "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+          "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
+          "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-09-11T19:34:09Z"
+          "published_at": "2026-09-11T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2d388db2",
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
+      "primary_url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3692b9f75f33588ad51c3c91905657ec5d9c0093",
+          "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+          "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:58:01Z"
         }
       ],
       "item_count": 1,
@@ -3802,28 +3780,6 @@
       "score": 7
     },
     {
-      "story_id": "story_33502708",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-      "primary_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0cfb1df2b918793e99d0e809fdab963305ad99b5",
-          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:46:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_2f7e7ef8",
       "title": "AI agents are learning to spend money. Who will handle the payments?",
       "url": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard",
@@ -4052,6 +4008,28 @@
       "score": 7
     },
     {
+      "story_id": "story_00e2e23b",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
+      "primary_url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "0eaa23f6fbb044615e477c2afe3f9261ff6bb852",
+          "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+          "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f9ecb989",
       "title": "Michael Burry says the best defense against dollar doom and AI disasters might be a fine Bordeaux",
       "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
@@ -4090,446 +4068,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-11T14:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e3fe74e5",
-      "title": "人工智能正在摧毁我们所说的“信任”",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust",
-      "primary_url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust",
-      "source_count": 1,
-      "source_names": [
-        "terriblesoftware.org"
-      ],
-      "sources": [
-        {
-          "id": "2643676bb9e0d28a282a98436c6b3769ad9f3ccb",
-          "title": "人工智能正在摧毁我们所说的“信任”",
-          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust",
-          "source": "terriblesoftware.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T14:20:56.844000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4e0e1230",
-      "title": "A Tale of Two Commit Messages (Claude vs. Codex)",
-      "url": "https://devcodehack.com/a-tale-of-two-commit-messages",
-      "primary_url": "https://devcodehack.com/a-tale-of-two-commit-messages",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "93fe36a6aab81f77ac6c75f4187517ad99ac5cae",
-          "title": "A Tale of Two Commit Messages (Claude vs. Codex)",
-          "url": "https://devcodehack.com/a-tale-of-two-commit-messages",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-11T14:13:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_645b1e3d",
-      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-      "primary_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "a7a8cec3c253264f703d0fdfb4bf8757fa0bc77f",
-          "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-          "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T14:07:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_02a2c03f",
-      "title": "Ex-Biden officials deny Marc Andreessen's claims that they discussed secret plans to ban AI startups at a May 2024 White House meeting, pushing him toward Trump (Politico)",
-      "url": "https://www.techmeme.com/260911/p17",
-      "primary_url": "https://www.techmeme.com/260911/p17",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "d2a4e1d52a2cb4d951afefbc452e38cc9aeab2f8",
-          "title": "Ex-Biden officials deny Marc Andreessen's claims that they discussed secret plans to ban AI startups at a May 2024 White House meeting, pushing him toward Trump (Politico)",
-          "url": "https://www.techmeme.com/260911/p17",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:01:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_36babcb7",
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "url": "https://clawfight.ai/agents.md",
-      "primary_url": "https://clawfight.ai/agents.md",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "ee4599a5c170cef207262d27716b52dc57bac541",
-          "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-          "url": "https://clawfight.ai/agents.md",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-11T13:54:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7633aab4",
-      "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
-      "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-      "primary_url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "7a60dc5fae898bd47c204e35d9c4eed223e72a17",
-          "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
-          "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:43:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1d97e0a2",
-      "title": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "primary_url": "https://news.ycombinator.com/item?id=49657850",
-      "source_count": 1,
-      "source_names": [
-        "news.ycombinator.com"
-      ],
-      "sources": [
-        {
-          "id": "da91bf7c1648222347038802a57db5814168115a",
-          "title": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？",
-          "url": "https://news.ycombinator.com/item?id=49657850",
-          "source": "news.ycombinator.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T13:33:20.165000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9554be11",
-      "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
-      "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-      "primary_url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "31681a8cfb32fc2f14fa6a707eb7f288c1a32314",
-          "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
-          "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bdfd6bdf",
-      "title": "The Atlantic fixed its business. Then AI came for media.",
-      "url": "https://www.businessinsider.com/atlantic-nicholas-thompson-laurene-powell-jobs-openai-creator-peter-kafka-2026-9",
-      "primary_url": "https://www.businessinsider.com/atlantic-nicholas-thompson-laurene-powell-jobs-openai-creator-peter-kafka-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "e010e2095da6803ad186a2098899e55ea6f9e3ee",
-          "title": "The Atlantic fixed its business. Then AI came for media.",
-          "url": "https://www.businessinsider.com/atlantic-nicholas-thompson-laurene-powell-jobs-openai-creator-peter-kafka-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:24:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cf46c477",
-      "title": "Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)",
-      "url": "https://www.techmeme.com/260911/p16",
-      "primary_url": "https://www.techmeme.com/260911/p16",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "0f266a81e4e855572f985f7341202dda33602088",
-          "title": "Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)",
-          "url": "https://www.techmeme.com/260911/p16",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_14be4e88",
-      "title": "Amazon lets its advertisers buy ads in ChatGPT in a pilot with OpenAI",
-      "url": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
-      "primary_url": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "848fcdf0306c59b1e330bfdafb2c7538f485e128",
-          "title": "Amazon lets its advertisers buy ads in ChatGPT in a pilot with OpenAI",
-          "url": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7dc35a13",
-      "title": "Trump dismisses AI extinction fears as lab staff urge a slowdown",
-      "url": "https://thenextweb.com/news/trump-ai-extinction-risk-lab-staff-eu-china",
-      "primary_url": "https://thenextweb.com/news/trump-ai-extinction-risk-lab-staff-eu-china",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ec48d6b19f90e5afade0a5b989c49a29c6e065b3",
-          "title": "Trump dismisses AI extinction fears as lab staff urge a slowdown",
-          "url": "https://thenextweb.com/news/trump-ai-extinction-risk-lab-staff-eu-china",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T12:51:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2549abda",
-      "title": "Does this AI comic make you laugh?",
-      "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "8ffe7e45b385c1fca712da525659ffbd2bf620c8",
-          "title": "Does this AI comic make you laugh?",
-          "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T12:49:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9f835c71",
-      "title": "Lovable's CEO weighed in on warnings that AI could wipe out humanity",
-      "url": "https://www.businessinsider.com/lovables-ceo-on-warning-ai-could-wipe-out-humanity-2026-9",
-      "primary_url": "https://www.businessinsider.com/lovables-ceo-on-warning-ai-could-wipe-out-humanity-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "ebb42850a0cc82deaf54c2f26fdd35e7f83e3b93",
-          "title": "Lovable's CEO weighed in on warnings that AI could wipe out humanity",
-          "url": "https://www.businessinsider.com/lovables-ceo-on-warning-ai-could-wipe-out-humanity-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T12:49:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_44171de0",
-      "title": "“Waymo效应”：人工智能如何悄然削弱科研协作",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "primary_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "source_count": 1,
-      "source_names": [
-        "www.researchagenda.news"
-      ],
-      "sources": [
-        {
-          "id": "cadce07eccceb6b3e04ece4c5972ebf5bb0f53c7",
-          "title": "“Waymo效应”：人工智能如何悄然削弱科研协作",
-          "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-          "source": "www.researchagenda.news",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:46:10.739000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cb1f3ebf",
-      "title": "克劳德不再为未成年人提供服务",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "primary_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "source_count": 1,
-      "source_names": [
-        "support.claude.com"
-      ],
-      "sources": [
-        {
-          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
-          "title": "克劳德不再为未成年人提供服务",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "support.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:14:15.973000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_28f9c20a",
-      "title": "The UAE is splitting up its $30bn AI data centre after Iran named it as a target",
-      "url": "https://thenextweb.com/news/uae-stargate-data-centre-redesign-iran-threat-underground",
-      "primary_url": "https://thenextweb.com/news/uae-stargate-data-centre-redesign-iran-threat-underground",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "2a8cfb82fc7a41a4b3daef216963b7b2ccf3829a",
-          "title": "The UAE is splitting up its $30bn AI data centre after Iran named it as a target",
-          "url": "https://thenextweb.com/news/uae-stargate-data-centre-redesign-iran-threat-underground",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T12:02:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7bb8121a",
-      "title": "easyspecs.ai",
-      "url": "https://www.producthunt.com/products/easyspecs-ai",
-      "primary_url": "https://www.producthunt.com/products/easyspecs-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "39c90d5f3d553d239a83fc6a73b7c135ffafd01e",
-          "title": "easyspecs.ai",
-          "url": "https://www.producthunt.com/products/easyspecs-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-11T12:01:36.318000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_352163fd",
-      "title": "jihe520 /      MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "primary_url": "https://github.com/jihe520/MathModelAgent",
-      "source_count": 1,
-      "source_names": [
-        "github"
-      ],
-      "sources": [
-        {
-          "id": "e70ea21736497c0cc4d3cb61344692ab4864292b",
-          "title": "jihe520 /      MathModelAgent",
-          "url": "https://github.com/jihe520/MathModelAgent",
-          "source": "github",
-          "site_id": "newsnow",
-          "published_at": "2026-09-11T12:01:36.318000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_26943c6b",
-      "title": "Narwal’s newest lineup features powerful steam mopping and a $799 robot vac — here’s all we know",
-      "url": "https://mashable.com/life/narwal-new-vacuums-launch",
-      "primary_url": "https://mashable.com/life/narwal-new-vacuums-launch",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "2e37b34241841502b3eaf78e940ef9832deb6d2b",
-          "title": "Narwal’s newest lineup features powerful steam mopping and a $799 robot vac — here’s all we know",
-          "url": "https://mashable.com/life/narwal-new-vacuums-launch",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T11:55:03Z"
         }
       ],
       "item_count": 1,
