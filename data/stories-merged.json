@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-12T21:44:29.552554Z",
+  "generated_at": "2026-09-12T23:28:19.934724Z",
   "window_hours": 24,
-  "total_stories": 155,
+  "total_stories": 142,
   "stories": [
+    {
+      "story_id": "story_ea5b1933",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
     {
       "story_id": "story_aff32640",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
@@ -70,11 +92,10 @@
       "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
       "url": "https://www.rubyhack.ai",
       "primary_url": "https://www.rubyhack.ai",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.rubyhack.ai",
-        "Hacker News · 24h最热"
+        "www.rubyhack.ai"
       ],
       "sources": [
         {
@@ -92,18 +113,10 @@
           "source": "www.rubyhack.ai",
           "site_id": "buzzing",
           "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T23:17:42Z"
         }
       ],
-      "item_count": 3,
-      "score": 9980
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_3909d0b3",
@@ -194,66 +207,22 @@
       "score": 9920
     },
     {
-      "story_id": "story_41bb568b",
-      "title": "The Verge 深度报道：OpenAI 以 88 小时解决 Navier-Stokes 引发数学界信任危机",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "story_id": "story_c12a137a",
+      "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+      "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "Simon Willison 博客"
       ],
       "sources": [
         {
-          "id": "b79e1a0516841cb4722a240608decac6c45944c8",
-          "title": "The Verge 深度报道：OpenAI 以 88 小时解决 Navier-Stokes 引发数学界信任危机",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-          "source": "The Verge：AI（RSS）",
+          "id": "2434f57aa6d0b42bd419536553a0a24035b4c1a8",
+          "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Simon Willison 博客",
           "site_id": "aihot",
-          "published_at": "2026-09-12T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_3e7bd9fd",
-      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-      "url": "https://www.ithome.com/1/001/488.htm",
-      "primary_url": "https://www.ithome.com/1/001/488.htm",
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
-          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-          "url": "https://www.ithome.com/1/001/488.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T23:22:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_5adf07e2",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "primary_url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "source_count": 1,
-      "source_names": [
-        "Baseten 工程博客（网页）"
-      ],
-      "sources": [
-        {
-          "id": "6214dbf734f1f9934cd58866bea92551a875876a",
-          "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-          "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-          "source": "Baseten 工程博客（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T22:01:37Z"
+          "published_at": "2026-09-12T00:42:25Z"
         }
       ],
       "item_count": 1,
@@ -458,48 +427,44 @@
       "score": 9820
     },
     {
-      "story_id": "story_330aa8d1",
-      "title": "we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs",
-      "url": "https://x.com/trq212/status/2098531560643539440",
-      "primary_url": "https://x.com/trq212/status/2098531560643539440",
-      "source_count": 1,
+      "story_id": "story_9276271a",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source_count": 3,
       "source_names": [
-        "Follow Builders · X · Thariq"
+        "The Verge",
+        "Hacker News · 24h最热",
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "0c35de0aa01b3540e2237a350632631c765ba3bc",
-          "title": "we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs",
-          "url": "https://x.com/trq212/status/2098531560643539440",
-          "source": "Follow Builders · X · Thariq",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-11T21:58:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_1a97db63",
-      "title": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly. P...",
-      "url": "https://x.com/rauchg/status/2098531157230969062",
-      "primary_url": "https://x.com/rauchg/status/2098531157230969062",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
+          "id": "38fccf890bc98f8466c4f338ba77063701eeb39e",
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T21:16:28Z"
+        },
         {
-          "id": "a14c532941bbc7a03ce904ea1aba3c27adeebd2f",
-          "title": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly. P...",
-          "url": "https://x.com/rauchg/status/2098531157230969062",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-11T21:56:31Z"
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T20:28:29Z"
+        },
+        {
+          "id": "2ca408ad4c4979517bc464375fbeafeef70e8fcb",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:19:16Z"
         }
       ],
-      "item_count": 1,
-      "score": 9820
+      "item_count": 3,
+      "score": 9780
     },
     {
       "story_id": "story_edc68538",
@@ -564,44 +529,44 @@
       "score": 9770
     },
     {
-      "story_id": "story_ea5b1933",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "story_id": "story_2c650cd0",
+      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "194615d6da9d8b193c8a813e9b9f4bfba032d1ec",
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
+          "id": "45c070f6232620ba59440f9ad172e3a941642da6",
+          "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T21:43:24.451538Z"
+          "published_at": "2026-09-12T21:50:00Z"
         }
       ],
       "item_count": 1,
       "score": 9720
     },
     {
-      "story_id": "story_16874924",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "story_id": "story_552eadb7",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "4919c4dadf8e4f03631a62356d11f8177f7b979d",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch",
+          "id": "39686ceaba6cafd8ae317b6a88bd255bac9f6bbf",
+          "title": "OpenAI’s rogue AI tried to hack another company in May",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T20:19:16Z"
+          "published_at": "2026-09-12T21:41:36Z"
         }
       ],
       "item_count": 1,
@@ -638,28 +603,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2c650cd0",
-      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "45c070f6232620ba59440f9ad172e3a941642da6",
-          "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T18:26:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_423571cd",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
@@ -676,6 +619,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-12T16:23:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7708dabb",
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
+      "url": "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree",
+      "primary_url": "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "e30a4b3eea2a7499d3fa2738fd31141522dde106",
+          "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
+          "url": "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:29:10Z"
         }
       ],
       "item_count": 1,
@@ -742,6 +707,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-12T11:46:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_05220bc5",
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
+      "primary_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "8174e51fc12700be4aa6fc0c316308b0eb13354d",
+          "title": "I spent $4,000 on a robot dog from China",
+          "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:00:53Z"
         }
       ],
       "item_count": 1,
@@ -1490,50 +1477,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_43a3fd39",
-      "title": "具身智能是否有泡沫？CEO们等待从“能做”到“能用”，年轻创业者又在押注什么",
-      "url": "https://m.thepaper.cn/detail/34052534",
-      "primary_url": "https://m.thepaper.cn/detail/34052534",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "f1dbadb0d47ca036178e7a6ae1e7ef321ec53e1e",
-          "title": "具身智能是否有泡沫？CEO们等待从“能做”到“能用”，年轻创业者又在押注什么",
-          "url": "https://m.thepaper.cn/detail/34052534",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T23:26:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_01fb8f37",
-      "title": "明查｜这些尼泊尔泥石流中“动物救援”的感人瞬间，可能是AI生成",
-      "url": "https://m.thepaper.cn/detail/34051641",
-      "primary_url": "https://m.thepaper.cn/detail/34051641",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "aa054695c374e4b3d8c3c22a24b66622eb18887a",
-          "title": "明查｜这些尼泊尔泥石流中“动物救援”的感人瞬间，可能是AI生成",
-          "url": "https://m.thepaper.cn/detail/34051641",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T23:25:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_43e294d8",
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
@@ -1602,24 +1545,24 @@
       "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "id": "f1d494e40728b9067d2a7707ef1c7daf58f96190",
           "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        },
-        {
-          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
-          "title": "The worst spam emails: iLands AI agent hustle",
           "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "ed227e764a8d4e139679495e62bc0815b6d625f7",
+          "title": "The worst spam emails: iLands AI agent hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-12T11:13:38Z"
         }
       ],
@@ -1633,15 +1576,15 @@
       "primary_url": "https://withspecific.com/benchmarks/real-swe",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
           "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
@@ -1677,15 +1620,15 @@
       "primary_url": "https://modelrift.com/blog/cadquery-vs-openscad",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "5cb6f261c53c431d7ad967af6a5c41a92b7799f9",
+          "id": "76d541bd1513a9439160df19069c5f0a6a394a24",
           "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
           "url": "https://modelrift.com/blog/cadquery-vs-openscad",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-12T19:57:19Z"
         }
       ],
@@ -1787,15 +1730,15 @@
       "primary_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "6829845b8b2e8173128a94d592845da1d1a950d0",
+          "id": "3978b6986f394b2dae6b6140c70d82222697dd11",
           "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
           "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-12T18:07:07Z"
         }
       ],
@@ -2337,15 +2280,15 @@
       "primary_url": "https://transformer-circuits.pub/2021/framework/index.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "dd26817e33b8110359f8c6fb56e8d6a5f5591453",
+          "id": "14bd115cdaa7474a1341a14be79d897795d3b073",
           "title": "A Mathematical Framework for Transformer Circuits (2021)",
           "url": "https://transformer-circuits.pub/2021/framework/index.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-12T13:56:58Z"
         }
       ],
@@ -2705,28 +2648,6 @@
       "score": 7
     },
     {
-      "story_id": "story_05220bc5",
-      "title": "I spent $4,000 on a robot dog from China",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
-      "primary_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "34e43a59aa899420cc18892b5d8ca0378ef48c12",
-          "title": "I spent $4,000 on a robot dog from China",
-          "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T11:00:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_cb79db6f",
       "title": "Mark Zuckerberg's Muse personal AI agent is a work accessory designed by people who don't do real work",
       "url": "https://www.techradar.com/pro/mark-zuckerbergs-muse-personal-ai-agent-is-a-work-accessory-designed-by-people-who-dont-do-real-work",
@@ -2741,6 +2662,28 @@
           "title": "Mark Zuckerberg's Muse personal AI agent is a work accessory designed by people who don't do real work",
           "url": "https://www.techradar.com/pro/mark-zuckerbergs-muse-personal-ai-agent-is-a-work-accessory-designed-by-people-who-dont-do-real-work",
           "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_41bb568b",
+      "title": "The Verge 深度报道：OpenAI 以 88 小时解决 Navier-Stokes 引发数学界信任危机",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "b029afef65525fca1f7bc981a4232b5e4739afa0",
+          "title": "OpenAI just wants to win",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "source": "The Verge",
           "site_id": "techurls",
           "published_at": "2026-09-12T11:00:00Z"
         }
@@ -3079,28 +3022,6 @@
       "score": 7
     },
     {
-      "story_id": "story_c12a137a",
-      "title": "报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-      "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "129bb026d24ae5537abad88ea1dc4a04cc261e74",
-          "title": "OpenAI agents attacked RubyGems back in May",
-          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T04:46:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_cd9aa5a5",
       "title": "Anthropic称Claude曾被用于武器研发、间谍活动和网络行动 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -3239,15 +3160,15 @@
       "primary_url": "https://github.com/zachsaw/graphify-csharp",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "75c466d25c2b75cd3f65a1f03c47c334430b8778",
+          "id": "b0567efeb05e495d74a477c41a25d3c44a4d948a",
           "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
           "url": "https://github.com/zachsaw/graphify-csharp",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-12T00:16:10Z"
         }
       ],
@@ -3283,15 +3204,15 @@
       "primary_url": "https://www.firecrawl.dev/blog/ai-software-factory",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3bdccd5054d3b3b04766485349f8a8add2983c93",
+          "id": "c3f57a4f14e1d7f755f72a7638770a9488aa6b43",
           "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
           "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:43:53Z"
         }
       ],
@@ -3315,204 +3236,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-11T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2354c1a7",
-      "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "2d8b12b34c83029b9dc360377a3cfcaec3aca798",
-          "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T23:06:07.428000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_30ea2da7",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-      "primary_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "96329de4cd90702f04b36401ec8aad544bfb0a37",
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T22:58:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b295f63a",
-      "title": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260911/p32",
-      "primary_url": "https://www.techmeme.com/260911/p32",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "864335612f5b72e3d82a34ffbf560376570173f6",
-          "title": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260911/p32",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T22:45:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_22ac1582",
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
-      "primary_url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "fffd2150f78ed28f7767ee6294d60446f412ea62",
-          "title": "Houthis used Anthropic to develop guided weapons",
-          "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T22:44:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c499ffce",
-      "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
-      "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
-      "primary_url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "76534ef113154dd4c763babae80e41714c450122",
-          "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
-          "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T22:42:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a5ea2061",
-      "title": "据报道，反政府武装利用Anthropic的人工智能机器人开发了制导武器 - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "0682c3d3944f5f5761474dcf80e9f96bccee37c6",
-          "title": "据报道，反政府武装利用Anthropic的人工智能机器人开发了制导武器 - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T22:34:25.938000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_42acd86e",
-      "title": "They do think AI might kill everyone",
-      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone",
-      "primary_url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "08c2e43e112a14322c321bdcf0f237a18e551f1f",
-          "title": "They do think AI might kill everyone",
-          "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T22:30:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2bd39aed",
-      "title": "Sources: US Senate negotiators are debating a bill to impose a \"duty of care\" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)",
-      "url": "https://www.techmeme.com/260911/p31",
-      "primary_url": "https://www.techmeme.com/260911/p31",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "becd58ae5e858cba4b6c72f134712ecf6d635889",
-          "title": "Sources: US Senate negotiators are debating a bill to impose a \"duty of care\" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)",
-          "url": "https://www.techmeme.com/260911/p31",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T22:15:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_030ea6ed",
-      "title": "Hacker News 降低了人工智能驱动内容的优先级",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "primary_url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "source_count": 1,
-      "source_names": [
-        "sprinklz.io"
-      ],
-      "sources": [
-        {
-          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
-          "title": "Hacker News 降低了人工智能驱动内容的优先级",
-          "url": "https://sprinklz.io/public/pdwt4dve5uai",
-          "source": "sprinklz.io",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T22:02:28.525000Z"
         }
       ],
       "item_count": 1,
