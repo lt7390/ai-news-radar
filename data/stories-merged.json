@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T12:55:37.587544Z",
+  "generated_at": "2026-09-15T13:45:57.604417Z",
   "window_hours": 24,
-  "total_stories": 305,
+  "total_stories": 291,
   "stories": [
     {
       "story_id": "story_61420e1b",
@@ -12,7 +12,7 @@
       "source_names": [
         "Hacker News：AI 热帖",
         "entelligence.ai",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -32,11 +32,11 @@
           "published_at": "2026-09-15T00:57:33.124000Z"
         },
         {
-          "id": "e3664383547005d6f8cee807a8f36b46022376e1",
+          "id": "f9d58eda9ed7cb9f244b5a24a184f3e2db993bc3",
           "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
           "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-14T19:56:20Z"
         }
       ],
@@ -94,11 +94,11 @@
           "published_at": "2026-09-14T22:59:41Z"
         },
         {
-          "id": "ac5788581a9a86162e7b737cce9532e2e66fd833",
+          "id": "2c7b797daf95a04f13665bfef1ca87ee6f8c906e",
           "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
           "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
           "source": "The Verge",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-09-14T22:59:41Z"
         }
       ],
@@ -1510,23 +1510,54 @@
       "score": 9770
     },
     {
-      "story_id": "story_18c3a186",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "primary_url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "story_id": "story_395f3f7f",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "primary_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
       "source_count": 2,
       "source_names": [
-        "The Verge",
+        "TechCrunch",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "29ee23aa1dbf7a1743434c986d0d5062fcc29d23",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-14T20:44:14Z"
+        },
+        {
+          "id": "b9d1d34c1dcf74083955ccf1a638a2be3b94c6c4",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-15T12:01:31Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_ef528c48",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
+      "primary_url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
+      "source_count": 2,
+      "source_names": [
+        "ArsTechnica",
         "Mac Rumors"
       ],
       "sources": [
         {
-          "id": "baab7c69364b6b6b91b2c67e66f619ce32a100c9",
-          "title": "Apple releases iOS 27 with Siri AI overhaul",
-          "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-          "source": "The Verge",
+          "id": "689ea19a5aabc546e0d9448ef9f1ce90841c19b4",
+          "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
+          "source": "ArsTechnica",
           "site_id": "opmlrss",
-          "published_at": "2026-09-14T17:08:49Z"
+          "published_at": "2026-09-14T19:28:42Z"
         },
         {
           "id": "eb905d5a18f8d6f29cba729cf79d8bc63b51b693",
@@ -1539,6 +1570,50 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_01a9adac",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "944650efcca9b150b22a48685137819bb36e4a18",
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_715f56fa",
+      "title": "AI下一步，打算解决“团队内耗”啦？",
+      "url": "https://www.huxiu.com/article/4891423.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4891423.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "0f3cd3cd47533388b6203a80aa052764cc08c62a",
+          "title": "AI下一步，打算解决“团队内耗”啦？",
+          "url": "https://www.huxiu.com/article/4891423.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-15T12:39:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_be5c9934",
@@ -1557,6 +1632,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-15T12:12:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_838204b1",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+      "primary_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "71a15b28b07427ff35e4fee9439f770985908e56",
+          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+          "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-15T12:00:41Z"
         }
       ],
       "item_count": 1,
@@ -1931,6 +2028,28 @@
           "source": "NPR Top News",
           "site_id": "opmlrss",
           "published_at": "2026-09-15T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_252e888e",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "5a5594471a4a3ecf26127e66b9d2f3e23014f3c5",
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-15T08:49:31Z"
         }
       ],
       "item_count": 1,
@@ -2569,9 +2688,17 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-15T01:05:38Z"
+        },
+        {
+          "id": "affb438041c2748ec5f7bbedc94d3bd56814ba30",
+          "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’",
+          "url": "http://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-15T01:05:38Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -2913,6 +3040,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_127a9e0f",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+      "primary_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "0bf39b9caa2070ba1c112fcafa7940af62eb82f8",
+          "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-14T20:07:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_83a741be",
       "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
       "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai",
@@ -2973,28 +3122,6 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-14T18:22:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4358a637",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
-      "primary_url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "06eb7fd22daa8812f393d4661010275e4ce2c6c3",
-          "title": "macOS 27: new Siri takes on AI productivity apps",
-          "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T17:10:09Z"
         }
       ],
       "item_count": 1,
@@ -3221,133 +3348,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4821df1c",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
-      "primary_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1932f1ad9549c70b3819ba91d215e3f9064c3dfd",
-          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T13:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_942dc921",
-      "title": "新华社消息丨首个人工智能+脑机接口医疗器械标准发布",
-      "url": "http://www.news.cn/20260914/c8dc5407dd9545a3a79845aaba02d5fe/c.html",
-      "primary_url": "http://www.news.cn/20260914/c8dc5407dd9545a3a79845aaba02d5fe/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
-        {
-          "id": "71e1391737ed6861764b0cfc7fa49d6a34f2f85e",
-          "title": "新华社消息丨首个人工智能+脑机接口医疗器械标准发布",
-          "url": "http://www.news.cn/20260914/c8dc5407dd9545a3a79845aaba02d5fe/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T13:26:35Z"
-        },
-        {
-          "id": "d2f31e5fe4823e245008aece63f1b8451206fd79",
-          "title": "首个人工智能+脑机接口医疗器械标准发布",
-          "url": "http://www.news.cn/20260914/e1005a7d51ef495b8cd853a4af1d2015/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T13:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_57d99c24",
-      "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-      "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "c07dc57354e275b7f2e6e39d2d690249a84281b4",
-          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-          "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T13:20:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_70a3ecd0",
-      "title": "Should the brakes be put on AI?",
-      "url": "https://www.france24.com/en/video/20260914-should-the-brakes-be-put-on-ai",
-      "primary_url": "https://www.france24.com/en/video/20260914-should-the-brakes-be-put-on-ai",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "3d1222388def768e167881f2c547af6f354bc357",
-          "title": "Should the brakes be put on AI?",
-          "url": "https://www.france24.com/en/video/20260914-should-the-brakes-be-put-on-ai",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-14T13:02:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_395f3f7f",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-      "primary_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b9d1d34c1dcf74083955ccf1a638a2be3b94c6c4",
-          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-15T12:01:31Z"
-        },
-        {
-          "id": "1797fb1bc720a0b3c2cb468486216e233a927f5d",
-          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T20:44:14Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_8ea711c6",
       "title": "反向传播的替代方案：增强拉格朗日预测编码",
       "url": "https://pub.sakana.ai/pc-alm",
@@ -3355,7 +3355,7 @@
       "source_count": 2,
       "source_names": [
         "pub.sakana.ai",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3367,11 +3367,11 @@
           "published_at": "2026-09-15T10:28:46.002000Z"
         },
         {
-          "id": "308aae79488756d19e7573f9086528b91c63a219",
+          "id": "46da85f10d9c7b229917c5e96318c42bb2f67ec3",
           "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
           "url": "https://pub.sakana.ai/pc-alm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-14T18:03:12Z"
         }
       ],
@@ -3479,7 +3479,7 @@
       "source_count": 2,
       "source_names": [
         "www.theregister.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3491,11 +3491,11 @@
           "published_at": "2026-09-15T05:11:18.876000Z"
         },
         {
-          "id": "1265a467cd21f77543bb8ebdd73a8889420da861",
+          "id": "6436772649a6ae60445636997f5be85c3adc1f55",
           "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
           "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-15T00:40:14Z"
         }
       ],
@@ -3510,7 +3510,7 @@
       "source_count": 2,
       "source_names": [
         "www.amazon.science",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3522,11 +3522,11 @@
           "published_at": "2026-09-15T00:57:33.120000Z"
         },
         {
-          "id": "81c10440a695251d2d750acf5ba9233223a757e9",
+          "id": "f2fc0bc153f689bbfbccf0b81a172ecd3d0777e4",
           "title": "Why don't machine learning research agents overfit?",
           "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-14T16:32:23Z"
         }
       ],
@@ -3757,28 +3757,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-15T12:10:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_838204b1",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
-      "primary_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "b93e8d16099587e77f80c25fee59b8122e9159fb",
-          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-          "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T12:00:41Z"
         }
       ],
       "item_count": 1,
@@ -4099,15 +4077,15 @@
       "primary_url": "https://tintotint.eu/whacky-corner/f-droid_slop",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a875799d0ec269d9d2cbda7d059141133fbffb7e",
+          "id": "a2829fc5a21418ad76dab43d7ef46d90f97cd9a9",
           "title": "How much of F-Droid is LLM generated?",
           "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-15T09:47:48Z"
         }
       ],
@@ -4511,28 +4489,6 @@
       "score": 7
     },
     {
-      "story_id": "story_252e888e",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "d8598b4c4526968e0698598d5207c3f4931b79eb",
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T03:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_b2187ee3",
       "title": "OpenAI researcher: top models are becoming so situationally aware humans \"are losing the ability to evaluate them\" while humans rely more on AI to lead research (Daniel Kokotajlo/@dkokotajlo)",
       "url": "https://www.techmeme.com/260914/p45",
@@ -4627,15 +4583,15 @@
       "primary_url": "https://twitter.com/brianchau57/status/2099580981271318606",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "6a54d7e1e47de9a6ca28ed1e72da0f88481cd866",
+          "id": "a95b80088e30f80501e1578a403ecb30e9cc84cd",
           "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
           "url": "https://twitter.com/brianchau57/status/2099580981271318606",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-15T02:05:35Z"
         }
       ],
@@ -4693,15 +4649,15 @@
       "primary_url": "https://sunkcost.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ad8b6231db22dd01131b3c141f7f163eaa3a35ab",
+          "id": "1e529d1ae24c7d1331930eac33bacae6420c6525",
           "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
           "url": "https://sunkcost.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-15T01:37:43Z"
         }
       ],
@@ -5265,15 +5221,15 @@
       "primary_url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "e6f8b856f47087b49389ce75e742502eab0e6f10",
+          "id": "697d54fb2cc9e998ac56850aab6b1a4e3abca87b",
           "title": "A Beginning for Mathematics",
           "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-14T20:14:45Z"
         }
       ],
@@ -5297,28 +5253,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-14T20:10:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_127a9e0f",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
-      "primary_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0d9e725aa43e59a2a05e1da844643300abf5395e",
-          "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T20:07:37Z"
         }
       ],
       "item_count": 1,
@@ -5363,28 +5297,6 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-14T19:40:11.797000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ef528c48",
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
-      "primary_url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "dd45632b11a24c3f473a4416c7015ce7c27c7e29",
-          "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T19:28:42Z"
         }
       ],
       "item_count": 1,
@@ -5683,15 +5595,15 @@
       "primary_url": "https://andonlabs.com/blog/why-we-built-pion",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "c61f05f180402c03961063426941160a28839b1e",
+          "id": "393629a7d912e02f78a10b5df6ae65dc9c8e6f09",
           "title": "Pion, an agent designed to run any company autonomously",
           "url": "https://andonlabs.com/blog/why-we-built-pion",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-14T17:16:06Z"
         }
       ],
@@ -5743,6 +5655,28 @@
       "score": 7
     },
     {
+      "story_id": "story_4358a637",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
+      "primary_url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2131a8c70d1e47d0820ae2fa84745c65f9e4f32a",
+          "title": "macOS 27: new Siri takes on AI productivity apps",
+          "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T17:10:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_bb5629c5",
       "title": "Hundreds of contractors are reportedly reading real ChatGPT conversations",
       "url": "https://thenextweb.com/news/chatgpt-human-reviewers-gdpr",
@@ -5759,6 +5693,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-14T17:09:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_18c3a186",
+      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "primary_url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "17b60c16a0951a2e8cae024356df6b41a1a237e7",
+          "title": "Apple releases iOS 27 with Siri AI overhaul",
+          "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T17:08:49Z"
         }
       ],
       "item_count": 1,
@@ -5991,15 +5947,15 @@
       "primary_url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "fd6367399509e69512d4375322700579ba476fc8",
+          "id": "1a75c16b8df86c6652e9fba23c6e5f96806f1c5e",
           "title": "Hacking AI customer service agents",
           "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-14T16:26:03Z"
         }
       ],
@@ -6035,15 +5991,15 @@
       "primary_url": "https://theframenews.org/en/hardflow-safety-critical-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "991e181c893777305dc1f951c9470c0a6a602c67",
+          "id": "7bf292de524ae9dd85ec84d9091fe04b146ceeff",
           "title": "MIT creates method to force AI to comply with safety rules",
           "url": "https://theframenews.org/en/hardflow-safety-critical-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-14T16:18:17Z"
         }
       ],
@@ -6541,16 +6497,38 @@
       "primary_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "3cb67f449fae4ef7a0f1408a78b1bc6cf67fa8e6",
+          "id": "d257fbe42f6092e75e017b524301a702949e5cd4",
           "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
           "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-14T13:59:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4821df1c",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+      "primary_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "9f8ff27ec89263b1ae08088a783d438d5164b233",
+          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T13:55:00Z"
         }
       ],
       "item_count": 1,
@@ -6617,292 +6595,6 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-14T13:45:47.239000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8eea415d",
-      "title": "Microsoft says its AI models will never resist being shut down",
-      "url": "https://thenextweb.com/news/microsoft-says-its-ai-models-will-never-resist-being-shut-down",
-      "primary_url": "https://thenextweb.com/news/microsoft-says-its-ai-models-will-never-resist-being-shut-down",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7b4bea257e7430d6685c71f01c8ef9d7f2cd1772",
-          "title": "Microsoft says its AI models will never resist being shut down",
-          "url": "https://thenextweb.com/news/microsoft-says-its-ai-models-will-never-resist-being-shut-down",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:45:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_45059cf3",
-      "title": "OpenAI employees need to oppose its support for Leading the Future, which seeks to chill federal regulation, and Congress should hold hearings on AI risks (Matthew Yglesias/Slow Boring)",
-      "url": "https://www.techmeme.com/260914/p17",
-      "primary_url": "https://www.techmeme.com/260914/p17",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "8ae0a51fad407735b43a0494af05a190a193077a",
-          "title": "OpenAI employees need to oppose its support for Leading the Future, which seeks to chill federal regulation, and Congress should hold hearings on AI risks (Matthew Yglesias/Slow Boring)",
-          "url": "https://www.techmeme.com/260914/p17",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:40:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bee5b4bb",
-      "title": "I didn't expect to love this Gemini feature, but now I use it every day",
-      "url": "https://www.androidpolice.com/gemini-share-screen-live-circle-search-ai-features-comparison",
-      "primary_url": "https://www.androidpolice.com/gemini-share-screen-live-circle-search-ai-features-comparison",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "a60248435e70ffadbb28fffe0f78cc153f5a5c3a",
-          "title": "I didn't expect to love this Gemini feature, but now I use it every day",
-          "url": "https://www.androidpolice.com/gemini-share-screen-live-circle-search-ai-features-comparison",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:30:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1f6a41ed",
-      "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
-      "url": "https://juejin.cn/post/7685188623412133898",
-      "primary_url": "https://juejin.cn/post/7685188623412133898",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "325cb6c10fed90f637da88568fdb37d54ccb7d08",
-          "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
-          "url": "https://juejin.cn/post/7685188623412133898",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-14T13:24:46.199000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_25942649",
-      "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
-      "url": "https://juejin.cn/post/7684507874422751283",
-      "primary_url": "https://juejin.cn/post/7684507874422751283",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "78c296aab602f4e76555c2e66034ea37059b665b",
-          "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
-          "url": "https://juejin.cn/post/7684507874422751283",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-14T13:24:46.199000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_81fb0b64",
-      "title": "Panniantong /      Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "primary_url": "https://github.com/Panniantong/Agent-Reach",
-      "source_count": 1,
-      "source_names": [
-        "github"
-      ],
-      "sources": [
-        {
-          "id": "e16b7cf686dafae077ef8fd7ceff306c2ee6477e",
-          "title": "Panniantong /      Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "source": "github",
-          "site_id": "newsnow",
-          "published_at": "2026-09-14T13:22:13.342000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e1904011",
-      "title": "Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)",
-      "url": "https://www.techmeme.com/260914/p15",
-      "primary_url": "https://www.techmeme.com/260914/p15",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "67cb8535940c84f3c2e46e7305712cc5755a4d15",
-          "title": "Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)",
-          "url": "https://www.techmeme.com/260914/p15",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_361ee753",
-      "title": "Intrepid Growth Partners closes a $525m AI fund with state money from four countries",
-      "url": "https://thenextweb.com/news/intrepid-growth-partners-525m-ai-fund-state",
-      "primary_url": "https://thenextweb.com/news/intrepid-growth-partners-525m-ai-fund-state",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ec0101ab7c3faaeba4da398ad03bbedaf9152679",
-          "title": "Intrepid Growth Partners closes a $525m AI fund with state money from four countries",
-          "url": "https://thenextweb.com/news/intrepid-growth-partners-525m-ai-fund-state",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:07:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9d104d7e",
-      "title": "A Senate bill would let Washington block AI models, Reuters reports",
-      "url": "https://thenextweb.com/news/senate-ai-bill-duty-of-care-block-model-releases-state-preemption",
-      "primary_url": "https://thenextweb.com/news/senate-ai-bill-duty-of-care-block-model-releases-state-preemption",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "f154f329de825ccc1bf4148dc5e031795ffb49f2",
-          "title": "A Senate bill would let Washington block AI models, Reuters reports",
-          "url": "https://thenextweb.com/news/senate-ai-bill-duty-of-care-block-model-releases-state-preemption",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:07:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8839a362",
-      "title": "中国国家主席习近平提议建立金砖国家“开源人工智能区” - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnEtR3lydjUwVU1sU3lUNC1lek1iYlFESm1OQUVXd0lORVA4bmpRVUd5UUpOSlRHVmlTd0N1TDJQU0c4ODhNbi1iUHRKRGstSXF5NEc2emljOWgxNU5oc0I5QUJnLXVUbnVCTDhoNm5jdFluMXMxSnY5VjVOYWtPQ3hCTFd3ZUpNR1NCSkl4NW80VF9iSkFlUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnEtR3lydjUwVU1sU3lUNC1lek1iYlFESm1OQUVXd0lORVA4bmpRVUd5UUpOSlRHVmlTd0N1TDJQU0c4ODhNbi1iUHRKRGstSXF5NEc2emljOWgxNU5oc0I5QUJnLXVUbnVCTDhoNm5jdFluMXMxSnY5VjVOYWtPQ3hCTFd3ZUpNR1NCSkl4NW80VF9iSkFlUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "a82a5125031ee70decc2d77ee13ca72e8aa09366",
-          "title": "中国国家主席习近平提议建立金砖国家“开源人工智能区” - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnEtR3lydjUwVU1sU3lUNC1lek1iYlFESm1OQUVXd0lORVA4bmpRVUd5UUpOSlRHVmlTd0N1TDJQU0c4ODhNbi1iUHRKRGstSXF5NEc2emljOWgxNU5oc0I5QUJnLXVUbnVCTDhoNm5jdFluMXMxSnY5VjVOYWtPQ3hCTFd3ZUpNR1NCSkl4NW80VF9iSkFlUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T13:06:45.713000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3a588dc9",
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "primary_url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "b162b6d316e9fb698aca01804d2e09cbec9743e5",
-          "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-          "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d3a8641b",
-      "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
-      "url": "https://triangllabs.ai/otis",
-      "primary_url": "https://triangllabs.ai/otis",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "b2daf37f8a2d03f5dc3fb88347092816b2a8eb8b",
-          "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
-          "url": "https://triangllabs.ai/otis",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:58:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cbd27a12",
-      "title": "US-Israeli startup Buildots, which uses AI to speed up construction of mega-projects like data centers and chip factories, raised $130M at a near-$1B valuation (Marissa Newman/Bloomberg)",
-      "url": "https://www.techmeme.com/260914/p14",
-      "primary_url": "https://www.techmeme.com/260914/p14",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a50f1e6182c9a793d024bfe2b9cfee5da94230ce",
-          "title": "US-Israeli startup Buildots, which uses AI to speed up construction of mega-projects like data centers and chip factories, raised $130M at a near-$1B valuation (Marissa Newman/Bloomberg)",
-          "url": "https://www.techmeme.com/260914/p14",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T12:55:02Z"
         }
       ],
       "item_count": 1,
