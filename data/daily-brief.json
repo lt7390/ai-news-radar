@@ -1,18 +1,51 @@
 {
-  "generated_at": "2026-09-16T13:45:59.451654Z",
+  "generated_at": "2026-09-16T17:46:59.801203Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 18,
   "items": [
     {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "title": "How workers are unlocking new ways of working",
       "title_zh": null,
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-09-15T16:00:44Z",
+      "published_at": "2026-09-16T09:00:00Z",
       "ai_is_related": true,
-      "ai_score": 0.95
+      "ai_score": 0.91
+    },
+    {
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-16T13:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+      "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-16T16:28:29Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-16T14:01:39Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "何夕2077 AI 深度信号周报 2026 W37",
@@ -81,37 +114,15 @@
       "ai_score": 1.0
     },
     {
-      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-      "title_zh": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "source": "Claude：Blog（网页）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-15T17:21:21.489000Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-      "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google Blog：AI（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-15T16:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "title_zh": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "source": "Pragmatic Engineer（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-15T15:41:25Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
+      "title": "DOJ charges Russian agents with plotting attacks, including in US",
+      "title_zh": null,
+      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+      "source": "NPR Top News",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-16T17:19:49Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "US announces charges against five alleged agents for Russia over assassination plots",
@@ -134,6 +145,28 @@
       "published_at": "2026-09-16T09:00:00Z",
       "ai_is_related": false,
       "ai_score": 0.47
+    },
+    {
+      "title": "OpenSider：让浏览器驱动 Agent",
+      "title_zh": "OpenSider：让浏览器驱动 Agent",
+      "url": "https://juejin.cn/post/7685651354878754825",
+      "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-16T17:28:33.964000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Anatomy of a Texture",
+      "title_zh": null,
+      "url": "https://agentlien.github.io/texture",
+      "source": "Hacker News (黑客新闻)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-16T14:28:28Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "[程序员] Which model to pick? 你用什么模型？",
@@ -165,17 +198,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-09-16T00:21:20.518000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "title_zh": null,
-      "url": "https://github.com/greentfrapp/panel",
-      "source": "Hacker News (黑客新闻)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-15T13:58:37Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
