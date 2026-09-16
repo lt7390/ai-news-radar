@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-16T20:29:11.749640Z",
+  "generated_at": "2026-09-16T23:55:50.315573Z",
   "window_hours": 24,
-  "total_stories": 285,
+  "total_stories": 286,
   "stories": [
+    {
+      "story_id": "story_d2e2a131",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "openai.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
+          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T16:06:24.581000Z"
+        },
+        {
+          "id": "17fd4a48ecfbec862337d0627282c178c703d764",
+          "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-16T13:51:15Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 10080
+    },
+    {
+      "story_id": "story_1be7a085",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
     {
       "story_id": "story_2c7667f6",
       "title": "Helping older adults use AI in everyday life",
@@ -48,35 +110,26 @@
       "score": 10020
     },
     {
-      "story_id": "story_dc7fec7f",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "primary_url": "https://claude.com/blog/cowork-is-now-claude",
-      "source_count": 2,
+      "story_id": "story_611085c0",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）",
-        "claude.com"
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
       "sources": [
         {
-          "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-          "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Claude：Blog（网页）",
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
           "site_id": "aihot",
-          "published_at": "2026-09-16T16:51:45.914000Z"
-        },
-        {
-          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
-          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T18:28:45.023000Z"
+          "published_at": "2026-09-16T22:58:50Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_e7d67724",
@@ -959,28 +1012,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_bb50f1a2",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "sources": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_aa2e934d",
       "title": "40万字，最全开源模型实战指南正式开源！",
       "url": "https://waytoagi.feishu.cn/wiki/M6BUwYtiWij9nckdx32cKnyInue?from=from_copylink",
@@ -1069,200 +1100,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_1f76d64b",
-      "title": "There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill. You need to connect the intellig...",
-      "url": "https://x.com/levie/status/2099976021311398230",
-      "primary_url": "https://x.com/levie/status/2099976021311398230",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "1ec9b86ba1c88ba8f318f5f7d96e4812d97b374e",
-          "title": "There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill. You need to connect the intellig...",
-          "url": "https://x.com/levie/status/2099976021311398230",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-15T21:37:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_3834cd84",
-      "title": "The Grok @bot team asked me if I had any advice for solopreneurs. I’ve only been doing this full time for three months, but my advice is to design your business so you can spend more time doing work you actually enjoy...",
-      "url": "https://x.com/petergyang/status/2099968897323778416",
-      "primary_url": "https://x.com/petergyang/status/2099968897323778416",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "d3743fabbd5c1bc113558c47b888f11cbafd076e",
-          "title": "The Grok @bot team asked me if I had any advice for solopreneurs. I’ve only been doing this full time for three months, but my advice is to design your business so you can spend more time doing work you actually enjoy...",
-          "url": "https://x.com/petergyang/status/2099968897323778416",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-15T21:09:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_0839f638",
-      "title": "I just started using @capydotai with GStack/GBrain on some fix waves on outstanding issues/PRs and it did what would have taken a day with raw Codex/Claude Code in about half as much time, using the same frontier mode...",
-      "url": "https://x.com/garrytan/status/2099964487667454097",
-      "primary_url": "https://x.com/garrytan/status/2099964487667454097",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Garry Tan"
-      ],
-      "sources": [
-        {
-          "id": "18ba5f796194a76fa75a4d11136defd86f890a62",
-          "title": "I just started using @capydotai with GStack/GBrain on some fix waves on outstanding issues/PRs and it did what would have taken a day with raw Codex/Claude Code in about half as much time, using the same frontier mode...",
-          "url": "https://x.com/garrytan/status/2099964487667454097",
-          "source": "Follow Builders · X · Garry Tan",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-15T20:52:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_d9492116",
-      "title": "AI 硬件的第一步，往往先解决一个小问题",
-      "url": "https://waytoagi.feishu.cn/wiki/QpjQw3AfHiUg6TkewycckllCnPe?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QpjQw3AfHiUg6TkewycckllCnPe?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-15"
-      ],
-      "sources": [
-        {
-          "id": "b203afda90357575706691e69d78380dd51a3a3c",
-          "title": "AI 硬件的第一步，往往先解决一个小问题",
-          "url": "https://waytoagi.feishu.cn/wiki/QpjQw3AfHiUg6TkewycckllCnPe?from=from_copylink",
-          "source": "社区更新 · 2026-09-15",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T20:29:20.212681Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_43923683",
-      "title": "AI音乐周刊 W.A 045",
-      "url": "https://waytoagi.feishu.cn/wiki/Z5QxwQTpviEta1kNpxccKL3ZnMg?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/Z5QxwQTpviEta1kNpxccKL3ZnMg?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-15"
-      ],
-      "sources": [
-        {
-          "id": "ab97511a78ab6b5220527bfe72b9dad300625fe7",
-          "title": "AI音乐周刊 W.A 045",
-          "url": "https://waytoagi.feishu.cn/wiki/Z5QxwQTpviEta1kNpxccKL3ZnMg?from=from_copylink",
-          "source": "社区更新 · 2026-09-15",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T20:29:20.212681Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_c1d2889c",
-      "title": "一篇速通入门：重新理解 AI Agent 的一切",
-      "url": "https://waytoagi.feishu.cn/wiki/FRoKwi7r3ij4SlkwlD4csmlSngd?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/FRoKwi7r3ij4SlkwlD4csmlSngd?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-15"
-      ],
-      "sources": [
-        {
-          "id": "8990f2e75dc6c6b628e0ae835f47c284930f6c60",
-          "title": "一篇速通入门：重新理解 AI Agent 的一切",
-          "url": "https://waytoagi.feishu.cn/wiki/FRoKwi7r3ij4SlkwlD4csmlSngd?from=from_copylink",
-          "source": "社区更新 · 2026-09-15",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T20:29:20.212681Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_dcd3c6fd",
-      "title": "如何在一张 GPU 上服务 100 个微调模型",
-      "url": "https://waytoagi.feishu.cn/wiki/ZJJ5wy4vWi4upjkEO3Lc1gXnn9e?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/ZJJ5wy4vWi4upjkEO3Lc1gXnn9e?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-15"
-      ],
-      "sources": [
-        {
-          "id": "af2243a7f7582ebd2cc9f4b4c3c47dd179d7054a",
-          "title": "如何在一张 GPU 上服务 100 个微调模型",
-          "url": "https://waytoagi.feishu.cn/wiki/ZJJ5wy4vWi4upjkEO3Lc1gXnn9e?from=from_copylink",
-          "source": "社区更新 · 2026-09-15",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T20:29:20.212681Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_d2e2a131",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "openai.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "becc7b6009018478c24517d53404054b0a78b302",
-          "title": "Reimagining advertising with AI",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
-          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:06:24.581000Z"
-        },
-        {
-          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
-          "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T13:51:15Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9780
-    },
-    {
       "story_id": "story_e05c57e9",
       "title": "Von der Leyen gives state of the EU speech with Mark Carney in the room and AI on the agenda - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEZmc2NvcmJpQnNlSDFUdnowbG5jN1AzMnJTOHRlNHp2N2xEeXNLOGE4ZG5tRTZlc2luM0pJcVo1cjR3RkJQVS0xQmJXLVR6RlVhQ3d2cnpKTmJOZzRFY1NxZUxsR1FzREdvcEpOUExzdjl6MzhrcHJuejFsWnJNWmMtWi1ESG9EckpsRVBWR1ROYWpKRU1LNVhJM21Vem9Td24tZGEwZmZueERYNmJZ?oc=5",
@@ -1310,35 +1147,180 @@
       "score": 9770
     },
     {
-      "story_id": "story_4d526c97",
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "source_count": 2,
+      "story_id": "story_ca3533d6",
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "primary_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "source_count": 1,
       "source_names": [
-        "BBC World",
-        "BBC News"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "43d7844ce3e9f1bbe65febf4b61416b0e9150544",
-          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
+          "id": "2143ef5996e564c18e344774cbe2982bc3bcc3b3",
+          "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-16T10:02:05Z"
-        },
-        {
-          "id": "0755cbb5e21f9c8700f9ebbe7e28e34deb4d9b70",
-          "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:13:10Z"
+          "published_at": "2026-09-16T23:43:09Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6db727d9",
+      "title": "深观察｜割尾之忧：人工智能时代，人脑会退化吗？",
+      "url": "https://m.thepaper.cn/detail/34081931",
+      "primary_url": "https://m.thepaper.cn/detail/34081931",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "e75f52c810432e81fb9b5fe68633e1545c8a4f05",
+          "title": "深观察｜割尾之忧：人工智能时代，人脑会退化吗？",
+          "url": "https://m.thepaper.cn/detail/34081931",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T22:49:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7cbd7693",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment",
+      "primary_url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "e8606fd92f27f0aecc045c72fc3bee248ccc5fc1",
+          "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+          "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T22:07:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_4b71400b",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+      "primary_url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "81b52ebce0d666303a1ef396774b47c84d20722e",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T21:07:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0eb59394",
+      "title": "联合国秘书长呼吁全球合作为人工智能设立护栏",
+      "url": "http://www.news.cn/20260917/aeb52ffa6a124e0897f6a2cd04b7efcf/c.html",
+      "primary_url": "http://www.news.cn/20260917/aeb52ffa6a124e0897f6a2cd04b7efcf/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "a3501ec55e1f47cec39bf42ee0b8cddd6ab00f0d",
+          "title": "联合国秘书长呼吁全球合作为人工智能设立护栏",
+          "url": "http://www.news.cn/20260917/aeb52ffa6a124e0897f6a2cd04b7efcf/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T21:02:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c783a1d6",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon",
+      "primary_url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "089dcec0e3887105069b87567685b3d2f92c7fb3",
+          "title": "Washington Won’t Be Regulating AI Anytime Soon",
+          "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c623aea4",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "primary_url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "d97a71715463d2b61e98209ce923395d72ff57b3",
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T20:59:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_418dbc76",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "45b8d2ffff6d84857045ea073b7e86bcef80a834",
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T20:40:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_ad15af07",
@@ -1386,7 +1368,7 @@
     },
     {
       "story_id": "story_4949acd0",
-      "title": "DOJ charges Russian agents with plotting attacks, including in US",
+      "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
       "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
       "primary_url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
       "source_count": 1,
@@ -1401,9 +1383,17 @@
           "source": "NPR Top News",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T17:19:49Z"
+        },
+        {
+          "id": "d33bfbf15441146e6ea11375fb93e0f7e48d25db",
+          "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
+          "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+          "source": "NPR Top News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T17:19:49Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1429,6 +1419,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_0f6b7a7d",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+      "primary_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "73fae52cfbb4e81b24736c559f4d26ca1cc486ad",
+          "title": "Your AI agents can now control your Google Home devices",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_7d391bc5",
       "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
       "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
@@ -1445,28 +1457,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T16:45:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_798391ac",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
-      "primary_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "33c39d27b39b55cdb9e48e2e2dbd37a26f8b876f",
-          "title": "Anthropic merges Claude chat and Cowork in one interface",
-          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T16:30:00Z"
         }
       ],
       "item_count": 1,
@@ -1511,28 +1501,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T16:19:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c4c69bd4",
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
-      "primary_url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "90d0b9b2d5836a636b54f7bc6cfabdc5097eb2ab",
-          "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-          "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1687,28 +1655,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T12:16:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0c77d4bb",
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "primary_url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "6d812f3ad7a656a0c976784867b3e0cc5ced5c85",
-          "title": "A brief history of AI executives calling for regulation",
-          "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1913,6 +1859,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_4d526c97",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "43d7844ce3e9f1bbe65febf4b61416b0e9150544",
+          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T10:02:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_a3956ef1",
       "title": "AI大厂“捡漏”土木人？",
       "url": "https://www.huxiu.com/article/4891722.html?f=rss",
@@ -1929,6 +1897,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T09:52:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_811df931",
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
+      "primary_url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "40224de43fc113922e4a46465b8c41e58dc16edc",
+          "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+          "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T09:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2127,6 +2117,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T08:53:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_93aee551",
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "bdc20de71546912465f9533510ee2c61b7fedf98",
+          "title": "Why Trump is all-in on AI despite the warnings",
+          "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T08:41:44Z"
         }
       ],
       "item_count": 1,
@@ -2837,6 +2849,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_d3969120",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "primary_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b5c6eaddc585b507b21d66de1559b06a6f626dbd",
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T00:20:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_5500353a",
       "title": "湾区\"混子founder\"图鉴：6个物种，和17.5万个被AI挤出来的人",
       "url": "https://www.huxiu.com/article/4891492.html?f=rss",
@@ -2969,129 +3003,63 @@
       "score": 9720
     },
     {
-      "story_id": "story_066a2ef8",
-      "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "source_count": 1,
+      "story_id": "story_5c45953f",
+      "title": "三元大语言模型突破1.58比特障碍",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "primary_url": "https://arxiv.org/abs/2609.16338",
+      "source_count": 2,
       "source_names": [
-        "The Verge"
+        "arxiv.org",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "52cfea414f85f65ece17e9559145353c7c430f7a",
-          "title": "AI and data centers are incredibly unpopular in every poll",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T23:34:25Z"
+          "id": "ef2ed51e341e5f7f0aa615948eca81285c072daf",
+          "title": "三元大语言模型突破1.58比特障碍",
+          "url": "https://arxiv.org/abs/2609.16338",
+          "source": "arxiv.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T23:43:23.228000Z"
         },
         {
-          "id": "d027b6b4d1c40ab1f21ec951a165e17cafd862bf",
-          "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T23:34:25Z"
+          "id": "18cd5b508623776cf591af43b99dd8814e563810",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "url": "https://arxiv.org/abs/2609.16338",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-16T20:59:24Z"
         }
       ],
       "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b1768032",
-      "title": "美国指控中国AI“工业规模蒸馏”：这不是知识产权战，是准入战",
-      "url": "https://www.huxiu.com/article/4891475.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4891475.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "91383b7a253c8d8193da668a83c9fcf9e26afcff",
-          "title": "美国指控中国AI“工业规模蒸馏”：这不是知识产权战，是准入战",
-          "url": "https://www.huxiu.com/article/4891475.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T23:24:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ff9f5680",
-      "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "97720a4ed421aa8cbfd9188a88f7f547a147e977",
-          "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T21:44:00Z"
-        },
-        {
-          "id": "32b77ad6c0d249bc7ed0a05b17e71a0941aa82d6",
-          "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - apnews.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T21:44:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4fcc9489",
-      "title": "As the world debates the risks of AI, China closes the technology gap with the US - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3NlSUcxUzlYaVFjcDdaWS1NQUY2WUR6THkxamlKbFozMkRsNXUwbl90STl2dmtDZ0d2dXBhNG4wRVA1TXIwSDZJM1laZVJJRDFKV1dXU3gzX2loT0p2Tl94T2h2ZXhfdGJOX3h4MkpZSzZkeHVMTEpWM2pNdU1vSkx2Tk50YTJnNWcydVo2NzdnNGl3RzJ2ZXhB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3NlSUcxUzlYaVFjcDdaWS1NQUY2WUR6THkxamlKbFozMkRsNXUwbl90STl2dmtDZ0d2dXBhNG4wRVA1TXIwSDZJM1laZVJJRDFKV1dXU3gzX2loT0p2Tl94T2h2ZXhfdGJOX3h4MkpZSzZkeHVMTEpWM2pNdU1vSkx2Tk50YTJnNWcydVo2NzdnNGl3RzJ2ZXhB?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "4f1278c871eb35cd837f8bb904d605ee27fa8e65",
-          "title": "As the world debates the risks of AI, China closes the technology gap with the US - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3NlSUcxUzlYaVFjcDdaWS1NQUY2WUR6THkxamlKbFozMkRsNXUwbl90STl2dmtDZ0d2dXBhNG4wRVA1TXIwSDZJM1laZVJJRDFKV1dXU3gzX2loT0p2Tl94T2h2ZXhfdGJOX3h4MkpZSzZkeHVMTEpWM2pNdU1vSkx2Tk50YTJnNWcydVo2NzdnNGl3RzJ2ZXhB?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T21:30:00Z"
-        },
-        {
-          "id": "0dc23853d863009bb0e70c75805811447f3eed25",
-          "title": "As the world debates the risks of AI, China closes the technology gap with the US - apnews.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3NlSUcxUzlYaVFjcDdaWS1NQUY2WUR6THkxamlKbFozMkRsNXUwbl90STl2dmtDZ0d2dXBhNG4wRVA1TXIwSDZJM1laZVJJRDFKV1dXU3gzX2loT0p2Tl94T2h2ZXhfdGJOX3h4MkpZSzZkeHVMTEpWM2pNdU1vSkx2Tk50YTJnNWcydVo2NzdnNGl3RzJ2ZXhB?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-15T21:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
+      "score": 9570
     },
     {
       "story_id": "story_b14b9fbc",
       "title": "Why a fast-growing German AI startup is moving its parent company from the US",
       "url": "https://news.ycombinator.com/item?id=49731235",
       "primary_url": "https://news.ycombinator.com/item?id=49731235",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "hackernews",
-        "Hacker News",
-        "HN Algolia · AI 24h"
+        "Hacker News"
       ],
       "sources": [
+        {
+          "id": "9c82a8ed8a508d82546ddef4b699a1c15f6965bf",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "url": "https://news.ycombinator.com/item?id=49734264",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T23:06:39Z"
+        },
+        {
+          "id": "0b84002066af70e017be58aa50516bb7bfd4025d",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "url": "https://news.ycombinator.com/item?id=49732931",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T20:59:24Z"
+        },
         {
           "id": "fa4d43e0d779eb1f0193d11db0e7e32856e314c0",
           "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
@@ -3187,18 +3155,10 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-16T02:25:18Z"
-        },
-        {
-          "id": "441600ce92bec1382a9fafe8d9ace348d0ad9ab0",
-          "title": "Ask HN: Slow OpenAI Inference on AWS Bedrock",
-          "url": "https://news.ycombinator.com/item?id=49719474",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-15T22:02:30Z"
         }
       ],
-      "item_count": 13,
-      "score": 9580
+      "item_count": 14,
+      "score": 9570
     },
     {
       "story_id": "story_eb0ff1cd",
@@ -3226,6 +3186,37 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-09-16T14:27:47Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_dc7fec7f",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "primary_url": "https://claude.com/blog/cowork-is-now-claude",
+      "source_count": 2,
+      "source_names": [
+        "claude.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
+          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T18:28:45.023000Z"
+        },
+        {
+          "id": "bbb6496b3b4dcdab2f80855e78490174e2e20987",
+          "title": "Claude Cowork and chat are now one Claude",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T16:26:25Z"
         }
       ],
       "item_count": 2,
@@ -3270,7 +3261,7 @@
       "source_count": 2,
       "source_names": [
         "frvr.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3282,11 +3273,11 @@
           "published_at": "2026-09-16T15:19:20.606000Z"
         },
         {
-          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
+          "id": "bf3523b69138eef3fbf7ed3247dccf36c52d2cd7",
           "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
           "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-16T14:30:36Z"
         }
       ],
@@ -3300,16 +3291,16 @@
       "primary_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "BBC News"
       ],
       "sources": [
         {
-          "id": "753db940593582ff75d91b3727545a3826011873",
+          "id": "cd3785f1d93497b5068c74d929b434e30191bc89",
           "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
           "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-16T14:32:15Z"
         },
         {
@@ -3363,7 +3354,7 @@
       "source_count": 2,
       "source_names": [
         "mistral.ai",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3375,11 +3366,11 @@
           "published_at": "2026-09-16T11:55:14.283000Z"
         },
         {
-          "id": "2c542338121337a83c8d63e9f2f7d45cbe9399bf",
+          "id": "4e4e82a472a48a2bf0832fcffbf7a8badb91a22e",
           "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "url": "https://mistral.ai/news/mistral-x-mozilla",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-16T08:08:57Z"
         }
       ],
@@ -3416,6 +3407,446 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_3d4fdbe1",
+      "title": "OpenAI launches a new framework to track and investigate rogue AI agents",
+      "url": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "949377a9f06afa509d70f06ab6525d118e0245e9",
+          "title": "OpenAI launches a new framework to track and investigate rogue AI agents",
+          "url": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c7b24cf6",
+      "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line",
+      "primary_url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "f1ce1d370da3f43f322e27b6bd226adc8ccaf19e",
+          "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+          "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:42:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0090fb9a",
+      "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence",
+      "primary_url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "1703b3a52ba8d375ced1851a593e13874649e9cf",
+          "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
+          "url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ab2a2f0b",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "primary_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "ec945bb2fdcb1a82f81bc2e881a22a5bc155408a",
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ebd4d7ff",
+      "title": "Microsofts Mustafa Suleyman calls out Anthropic for chasing AI consciousness",
+      "url": "https://mashable.com/tech/microsoft-ai-ceo-mustafa-suleyman-essay-calls-out-anthropic",
+      "primary_url": "https://mashable.com/tech/microsoft-ai-ceo-mustafa-suleyman-essay-calls-out-anthropic",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "0e74724656759a864235a1016cb3c731c8668f0f",
+          "title": "Microsofts Mustafa Suleyman calls out Anthropic for chasing AI consciousness",
+          "url": "https://mashable.com/tech/microsoft-ai-ceo-mustafa-suleyman-essay-calls-out-anthropic",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:10:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_52bd3657",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev",
+      "primary_url": "https://openspec.dev",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "bcf5cd63b3ff54fb188e94f1d68b5312694529d8",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "url": "https://openspec.dev",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:06:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bc83d995",
+      "title": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+      "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs",
+      "primary_url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "29426c207392c814edf4d7c3883dcbfb3114ec35",
+          "title": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+          "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2967d15f",
+      "title": "OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment (Axios)",
+      "url": "https://www.techmeme.com/260916/p48",
+      "primary_url": "https://www.techmeme.com/260916/p48",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "8bf7af853ba3955aaf7f8788785640ea72b363ac",
+          "title": "OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment (Axios)",
+          "url": "https://www.techmeme.com/260916/p48",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T22:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f1019fe5",
+      "title": "Sources: a group of 10 banks is providing a $22B loan to Blackstone and Alphabet's venture Crux AI, which provides compute for AI labs, to fund TPU purchases (Bloomberg)",
+      "url": "https://www.techmeme.com/260916/p47",
+      "primary_url": "https://www.techmeme.com/260916/p47",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "19822fc9c8064246ed8444a7403a4287164e97f2",
+          "title": "Sources: a group of 10 banks is providing a $22B loan to Blackstone and Alphabet's venture Crux AI, which provides compute for AI labs, to fund TPU purchases (Bloomberg)",
+          "url": "https://www.techmeme.com/260916/p47",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T22:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2b011ef9",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai",
+      "primary_url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "d700cf430dc425f66695e4b27ba0797350b8fbfd",
+          "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T22:02:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0e2a2db8",
+      "title": "Get hands-on AI agent and automation training for $19.99",
+      "url": "https://mashable.com/tech/sept-16-ai-agent-business-automation-professional-edegree",
+      "primary_url": "https://mashable.com/tech/sept-16-ai-agent-business-automation-professional-edegree",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "74303f2550784d56f8931b1c9d778a73e194ead8",
+          "title": "Get hands-on AI agent and automation training for $19.99",
+          "url": "https://mashable.com/tech/sept-16-ai-agent-business-automation-professional-edegree",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_99cb1ecd",
+      "title": "Google Home opens the door to ChatGPT, Claude, and other AI agents",
+      "url": "https://www.androidpolice.com/google-home-opens-the-door-to-chatgpt-claude-and-other-ai-agents",
+      "primary_url": "https://www.androidpolice.com/google-home-opens-the-door-to-chatgpt-claude-and-other-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "b4322671a8cbace50b70d9b011f4eb258877e8a7",
+          "title": "Google Home opens the door to ChatGPT, Claude, and other AI agents",
+          "url": "https://www.androidpolice.com/google-home-opens-the-door-to-chatgpt-claude-and-other-ai-agents",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:49:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3c981a10",
+      "title": "Review of Meta's Muse: a pretty killer AI assistant and usage rates on the free plan seem generous, but trusting Meta with personal data will take some time (M.G. Siegler/Spyglass)",
+      "url": "https://www.techmeme.com/260916/p45",
+      "primary_url": "https://www.techmeme.com/260916/p45",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "207133f0924fd019e75bf7716176883ebcfcc248",
+          "title": "Review of Meta's Muse: a pretty killer AI assistant and usage rates on the free plan seem generous, but trusting Meta with personal data will take some time (M.G. Siegler/Spyglass)",
+          "url": "https://www.techmeme.com/260916/p45",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:40:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8c042850",
+      "title": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
+      "url": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9",
+      "primary_url": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "c6be2aab3250923ab3dcc9a0c9ecdf01ff152df4",
+          "title": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
+          "url": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:38:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_82103d38",
+      "title": "Should we be skeptical about the AI panic?",
+      "url": "https://www.vox.com/podcasts/502875/ai-existential-risk-jacob-coxon-anthropic-dario-amodei",
+      "primary_url": "https://www.vox.com/podcasts/502875/ai-existential-risk-jacob-coxon-anthropic-dario-amodei",
+      "source_count": 1,
+      "source_names": [
+        "Recode"
+      ],
+      "sources": [
+        {
+          "id": "1e99a0228097be220e1a33a429458bc60c806e9e",
+          "title": "Should we be skeptical about the AI panic?",
+          "url": "https://www.vox.com/podcasts/502875/ai-existential-risk-jacob-coxon-anthropic-dario-amodei",
+          "source": "Recode",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fc0bbeea",
+      "title": "Forget AI ending humanity; what people are really worried about is AI taking their jobs — even if that's not exactly what's happening",
+      "url": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+      "primary_url": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "deb8bb3fdb8466c5df8292825e01d7c0d38b4e77",
+          "title": "Forget AI ending humanity; what people are really worried about is AI taking their jobs — even if that's not exactly what's happening",
+          "url": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:11:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_702e660b",
+      "title": "X adds a \"Trade\" option to its Cashtag feature, letting US users complete trades at brokerages such as Interactive Brokers, Moomoo, Gemini, Kraken, and Coinbase (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/260916/p44",
+      "primary_url": "https://www.techmeme.com/260916/p44",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "95a647791d4d2537abece8a114aab3674be8d948",
+          "title": "X adds a \"Trade\" option to its Cashtag feature, letting US users complete trades at brokerages such as Interactive Brokers, Moomoo, Gemini, Kraken, and Coinbase (Sarah Perez/TechCrunch)",
+          "url": "https://www.techmeme.com/260916/p44",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T21:01:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_07eea16e",
+      "title": "训练一个 4B 模型，使其生成的查询计划比 Postgres 快 81%",
+      "url": "https://rohanbansal.com/qorl",
+      "primary_url": "https://rohanbansal.com/qorl",
+      "source_count": 1,
+      "source_names": [
+        "rohanbansal.com"
+      ],
+      "sources": [
+        {
+          "id": "bf7b9a3dec0eb9b44a135acb8c09978e1e1bb74d",
+          "title": "训练一个 4B 模型，使其生成的查询计划比 Postgres 快 81%",
+          "url": "https://rohanbansal.com/qorl",
+          "source": "rohanbansal.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T20:35:53.762000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4d09ded0",
+      "title": "Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed (Jagmeet Singh/TechCrunch)",
+      "url": "https://www.techmeme.com/260916/p43",
+      "primary_url": "https://www.techmeme.com/260916/p43",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "52c68403e0b4213a9b672205e55e5c90179d3e6d",
+          "title": "Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed (Jagmeet Singh/TechCrunch)",
+          "url": "https://www.techmeme.com/260916/p43",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T20:05:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6e816211",
+      "title": "First-ever battle between two autonomous naval drones 'won' by Ukraine — thanks to a salvo from a remote weapon turret",
+      "url": "https://www.techradar.com/pro/first-ever-battle-between-two-autonomous-naval-drones-won-by-ukraine-thanks-to-a-salvo-from-a-remote-weapon-turret-clone",
+      "primary_url": "https://www.techradar.com/pro/first-ever-battle-between-two-autonomous-naval-drones-won-by-ukraine-thanks-to-a-salvo-from-a-remote-weapon-turret-clone",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "a09472911da749be76cbb63f1ec217b9ddffa59e",
+          "title": "First-ever battle between two autonomous naval drones 'won' by Ukraine — thanks to a salvo from a remote weapon turret",
+          "url": "https://www.techradar.com/pro/first-ever-battle-between-two-autonomous-naval-drones-won-by-ukraine-thanks-to-a-salvo-from-a-remote-weapon-turret-clone",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T20:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_a126a568",
@@ -3462,6 +3893,28 @@
       "score": 7
     },
     {
+      "story_id": "story_8767eeb2",
+      "title": "Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact",
+      "url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact",
+      "primary_url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact",
+      "source_count": 1,
+      "source_names": [
+        "TIME Magazine"
+      ],
+      "sources": [
+        {
+          "id": "6910cba392813e5d73fc20e7537d6bcf84d4f971",
+          "title": "Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact",
+          "url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact",
+          "source": "TIME Magazine",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T19:20:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_16f23417",
       "title": "如今，人工智能的表现已超越部分顶尖的人类预测专家",
       "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
@@ -3490,15 +3943,15 @@
       "primary_url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ffda9139896090d9d576b43a6d539988cbc22511",
+          "id": "e36afa73eeb1aa5793b99d726fec6324e1fe24d3",
           "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
           "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-16T18:59:42Z"
         }
       ],
@@ -3902,28 +4355,6 @@
       "score": 7
     },
     {
-      "story_id": "story_0f6b7a7d",
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-      "primary_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "cc2213ca8ebf5e3ca3e65719d8a27dd377725d2a",
-          "title": "Your AI agents can now control your Google Home devices",
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_d29db284",
       "title": "Outsource your carpet cleaning schedule with $100 off the iRobot Roomba Max 715 robot vacuum",
       "url": "https://mashable.com/life/sep-16-irobot-roomba-max-715-robot-vacuum-deal",
@@ -3940,6 +4371,28 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-09-16T16:58:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b8b58a0",
+      "title": "Training Text-to-Image Models 3.6× Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "primary_url": "https://www.linum.ai/field-notes/jit-ddt",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "bf6f7f03ddbf3634db0518df97f7ee67dde93030",
+          "title": "Training Text-to-Image Models 3.6× Faster",
+          "url": "https://www.linum.ai/field-notes/jit-ddt",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-16T16:58:13Z"
         }
       ],
       "item_count": 1,
@@ -4072,6 +4525,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-16T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_798391ac",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "primary_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "736f997e3daa0bae4db4ab7229c7f75576a8e38c",
+          "title": "Anthropic merges Claude chat and Cowork in one interface",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T16:30:00Z"
         }
       ],
       "item_count": 1,
@@ -4226,6 +4701,28 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-09-16T16:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c4c69bd4",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+      "primary_url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "fac03bde8a321d64339f99f92e4f1e850dd3b92d",
+          "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+          "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -4634,15 +5131,15 @@
       "primary_url": "https://stale.jock.pl",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a3e1f9fe9e0d504c6549f0cc1dfebf260843df14",
+          "id": "2954d8ad3e96d218f9046f50b0805ece69c54d7d",
           "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
           "url": "https://stale.jock.pl",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-16T13:01:52Z"
         }
       ],
@@ -4656,15 +5153,15 @@
       "primary_url": "https://github.com/officefloor/ImpactGate",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ee943888425f53bd256cf126887bffb8c281b087",
+          "id": "2a43c359bfce81d865def5ac361fa0fbe160771f",
           "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
           "url": "https://github.com/officefloor/ImpactGate",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-16T13:01:09Z"
         }
       ],
@@ -4842,6 +5339,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-16T12:15:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0c77d4bb",
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "primary_url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "dd7a337906de9102943738b697dd4729d23a5c6d",
+          "title": "A brief history of AI executives calling for regulation",
+          "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5288,28 +5807,6 @@
       "score": 7
     },
     {
-      "story_id": "story_811df931",
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
-      "primary_url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "9a931e87462ff5e34ff18f7ff50c2eb55de67f05",
-          "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-          "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T09:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_6c69ea86",
       "title": "A.I. Risks Split Silicon Valley and Washington",
       "url": "https://www.nytimes.com/video/technology/100000011155712/sanders-bannon-ai-reforms.html",
@@ -5734,15 +6231,15 @@
       "primary_url": "https://github.com/rapiddweller/datamimic",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "8319ce8a21be06af22148197379e61a7df42150a",
+          "id": "a6345d3d07d362aad1ad7917be828c4da6882c7c",
           "title": "Datamimic – don't let your coding agent invent its own test world",
           "url": "https://github.com/rapiddweller/datamimic",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-16T04:58:36Z"
         }
       ],
@@ -5992,28 +6489,6 @@
       "score": 7
     },
     {
-      "story_id": "story_d3969120",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-      "primary_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9216781a7a97fe6b4b3329672da1cc4e73e3e920",
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T00:20:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_483bf40b",
       "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
       "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
@@ -6052,468 +6527,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-16T00:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e2e84cc6",
-      "title": "Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying (New York Times)",
-      "url": "https://www.techmeme.com/260915/p55",
-      "primary_url": "https://www.techmeme.com/260915/p55",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3443ea999842a84f8d22162442efc33f636205dd",
-          "title": "Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying (New York Times)",
-          "url": "https://www.techmeme.com/260915/p55",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e9a17893",
-      "title": "Google breathes new life into older Pixel Watches with Gemini Personalization, gesture expansions, and more",
-      "url": "https://www.androidpolice.com/google-pixel-watch-update-september-2026",
-      "primary_url": "https://www.androidpolice.com/google-pixel-watch-update-september-2026",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "a7e7463a4aebbe0a38e24a32fc911cdc8acfeee8",
-          "title": "Google breathes new life into older Pixel Watches with Gemini Personalization, gesture expansions, and more",
-          "url": "https://www.androidpolice.com/google-pixel-watch-update-september-2026",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:46:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b9fe9268",
-      "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
-      "url": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it",
-      "primary_url": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "ca439ed7d34d322f321be790f832bb0af9b9fcfa",
-          "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
-          "url": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0799bf82",
-      "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
-      "url": "https://www.techmeme.com/260915/p54",
-      "primary_url": "https://www.techmeme.com/260915/p54",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "6f88fb91d6fb6185664b5e516949605f5c89c800",
-          "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
-          "url": "https://www.techmeme.com/260915/p54",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:30:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1ec57ec5",
-      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "e3cfe664cfbdf1eeef1d24ba82209dd7a47a50db",
-          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7194ea6e",
-      "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind (Mark Zuckerberg/@finkd)",
-      "url": "https://www.techmeme.com/260915/p53",
-      "primary_url": "https://www.techmeme.com/260915/p53",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "c3224efaee4e6a2818bfc00d2a9e7e2d0697d738",
-          "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind (Mark Zuckerberg/@finkd)",
-          "url": "https://www.techmeme.com/260915/p53",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T23:15:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_40bec9d4",
-      "title": "What is recursive self-improvement? Why AI researchers are worried",
-      "url": "https://mashable.com/tech/recursive-self-improvement-ai-explained",
-      "primary_url": "https://mashable.com/tech/recursive-self-improvement-ai-explained",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "5caaa34ed6822273c45f8c50eeb5f1980925ba3e",
-          "title": "What is recursive self-improvement? Why AI researchers are worried",
-          "url": "https://mashable.com/tech/recursive-self-improvement-ai-explained",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:57:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_79e6cb2c",
-      "title": "Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)",
-      "url": "https://www.techmeme.com/260915/p52",
-      "primary_url": "https://www.techmeme.com/260915/p52",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "e00071667929f3221358ffe4f22e5bd8136cd8f2",
-          "title": "Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)",
-          "url": "https://www.techmeme.com/260915/p52",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b0bd9a13",
-      "title": "TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)",
-      "url": "https://www.techmeme.com/260915/p51",
-      "primary_url": "https://www.techmeme.com/260915/p51",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "60fa2b7892cb86778980a330f10b503076f422bb",
-          "title": "TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)",
-          "url": "https://www.techmeme.com/260915/p51",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:30:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eaa5759c",
-      "title": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence — but that it can benefit humanity like no other technology before it",
-      "url": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "primary_url": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "9abe01da14c3c81d0aabbd0bafbaef37cc4b664e",
-          "title": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence — but that it can benefit humanity like no other technology before it",
-          "url": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:23:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6728a372",
-      "title": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow",
-      "url": "https://www.businessinsider.com/satya-nadella-says-one-rule-ai-companies-need-to-follow-2026-9",
-      "primary_url": "https://www.businessinsider.com/satya-nadella-says-one-rule-ai-companies-need-to-follow-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "a0de92037bc8b6ba0e17f83a72b38532680c6c61",
-          "title": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow",
-          "url": "https://www.businessinsider.com/satya-nadella-says-one-rule-ai-companies-need-to-follow-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:17:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_87e25977",
-      "title": "让人工智能变得更安全并非不可能，但要达成共识去这样做，或许就难了",
-      "url": "https://www.economist.com/international/2026/09/15/making-ai-safer-is-not-impossible-but-agreeing-to-do-so-may-be",
-      "primary_url": "https://www.economist.com/international/2026/09/15/making-ai-safer-is-not-impossible-but-agreeing-to-do-so-may-be",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "1bcef406b84d94bc1f0300898fb557a891b6656e",
-          "title": "让人工智能变得更安全并非不可能，但要达成共识去这样做，或许就难了",
-          "url": "https://www.economist.com/international/2026/09/15/making-ai-safer-is-not-impossible-but-agreeing-to-do-so-may-be",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T22:16:47.522000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f4d12b60",
-      "title": "Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO (Financial Times)",
-      "url": "https://www.techmeme.com/260915/p50",
-      "primary_url": "https://www.techmeme.com/260915/p50",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "8ea043fe1624d08442c7ef69688691f5b6d1e618",
-          "title": "Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO (Financial Times)",
-          "url": "https://www.techmeme.com/260915/p50",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:12:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_790c8966",
-      "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US (Matt Bracken/FedScoop)",
-      "url": "https://www.techmeme.com/260915/p49",
-      "primary_url": "https://www.techmeme.com/260915/p49",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "502496fc84beab2d51d96d3f1f614739914f67ef",
-          "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US (Matt Bracken/FedScoop)",
-          "url": "https://www.techmeme.com/260915/p49",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T22:00:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e1a25664",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
-      "primary_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "18620610b65611bcd17e29302d7665abff96469a",
-          "title": "The AI data center boom is colliding with cities scarred by big industry",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T21:47:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_63a5361a",
-      "title": "OpenRouter users spent more on OpenAI's models than on Anthropic's in the week of September 7, the first time that happened since the week of February 26, 2024 (@openrouter)",
-      "url": "https://www.techmeme.com/260915/p48",
-      "primary_url": "https://www.techmeme.com/260915/p48",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "0fa77b8f12623abf240692084f919d63b2fec643",
-          "title": "OpenRouter users spent more on OpenAI's models than on Anthropic's in the week of September 7, the first time that happened since the week of February 26, 2024 (@openrouter)",
-          "url": "https://www.techmeme.com/260915/p48",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T21:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_60113819",
-      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
-      "url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
-      "primary_url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "3f11e85bfed7e2e861d91781b6e955960c4a2603",
-          "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
-          "url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T21:34:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c13ea49b",
-      "title": "Stop settling for a basic VPN with this $50 AI-powered lifetime upgrade",
-      "url": "https://mashable.com/tech/sept-15-ghostshield-ai-powered-vpn-premium-plan-lifetime-subscription",
-      "primary_url": "https://mashable.com/tech/sept-15-ghostshield-ai-powered-vpn-premium-plan-lifetime-subscription",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "bc74cc9687cdb45aaa2048ee178fc6ce509e3084",
-          "title": "Stop settling for a basic VPN with this $50 AI-powered lifetime upgrade",
-          "url": "https://mashable.com/tech/sept-15-ghostshield-ai-powered-vpn-premium-plan-lifetime-subscription",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e2c64fef",
-      "title": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
-      "url": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-      "primary_url": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "44ddca6aad59786635f03fa4eeb00cd6550bb803",
-          "title": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
-          "url": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T20:55:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f5317341",
-      "title": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
-      "url": "https://www.techmeme.com/260915/p46",
-      "primary_url": "https://www.techmeme.com/260915/p46",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "9b18c1b644fcb13bec89db6d808247862e0ad6c4",
-          "title": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
-          "url": "https://www.techmeme.com/260915/p46",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T20:40:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bedc5cf2",
-      "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
-      "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "0196c319a6c774fe5cd5fd3f85b8cec4182f2b7e",
-          "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
-          "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T20:35:39Z"
         }
       ],
       "item_count": 1,
