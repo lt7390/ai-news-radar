@@ -1,30 +1,8 @@
 {
-  "generated_at": "2026-09-18T23:41:00.373711Z",
+  "generated_at": "2026-09-19T01:43:09.764745Z",
   "window_hours": 24,
-  "total_stories": 249,
+  "total_stories": 239,
   "stories": [
-    {
-      "story_id": "story_36e5104f",
-      "title": "Codex CLI 0.155.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "sources": [
-        {
-          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-          "title": "Codex CLI 0.155.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
     {
       "story_id": "story_02baaf3c",
       "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
@@ -57,7 +35,7 @@
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.hacktron.ai",
         "Hacker News (黑客新闻)",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -85,11 +63,11 @@
           "published_at": "2026-09-18T02:47:24Z"
         },
         {
-          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
+          "id": "5190f3b12c8d1358fe29a1da0343a3d8b508f018",
           "title": "Hacking OpenAI",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T02:47:24Z"
         }
       ],
@@ -105,7 +83,7 @@
       "source_names": [
         "Hacker News：AI 热帖",
         "tokenstead.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -125,11 +103,11 @@
           "published_at": "2026-09-18T12:33:41.989000Z"
         },
         {
-          "id": "e6a768ba0ed92a451c40d1e0233143913a0c9b9c",
+          "id": "4ad10fc6005b36c3310ea4cae93fa937cf564062",
           "title": "ZCode, the GLM coding agent, silently uploads your Git history",
           "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T10:35:28Z"
         }
       ],
@@ -228,6 +206,50 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_7bb2290d",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+      "url": "https://www.ithome.com/1/004/369.htm",
+      "primary_url": "https://www.ithome.com/1/004/369.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "52a42f995a90248191b388db964423147f788c8d",
+          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "url": "https://www.ithome.com/1/004/369.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T00:07:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_3a4bf653",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "sources": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_b4e9341f",
@@ -956,182 +978,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_2a8536b1",
-      "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-      "url": "https://www.aibase.com/news/31140",
-      "primary_url": "https://www.aibase.com/news/31140",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "e97c118417914611f112305723ba34bc3b481595",
-          "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "url": "https://www.aibase.com/news/31140",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_79ba9cc3",
-      "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-      "url": "https://www.aibase.com/news/31145",
-      "primary_url": "https://www.aibase.com/news/31145",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "url": "https://www.aibase.com/news/31145",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_a7ef9a51",
-      "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-      "url": "https://www.aibase.com/news/31141",
-      "primary_url": "https://www.aibase.com/news/31141",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "602eaf71239238db143109a582afd97125b9558a",
-          "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "url": "https://www.aibase.com/news/31141",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_d367c745",
-      "title": "SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok",
-      "url": "https://www.aibase.com/news/31142",
-      "primary_url": "https://www.aibase.com/news/31142",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "8a3217514ab611d74a1a68e442075e35e84dfa86",
-          "title": "SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok",
-          "url": "https://www.aibase.com/news/31142",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_a7113f55",
-      "title": "腾讯 AI 语音助手 Chatterfly 低调内测：开口即成稿，数据只存本地",
-      "url": "https://www.aibase.com/news/31144",
-      "primary_url": "https://www.aibase.com/news/31144",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "303d5956306c54ea585d85ced42b0ef21a5b4927",
-          "title": "腾讯 AI 语音助手 Chatterfly 低调内测：开口即成稿，数据只存本地",
-          "url": "https://www.aibase.com/news/31144",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_92a59dd3",
-      "title": "谷歌最强数学推理模型曝光：代号 Mathematica，100 万词元上下文专攻数学难题",
-      "url": "https://www.aibase.com/news/31143",
-      "primary_url": "https://www.aibase.com/news/31143",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "f8e999f2000d811f482837f3e0cd9d64b05a69be",
-          "title": "谷歌最强数学推理模型曝光：代号 Mathematica，100 万词元上下文专攻数学难题",
-          "url": "https://www.aibase.com/news/31143",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:38:20.456417Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_58ec0599",
-      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "sources": [
-        {
-          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
-          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T00:08:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_b2e95e6e",
-      "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-      "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-      "primary_url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "1f3ae896d5b91cc6e74b1391291c99d3f2fdbe24",
-          "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-          "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-          "source": "OpenRouter：Announcements（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_23676497",
       "title": "AI应用：得效果者得新进，得关系者得留存",
       "url": "https://waytoagi.feishu.cn/wiki/KqDfwTwVFihTgYkutbwcHDornXc?from=from_copylink",
@@ -1242,6 +1088,37 @@
       "score": 9820
     },
     {
+      "story_id": "story_7ec14999",
+      "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
+      "url": "https://www.tmtpost.com/8145076.html",
+      "primary_url": "https://www.tmtpost.com/8145076.html",
+      "source_count": 2,
+      "source_names": [
+        "钛媒体 TMTPost",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "7ff74b78c607e322fa46242368d33050d3f93a23",
+          "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
+          "url": "https://www.tmtpost.com/8145076.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T01:25:41Z"
+        },
+        {
+          "id": "2dba94c7b69e66a4680195fa5831507ea88dedfa",
+          "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
+          "url": "https://www.huxiu.com/article/4892322.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T10:37:05Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
       "story_id": "story_a773bfa9",
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
@@ -1280,7 +1157,7 @@
       "source_count": 2,
       "source_names": [
         "The Verge",
-        "Ars Technica"
+        "ArsTechnica"
       ],
       "sources": [
         {
@@ -1292,11 +1169,11 @@
           "published_at": "2026-09-18T15:30:16Z"
         },
         {
-          "id": "b0785ab962be1a74ed1f656aef608c4c6e5af070",
+          "id": "01782228fa436dc8e359d34dc938e665b8fd6f18",
           "title": "Researchers used Claude to hack OpenAI",
           "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
-          "source": "Ars Technica",
-          "site_id": "techurls",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
           "published_at": "2026-09-18T13:30:12Z"
         }
       ],
@@ -1304,8 +1181,96 @@
       "score": 9770
     },
     {
+      "story_id": "story_29e80c2f",
+      "title": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
+      "url": "https://www.tmtpost.com/8145262.html",
+      "primary_url": "https://www.tmtpost.com/8145262.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "52816670bdee9fb19ab4b63d2649531006e393f1",
+          "title": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
+          "url": "https://www.tmtpost.com/8145262.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T01:17:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c83473d7",
+      "title": "当人民币升值遇上AI浪潮：2026中国外贸为何越战越强？",
+      "url": "https://www.huxiu.com/article/4892398.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4892398.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "f8ee487e22f48619dcf9c7d0a9c39b314dd70b91",
+          "title": "当人民币升值遇上AI浪潮：2026中国外贸为何越战越强？",
+          "url": "https://www.huxiu.com/article/4892398.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T01:12:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_96300c14",
+      "title": "Kimi向左，Claude、GPT向右",
+      "url": "https://www.huxiu.com/article/4892403.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4892403.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "da2c4d0596ceb5de2001de8017d40f2c44ceb5f7",
+          "title": "Kimi向左，Claude、GPT向右",
+          "url": "https://www.huxiu.com/article/4892403.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T00:52:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0ee66a08",
+      "title": "Edge AI Daily 早报（9月19日）",
+      "url": "https://www.tmtpost.com/8145335.html",
+      "primary_url": "https://www.tmtpost.com/8145335.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "934d1a8317981db0d014d79c59a2fb864d67a25f",
+          "title": "Edge AI Daily 早报（9月19日）",
+          "url": "https://www.tmtpost.com/8145335.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T00:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_002a70e4",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "primary_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "source_count": 1,
@@ -1314,15 +1279,23 @@
       ],
       "sources": [
         {
-          "id": "181b73cbc05fc6a528830e44e03d896698962a75",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "id": "ef5f71f912c5a84fc2ceeaaadc94c0226447f006",
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-18T23:25:01Z"
+        },
+        {
+          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:25:01Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1348,25 +1321,33 @@
       "score": 9720
     },
     {
-      "story_id": "story_ec7fc910",
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
-      "primary_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "story_id": "story_10426019",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "primary_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "0c1bd037a59b6244a6f044d6be6f27cd933a7063",
-          "title": "AI hallucination nearly triggers US military operation",
-          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "id": "663a96a323219913be187b52641d05a9d051312b",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-18T23:12:32Z"
+          "published_at": "2026-09-18T21:44:33Z"
+        },
+        {
+          "id": "3548fed9b84bf050d6ef37c7aef538e6dda04cc3",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T21:44:33Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1392,28 +1373,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_15c6a29e",
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
-      "primary_url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "781f82ce40180220e94de96e1d6aba4b7c86aa85",
-          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-          "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T20:26:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_6477a016",
       "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
       "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
@@ -1430,28 +1389,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-09-18T19:39:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9f6fb09d",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
-      "primary_url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "a8e523c26d43dcda6bf624e34c048a56d0ea785e",
-          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-          "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T19:20:50Z"
         }
       ],
       "item_count": 1,
@@ -1510,6 +1447,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_3b8ed985",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "primary_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d479775fcc979ef36af5e31135b3fe34313c829e",
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T18:49:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_115cada6",
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
@@ -1554,28 +1513,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_7c276444",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
-      "primary_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "8e1b4bfdf203f2020d8e1a5b7da726b55deaccb4",
-          "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T17:59:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_98ade0f9",
       "title": "AI 怎么当餐厅的“隐形店长”",
       "url": "https://www.huxiu.com/article/4892392.html?f=rss",
@@ -1598,22 +1535,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_12a41a14",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
-      "primary_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+      "story_id": "story_196fa6ab",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+      "primary_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "40f8f17633101a76ba6691c3206a109452db35ca",
-          "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-          "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+          "id": "9d2a6123c5900b8b3991358f78bee1d57f894477",
+          "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-18T17:26:41Z"
+          "published_at": "2026-09-18T17:09:56Z"
         }
       ],
       "item_count": 1,
@@ -1642,28 +1579,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_900a04dd",
-      "title": "Family offices are clamoring for AI investments",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
-      "primary_url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a761efbe30c87803507afbeb3d881989592b9258",
-          "title": "Family offices are clamoring for AI investments",
-          "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_2a90a595",
       "title": "AI safety: No, China will not hit the brakes",
       "url": "https://www.france24.com/en/tv-shows/access-asia/20260918-ai-safety-no-china-will-not-hit-the-brakes",
@@ -1686,28 +1601,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c8227c39",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "primary_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a955efe418cfa1a06646bd16636856b7cf3a486f",
-          "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T15:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_88939f44",
       "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
       "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
@@ -1724,6 +1617,50 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-18T15:22:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b11c2064",
+      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+      "primary_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "54f4caf9e4f418d10522870926c282e1d9569ca1",
+          "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+          "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T15:22:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e0c760b6",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
+      "primary_url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "a199f4c82b80fc95045af01c36bdad898f6a3190",
+          "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+          "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T15:00:08Z"
         }
       ],
       "item_count": 1,
@@ -1834,28 +1771,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-09-18T11:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_115e73ef",
-      "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
-      "url": "https://www.huxiu.com/article/4892322.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4892322.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "2dba94c7b69e66a4680195fa5831507ea88dedfa",
-          "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
-          "url": "https://www.huxiu.com/article/4892322.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T10:37:05Z"
         }
       ],
       "item_count": 1,
@@ -2676,231 +2591,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_5a03a3a3",
-      "title": "奥特曼最新YC对谈：AI时代最大的创业机会，不是做一个更聪明的工具",
-      "url": "https://www.huxiu.com/article/4892165.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4892165.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "5cb2ec66046c5213319089c71200a9a0681b280c",
-          "title": "奥特曼最新YC对谈：AI时代最大的创业机会，不是做一个更聪明的工具",
-          "url": "https://www.huxiu.com/article/4892165.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T01:08:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_958ccbc0",
-      "title": "诺奖得主迈克尔·莱维特：AI将应用于药物研发的每一个环节",
-      "url": "https://m.thepaper.cn/detail/34094827",
-      "primary_url": "https://m.thepaper.cn/detail/34094827",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "013f014f2b5c5ba9f0d5ed6e69d4ee369ceca486",
-          "title": "诺奖得主迈克尔·莱维特：AI将应用于药物研发的每一个环节",
-          "url": "https://m.thepaper.cn/detail/34094827",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T01:07:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9c193a70",
-      "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "b1ab676c3df784c1122b7ef5f78af155d648e0c1",
-          "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T01:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a6c6b014",
-      "title": "Edge AI Daily 早报（9月18日）",
-      "url": "https://www.tmtpost.com/8144183.html",
-      "primary_url": "https://www.tmtpost.com/8144183.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "f47cb1a550c5d93eeae2cce1ddbcbd21c74a554c",
-          "title": "Edge AI Daily 早报（9月18日）",
-          "url": "https://www.tmtpost.com/8144183.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T00:30:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_91d42645",
-      "title": "AI时代的3种人与3种城市，你要做哪一种？",
-      "url": "https://www.huxiu.com/article/4892152.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4892152.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "999c6de85a0f935c74460d111655b04237d33b9a",
-          "title": "AI时代的3种人与3种城市，你要做哪一种？",
-          "url": "https://www.huxiu.com/article/4892152.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T00:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a4990624",
-      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-      "url": "https://www.nature.com/articles/d41586-026-02922-6",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02922-6",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "5b76474abc07674aa37309b0cea3294bd7449cd4",
-          "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-          "url": "https://www.nature.com/articles/d41586-026-02922-6",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0310dec8",
-      "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
-      "url": "https://www.tmtpost.com/8141973.html",
-      "primary_url": "https://www.tmtpost.com/8141973.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "efd89a77ad102f5a907fa3a1c20f678df9318e33",
-          "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
-          "url": "https://www.tmtpost.com/8141973.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b344190e",
-      "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source_count": 3,
-      "source_names": [
-        "techcrunch.com",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "10ec9de1d189ec4a0933b53035ff16548acdfd54",
-          "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "techcrunch.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T11:15:43.941000Z"
-        },
-        {
-          "id": "9a30a07469f77b45b4ef609f874da4c24414a2e5",
-          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-18T09:45:07Z"
-        },
-        {
-          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
-          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T00:07:08Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_8aae9e8a",
-      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "primary_url": "https://code.claude.com/docs/en/changelog",
-      "source_count": 2,
-      "source_names": [
-        "code.claude.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
-          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "url": "https://code.claude.com/docs/en/changelog",
-          "source": "code.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T21:43:30.451000Z"
-        },
-        {
-          "id": "3872bcbd3d7eed8ad192a155581b2802cdf88852",
-          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "url": "https://code.claude.com/docs/en/changelog",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T21:00:32Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_684a81e0",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://news.ycombinator.com/item?id=49752056",
@@ -2911,6 +2601,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "cdeb10f09da75b7f2eed50a21516e8a9fdc68fee",
+          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "url": "https://news.ycombinator.com/item?id=49761432",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T23:04:17Z"
+        },
         {
           "id": "e8cf105bd13827289f91722288b2f1c462f33765",
           "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
@@ -3014,17 +2712,40 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "02e30fa2fdf4b9f6c4d065555ee2f251a049a99a",
-          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-          "url": "https://news.ycombinator.com/item?id=49748553",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T00:11:44Z"
         }
       ],
       "item_count": 14,
+      "score": 9570
+    },
+    {
+      "story_id": "story_8aae9e8a",
+      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "primary_url": "https://code.claude.com/docs/en/changelog",
+      "source_count": 2,
+      "source_names": [
+        "code.claude.com",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
+          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "code.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T21:43:30.451000Z"
+        },
+        {
+          "id": "69aaf5e0a72980c04cc93e6a9091ba576d5eec69",
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-18T21:00:32Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3035,7 +2756,7 @@
       "source_count": 2,
       "source_names": [
         "www.thebignewsletter.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3047,16 +2768,223 @@
           "published_at": "2026-09-18T18:01:27.187000Z"
         },
         {
-          "id": "4382bb2f213bf47b30aa71f43f764a37fe95477f",
+          "id": "e5933bc8c78a0d78ed7067aa60feaf65c45b1088",
           "title": "AI is an elite crime spree",
           "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T15:15:33Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_b344190e",
+      "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source_count": 2,
+      "source_names": [
+        "techcrunch.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "10ec9de1d189ec4a0933b53035ff16548acdfd54",
+          "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "techcrunch.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T11:15:43.941000Z"
+        },
+        {
+          "id": "9a30a07469f77b45b4ef609f874da4c24414a2e5",
+          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-18T09:45:07Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_542b4691",
+      "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "3bccdddee692252631727a6da43781f45a0789a7",
+          "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+          "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T00:31:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_602c0803",
+      "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
+      "url": "https://www.techmeme.com/260918/p38",
+      "primary_url": "https://www.techmeme.com/260918/p38",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "2adfb02a532855d782d78a0ee046537808e48760",
+          "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
+          "url": "https://www.techmeme.com/260918/p38",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T00:30:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e6a31c70",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+      "primary_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a380858c4ab9313760aa9d1bc19e8014b54775e8",
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T00:12:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_514facdf",
+      "title": "Bring back Opus 4.8 in Claude Code",
+      "url": "https://osr.im/notes/claude-code-model-picker-older-opus",
+      "primary_url": "https://osr.im/notes/claude-code-model-picker-older-opus",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "d07c8f750baebd7a04fbdfbebd90f298b5fb45c5",
+          "title": "Bring back Opus 4.8 in Claude Code",
+          "url": "https://osr.im/notes/claude-code-model-picker-older-opus",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-18T23:58:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_25200c9e",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "primary_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "245df078a9edc6e6ef1f9d3ceb82cdbc57ce55ab",
+          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T23:54:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_de94876a",
+      "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
+      "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+      "primary_url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "797b5cbfbfc7f7e0903ad5432d9772f34aa74897",
+          "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
+          "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:34:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7be80a0b",
+      "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)",
+      "url": "https://www.techmeme.com/260918/p36",
+      "primary_url": "https://www.techmeme.com/260918/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "3ad421850ea9a40e4fd2a2b4b36a17764a5f99c5",
+          "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)",
+          "url": "https://www.techmeme.com/260918/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ec7fc910",
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "primary_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "54a03beb9ab34e1551706ec05034e8acb48dd893",
+          "title": "AI hallucination nearly triggers US military operation",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:12:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_4d551811",
@@ -3081,22 +3009,66 @@
       "score": 7
     },
     {
+      "story_id": "story_36c540bb",
+      "title": "Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 (Financial Times)",
+      "url": "https://www.techmeme.com/260918/p34",
+      "primary_url": "https://www.techmeme.com/260918/p34",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "487b02c30f12270a1260df2be4790ea26cb965ec",
+          "title": "Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 (Financial Times)",
+          "url": "https://www.techmeme.com/260918/p34",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T23:05:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a817a2a7",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "primary_url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "418ce55e0c4f302af50f26125e3d991723308357",
+          "id": "579e3998c4a09cbf5d4b3a306c1d11fc4f510681",
           "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
           "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T23:04:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2137c486",
+      "title": "US officials say overreliance on Palantir's Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children (Bloomberg)",
+      "url": "https://www.techmeme.com/260918/p33",
+      "primary_url": "https://www.techmeme.com/260918/p33",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "4986815e182528138528f1c6cd66d7246c63f01c",
+          "title": "US officials say overreliance on Palantir's Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children (Bloomberg)",
+          "url": "https://www.techmeme.com/260918/p33",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T22:50:01Z"
         }
       ],
       "item_count": 1,
@@ -3125,6 +3097,50 @@
       "score": 7
     },
     {
+      "story_id": "story_c98f8212",
+      "title": "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
+      "url": "https://www.techmeme.com/260918/p31",
+      "primary_url": "https://www.techmeme.com/260918/p31",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "61d3303e0b9bfacd72de372cb499b1506cdc18d8",
+          "title": "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
+          "url": "https://www.techmeme.com/260918/p31",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T22:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ea532d8f",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "primary_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "61645a226635386454db02a4cf3a3af3fc422d82",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T22:17:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_1461101e",
       "title": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do' — a staggering prediction about a future superintelligence",
       "url": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
@@ -3141,28 +3157,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_10426019",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-      "primary_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "918432b5ee51c9cc084f0f6d35cf7d3cb1108c98",
-          "title": "Anthropic’s first embedded evaluator is … Accenture?",
-          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T21:44:33Z"
         }
       ],
       "item_count": 1,
@@ -3367,6 +3361,28 @@
       "score": 7
     },
     {
+      "story_id": "story_15c6a29e",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+      "primary_url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "067dd8b816b20d7238924167041529ab833bafe8",
+          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+          "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T20:26:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_e9261961",
       "title": "London-based AI infrastructure startup Nscale files for a US IPO, reports H1 2026 revenue up 1,252% YoY to $140.6M, with a net loss of $1.02B, up from $368.9M (Jordan Novet/CNBC)",
       "url": "https://www.techmeme.com/260918/p26",
@@ -3455,6 +3471,28 @@
       "score": 7
     },
     {
+      "story_id": "story_9f6fb09d",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "primary_url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "79087e8a72ea63a75c1bf5e7730b5fd132487f1e",
+          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T19:20:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a08f1f96",
       "title": "New Android malware can deploy AI to automate device control — and it can even bring itself back from the dead",
       "url": "https://www.techradar.com/pro/security/new-android-malware-can-deploy-ai-to-automate-device-control-and-it-can-even-bring-itself-back-from-the-dead",
@@ -3505,15 +3543,15 @@
       "primary_url": "https://arxiv.org/abs/2510.03215",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "187d860be5d7ba472a5e629f198491327c55518c",
+          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
           "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
           "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T18:55:35Z"
         }
       ],
@@ -3537,28 +3575,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-18T18:55:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3b8ed985",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "primary_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "5e0c2b03b60c5862cbb7a9acbb352368d2b62f1c",
-          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T18:49:30Z"
         }
       ],
       "item_count": 1,
@@ -3593,15 +3609,15 @@
       "primary_url": "https://twitter.com/trq212/status/2101009392611278961",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "15cb8c78d51cf96fb3ffcf962dbeb5e658b6e389",
+          "id": "c7f21ecefa6ba0d781315611f2e0954b016a76a5",
           "title": "Anthropic finally adds AGENTS.md support to Claude Code",
           "url": "https://twitter.com/trq212/status/2101009392611278961",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-18T18:26:34Z"
         }
       ],
@@ -3615,15 +3631,15 @@
       "primary_url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ca2fbb23650f939e230d9aeb0ace5cecd7075c8e",
+          "id": "40ad27f2581ae98348e6bfb9076ec479098ac149",
           "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
           "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T18:08:32Z"
         }
       ],
@@ -3691,6 +3707,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-18T18:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7c276444",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+      "primary_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b160fd5e5f99de28ee98a3876df3c6d5379e532d",
+          "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T17:59:53Z"
         }
       ],
       "item_count": 1,
@@ -3807,6 +3845,28 @@
       "score": 7
     },
     {
+      "story_id": "story_12a41a14",
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+      "primary_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a683b86d61eb6cc7509a53c4d6af8376539c2984",
+          "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T17:26:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_02e66456",
       "title": "Javaer转Agent：学习资料篇",
       "url": "https://juejin.cn/post/7685765300814643200",
@@ -3823,28 +3883,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-09-18T17:18:21.551000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_196fa6ab",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
-      "primary_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "15621c476d9fcd63fd8657d8ff5b3a82a70654be",
-          "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T17:09:56Z"
         }
       ],
       "item_count": 1,
@@ -3911,6 +3949,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-18T16:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_900a04dd",
+      "title": "Family offices are clamoring for AI investments",
+      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
+      "primary_url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "80c465d267f0214fff3146620024553aead25c8f",
+          "title": "Family offices are clamoring for AI investments",
+          "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -4005,22 +4065,22 @@
       "score": 7
     },
     {
-      "story_id": "story_b11c2064",
-      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
-      "primary_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+      "story_id": "story_c8227c39",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
+      "primary_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "534dea1354899a090d626dd10d102802fd34dfad",
-          "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-          "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad",
+          "id": "73b198923c2eb787ebf8d3b8a7900db0dde77088",
+          "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
           "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-09-18T15:22:16Z"
+          "published_at": "2026-09-18T15:30:00Z"
         }
       ],
       "item_count": 1,
@@ -4099,38 +4159,16 @@
       "primary_url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b8620e0e7e37e499999f73df04fac9e328d3edaa",
+          "id": "0870d3972572731bf5e7720932daa176ff33836f",
           "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
           "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-18T15:04:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e0c760b6",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
-      "primary_url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "fc35902c4f8d1aabf910b77fb1f84c6072987f4e",
-          "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-          "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T15:00:08Z"
         }
       ],
       "item_count": 1,
@@ -4297,15 +4335,15 @@
       "primary_url": "https://jev-pong.ably.dev",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "40415dc0e2f1a79ce8f9ebb8126c1683cc05603e",
+          "id": "e467ca3bd4a68c45d85c6eee5bb236831e7c8dff",
           "title": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
           "url": "https://jev-pong.ably.dev",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-18T13:58:15Z"
         }
       ],
@@ -5405,15 +5443,15 @@
       "primary_url": "https://devin.ai/blog/introducing-code-scans",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "eb48dd5a2fc9b9860ffd22ca2eff65a442335688",
+          "id": "d1c23bf93276305f64e5e14ced56982e20b1c1fd",
           "title": "Code Scans",
           "url": "https://devin.ai/blog/introducing-code-scans",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-18T03:00:40Z"
         }
       ],
@@ -5481,248 +5519,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-18T02:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9f5eacb1",
-      "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-      "url": "https://www.techmeme.com/260917/p43",
-      "primary_url": "https://www.techmeme.com/260917/p43",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "9cb08827bb36d7237ede6847f3b492afcc344de9",
-          "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-          "url": "https://www.techmeme.com/260917/p43",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T01:30:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7ff381cf",
-      "title": "Claude Code from Source",
-      "url": "https://claude-code-from-source.com",
-      "primary_url": "https://claude-code-from-source.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "3bff0fac05cfb1616ff69b9dae49635ba4567571",
-          "title": "Claude Code from Source",
-          "url": "https://claude-code-from-source.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T01:14:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_21620de2",
-      "title": "Hackers Used Anthropic's Claude to Break into OpenAI",
-      "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
-      "primary_url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "2b8f7135092ae54c673711bd93eb982cba24f190",
-          "title": "Hackers Used Anthropic's Claude to Break into OpenAI",
-          "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-18T01:11:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_73784fe9",
-      "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'.  But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
-      "url": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company",
-      "primary_url": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "02240de612bc94fb623c3ea32847e0430cc19c71",
-          "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'.  But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
-          "url": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T01:04:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7776b7a5",
-      "title": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
-      "url": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-      "primary_url": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "12e2fcc932b2ceb6989821442f5e35f3f338cc33",
-          "title": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
-          "url": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T01:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dc264893",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "primary_url": "https://cactuscompute.com/needle",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "7ec2629e526437fa7eaf5e1105bc7be24705fcef",
-          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-          "url": "https://cactuscompute.com/needle",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-18T00:11:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_161a0248",
-      "title": "性、人工智能与世界末日",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse",
-      "primary_url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse",
-      "source_count": 1,
-      "source_names": [
-        "www.iankduncan.com"
-      ],
-      "sources": [
-        {
-          "id": "d5a453cdad427008d4e3dabbc74b3a016dcec8e2",
-          "title": "性、人工智能与世界末日",
-          "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse",
-          "source": "www.iankduncan.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T00:02:35.697000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c1dcce87",
-      "title": "无限参数大型语言模型：基于实时数据生成和调整权重",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "primary_url": "https://arxiv.org/abs/2609.18842",
-      "source_count": 1,
-      "source_names": [
-        "arxiv.org"
-      ],
-      "sources": [
-        {
-          "id": "651161081288f9ee7072733d99b3bb397b6b97a7",
-          "title": "无限参数大型语言模型：基于实时数据生成和调整权重",
-          "url": "https://arxiv.org/abs/2609.18842",
-          "source": "arxiv.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T00:02:35.693000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eb990a1e",
-      "title": "China’s UBTech opens world-first factory that builds a humanoid robot every ten minutes — 14,000 square meter plant will deliver army of 10,000 robots a year",
-      "url": "https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year",
-      "primary_url": "https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "56d15a05181ff710c845679a2b72975dd1f0a89c",
-          "title": "China’s UBTech opens world-first factory that builds a humanoid robot every ten minutes — 14,000 square meter plant will deliver army of 10,000 robots a year",
-          "url": "https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8344552c",
-      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "primary_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "65d5c5d8cff053d86780404603afdf7b04d4c9d5",
-          "title": "The FAA's plan to fix air traffic? $875M worth of AI",
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-17T23:49:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4b2c6b78",
-      "title": "Anthropic says Claude \"leads\" 26% of its AI R&D work, up from 1% in March, and \"collaborates\" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)",
-      "url": "https://www.techmeme.com/260917/p41",
-      "primary_url": "https://www.techmeme.com/260917/p41",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "866ee111afa3d08ce8384028bda767f5114ab110",
-          "title": "Anthropic says Claude \"leads\" 26% of its AI R&D work, up from 1% in March, and \"collaborates\" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)",
-          "url": "https://www.techmeme.com/260917/p41",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T23:45:01Z"
         }
       ],
       "item_count": 1,
