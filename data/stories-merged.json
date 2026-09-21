@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T14:34:48.831172Z",
+  "generated_at": "2026-09-21T20:09:00.115362Z",
   "window_hours": 24,
-  "total_stories": 241,
+  "total_stories": 261,
   "stories": [
     {
       "story_id": "story_5a7c9e86",
@@ -26,22 +26,44 @@
       "score": 10020
     },
     {
-      "story_id": "story_07a9efb9",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "primary_url": "https://openai.com/index/v7",
+      "story_id": "story_25363ac6",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "primary_url": "https://openai.com/index/building-standards-next-phase-ai",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
-          "title": "How V7 gives AI agents institutional memory",
-          "url": "https://openai.com/index/v7",
+          "id": "4bdf05773fa238e0dc04ab378c0844200ade6e69",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
+          "published_at": "2026-09-21T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_cbe71413",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "primary_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
         }
       ],
       "item_count": 1,
@@ -70,44 +92,35 @@
       "score": 10020
     },
     {
-      "story_id": "story_0907e10e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source_count": 3,
+      "story_id": "story_6ccadb86",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "primary_url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.buchodi.com",
-        "Hacker News · 24h最热"
+        "Linear：Now（RSS）",
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "5c9a500a63016e575e6887b3642053b45c08b7f4",
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Linear：Now（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
+          "published_at": "2026-09-21T12:26:00Z"
         },
         {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
+          "id": "b246d1ce428cc62d7fc56ab560435ab5917626ef",
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:23:33Z"
         }
       ],
-      "item_count": 3,
-      "score": 9980
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_93960549",
@@ -139,6 +152,81 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_445ea2df",
+      "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
+      "url": "https://x.ai/news/grok-4-7",
+      "primary_url": "https://x.ai/news/grok-4-7",
+      "source_count": 2,
+      "source_names": [
+        "xAI：News（网页）",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
+          "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "xAI：News（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T00:00:00Z"
+        },
+        {
+          "id": "b4a95b78e33021e47a1ed5583afc887f265ee328",
+          "title": "Grok 4.7",
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-21T15:50:15Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_31f151fd",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）"
+      ],
+      "sources": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_d5248fa6",
+      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+      "url": "https://x.com/elonmusk/status/2102082011233931762",
+      "primary_url": "https://x.com/elonmusk/status/2102082011233931762",
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "sources": [
+        {
+          "id": "6795ace021f7be53c5997a411c80eadae2e86061",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "url": "https://x.com/elonmusk/status/2102082011233931762",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T17:06:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_d3270425",
@@ -289,6 +377,28 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T13:45:17.543205Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_373bbbe6",
+      "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
+          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:56:56Z"
         }
       ],
       "item_count": 1,
@@ -933,6 +1043,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_22c4a3c1",
+      "title": "Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍",
+      "url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
+      "primary_url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
+      "source_count": 1,
+      "source_names": [
+        "Tomer Tunguz 博客（VC 分析）"
+      ],
+      "sources": [
+        {
+          "id": "39fd72c2e14c28e9e85c800a62157af153dbcaab",
+          "title": "Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍",
+          "url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
+          "source": "Tomer Tunguz 博客（VC 分析）",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_641e2a70",
       "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
       "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
@@ -953,6 +1085,116 @@
       ],
       "item_count": 1,
       "score": 9920
+    },
+    {
+      "story_id": "story_1e1b8d32",
+      "title": "AI音乐周刊 W.A 046",
+      "url": "https://waytoagi.feishu.cn/wiki/XxZ3wH7KJiFrYdkJd4Lcf1iOnHf?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/XxZ3wH7KJiFrYdkJd4Lcf1iOnHf?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-21"
+      ],
+      "sources": [
+        {
+          "id": "c9665e99f5092ae99f0a8df22ac2984dc252fd22",
+          "title": "AI音乐周刊 W.A 046",
+          "url": "https://waytoagi.feishu.cn/wiki/XxZ3wH7KJiFrYdkJd4Lcf1iOnHf?from=from_copylink",
+          "source": "社区更新 · 2026-09-21",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T20:08:20.535759Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_50d916d6",
+      "title": "GPT-6 Astra 最被低估的用法，居然在这里？",
+      "url": "https://waytoagi.feishu.cn/wiki/HGJTwLmWeikxZNkOCblcuREinGZ?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/HGJTwLmWeikxZNkOCblcuREinGZ?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-21"
+      ],
+      "sources": [
+        {
+          "id": "b10c500ae84729495da2541e93dc9667c77d57c5",
+          "title": "GPT-6 Astra 最被低估的用法，居然在这里？",
+          "url": "https://waytoagi.feishu.cn/wiki/HGJTwLmWeikxZNkOCblcuREinGZ?from=from_copylink",
+          "source": "社区更新 · 2026-09-21",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T20:08:20.535759Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_02924261",
+      "title": "简单讲讲 Agent 的工作原理",
+      "url": "https://waytoagi.feishu.cn/wiki/Mjrpwc7Yuie4NLkwrLPcXy0In9e?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/Mjrpwc7Yuie4NLkwrLPcXy0In9e?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-21"
+      ],
+      "sources": [
+        {
+          "id": "c15a2695a1dbe3e2319a8456e85a66fbe1f55451",
+          "title": "简单讲讲 Agent 的工作原理",
+          "url": "https://waytoagi.feishu.cn/wiki/Mjrpwc7Yuie4NLkwrLPcXy0In9e?from=from_copylink",
+          "source": "社区更新 · 2026-09-21",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T20:08:20.535759Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_fde7ff0f",
+      "title": "聊聊最近爆火的Jev 模型，到底是个啥？",
+      "url": "https://waytoagi.feishu.cn/wiki/RCyxwDssri1Ockk9wNicg1DRnp2?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/RCyxwDssri1Ockk9wNicg1DRnp2?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-21"
+      ],
+      "sources": [
+        {
+          "id": "e46475b56d6bbb949e4f4c1cf0c1d4879be24341",
+          "title": "聊聊最近爆火的Jev 模型，到底是个啥？",
+          "url": "https://waytoagi.feishu.cn/wiki/RCyxwDssri1Ockk9wNicg1DRnp2?from=from_copylink",
+          "source": "社区更新 · 2026-09-21",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T20:08:20.535759Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_cb765cde",
+      "title": "零基础入门 AI，看完这篇就够了",
+      "url": "https://waytoagi.feishu.cn/wiki/NRhjw7I0cijtNSkjAjBcVhACnzd?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/NRhjw7I0cijtNSkjAjBcVhACnzd?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-21"
+      ],
+      "sources": [
+        {
+          "id": "cbed0767fe8ceab444715390f10a0b723247513c",
+          "title": "零基础入门 AI，看完这篇就够了",
+          "url": "https://waytoagi.feishu.cn/wiki/NRhjw7I0cijtNSkjAjBcVhACnzd?from=from_copylink",
+          "source": "社区更新 · 2026-09-21",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-21T20:08:20.535759Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_e01e20c9",
@@ -1021,136 +1263,35 @@
       "score": 9820
     },
     {
-      "story_id": "story_70d52628",
-      "title": "2026年最新提示词工程保姆级教程（文案篇）【AI初学者必看，建议收藏】",
-      "url": "https://waytoagi.feishu.cn/wiki/D78nwgofRiS8Z4kRSBJcIsrSnGh?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/D78nwgofRiS8Z4kRSBJcIsrSnGh?from=from_copylink",
-      "source_count": 1,
+      "story_id": "story_14915a30",
+      "title": "War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+      "source_count": 2,
       "source_names": [
-        "社区更新 · 2026-09-20"
+        "AP World News",
+        "news.google.com"
       ],
       "sources": [
         {
-          "id": "a474149bbc83c05982a0f219e95688eadc388a3b",
-          "title": "2026年最新提示词工程保姆级教程（文案篇）【AI初学者必看，建议收藏】",
-          "url": "https://waytoagi.feishu.cn/wiki/D78nwgofRiS8Z4kRSBJcIsrSnGh?from=from_copylink",
-          "source": "社区更新 · 2026-09-20",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:51:36.008599Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_f3ea6ae2",
-      "title": "9.14—9.20｜本周AI 论文精选",
-      "url": "https://waytoagi.feishu.cn/wiki/S84awsOMjir7sUkUWA5cqXBHnBh?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/S84awsOMjir7sUkUWA5cqXBHnBh?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-20"
-      ],
-      "sources": [
+          "id": "e27200f92d4ae1ed943aa21f47097306b2ba2de4",
+          "title": "War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T12:51:00Z"
+        },
         {
-          "id": "aaa8a782cf15b17db71b77d6ec0c51e497894456",
-          "title": "9.14—9.20｜本周AI 论文精选",
-          "url": "https://waytoagi.feishu.cn/wiki/S84awsOMjir7sUkUWA5cqXBHnBh?from=from_copylink",
-          "source": "社区更新 · 2026-09-20",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:51:36.008599Z"
+          "id": "b140dc12578e6899df90078042166e876ea2db6b",
+          "title": "当地球正面临战争、分裂、失控的人工智能和气候冲击之际，世界各国领导人齐聚联合国 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T09:05:07.782000Z"
         }
       ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_bebb3b6c",
-      "title": "我用 GPT 6 Astra 做了一个 3D 版的《桃花源记》（文中含提示词）",
-      "url": "https://waytoagi.feishu.cn/wiki/KUC7w93SoiJj7wkF5FHcR2htnbf?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/KUC7w93SoiJj7wkF5FHcR2htnbf?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-09-20"
-      ],
-      "sources": [
-        {
-          "id": "a907d43df161dc672a593f23894ef0358f990b2a",
-          "title": "我用 GPT 6 Astra 做了一个 3D 版的《桃花源记》（文中含提示词）",
-          "url": "https://waytoagi.feishu.cn/wiki/KUC7w93SoiJj7wkF5FHcR2htnbf?from=from_copylink",
-          "source": "社区更新 · 2026-09-20",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-20T19:51:36.008599Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_5e09ef77",
-      "title": "New benchmark dropped https://t.co/5lFZNcDNCh",
-      "url": "https://x.com/steipete/status/2101748820237500557",
-      "primary_url": "https://x.com/steipete/status/2101748820237500557",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Steinberger"
-      ],
-      "sources": [
-        {
-          "id": "81486539b9c519f0b5883e559337f6841c5a3a83",
-          "title": "New benchmark dropped https://t.co/5lFZNcDNCh",
-          "url": "https://x.com/steipete/status/2101748820237500557",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-20T19:02:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_433a7827",
-      "title": "Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it overnight and serve it the next day. Saying this as I devour my leftover Manchurian. Have the exact...",
-      "url": "https://x.com/nikunj/status/2101742225906655315",
-      "primary_url": "https://x.com/nikunj/status/2101742225906655315",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
-        {
-          "id": "ac806daca207cbf2d57918134eb9f04948c68286",
-          "title": "Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it overnight and serve it the next day. Saying this as I devour my leftover Manchurian. Have the exact...",
-          "url": "https://x.com/nikunj/status/2101742225906655315",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-20T18:36:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_059b75ee",
-      "title": "Literally impenetrable from agent swarms https://t.co/tg7SZ4d0xu",
-      "url": "https://x.com/levie/status/2101731574668747081",
-      "primary_url": "https://x.com/levie/status/2101731574668747081",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "8ad13c5d6b1a6f9ba4868433b5d41ab5d94def9e",
-          "title": "Literally impenetrable from agent swarms https://t.co/tg7SZ4d0xu",
-          "url": "https://x.com/levie/status/2101731574668747081",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-20T17:53:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
+      "item_count": 2,
+      "score": 9770
     },
     {
       "story_id": "story_84f297f1",
@@ -1178,37 +1319,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-21T05:10:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_a1a62ef8",
-      "title": "US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit",
-      "url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
-      "primary_url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
-      "source_count": 2,
-      "source_names": [
-        "France24 English",
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "8055df5a590f180ddeefbdb6a8c763e6b05b1aaf",
-          "title": "US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit",
-          "url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T08:30:28Z"
-        },
-        {
-          "id": "ce958a5d9e4d1ff9ca5224862a82698ac14fa6c4",
-          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T05:50:56Z"
         }
       ],
       "item_count": 2,
@@ -1246,8 +1356,162 @@
       "score": 9770
     },
     {
+      "story_id": "story_9038b46e",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "primary_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "724ae2ff05442a417357558e67ddf8753a5ce467",
+          "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T19:19:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5c09e796",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "primary_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d9994b450ca339634f67ae3febc9588fa2628d07",
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T17:55:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_313cb8ed",
+      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+      "primary_url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+      "source_count": 1,
+      "source_names": [
+        "NPR Top News"
+      ],
+      "sources": [
+        {
+          "id": "5e0626e18b39ddb5ecbffb259f9e822da24b360d",
+          "title": "Aviation regulators turn to AI to help manage the nation's airspace",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+          "source": "NPR Top News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T17:37:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_74e5c7b0",
+      "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "450a7dc99bfc0b30c6d1cb18cf0d401984bc39ed",
+          "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T16:10:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_63a30b42",
+      "title": "Bayeux Tapestry craze prompts photo ban at British Museum",
+      "url": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum",
+      "primary_url": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "40e2d5b430afaa3fdc5ae2a26db8818eeb0a7839",
+          "title": "Bayeux Tapestry craze prompts photo ban at British Museum",
+          "url": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T15:45:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9392a7db",
+      "title": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果",
+      "url": "http://www.news.cn/20260921/abd4afdb60c544f8b49610517b3b0def/c.html",
+      "primary_url": "http://www.news.cn/20260921/abd4afdb60c544f8b49610517b3b0def/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "2674adc5cc3d1df12ad07bbb45b48647214a5836",
+          "title": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果",
+          "url": "http://www.news.cn/20260921/abd4afdb60c544f8b49610517b3b0def/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:56:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7b1d713d",
+      "title": "人文视角碰撞技术火花，“城市情书”AI微短剧大赛100小时起航",
+      "url": "https://m.thepaper.cn/detail/34111615",
+      "primary_url": "https://m.thepaper.cn/detail/34111615",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "971ea1712fe40d5dd2f607b8cb03b95e02959ebf",
+          "title": "人文视角碰撞技术火花，“城市情书”AI微短剧大赛100小时起航",
+          "url": "https://m.thepaper.cn/detail/34111615",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T14:52:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_93b84abf",
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
       "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
       "primary_url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
       "source_count": 1,
@@ -1264,11 +1528,11 @@
           "published_at": "2026-09-21T13:36:52Z"
         },
         {
-          "id": "20843047f1505c8756314b3edfb42588d1d734d3",
+          "id": "48506473b48c92790e94572641994cefa095be79",
           "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
           "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
           "source": "The Verge",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-21T13:36:52Z"
         }
       ],
@@ -1386,22 +1650,44 @@
       "score": 9720
     },
     {
-      "story_id": "story_74e5c7b0",
-      "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+      "story_id": "story_10530078",
+      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+      "url": "https://www.wired.com/review/apple-mac-mini-m6",
+      "primary_url": "https://www.wired.com/review/apple-mac-mini-m6",
       "source_count": 1,
       "source_names": [
-        "AP World News"
+        "Wired"
       ],
       "sources": [
         {
-          "id": "450a7dc99bfc0b30c6d1cb18cf0d401984bc39ed",
-          "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
-          "source": "AP World News",
+          "id": "19a7ec374e5709f175e0c295e71ff08a12c3a014",
+          "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+          "url": "https://www.wired.com/review/apple-mac-mini-m6",
+          "source": "Wired",
           "site_id": "opmlrss",
-          "published_at": "2026-09-21T12:57:00Z"
+          "published_at": "2026-09-21T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e3cedfb8",
+      "title": "安全与普惠如何兼得？全国首个生成式人工智能安全测试公共服务平台发布",
+      "url": "https://m.thepaper.cn/detail/34114690",
+      "primary_url": "https://m.thepaper.cn/detail/34114690",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "f143ba7d29ab2ed9c5629781e60e22501f8dc803",
+          "title": "安全与普惠如何兼得？全国首个生成式人工智能安全测试公共服务平台发布",
+          "url": "https://m.thepaper.cn/detail/34114690",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T12:59:21Z"
         }
       ],
       "item_count": 1,
@@ -1446,6 +1732,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-21T12:30:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7a457bd9",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "3e8d4d33f20d86bef0f07fbc58ea483af2440937",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1512,28 +1820,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-21T11:02:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_57931012",
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
-      "primary_url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "f39e5ee3e2b144525373ba609a8f80395942cb5a",
-          "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-          "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T10:34:43Z"
         }
       ],
       "item_count": 1,
@@ -1735,6 +2021,36 @@
         }
       ],
       "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b832ac8a",
+      "title": "US, China discuss opening an AI communication channel ahead of Trump-Xi summit",
+      "url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
+      "primary_url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "8055df5a590f180ddeefbdb6a8c763e6b05b1aaf",
+          "title": "US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit",
+          "url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T08:30:28Z"
+        },
+        {
+          "id": "09628e18ff2d7d5f001a88c5efc79a431a9cc91d",
+          "title": "US, China discuss opening an AI communication channel ahead of Trump-Xi summit",
+          "url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T02:22:17Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1958,28 +2274,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_23fdc1aa",
-      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "97df9fa505ef7ba9a1090ce97ef1b7fb5822798e",
-          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f2b58f85",
       "title": "物理 AI 的最后一公里：场景方开清单，技术方交进度｜2026 ITValue Summit数字价值年会",
       "url": "https://www.tmtpost.com/8147121.html",
@@ -2156,6 +2450,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_58156ae7",
+      "title": "US proposes AI incident alert system in talks with China, Bessent says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "6b80a22065df4c5836fe46226da59a6d04af7d26",
+          "title": "US proposes AI incident alert system in talks with China, Bessent says - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T03:41:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b466374c",
       "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
       "url": "https://sspai.com/post/114519",
@@ -2238,28 +2554,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-21T02:34:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b832ac8a",
-      "title": "US, China discuss opening an AI communication channel ahead of Trump-Xi summit",
-      "url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
-      "primary_url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "09628e18ff2d7d5f001a88c5efc79a431a9cc91d",
-          "title": "US, China discuss opening an AI communication channel ahead of Trump-Xi summit",
-          "url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T02:22:17Z"
         }
       ],
       "item_count": 1,
@@ -2552,6 +2846,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_07a9efb9",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "primary_url": "https://openai.com/index/v7",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "5a6399791d196d67ad3bbe7740d1eafaf4a8b6d3",
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_8415b7dd",
       "title": "蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究",
       "url": "https://www.tmtpost.com/8146274.html",
@@ -2684,155 +3000,65 @@
       "score": 9720
     },
     {
-      "story_id": "story_98c9cb97",
-      "title": "US proposes AI safety notification mechanism in talks with China",
-      "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+      "story_id": "story_23fdc1aa",
+      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
       "source_count": 1,
       "source_names": [
-        "Al Jazeera English"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "8dc9ef4d863723450f4ab74bed14cc4854f76881",
-          "title": "US proposes AI safety notification mechanism in talks with China",
-          "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-          "source": "Al Jazeera English",
+          "id": "97df9fa505ef7ba9a1090ce97ef1b7fb5822798e",
+          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-20T19:42:13Z"
+          "published_at": "2026-09-20T21:23:25Z"
         }
       ],
       "item_count": 1,
       "score": 9720
     },
     {
-      "story_id": "story_3d602f0f",
-      "title": "Is the AI industry really ready to slow down?",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-      "primary_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-      "source_count": 1,
+      "story_id": "story_1f8f0587",
+      "title": "谷歌的开放式代理协调器",
+      "url": "https://agentexecutor.io",
+      "primary_url": "https://agentexecutor.io",
+      "source_count": 3,
       "source_names": [
-        "TechCrunch"
+        "agentexecutor.io",
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "50a795d26c16acb0b62d8e55baff6dda0eecbd64",
-          "title": "Is the AI industry really ready to slow down?",
-          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T18:56:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0c6dd0ea",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "164ec01a37ab56060be73e682459465d6ead4ac9",
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
+          "title": "谷歌的开放式代理协调器",
+          "url": "https://agentexecutor.io",
+          "source": "agentexecutor.io",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T00:23:31.830000Z"
         },
         {
-          "id": "65be38beaf10dd8555f5bd1f4899928b4728d8f9",
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "845bb69ff2a14b017ad896e7536f71b324bddb35",
+          "title": "AX – Google’s Open Agentic Orchestrator",
+          "url": "https://agentexecutor.io",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-20T22:32:43Z"
         },
         {
-          "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:50:18Z"
+          "id": "8c4efbbd358030f01911ebf0f82f77b8e5676bf4",
+          "title": "Google's Open Agentic Orchestrator",
+          "url": "https://agentexecutor.io",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T22:32:43Z"
         }
       ],
       "item_count": 3,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0053101f",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "2796cd693c5ae4320ca57ff55507441a16f7c6ca",
-          "title": "Trump now says he wants to form an ‘AI Force’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T15:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e41c515d",
-      "title": "为什么MCP一直都是个糟糕的主意？",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source_count": 3,
-      "source_names": [
-        "maharship.com",
-        "Hacker News (黑客新闻)",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
-          "title": "为什么MCP一直都是个糟糕的主意？",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "maharship.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T06:27:15.988000Z"
-        },
-        {
-          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
-          "title": "MCP was always a bad idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 4,
       "score": 9580
     },
     {
@@ -2867,105 +3093,898 @@
       "score": 9570
     },
     {
-      "story_id": "story_1f8f0587",
-      "title": "谷歌的开放式代理协调器",
-      "url": "https://agentexecutor.io",
-      "primary_url": "https://agentexecutor.io",
-      "source_count": 2,
+      "story_id": "story_b5ee010b",
+      "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
+      "url": "https://juejin.cn/post/7687509634027831348",
+      "primary_url": "https://juejin.cn/post/7687509634027831348",
+      "source_count": 1,
       "source_names": [
-        "agentexecutor.io",
-        "Hacker News · 24h最热"
+        "juejin"
       ],
       "sources": [
         {
-          "id": "d49d3d8daab10cb3d2d9b76f47feec5831634583",
-          "title": "谷歌的开放式代理协调器",
-          "url": "https://agentexecutor.io",
-          "source": "agentexecutor.io",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T00:23:31.830000Z"
-        },
-        {
-          "id": "da87798dabd72fcee1a18c3a67eeeecc710d44c7",
-          "title": "AX – Google’s Open Agentic Orchestrator",
-          "url": "https://agentexecutor.io",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T22:32:43Z"
-        },
-        {
-          "id": "8c4efbbd358030f01911ebf0f82f77b8e5676bf4",
-          "title": "Google's Open Agentic Orchestrator",
-          "url": "https://agentexecutor.io",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T22:32:43Z"
+          "id": "f57387159ce38c6a60e0390e833bdc068ead8763",
+          "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
+          "url": "https://juejin.cn/post/7687509634027831348",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T20:08:38.896000Z"
         }
       ],
-      "item_count": 3,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
-      "story_id": "story_79de60bd",
-      "title": "“海盗脸”拯救了大语言模型免遭删除",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source_count": 2,
+      "story_id": "story_27979c4c",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
+      "source_count": 1,
       "source_names": [
-        "pirateface.co",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
+          "id": "e36862e41bbb3e5f5daaf15dc60125b8dedbd24a",
+          "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:17:42Z"
         },
         {
-          "id": "8310af4959c7455ef20d6bf5c5f07ea8af43c3fa",
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:16:07Z"
+          "id": "38aceca2e2c779aa5661cc906718a4bdba6ec13e",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:27:49Z"
         }
       ],
       "item_count": 2,
-      "score": 9570
+      "score": 7
     },
     {
-      "story_id": "story_345f5e24",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source_count": 2,
+      "story_id": "story_a1e93a41",
+      "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
+      "url": "https://www.techmeme.com/260921/p48",
+      "primary_url": "https://www.techmeme.com/260921/p48",
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "6b6ceff8a6fd755d203be6a3edc2d947801071de",
-          "title": "Prompts Aren't Real",
-          "url": "https://evaluation.club",
+          "id": "11c5486fb0b4582cc28182b2f8e11ae63d9fe491",
+          "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
+          "url": "https://www.techmeme.com/260921/p48",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T19:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9a814d62",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+      "primary_url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "c1dbbbbae3aee020f7550cbc9c068b2810bc9b99",
+          "title": "Frontier AI on Your Own Hardware",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_941eaf08",
+      "title": "OpenAI asks Washington to lead a global AI standards push",
+      "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+      "primary_url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "736a69181b86340e3fe48e598a7863ecddc3b0c0",
+          "title": "OpenAI asks Washington to lead a global AI standards push",
+          "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:38:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8b662c33",
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "primary_url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "59686f97ac862f7ab79c5b7c7d823b9d34fea221",
+          "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-21T18:33:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_beed2237",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
+      "primary_url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "85d976b4d0085f7b2f4909603cdc283ddc7458ef",
+          "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+          "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:33:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8840837d",
+      "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
+      "url": "https://www.techmeme.com/260921/p47",
+      "primary_url": "https://www.techmeme.com/260921/p47",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "9eae1b5aaa250d263794ce2ce1929372b6028f78",
+          "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
+          "url": "https://www.techmeme.com/260921/p47",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:20:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8474517",
+      "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
+      "url": "https://www.techmeme.com/260921/p46",
+      "primary_url": "https://www.techmeme.com/260921/p46",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "03cfd07a494d383efea2656b72ba3cfd7191518b",
+          "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
+          "url": "https://www.techmeme.com/260921/p46",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3e10d5ed",
+      "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
+      "url": "https://www.techmeme.com/260921/p45",
+      "primary_url": "https://www.techmeme.com/260921/p45",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "76c3d5b7041095cc22904427a3f9f259dca77a9b",
+          "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
+          "url": "https://www.techmeme.com/260921/p45",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T18:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b0435d1",
+      "title": "Trump says there are ways to 'rein' in AI 'if we have to'",
+      "url": "https://www.businessinsider.com/trump-ai-justice-department-regulations-2026-9",
+      "primary_url": "https://www.businessinsider.com/trump-ai-justice-department-regulations-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "2a263fdf56d28b88b975eb80ccb3c600401b9fe7",
+          "title": "Trump says there are ways to 'rein' in AI 'if we have to'",
+          "url": "https://www.businessinsider.com/trump-ai-justice-department-regulations-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:59:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e4aa23d6",
+      "title": "AI model costs are pushing startups towards cheaper open weigh",
+      "url": "https://thenextweb.com/news/model-costs-startups-open-weights",
+      "primary_url": "https://thenextweb.com/news/model-costs-startups-open-weights",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0898db68f5e7d4962d6cfe95431c5cc302c90a4d",
+          "title": "AI model costs are pushing startups towards cheaper open weigh",
+          "url": "https://thenextweb.com/news/model-costs-startups-open-weights",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7ddf7833",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://news.ycombinator.com/item?id=49783062",
+      "primary_url": "https://news.ycombinator.com/item?id=49783062",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "30f630630151045c2204c0ce550da30b2ce3cc56",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://news.ycombinator.com/item?id=49790389",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:27:49Z"
+        },
+        {
+          "id": "47865bb95ae39319b45b7a35e74006d276a0d62d",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "url": "https://news.ycombinator.com/item?id=49789982",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T17:00:23Z"
+        },
+        {
+          "id": "b61ec758c9c9650de87ae8d899858fe4e952f212",
+          "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
+          "url": "https://news.ycombinator.com/item?id=49789558",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T16:36:00Z"
+        },
+        {
+          "id": "4808936d67007416ae624df0be9d99f1391585f4",
+          "title": "Grok 4.7",
+          "url": "https://news.ycombinator.com/item?id=49788838",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T15:50:15Z"
+        },
+        {
+          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://news.ycombinator.com/item?id=49787535",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T14:10:49Z"
+        },
+        {
+          "id": "cc71221b224965dc74790655bba58405044334c3",
+          "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://news.ycombinator.com/item?id=49786419",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T12:28:17Z"
+        },
+        {
+          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "url": "https://news.ycombinator.com/item?id=49783062",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T04:28:44Z"
+        },
+        {
+          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
+          "title": "AX – Google’s Open Agentic Orchestrator",
+          "url": "https://news.ycombinator.com/item?id=49780797",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:32:43Z"
+        },
+        {
+          "id": "a693dbd707fba151c6b4db35acee5bd2fe7f7418",
+          "title": "Google's Open Agentic Orchestrator",
+          "url": "https://news.ycombinator.com/item?id=49780797",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:32:43Z"
+        },
+        {
+          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://news.ycombinator.com/item?id=49779802",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T20:32:43Z"
+        }
+      ],
+      "item_count": 10,
+      "score": 7
+    },
+    {
+      "story_id": "story_1c53dc07",
+      "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
+      "url": "https://www.techmeme.com/260921/p44",
+      "primary_url": "https://www.techmeme.com/260921/p44",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "08eb34c3197ad15a6e2554ba911ccfdeeed3180b",
+          "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
+          "url": "https://www.techmeme.com/260921/p44",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_309671c1",
+      "title": "David Pogue: ‘125 Tests of the New AI Siri’",
+      "url": "https://daringfireball.net/linked/2026/09/21/pogue-siri-ai-125",
+      "primary_url": "https://daringfireball.net/linked/2026/09/21/pogue-siri-ai-125",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "69e1a65733dbe34ccc1a5eaa5fa5d39b74021f5b",
+          "title": "David Pogue: ‘125 Tests of the New AI Siri’",
+          "url": "https://daringfireball.net/linked/2026/09/21/pogue-siri-ai-125",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_311f43bb",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+      "primary_url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "eb9d9d264fd3f2a2c2bad123c7a6e017aa04507d",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
+          "published_at": "2026-09-21T17:00:23Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8b5ea54f",
+      "title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
+      "url": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
+      "primary_url": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "18f1c92d63b93d729bf5a1773e02163e0cf644bf",
+          "title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
+          "url": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fee98f44",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+      "primary_url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "cb3939f7f8c5ed222660bdbf300ee338b55d9054",
+          "title": "Google confirms Gemini models hacked three companies in May 2026",
+          "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:57:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_10a2d1f7",
+      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "primary_url": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "50b7d1e0204e8a438a641eb1806774f13e8a4011",
+          "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+          "url": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:53:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f4222726",
+      "title": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
+      "url": "https://daringfireball.net/linked/2026/09/21/butterick-big-ai",
+      "primary_url": "https://daringfireball.net/linked/2026/09/21/butterick-big-ai",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "ee92ace0a7bb5e22503920b9f7a98983052eb1e9",
+          "title": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
+          "url": "https://daringfireball.net/linked/2026/09/21/butterick-big-ai",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:53:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_29356008",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "primary_url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f1836d97a68f8588ef819e91248bc7f6c11da4f1",
+          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:38:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7b29c06e",
+      "title": "People are using ChatGPT for much more than writing and research — these are the 7 ideas I want to steal",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/people-are-using-chatgpt-for-much-more-than-writing-and-research-these-are-the-7-ideas-i-want-to-steal",
+      "primary_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/people-are-using-chatgpt-for-much-more-than-writing-and-research-these-are-the-7-ideas-i-want-to-steal",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "a3924a11a0525c3e219497c294e5ad0e43d4a4a2",
+          "title": "People are using ChatGPT for much more than writing and research — these are the 7 ideas I want to steal",
+          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/people-are-using-chatgpt-for-much-more-than-writing-and-research-these-are-the-7-ideas-i-want-to-steal",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_964553c1",
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "primary_url": "https://github.com/naw103/foremerge",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "14491a31cf03237ad494f7d3482bed799422e1a5",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "url": "https://github.com/naw103/foremerge",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T16:22:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8ffe9416",
+      "title": "Why is there a waitlist for Siri AI in iOS 27?",
+      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist",
+      "primary_url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "afc2b2b374a38b2417605657ca38ed2c8e9ad2e9",
+          "title": "Why is there a waitlist for Siri AI in iOS 27?",
+          "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1add1636",
+      "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
+      "url": "https://www.techmeme.com/260921/p40",
+      "primary_url": "https://www.techmeme.com/260921/p40",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "153e2eaa837a3e7accb5afec433cdb27650b64cf",
+          "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
+          "url": "https://www.techmeme.com/260921/p40",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_268421c2",
+      "title": "Volvo names Klaus Zellmer as chief executive",
+      "url": "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin",
+      "primary_url": "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "19adf6a6bed3a1a3614a05c2e912e80f666be83e",
+          "title": "Volvo names Klaus Zellmer as chief executive",
+          "url": "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:43:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_26df744d",
+      "title": "Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
+      "url": "https://www.techmeme.com/260921/p39",
+      "primary_url": "https://www.techmeme.com/260921/p39",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "35c96b2e57526a2e8221cb169188587e8780be62",
+          "title": "Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
+          "url": "https://www.techmeme.com/260921/p39",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:40:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e0756ac0",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+      "primary_url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "7500850bf3bc9998c7ba977a5082914937754109",
+          "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+          "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:37:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0403bce3",
+      "title": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)",
+      "url": "https://www.techmeme.com/260921/p38",
+      "primary_url": "https://www.techmeme.com/260921/p38",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "9fa8f34be7ae6eac502643f77a86e337b236698e",
+          "title": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)",
+          "url": "https://www.techmeme.com/260921/p38",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0aa8ed05",
+      "title": "Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
+      "url": "https://www.techmeme.com/260921/p37",
+      "primary_url": "https://www.techmeme.com/260921/p37",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a7545935f5f7103b50b0fb36c92c49e0c6a1ffd5",
+          "title": "Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
+          "url": "https://www.techmeme.com/260921/p37",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T15:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5de65324",
+      "title": "An engineer's viral post captures the soul-crushing downside of AI coding",
+      "url": "https://www.businessinsider.com/software-engineer-viral-post-captures-soul-crushing-downside-ai-coding-2026-9",
+      "primary_url": "https://www.businessinsider.com/software-engineer-viral-post-captures-soul-crushing-downside-ai-coding-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "5555bf312bd078a7beb9a76a2c11ea015ab2f01d",
+          "title": "An engineer's viral post captures the soul-crushing downside of AI coding",
+          "url": "https://www.businessinsider.com/software-engineer-viral-post-captures-soul-crushing-downside-ai-coding-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:54:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e6fd3635",
+      "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
+      "url": "https://www.techmeme.com/260921/p36",
+      "primary_url": "https://www.techmeme.com/260921/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "9a2bfaad03205ef8dd6e47d94b2bc0c85f1e41e4",
+          "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
+          "url": "https://www.techmeme.com/260921/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4bc275f6",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+      "primary_url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b50df24f700856caf9fd8347967c3267b32014b5",
+          "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_78118312",
+      "title": "Are Book Publishers Warming Up to the AI Industry?",
+      "url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry",
+      "primary_url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "7b668507adf9dcf7f9217e454b438478fb0ca5b7",
+          "title": "Are Book Publishers Warming Up to the AI Industry?",
+          "url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:34:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6d407da9",
+      "title": "The Claude Delusion",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting",
+      "primary_url": "https://pluralistic.net/2026/09/21/sunsetting",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "15ba9fce53fd1588ed8e251225a842d03dedeaa9",
+          "title": "The Claude Delusion",
+          "url": "https://pluralistic.net/2026/09/21/sunsetting",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T14:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8b9c4d47",
+      "title": "A Microsoft scientist called AI training the largest theft of labor",
+      "url": "https://thenextweb.com/news/microsoft-theft-of-labor-doom-loop-unsealed-brief-openai",
+      "primary_url": "https://thenextweb.com/news/microsoft-theft-of-labor-doom-loop-unsealed-brief-openai",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "1e1641c59724516f5c256b769c5825ac8a1d96d1",
+          "title": "A Microsoft scientist called AI training the largest theft of labor",
+          "url": "https://thenextweb.com/news/microsoft-theft-of-labor-doom-loop-unsealed-brief-openai",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:24:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9d0ffae5",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "primary_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a09caca5d658cbf395001feaef9af6d3daa5cd36",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T14:10:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_0d714768",
@@ -3298,22 +4317,22 @@
       "score": 7
     },
     {
-      "story_id": "story_10530078",
-      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-      "url": "https://www.wired.com/review/apple-mac-mini-m6",
-      "primary_url": "https://www.wired.com/review/apple-mac-mini-m6",
+      "story_id": "story_4541abbd",
+      "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
+      "url": "https://twitter.com/wallstengine/status/2101982843656388644",
+      "primary_url": "https://twitter.com/wallstengine/status/2101982843656388644",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "292cc8ef9fd6b50db739dcd472188637c26d1959",
-          "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-          "url": "https://www.wired.com/review/apple-mac-mini-m6",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T13:00:00Z"
+          "id": "78aa5245886811cc6fc90e2b352681abed918113",
+          "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
+          "url": "https://twitter.com/wallstengine/status/2101982843656388644",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-21T13:06:29Z"
         }
       ],
       "item_count": 1,
@@ -3458,113 +4477,19 @@
       "primary_url": "https://github.com/aru-labs/lossless-memory",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "86bcaffcfc1be96acfa3da1339ade67c4f1ab9b4",
+          "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
           "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
           "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-21T12:28:17Z"
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7ddf7833",
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://news.ycombinator.com/item?id=49783062",
-      "primary_url": "https://news.ycombinator.com/item?id=49783062",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "cc71221b224965dc74790655bba58405044334c3",
-          "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "url": "https://news.ycombinator.com/item?id=49786419",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T12:28:17Z"
-        },
-        {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "url": "https://news.ycombinator.com/item?id=49783062",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "82e0e553856a8be5ef7b1f9d8664799707f067d5",
-          "title": "AX – Google’s Open Agentic Orchestrator",
-          "url": "https://news.ycombinator.com/item?id=49780797",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
-        },
-        {
-          "id": "a693dbd707fba151c6b4db35acee5bd2fe7f7418",
-          "title": "Google's Open Agentic Orchestrator",
-          "url": "https://news.ycombinator.com/item?id=49780797",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:32:43Z"
-        },
-        {
-          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
-          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-          "url": "https://news.ycombinator.com/item?id=49779802",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T20:32:43Z"
-        },
-        {
-          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
-          "title": "MCP was always a bad idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
-          "title": "Prompts aren’t Real",
-          "url": "https://news.ycombinator.com/item?id=49777111",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "item_count": 10,
       "score": 7
     },
     {
@@ -3584,6 +4509,28 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-09-21T12:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cc621b5e",
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility",
+      "primary_url": "https://www.noemamag.com/the-end-of-upward-mobility",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "235dc0aa8e7e6eecf5f36df80d3634e05033d4dd",
+          "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+          "url": "https://www.noemamag.com/the-end-of-upward-mobility",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-21T12:07:16Z"
         }
       ],
       "item_count": 1,
@@ -3876,6 +4823,28 @@
       "score": 7
     },
     {
+      "story_id": "story_57931012",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
+      "primary_url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "ee84a4dd83e191bebd79dd8baedd669390676f62",
+          "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+          "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T10:34:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d5f1776e",
       "title": "After hacking incidents and the industry's existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (Ezra Klein/New York Times)",
       "url": "https://www.techmeme.com/260921/p16",
@@ -4090,28 +5059,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-21T09:20:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_111c80a7",
-      "title": "当地球正面临战争、分裂、失控的人工智能和气候冲击之际，世界各国领导人齐聚联合国 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "b140dc12578e6899df90078042166e876ea2db6b",
-          "title": "当地球正面临战争、分裂、失控的人工智能和气候冲击之际，世界各国领导人齐聚联合国 - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T09:05:07.782000Z"
         }
       ],
       "item_count": 1,
@@ -4382,6 +5329,28 @@
       "score": 7
     },
     {
+      "story_id": "story_e41c515d",
+      "title": "为什么MCP一直都是个糟糕的主意？",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source_count": 1,
+      "source_names": [
+        "maharship.com"
+      ],
+      "sources": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_abc708c5",
       "title": "China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy (Zhang Shidong/South China Morning Post)",
       "url": "https://www.techmeme.com/260921/p6",
@@ -4420,6 +5389,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-21T05:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b6bc1127",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "4a0f2f06980e2b6f584865c2f269ee5696287b9b",
+          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T05:50:56Z"
         }
       ],
       "item_count": 1,
@@ -4926,600 +5917,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-20T20:09:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8833d743",
-      "title": "Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？",
-      "url": "https://juejin.cn/post/7687440193649033222",
-      "primary_url": "https://juejin.cn/post/7687440193649033222",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "56025d04a0a446bdc7bf3dfc3e8087c802ce6870",
-          "title": "Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？",
-          "url": "https://juejin.cn/post/7687440193649033222",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:35:42.487000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a96dd0a",
-      "title": "Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
-          "title": "Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:17:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_af26fd28",
-      "title": "Z.ai encrypted the workspace it uploaded so that only Z.ai could open it. Now only Z.ai can say it was deleted.",
-      "url": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
-      "primary_url": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "1a8b3bacfd9b24870b70042bd9af58ddbeed79f3",
-          "title": "Z.ai encrypted the workspace it uploaded so that only Z.ai could open it. Now only Z.ai can say it was deleted.",
-          "url": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:40:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5ccfafc6",
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent",
-      "primary_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "b034ba332d1a0cb85f442c0dea4730a666117fa9",
-          "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T18:40:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e72caffd",
-      "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
-      "url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp",
-      "primary_url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "db91e71b0363c14148442ba0a5e60ca8d6d97adb",
-          "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
-          "url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_69e26d3e",
-      "title": "Google Gemini allegedly hacked three companies on its own",
-      "url": "https://mashable.com/tech/google-gemini-hacks-three-companies",
-      "primary_url": "https://mashable.com/tech/google-gemini-hacks-three-companies",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "5e56599c57d3ae02b1ec573e23b93530f2fc0ef1",
-          "title": "Google Gemini allegedly hacked three companies on its own",
-          "url": "https://mashable.com/tech/google-gemini-hacks-three-companies",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:26:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a1b8cfb0",
-      "title": "AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)",
-      "url": "https://www.techmeme.com/260920/p11",
-      "primary_url": "https://www.techmeme.com/260920/p11",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "d2618d83bd3a90b8ed1b46e1c31c4ca0485aab3d",
-          "title": "AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)",
-          "url": "https://www.techmeme.com/260920/p11",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T18:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_293511d1",
-      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
-      "url": "https://www.youtube.com/watch?v=KnckQp-c388",
-      "primary_url": "https://www.youtube.com/watch?v=KnckQp-c388",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "7f887038ea1862b0469d3213716c25eb8bb822e3",
-          "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
-          "url": "https://www.youtube.com/watch?v=KnckQp-c388",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T18:11:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3c55f2f0",
-      "title": "Trump says the AI backlash is a Democratic hoax. This week’s polling put Republican opposition to data centres at 47%.",
-      "url": "https://thenextweb.com/news/trump-ai-force-hoax-republican-opposition",
-      "primary_url": "https://thenextweb.com/news/trump-ai-force-hoax-republican-opposition",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "17a98cb1a4d126c1ee534b11e7183a1687ed14a4",
-          "title": "Trump says the AI backlash is a Democratic hoax. This week’s polling put Republican opposition to data centres at 47%.",
-          "url": "https://thenextweb.com/news/trump-ai-force-hoax-republican-opposition",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eff30ad9",
-      "title": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-      "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-      "primary_url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "6eac3472b53be86cf335eea0d6130081f6f94bb3",
-          "title": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:47:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_10f61eaa",
-      "title": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream",
-      "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "4b623314746989dc6e92e9ac06c07068a4619163",
-          "title": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream",
-          "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:11:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8ebb0146",
-      "title": "Apple’s new chief executive built up to unveiling the ideal AI device, then said it was the iPhone.",
-      "url": "https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub",
-      "primary_url": "https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "8a9a2ea4e1c0dcbf7e09e3b98580ca4389df3b73",
-          "title": "Apple’s new chief executive built up to unveiling the ideal AI device, then said it was the iPhone.",
-          "url": "https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:07:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_49875ef5",
-      "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
-      "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
-      "primary_url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "13094490801b436fd94abfa83eccc31543ae5148",
-          "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
-          "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T17:07:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dfee7d7f",
-      "title": "Forget Google Keep and OneNote: Gemini Notebooks changed how I collect and use information",
-      "url": "https://www.androidpolice.com/forget-google-keep-onenote-gemini-notebooks-changed-how-i-collect-use-information",
-      "primary_url": "https://www.androidpolice.com/forget-google-keep-onenote-gemini-notebooks-changed-how-i-collect-use-information",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "a4d0be9ecab4a534e6d9c01833b3fabbb29ec4cb",
-          "title": "Forget Google Keep and OneNote: Gemini Notebooks changed how I collect and use information",
-          "url": "https://www.androidpolice.com/forget-google-keep-onenote-gemini-notebooks-changed-how-i-collect-use-information",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e7480e9",
-      "title": "Zuckerberg’s reason for refusing to coordinate on AI safety is now the argument in an antitrust suit against four rivals.",
-      "url": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
-      "primary_url": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "b3920a850f082a0df9f7556080018e19f047b1d3",
-          "title": "Zuckerberg’s reason for refusing to coordinate on AI safety is now the argument in an antitrust suit against four rivals.",
-          "url": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T16:55:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9d1a05e",
-      "title": "Amodei wrote that coordinating on pace would need an antitrust waiver. Altman said OpenAI would not wait for one. Both lines are now in a lawsuit.",
-      "url": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
-      "primary_url": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ad4110383d92f4fadd8d7cf19caf60b5948b2fe2",
-          "title": "Amodei wrote that coordinating on pace would need an antitrust waiver. Altman said OpenAI would not wait for one. Both lines are now in a lawsuit.",
-          "url": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T16:49:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d5183d4d",
-      "title": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
-      "url": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina",
-      "primary_url": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "85f7263b9b731ddee300fdaba0d38b72438e526e",
-          "title": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
-          "url": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T16:32:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d7a53bcf",
-      "title": "An AI agent tried to guess what wine I was drinking based on my description — and the results were mixed to say the least",
-      "url": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
-      "primary_url": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "e2bbbfd691288c56cceede37f0bc8a2832034c4e",
-          "title": "An AI agent tried to guess what wine I was drinking based on my description — and the results were mixed to say the least",
-          "url": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T16:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_720c2bd0",
-      "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
-      "url": "https://www.techmeme.com/260920/p9",
-      "primary_url": "https://www.techmeme.com/260920/p9",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "6c739f57b54ae05caf39957dd9bb8fa2f170528f",
-          "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
-          "url": "https://www.techmeme.com/260920/p9",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8904af56",
-      "title": "你能分辨出哪些图片是AI生成的吗？",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source_count": 1,
-      "source_names": [
-        "slop-sense.labtoagi.com"
-      ],
-      "sources": [
-        {
-          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
-          "title": "你能分辨出哪些图片是AI生成的吗？",
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "slop-sense.labtoagi.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:44:20.618000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_04d88edf",
-      "title": "Jev Collection",
-      "url": "https://academy.dair.ai/resources/jev-field-notes",
-      "primary_url": "https://academy.dair.ai/resources/jev-field-notes",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "3400c254fad65bba57b9a0e49e502cf211e1434e",
-          "title": "Jev Collection",
-          "url": "https://academy.dair.ai/resources/jev-field-notes",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:34:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f2356667",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source_count": 1,
-      "source_names": [
-        "softwarecrisis.dev"
-      ],
-      "sources": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6330aa8b",
-      "title": "2026-09-20 The World this Week - 《封面故事》通讯：人工智能军备竞赛能否停止？",
-      "url": "https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped",
-      "primary_url": "https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "f0b49b60c40a541d7351076ce66426a1948185a0",
-          "title": "2026-09-20 The World this Week - 《封面故事》通讯：人工智能军备竞赛能否停止？",
-          "url": "https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:12:42.015000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_528c5feb",
-      "title": "A huge amount of employees are being encouraged to use AI at work - but most still don’t know why",
-      "url": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
-      "primary_url": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "66fc13dfdf0f563f86bfc731b0203e4566bcdbfa",
-          "title": "A huge amount of employees are being encouraged to use AI at work - but most still don’t know why",
-          "url": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b24eab99",
-      "title": "AI actress Tilly Norwood bugs out, speaks Cantonese in Piers Morgan interview",
-      "url": "https://mashable.com/tech/tilly-norwood-piers-morgan-cantonese-glitch",
-      "primary_url": "https://mashable.com/tech/tilly-norwood-piers-morgan-cantonese-glitch",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "a05fd2c7fb8ef43c2876d5884ce0924e6647ad35",
-          "title": "AI actress Tilly Norwood bugs out, speaks Cantonese in Piers Morgan interview",
-          "url": "https://mashable.com/tech/tilly-norwood-piers-morgan-cantonese-glitch",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:02:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_66a4a635",
-      "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)",
-      "url": "https://www.techmeme.com/260920/p8",
-      "primary_url": "https://www.techmeme.com/260920/p8",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "63e441804c96667065d500e5851f92aa6be6fdbc",
-          "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)",
-          "url": "https://www.techmeme.com/260920/p8",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_97ac8e86",
-      "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source_count": 1,
-      "source_names": [
-        "qwen.ai"
-      ],
-      "sources": [
-        {
-          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
-          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "qwen.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T14:40:14.401000Z"
         }
       ],
       "item_count": 1,
