@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T13:45:57.814020Z",
+  "generated_at": "2026-09-22T17:48:08.189793Z",
   "category": "ai",
-  "total": 335,
+  "total": 360,
   "items": [
     {
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
@@ -34,14 +34,44 @@
       "ts": "2026-09-22T00:00:00Z"
     },
     {
-      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-      "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-      "url": "https://x.com/elonmusk/status/2102082011233931762",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "_site": "AI HOT",
-      "tier": 1,
+      "title": "Priorities and principles for effective third party assessments",
+      "title_zh": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
       "ai": true,
-      "ts": "2026-09-21T17:06:20Z"
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "title_zh": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "title_zh": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "_site": "AI HOT",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T16:38:14Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+      "title_zh": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "_site": "AI HOT",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T16:53:30.664000Z"
     },
     {
       "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
@@ -117,6 +147,16 @@
       "title": "OpenRouter 推出 Batch API，批量推理可享半价",
       "title_zh": "OpenRouter 推出 Batch API，批量推理可享半价",
       "url": "https://openrouter.ai/blog/announcements/batch-api",
+      "source": "OpenRouter：Announcements（RSS）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+      "title_zh": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+      "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
       "source": "OpenRouter：Announcements（RSS）",
       "_site": "AI HOT",
       "tier": 1,
@@ -464,24 +504,94 @@
       "ts": "2026-09-22T12:59:21.039000Z"
     },
     {
-      "title": "With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences.. It’s because good products are all about curation &amp; gardening and not throwing the kitchen sink at agents expec...",
-      "title_zh": "With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences.. It’s because good products are all about curation &amp; gardening and not throwing the kitchen sink at agents expec...",
-      "url": "https://x.com/nikunj/status/2102049065504739366",
-      "source": "Follow Builders · X · Nikunj Kothari",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-09-21T14:55:26Z"
+      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+      "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News：AI 热帖",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T14:35:15Z"
     },
     {
-      "title": "I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!",
-      "title_zh": "I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!",
-      "url": "https://x.com/rauchg/status/2102089968860721335",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "_site": "Follow Builders",
-      "tier": 2,
+      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+      "title_zh": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "source": "LlamaIndex：产品、工程与评测",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T17:37:58Z"
+      "ts": "2026-09-22T14:38:40.870000Z"
+    },
+    {
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "source": "X：Arena (@arena)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T15:13:34Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+      "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+      "url": "https://x.com/claudeai/status/2102435511222890900",
+      "source": "X：Claude (@claudeai)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T16:31:01Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+      "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+      "url": "https://x.com/mark_k/status/2102437510731219218",
+      "source": "@mark_k",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T16:38:58Z"
+    },
+    {
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+      "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T16:41:45Z"
+    },
+    {
+      "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+      "title_zh": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+      "url": "https://x.com/OpenRouter/status/2102438921213014078",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T16:44:34Z"
+    },
+    {
+      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+      "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+      "url": "https://x.com/bcherny/status/2102439069053747549",
+      "source": "X：Boris Cherny (@bcherny)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T16:45:10Z"
+    },
+    {
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+      "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+      "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T17:41:36.934000Z"
     },
     {
       "title": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal...",
@@ -624,106 +734,6 @@
       "ts": "2026-09-22T04:26:46Z"
     },
     {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "title_zh": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T14:39:22Z"
-    },
-    {
-      "title": "人文视角碰撞技术火花，“城市情书”AI微短剧大赛100小时起航",
-      "title_zh": "人文视角碰撞技术火花，“城市情书”AI微短剧大赛100小时起航",
-      "url": "https://m.thepaper.cn/detail/34111615",
-      "source": "澎湃新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T14:52:25Z"
-    },
-    {
-      "title": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果",
-      "title_zh": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果",
-      "url": "http://www.news.cn/20260921/abd4afdb60c544f8b49610517b3b0def/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T14:56:16Z"
-    },
-    {
-      "title": "AI发展放缓对能源股意味着什么",
-      "title_zh": "AI发展放缓对能源股意味着什么",
-      "url": "https://www.tmtpost.com/8148083.html",
-      "source": "钛媒体 TMTPost",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T15:00:27Z"
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "title_zh": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
-      "source": "ArsTechnica",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T15:37:56Z"
-    },
-    {
-      "title": "Bayeux Tapestry craze prompts photo ban at British Museum",
-      "title_zh": "Bayeux Tapestry craze prompts photo ban at British Museum",
-      "url": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum",
-      "source": "France24 English",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T15:45:07Z"
-    },
-    {
-      "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
-      "title_zh": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
-      "source": "AP World News",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T16:10:00Z"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "title_zh": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T16:38:51Z"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "title_zh": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
-      "source": "ArsTechnica",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T16:57:26Z"
-    },
-    {
-      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
-      "title_zh": "Aviation regulators turn to AI to help manage the nation's airspace",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
-      "source": "NPR Top News",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T17:37:56Z"
-    },
-    {
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
       "title_zh": "Meta’s AI agent has been blocked from using Amazon.com",
       "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
@@ -832,6 +842,36 @@
       "tier": 3,
       "ai": true,
       "ts": "2026-09-21T23:44:28Z"
+    },
+    {
+      "title": "Why AI companies can’t be trusted to self-regulate",
+      "title_zh": "Why AI companies can’t be trusted to self-regulate",
+      "url": "https://www.nature.com/articles/d41586-026-03014-1",
+      "source": "Nature",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Will AI really kill us all? The science behind the hype",
+      "title_zh": "Will AI really kill us all? The science behind the hype",
+      "url": "https://www.nature.com/articles/d41586-026-02941-3",
+      "source": "Nature",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "title_zh": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
     },
     {
       "title": "AI差点引发中美冲突：人类的安全，不能指望每次都有一个“彼得罗夫”",
@@ -1264,16 +1304,6 @@
       "ts": "2026-09-22T11:05:30Z"
     },
     {
-      "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
-      "title_zh": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
-      "source": "AP World News",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-22T11:06:00Z"
-    },
-    {
       "title": "AI深度介入电影工业改变了什么？对话导演陆川",
       "title_zh": "AI深度介入电影工业改变了什么？对话导演陆川",
       "url": "http://www.news.cn/20260922/66c7c6182b944d8da5e95b47b79557eb/c.html",
@@ -1354,6 +1384,16 @@
       "ts": "2026-09-22T12:11:09Z"
     },
     {
+      "title": "Andy Burnham seeks common ground with Trump at the UN and pitches the UK as a major AI player - AP News",
+      "title_zh": "Andy Burnham seeks common ground with Trump at the UN and pitches the UK as a major AI player - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEVsWFoyS1p5V0doSkxXdFo1alpmRDJLQ0w2Y2NXZDhwSDR3TzJFNTUtb0xvbmlWcmF6R09OYjNRMWxhUmNRZ3VOYXluMTRoUjZtcjQ0UXFkWVBYTWNqYnhCMHhJVG1yVXh2Z29zczFFSC1qMmU4VnlucmppMnpPMkJGMlVUZ3lXRzVhME96ZU90TUhvQ0JCaVI5bnlUcENoeDNN?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T12:22:35Z"
+    },
+    {
       "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
       "title_zh": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
       "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
@@ -1404,514 +1444,114 @@
       "ts": "2026-09-22T13:18:00Z"
     },
     {
-      "title": "DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？",
-      "title_zh": "DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？",
-      "url": "https://juejin.cn/post/7687537292214501412",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "Jev是什么AI模型？不做自然语言生成为何引发热议",
-      "title_zh": "Jev是什么AI模型？不做自然语言生成为何引发热议",
-      "url": "https://juejin.cn/post/7687583607784636426",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "聊聊我的AI学习方法与思考！",
-      "title_zh": "聊聊我的AI学习方法与思考！",
-      "url": "https://juejin.cn/post/7687505412876075008",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "Hyrax AI",
-      "title_zh": "Hyrax AI",
-      "url": "https://www.producthunt.com/products/tristan-benozer",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "AI Creative Insights by Decode",
-      "title_zh": "AI Creative Insights by Decode",
-      "url": "https://www.producthunt.com/products/decode-by-entropik",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "Milliseconds.ai",
-      "title_zh": "Milliseconds.ai",
-      "url": "https://www.producthunt.com/products/milliseconds-ai",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "之前用 AI 两小时写的塔罗网站，我真把它做上线了，然后呢？",
-      "title_zh": "之前用 AI 两小时写的塔罗网站，我真把它做上线了，然后呢？",
-      "url": "https://juejin.cn/post/7686767414039396367",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:45:33.926000Z"
-    },
-    {
-      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "title_zh": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:53:27Z"
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident is \"the responsibility of the OpenAI management, not a bunch of agents\" (Yash Roy/Bloomberg)",
-      "title_zh": "US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident is \"the responsibility of the OpenAI management, not a bunch of agents\" (Yash Roy/Bloomberg)",
-      "url": "https://www.techmeme.com/260921/p34",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T13:55:01Z"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "title_zh": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:10:49Z"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "title_zh": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:10:49Z"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "title_zh": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://news.ycombinator.com/item?id=49787535",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:10:49Z"
-    },
-    {
-      "title": "A Microsoft scientist called AI training the largest theft of labor",
-      "title_zh": "A Microsoft scientist called AI training the largest theft of labor",
-      "url": "https://thenextweb.com/news/microsoft-theft-of-labor-doom-loop-unsealed-brief-openai",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:24:55Z"
-    },
-    {
-      "title": "The Claude Delusion",
-      "title_zh": "The Claude Delusion",
-      "url": "https://pluralistic.net/2026/09/21/sunsetting",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:30:24Z"
-    },
-    {
-      "title": "Are Book Publishers Warming Up to the AI Industry?",
-      "title_zh": "Are Book Publishers Warming Up to the AI Industry?",
-      "url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:34:00Z"
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "title_zh": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "title_zh": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T14:39:22Z"
+      "ts": "2026-09-22T14:30:00Z"
     },
     {
-      "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
-      "title_zh": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
-      "url": "https://www.techmeme.com/260921/p36",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "2026腾冲科学家论坛曼谷专题活动关注AI与合作",
+      "title_zh": "2026腾冲科学家论坛曼谷专题活动关注AI与合作",
+      "url": "http://www.news.cn/20260922/2a570eda97e341ebb63655711d99ebbe/c.html",
+      "source": "新华网 / 新华社新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T14:40:00Z"
+      "ts": "2026-09-22T14:52:36Z"
     },
     {
-      "title": "An engineer's viral post captures the soul-crushing downside of AI coding",
-      "title_zh": "An engineer's viral post captures the soul-crushing downside of AI coding",
-      "url": "https://www.businessinsider.com/software-engineer-viral-post-captures-soul-crushing-downside-ai-coding-2026-9",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T14:54:53Z"
-    },
-    {
-      "title": "Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
-      "title_zh": "Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
-      "url": "https://www.techmeme.com/260921/p37",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:15:00Z"
-    },
-    {
-      "title": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)",
-      "title_zh": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)",
-      "url": "https://www.techmeme.com/260921/p38",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:35:01Z"
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "title_zh": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
-      "source": "Ars Technica",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:37:56Z"
-    },
-    {
-      "title": "Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
-      "title_zh": "Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
-      "url": "https://www.techmeme.com/260921/p39",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:40:01Z"
-    },
-    {
-      "title": "Volvo names Klaus Zellmer as chief executive",
-      "title_zh": "Volvo names Klaus Zellmer as chief executive",
-      "url": "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:43:17Z"
-    },
-    {
-      "title": "Grok 4.7",
-      "title_zh": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:50:15Z"
-    },
-    {
-      "title": "Grok 4.7",
-      "title_zh": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:50:15Z"
-    },
-    {
-      "title": "Grok 4.7",
-      "title_zh": "Grok 4.7",
-      "url": "https://news.ycombinator.com/item?id=49788838",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:50:15Z"
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
-      "title_zh": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
-      "url": "https://www.techmeme.com/260921/p40",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T15:55:01Z"
-    },
-    {
-      "title": "Why is there a waitlist for Siri AI in iOS 27?",
-      "title_zh": "Why is there a waitlist for Siri AI in iOS 27?",
-      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T16:00:00Z"
-    },
-    {
-      "title": "Amazon blocks Meta's Muse AI shopping agent",
-      "title_zh": "Amazon blocks Meta's Muse AI shopping agent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T16:08:50Z"
-    },
-    {
-      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "title_zh": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "url": "https://github.com/naw103/foremerge",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-21T16:22:06Z"
-    },
-    {
-      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "title_zh": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "url": "https://news.ycombinator.com/item?id=49789356",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-21T16:22:06Z"
-    },
-    {
-      "title": "The agents, they just want to talk",
-      "title_zh": "The agents, they just want to talk",
-      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-21T16:22:26Z"
-    },
-    {
-      "title": "People are using ChatGPT for much more than writing and research — these are the 7 ideas I want to steal",
-      "title_zh": "People are using ChatGPT for much more than writing and research — these are the 7 ideas I want to steal",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/people-are-using-chatgpt-for-much-more-than-writing-and-research-these-are-the-7-ideas-i-want-to-steal",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T16:35:24Z"
-    },
-    {
-      "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
-      "title_zh": "Grok 4.7 Intelligence, Performance and Price Analysis",
-      "url": "https://news.ycombinator.com/item?id=49789558",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T16:36:00Z"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "title_zh": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "title_zh": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T16:38:51Z"
+      "ts": "2026-09-22T15:00:00Z"
     },
     {
-      "title": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-      "title_zh": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-      "url": "https://daringfireball.net/linked/2026/09/21/butterick-big-ai",
-      "source": "Daring Fireball",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "title_zh": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T16:53:06Z"
+      "ts": "2026-09-22T15:00:00Z"
     },
     {
-      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
-      "title_zh": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
-      "source": "New York Times",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
+      "title_zh": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T16:53:06Z"
+      "ts": "2026-09-22T15:27:00Z"
     },
     {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "title_zh": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
-      "source": "Ars Technica",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "title_zh": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T16:57:26Z"
+      "ts": "2026-09-22T16:00:00Z"
     },
     {
-      "title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
-      "title_zh": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
-      "url": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "title_zh": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:00:00Z"
+      "ts": "2026-09-22T16:01:10Z"
     },
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "title_zh": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "title_zh": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:00:23Z"
+      "ts": "2026-09-22T16:30:00Z"
     },
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "title_zh": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "title_zh": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:00:23Z"
+      "ts": "2026-09-22T16:30:07Z"
     },
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "title_zh": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "title_zh": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:00:23Z"
+      "ts": "2026-09-22T16:42:23Z"
     },
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "title_zh": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://news.ycombinator.com/item?id=49789982",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+      "title_zh": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+      "url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "source": "France24 English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:00:23Z"
-    },
-    {
-      "title": "David Pogue: ‘125 Tests of the New AI Siri’",
-      "title_zh": "David Pogue: ‘125 Tests of the New AI Siri’",
-      "url": "https://daringfireball.net/linked/2026/09/21/pogue-siri-ai-125",
-      "source": "Daring Fireball",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:20:56Z"
-    },
-    {
-      "title": "Big AI to humanity: drop dead",
-      "title_zh": "Big AI to humanity: drop dead",
-      "url": "https://matthewbutterick.com/chron/drop-dead.html",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:23:19Z"
-    },
-    {
-      "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
-      "title_zh": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
-      "url": "https://www.techmeme.com/260921/p44",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:25:01Z"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:27:49Z"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:27:49Z"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:27:49Z"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://news.ycombinator.com/item?id=49790389",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:27:49Z"
-    },
-    {
-      "title": "AI model costs are pushing startups towards cheaper open weigh",
-      "title_zh": "AI model costs are pushing startups towards cheaper open weigh",
-      "url": "https://thenextweb.com/news/model-costs-startups-open-weights",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T17:30:24Z"
+      "ts": "2026-09-22T17:09:26Z"
     },
     {
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -2437,16 +2077,6 @@
       "title": "Claude Status – Elevated errors for multiple models",
       "title_zh": "Claude Status – Elevated errors for multiple models",
       "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-22T01:05:19Z"
-    },
-    {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "title_zh": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "source": "Hacker News (黑客新闻)",
       "_site": "Info Flow",
       "tier": 5,
@@ -2474,11 +2104,21 @@
       "ts": "2026-09-22T01:05:19Z"
     },
     {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "title_zh": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T01:05:19Z"
+    },
+    {
       "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
       "title_zh": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
       "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T01:24:49Z"
@@ -2487,8 +2127,8 @@
       "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
       "title_zh": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
       "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T01:24:49Z"
@@ -3056,16 +2696,6 @@
     {
       "title": "Will Open Source Survive the Agents That Replaced It?",
       "title_zh": "Will Open Source Survive the Agents That Replaced It?",
-      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-22T12:05:17Z"
-    },
-    {
-      "title": "Will Open Source Survive the Agents That Replaced It?",
-      "title_zh": "Will Open Source Survive the Agents That Replaced It?",
       "url": "https://news.ycombinator.com/item?id=49799910",
       "source": "hackernews",
       "_site": "NewsNow",
@@ -3089,6 +2719,16 @@
       "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
       "source": "Hacker News · 24h最热",
       "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T12:05:17Z"
+    },
+    {
+      "title": "Will Open Source Survive the Agents That Replaced It?",
+      "title_zh": "Will Open Source Survive the Agents That Replaced It?",
+      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-22T12:05:17Z"
@@ -3314,6 +2954,16 @@
       "ts": "2026-09-22T13:00:00Z"
     },
     {
+      "title": "The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model",
+      "title_zh": "The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model",
+      "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:00:34Z"
+    },
+    {
       "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
       "title_zh": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
       "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
@@ -3352,6 +3002,606 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T13:24:40Z"
+    },
+    {
+      "title": "AI Is Antithetical to Learning",
+      "title_zh": "AI Is Antithetical to Learning",
+      "url": "https://jola.dev/posts/ai-antithetical-learning",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:24:40Z"
+    },
+    {
+      "title": "As a mom of 3, I use AI to make printable chore charts and activity books for my kids. They spend less time on screens.",
+      "title_zh": "As a mom of 3, I use AI to make printable chore charts and activity books for my kids. They spend less time on screens.",
+      "url": "https://www.businessinsider.com/mom-ai-activity-books-chore-charts-chatgpt-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:27:15Z"
+    },
+    {
+      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "title_zh": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:27:29Z"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "title_zh": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:52:15Z"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "title_zh": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:52:15Z"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "title_zh": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:52:15Z"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "title_zh": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://news.ycombinator.com/item?id=49801324",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:52:15Z"
+    },
+    {
+      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+      "title_zh": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+      "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T13:52:56Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "title_zh": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:30:00Z"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "title_zh": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:35:15Z"
+    },
+    {
+      "title": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+      "title_zh": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+      "url": "https://thenextweb.com/news/palo-alto-networks-unit-42",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:41:04Z"
+    },
+    {
+      "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "title_zh": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:42:59Z"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "title_zh": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:42:59Z"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "title_zh": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:42:59Z"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "title_zh": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://news.ycombinator.com/item?id=49802161",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:42:59Z"
+    },
+    {
+      "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
+      "title_zh": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "www.cryptocellar.org",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:45:25.428000Z"
+    },
+    {
+      "title": "‘Hi, it’s AI speaking’: Base44 just launched AI that can handle phone calls",
+      "title_zh": "‘Hi, it’s AI speaking’: Base44 just launched AI that can handle phone calls",
+      "url": "https://www.techradar.com/pro/hi-its-ai-speaking-base44-just-launched-ai-that-can-handle-phone-calls",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:49:54Z"
+    },
+    {
+      "title": "Snorkel AI, which offers an \"agentic data development platform\" with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)",
+      "title_zh": "Snorkel AI, which offers an \"agentic data development platform\" with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)",
+      "url": "https://www.techmeme.com/260922/p32",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T14:50:01Z"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "title_zh": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:00:00Z"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "title_zh": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:00:00Z"
+    },
+    {
+      "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+      "title_zh": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:07:03Z"
+    },
+    {
+      "title": "Vacate a drone restriction that criminalized recording immigration agents",
+      "title_zh": "Vacate a drone restriction that criminalized recording immigration agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:07:03Z"
+    },
+    {
+      "title": "Vacate a drone restriction that criminalized recording immigration agents",
+      "title_zh": "Vacate a drone restriction that criminalized recording immigration agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:07:03Z"
+    },
+    {
+      "title": "Vacate a drone restriction that criminalized recording immigration agents",
+      "title_zh": "Vacate a drone restriction that criminalized recording immigration agents",
+      "url": "https://news.ycombinator.com/item?id=49802581",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:07:03Z"
+    },
+    {
+      "title": "I talked to Google Gemini Live for an hour; the lag was never the problem",
+      "title_zh": "I talked to Google Gemini Live for an hour; the lag was never the problem",
+      "url": "https://www.androidpolice.com/i-talked-to-google-gemini-live-lag-was-never-the-problem",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:15:10Z"
+    },
+    {
+      "title": "What We Tell Our Kids About AI",
+      "title_zh": "What We Tell Our Kids About AI",
+      "url": "https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai",
+      "source": "TIME Magazine",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:25:11Z"
+    },
+    {
+      "title": "Mercedes-Benz is putting a British AI driver into its production cars",
+      "title_zh": "Mercedes-Benz is putting a British AI driver into its production cars",
+      "url": "https://thenextweb.com/news/wayve-mercedes-production-deal",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:34:05Z"
+    },
+    {
+      "title": "Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)",
+      "title_zh": "Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)",
+      "url": "https://www.techmeme.com/260922/p34",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:35:00Z"
+    },
+    {
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "title_zh": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:38:24Z"
+    },
+    {
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "title_zh": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:38:24Z"
+    },
+    {
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "title_zh": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:38:24Z"
+    },
+    {
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "title_zh": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://news.ycombinator.com/item?id=49803085",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T15:38:24Z"
+    },
+    {
+      "title": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
+      "title_zh": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
+      "url": "https://daringfireball.net/linked/2026/09/22/siri-ai-settlements",
+      "source": "Daring Fireball",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:44:45Z"
+    },
+    {
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "title_zh": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "source": "New York Times",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:55:03Z"
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "title_zh": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:00:00Z"
+    },
+    {
+      "title": "I tested ChatGPT against Copilot in Microsoft Word",
+      "title_zh": "I tested ChatGPT against Copilot in Microsoft Word",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/copilot-worked-best-when-i-knew-what-i-wanted-chatgpt-was-better-when-i-didnt-i-tested-both-ai-assistants-in-word-and-i-wasnt-expecting-the-difference-to-be-so-obvious",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:01:39Z"
+    },
+    {
+      "title": "In his UN General Assembly speech, President Trump says the US is \"officially\" renaming AI to \"super intelligence\" because \"artificial\" makes it sound fake (Richard Lawler/The Verge)",
+      "title_zh": "In his UN General Assembly speech, President Trump says the US is \"officially\" renaming AI to \"super intelligence\" because \"artificial\" makes it sound fake (Richard Lawler/The Verge)",
+      "url": "https://www.techmeme.com/260922/p35",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:10:00Z"
+    },
+    {
+      "title": "Parloa says it is partnering with Zalando on AI customer conversations",
+      "title_zh": "Parloa says it is partnering with Zalando on AI customer conversations",
+      "url": "https://thenextweb.com/news/parloa-zalando-ai-conversations",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:13:09Z"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "title_zh": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:15:06Z"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "title_zh": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:15:06Z"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "title_zh": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://news.ycombinator.com/item?id=49803683",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:15:06Z"
+    },
+    {
+      "title": "The Narrow Path to a Xi-Trump AI Deal",
+      "title_zh": "The Narrow Path to a Xi-Trump AI Deal",
+      "url": "https://time.com/article/2026/09/22/trump-xi-ai-deal-china",
+      "source": "TIME Magazine",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:17:57Z"
+    },
+    {
+      "title": "Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)",
+      "title_zh": "Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)",
+      "url": "https://www.techmeme.com/260922/p36",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:20:01Z"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "title_zh": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:29:05Z"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "title_zh": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:29:05Z"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "title_zh": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:29:05Z"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "title_zh": "Claude Opus 5.5",
+      "url": "https://news.ycombinator.com/item?id=49803892",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:29:05Z"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "title_zh": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:30:07Z"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+      "title_zh": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+      "url": "https://www.techmeme.com/260922/p37",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:36:21Z"
+    },
+    {
+      "title": "OpenAI 具备得天独厚的优势，能够紧随 Jev 的步伐",
+      "title_zh": "OpenAI 具备得天独厚的优势，能够紧随 Jev 的步伐",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "source": "arcturus-labs.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:37:52.173000Z"
+    },
+    {
+      "title": "英国寻求在二十国集团（G20）峰会上促成一项全球人工智能协议 - politico.eu",
+      "title_zh": "英国寻求在二十国集团（G20）峰会上促成一项全球人工智能协议 - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnhUSFE0UVNDWXlaVDduNFJKZUtNT1dBTnN4ak12OThUcWNUb3FJNzRWOTc2NGVHNkhxQjlWNkNMRzlkWExOUjZ5U1FhQmRRdmpyX09UTmctYmdJeVJ6NUVBejNmcVZYTWlvUm5OelpYaWFkQ3ZKZklkdUJuaF9QVkdyM1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:37:52.187000Z"
+    },
+    {
+      "title": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+      "title_zh": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+      "url": "https://www.techmeme.com/260922/p38",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:42:22Z"
+    },
+    {
+      "title": "克劳德 作品5.5",
+      "title_zh": "克劳德 作品5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "www.anthropic.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:25.134000Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "url": "https://news.ycombinator.com/item?id=49804316",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
+      "title_zh": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
+      "url": "https://thenextweb.com/news/frontier-ai-joint-statement-21-countries-eu",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:54:41Z"
+    },
+    {
+      "title": "I replaced Gemini with a local AI model on my phone; battery drain was surprisingly low",
+      "title_zh": "I replaced Gemini with a local AI model on my phone; battery drain was surprisingly low",
+      "url": "https://www.androidpolice.com/replaced-gemini-with-local-ai-model-on-my-phone-and-battery-drain-was-surprisingly-low",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:00:10Z"
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "title_zh": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T17:26:36Z"
+    },
+    {
+      "title": "特朗普在联合国演讲中抨击伊朗和古巴，为人工智能发展辩护，并回顾了自己的执政成绩 - CNBC",
+      "title_zh": "特朗普在联合国演讲中抨击伊朗和古巴，为人工智能发展辩护，并回顾了自己的执政成绩 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKX2dnMnltcXRQN1pydURuZGxSOXY3eEtIVVd2TjVHbC1wNHQ1TDkwLXVpLWgtUjZaZlJ6VTJITnZpY1FOdmc4M1ZjQ3NvaElTOE5ROWEtZFkxRTBhc1d6TUZndzkwU0VWdmfSAW9BVV95cUxNZlhHeFhKV3ZfQ1dWcDZHck45Y3djSnZVbkttXzRsNlFxVFBVV1FEM0ZlYTZSd3RXc3hRa29oNWJsUWpOd2JGUmRMQWlBVmZGSW5QM05NQVUwZEFaejNOU3AxYmZmaW9wOUFNOFVfdjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:37:35.736000Z"
     }
   ]
 }
