@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T17:48:08.189793Z",
+  "generated_at": "2026-09-22T20:31:11.759948Z",
   "category": "ai",
-  "total": 360,
+  "total": 404,
   "items": [
     {
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
@@ -54,6 +54,26 @@
       "ts": "2026-09-22T00:00:00Z"
     },
     {
+      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "title_zh": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Codex CLI 0.156.0",
+      "title_zh": "Codex CLI 0.156.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T00:00:00Z"
+    },
+    {
       "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
       "title_zh": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
@@ -74,34 +94,44 @@
       "ts": "2026-09-22T16:53:30.664000Z"
     },
     {
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-      "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "_site": "AI HOT",
-      "tier": 1,
+      "title": "Introducing GPT-6 Sol and Luna",
+      "title_zh": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
       "ai": true,
-      "ts": "2026-09-21T19:41:25.079000Z"
+      "ts": "2026-09-22T18:00:00Z"
     },
     {
-      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
-      "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
-      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
+      "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "_site": "AI HOT",
-      "tier": 1,
+      "tier": 0,
       "ai": true,
-      "ts": "2026-09-21T20:11:34Z"
+      "ts": "2026-09-22T18:00:00Z"
     },
     {
-      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-      "source": "公众号：小米 MiMo",
-      "_site": "AI HOT",
-      "tier": 1,
+      "title": "Better prompt caching for GPT-6",
+      "title_zh": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
       "ai": true,
-      "ts": "2026-09-21T20:18:52Z"
+      "ts": "2026-09-22T21:00:00Z"
+    },
+    {
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+      "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "_site": "AI HOT",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-22T21:00:00Z"
     },
     {
       "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
@@ -594,74 +624,134 @@
       "ts": "2026-09-22T17:41:36.934000Z"
     },
     {
-      "title": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal...",
-      "title_zh": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal...",
-      "url": "https://x.com/garrytan/status/2102095924893827501",
-      "source": "Follow Builders · X · Garry Tan",
-      "_site": "Follow Builders",
-      "tier": 2,
+      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+      "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+      "url": "https://x.com/arena/status/2102454952576868638",
+      "source": "X：Arena (@arena)",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T18:01:38Z"
+      "ts": "2026-09-22T17:48:17Z"
     },
     {
-      "title": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh",
-      "title_zh": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh",
-      "url": "https://x.com/steipete/status/2102116206371315854",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-09-21T19:22:13Z"
-    },
-    {
-      "title": "AI is reviving the American Dream. https://t.co/H7T1Yzdm07",
-      "title_zh": "AI is reviving the American Dream. https://t.co/H7T1Yzdm07",
-      "url": "https://x.com/amasad/status/2102120769232978174",
-      "source": "Follow Builders · X · Amjad Masad",
-      "_site": "Follow Builders",
-      "tier": 2,
+      "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+      "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+      "url": "https://x.com/ChatGPT/status/2102462020339613966",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T19:40:21Z"
+      "ts": "2026-09-22T18:16:22Z"
     },
     {
-      "title": "零基础入门 AI，看完这篇就够了",
-      "title_zh": "零基础入门 AI，看完这篇就够了",
-      "url": "https://waytoagi.feishu.cn/wiki/NRhjw7I0cijtNSkjAjBcVhACnzd?from=from_copylink",
-      "source": "社区更新 · 2026-09-21",
-      "_site": "WaytoAGI",
-      "tier": 2,
+      "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
+      "title_zh": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
+      "url": "https://x.com/sherwinwu/status/2102462783707344907",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T20:08:20.535759Z"
+      "ts": "2026-09-22T18:19:24Z"
     },
     {
-      "title": "简单讲讲 Agent 的工作原理",
-      "title_zh": "简单讲讲 Agent 的工作原理",
-      "url": "https://waytoagi.feishu.cn/wiki/Mjrpwc7Yuie4NLkwrLPcXy0In9e?from=from_copylink",
-      "source": "社区更新 · 2026-09-21",
-      "_site": "WaytoAGI",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-09-21T20:08:20.535759Z"
-    },
-    {
-      "title": "GPT-6 Astra 最被低估的用法，居然在这里？",
-      "title_zh": "GPT-6 Astra 最被低估的用法，居然在这里？",
-      "url": "https://waytoagi.feishu.cn/wiki/HGJTwLmWeikxZNkOCblcuREinGZ?from=from_copylink",
-      "source": "社区更新 · 2026-09-21",
-      "_site": "WaytoAGI",
-      "tier": 2,
+      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+      "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T20:08:20.535759Z"
+      "ts": "2026-09-22T18:20:06Z"
     },
     {
-      "title": "AI音乐周刊 W.A 046",
-      "title_zh": "AI音乐周刊 W.A 046",
-      "url": "https://waytoagi.feishu.cn/wiki/XxZ3wH7KJiFrYdkJd4Lcf1iOnHf?from=from_copylink",
-      "source": "社区更新 · 2026-09-21",
-      "_site": "WaytoAGI",
-      "tier": 2,
+      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
+      "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2102463839283617992",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-09-21T20:08:20.535759Z"
+      "ts": "2026-09-22T18:23:35Z"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+      "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+      "url": "https://x.com/sama/status/2102464201335984392",
+      "source": "X：Sam Altman (@sama)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T18:25:02Z"
+    },
+    {
+      "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+      "title_zh": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+      "url": "https://x.com/sama/status/2102465143997440308",
+      "source": "X：Sam Altman (@sama)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T18:28:46Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+      "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+      "source": "MarkTechPost（RSS）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T18:59:35Z"
+    },
+    {
+      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+      "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "source": "Hacker News：AI 热帖",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T19:03:38Z"
+    },
+    {
+      "title": "Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布",
+      "title_zh": "Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布",
+      "url": "https://x.com/arena/status/2102480304409878769",
+      "source": "X：Arena (@arena)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T19:29:01Z"
+    },
+    {
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T19:29:49.288000Z"
+    },
+    {
+      "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
+      "title_zh": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T19:41:37.417000Z"
+    },
+    {
+      "title": "五角大楼调查称过度依赖AI导致美军导弹误击伊朗Minab学校",
+      "title_zh": "五角大楼调查称过度依赖AI导致美军导弹误击伊朗Minab学校",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-22T20:00:35.186000Z"
     },
     {
       "title": "Nah. I no longer live in email or text, I live in the chat with my agent(s). https://t.co/dh3JdEgVPN",
@@ -734,58 +824,18 @@
       "ts": "2026-09-22T04:26:46Z"
     },
     {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "title_zh": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T17:55:18Z"
-    },
-    {
-      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "title_zh": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
-      "source": "Wired",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T18:33:02Z"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "title_zh": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T19:19:21Z"
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "title_zh": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T20:15:58Z"
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "title_zh": "California tightens rules on AI data center energy and water use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-21T20:29:45Z"
-    },
-    {
       "title": "Climate Week talks balance hope for clean energy against uncertainty over artificial intelligence - AP News",
       "title_zh": "Climate Week talks balance hope for clean energy against uncertainty over artificial intelligence - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEE1bjlaME9fOXRpcmJBNGpnUFpWZmM5R1U3SDdTQTJRSzVvaTRZLXEyU21GekYzYjdqYTRjUFJHM3gyRU5vcFpVZWFhbXZHMEZOaEc0WWd6eGJOek9MYk53TmdmaXM3cHl3bmJwQTB2bEFLUmZIbkJjcHZFZFl1NjY3bFFYb09LbkhXb3ZFZzNwVExfMmI3Vm96Z2w?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-21T21:54:00Z"
+    },
+    {
+      "title": "Climate Week talks balance hope for clean energy against uncertainty over artificial intelligence - apnews.com",
+      "title_zh": "Climate Week talks balance hope for clean energy against uncertainty over artificial intelligence - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEE1bjlaME9fOXRpcmJBNGpnUFpWZmM5R1U3SDdTQTJRSzVvaTRZLXEyU21GekYzYjdqYTRjUFJHM3gyRU5vcFpVZWFhbXZHMEZOaEc0WWd6eGJOek9MYk53TmdmaXM3cHl3bmJwQTB2bEFLUmZIbkJjcHZFZFl1NjY3bFFYb09LbkhXb3ZFZzNwVExfMmI3Vm96Z2w?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -946,6 +996,16 @@
     {
       "title": "Bill Gates pushes for 'smart use' of AI as his foundation builds more representative language data - AP News",
       "title_zh": "Bill Gates pushes for 'smart use' of AI as his foundation builds more representative language data - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzBIeW1fMDhvOXFsYXprcWpMZzI1aGVkb2Jlb3dzVlNELTh1dUQ5LWlzcEtyQjRBWVpiR05Hem5INUZISVE1cTY4X0daeVJtdVFvRF9WaFdkSkx0STJFTG9BRFVOZmM3UWJGazRiUUNHV251VjNZbmtMRHhhZTl2VjRkalRIWG8wR1czMTI5TkZaN0NfeFdMY2l3Nm9reHZ0RjVxNEdBazJWZw?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T02:47:00Z"
+    },
+    {
+      "title": "Bill Gates pushes for 'smart use' of AI as his foundation builds more representative language data - apnews.com",
+      "title_zh": "Bill Gates pushes for 'smart use' of AI as his foundation builds more representative language data - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzBIeW1fMDhvOXFsYXprcWpMZzI1aGVkb2Jlb3dzVlNELTh1dUQ5LWlzcEtyQjRBWVpiR05Hem5INUZISVE1cTY4X0daeVJtdVFvRF9WaFdkSkx0STJFTG9BRFVOZmM3UWJGazRiUUNHV251VjNZbmtMRHhhZTl2VjRkalRIWG8wR1czMTI5TkZaN0NfeFdMY2l3Nm9reHZ0RjVxNEdBazJWZw?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -1184,6 +1244,16 @@
       "ts": "2026-09-22T09:02:00Z"
     },
     {
+      "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability - apnews.com",
+      "title_zh": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXNoR2dST3VwYWoxa3VaUVVGNGZhZ1lJNzNudG9pRDBBUkUzb3lyTlEzczRlb1RlcDVfQ3VZYm1hLXJaS2VSeUx4amxCY0IwNm9pOEZaeG9qLUZFVm1GNkJjT08wbnZpRnFLNWloSWc4QWUzZnlHS1RQTlQyQTNKLW00VkthZ29MRDc5aWxLTmRxa01CMUc5T1ROV3VFYUpE?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T09:02:00Z"
+    },
+    {
       "title": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
       "title_zh": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
       "url": "https://www.tmtpost.com/8143622.html",
@@ -1246,6 +1316,16 @@
     {
       "title": "China’s Alibaba unveils new powerful chip and ambitious AI model plans - AP News",
       "title_zh": "China’s Alibaba unveils new powerful chip and ambitious AI model plans - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTRtVzYzLVV4RU1BMzBfOEtFcDdvcW00SGRzTFBUUE9vSFAtM1JudG9wZVFMWjVpcVpseHlrNDNJdWxPcjRtWVVpOTVMNUpXQjM4N1ZkU1lHV3N4MjNwREQ3VXNxVzhlV25fR3F2UXkxMUZkTVpzWHJXRG1sNE1odFpJcFplTjhYU2FwV1FHb1RReTFxMXZtWDZQV2E?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T10:01:00Z"
+    },
+    {
+      "title": "China’s Alibaba unveils new powerful chip and ambitious AI model plans - apnews.com",
+      "title_zh": "China’s Alibaba unveils new powerful chip and ambitious AI model plans - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTRtVzYzLVV4RU1BMzBfOEtFcDdvcW00SGRzTFBUUE9vSFAtM1JudG9wZVFMWjVpcVpseHlrNDNJdWxPcjRtWVVpOTVMNUpXQjM4N1ZkU1lHV3N4MjNwREQ3VXNxVzhlV25fR3F2UXkxMUZkTVpzWHJXRG1sNE1odFpJcFplTjhYU2FwV1FHb1RReTFxMXZtWDZQV2E?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -1554,374 +1634,74 @@
       "ts": "2026-09-22T17:09:26Z"
     },
     {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "title_zh": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "title_zh": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:55:18Z"
+      "ts": "2026-09-22T18:00:00Z"
     },
     {
-      "title": "Trump says there are ways to 'rein' in AI 'if we have to'",
-      "title_zh": "Trump says there are ways to 'rein' in AI 'if we have to'",
-      "url": "https://www.businessinsider.com/trump-ai-justice-department-regulations-2026-9",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Introducing GPT-6 Sol and Luna",
+      "title_zh": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T17:59:33Z"
+      "ts": "2026-09-22T18:00:00Z"
     },
     {
-      "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
-      "title_zh": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
-      "url": "https://www.techmeme.com/260921/p45",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - apnews.com",
+      "title_zh": "New book by Princess Diana’s brother prompts war of words with King Charles III - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T18:00:39Z"
+      "ts": "2026-09-22T18:06:00Z"
     },
     {
-      "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
-      "title_zh": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
-      "url": "https://www.techmeme.com/260921/p46",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:15:01Z"
-    },
-    {
-      "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
-      "title_zh": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
-      "url": "https://www.techmeme.com/260921/p47",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:20:02Z"
-    },
-    {
-      "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
-      "title_zh": "Boomers love making AI images of their grandkids. Millennial parents hate it",
-      "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:30:05Z"
-    },
-    {
-      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "title_zh": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
-      "source": "Wired",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:33:02Z"
-    },
-    {
-      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "title_zh": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:33:56Z"
-    },
-    {
-      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "title_zh": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:33:56Z"
-    },
-    {
-      "title": "OpenAI asks Washington to lead a global AI standards push",
-      "title_zh": "OpenAI asks Washington to lead a global AI standards push",
-      "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:38:07Z"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "title_zh": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:53:01Z"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "title_zh": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:53:01Z"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "title_zh": "Frontier AI on Your Own Hardware",
-      "url": "https://news.ycombinator.com/item?id=49791647",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:53:01Z"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "title_zh": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:53:01Z"
-    },
-    {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "title_zh": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://robocurve.org/roboharm",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:58:26Z"
-    },
-    {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "title_zh": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://robocurve.org/roboharm",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:58:26Z"
-    },
-    {
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "title_zh": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://news.ycombinator.com/item?id=49791720",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:58:26Z"
-    },
-    {
-      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
-      "title_zh": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
-      "url": "https://robocurve.org/roboharm",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T18:58:26Z"
-    },
-    {
-      "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
-      "title_zh": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
-      "url": "https://www.techmeme.com/260921/p48",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:05:00Z"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:17:42Z"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:17:42Z"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://news.ycombinator.com/item?id=49791997",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:17:42Z"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:17:42Z"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "title_zh": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "title_zh": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:19:21Z"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:23:33Z"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:23:33Z"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://news.ycombinator.com/item?id=49792067",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:23:33Z"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:23:33Z"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "title_zh": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:43:49Z"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "title_zh": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:43:49Z"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "title_zh": "Transformers Explained Visually",
-      "url": "https://news.ycombinator.com/item?id=49792342",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:43:49Z"
-    },
-    {
-      "title": "不要用人工智能来写作",
-      "title_zh": "不要用人工智能来写作",
-      "url": "https://paulbakker.io/writing/no-ai-for-writing",
-      "source": "paulbakker.io",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:49:52.271000Z"
-    },
-    {
-      "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-      "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "source": "www.reddit.com",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:49:53.499000Z"
-    },
-    {
-      "title": "Grok 4.7",
-      "title_zh": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "source": "x.ai",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:49:54.380000Z"
-    },
-    {
-      "title": "亚马逊阻止Meta的新款Muse AI助手在amazon.com上购物",
-      "title_zh": "亚马逊阻止Meta的新款Muse AI助手在amazon.com上购物",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
-      "source": "www.forbes.com",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-21T19:49:55.498000Z"
-    },
-    {
-      "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
-      "title_zh": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
-      "url": "https://juejin.cn/post/7687509634027831348",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": false,
-      "ts": "2026-09-21T20:08:38.896000Z"
+      "ts": "2026-09-22T18:40:30Z"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "title_zh": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "title_zh": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+      "source": "ArsTechnica",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-21T20:15:58Z"
+      "ts": "2026-09-22T19:28:23Z"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "title_zh": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T20:00:00Z"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "title_zh": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-22T21:00:00Z"
     },
     {
       "title": "New bill to protect American citizens access to AI – Please read and share",
@@ -2074,11 +1854,21 @@
       "ts": "2026-09-22T00:24:00Z"
     },
     {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "title_zh": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T00:24:00Z"
+    },
+    {
       "title": "Claude Status – Elevated errors for multiple models",
       "title_zh": "Claude Status – Elevated errors for multiple models",
       "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T01:05:19Z"
@@ -2087,8 +1877,8 @@
       "title": "Claude Status – Elevated errors for multiple models",
       "title_zh": "Claude Status – Elevated errors for multiple models",
       "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T01:05:19Z"
@@ -2109,6 +1899,16 @@
       "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "source": "Hacker News",
       "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T01:05:19Z"
+    },
+    {
+      "title": "Elevated errors for multiple models – Resolved",
+      "title_zh": "Elevated errors for multiple models – Resolved",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T01:05:19Z"
@@ -2187,16 +1987,6 @@
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
       "title_zh": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-22T04:02:09Z"
-    },
-    {
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "title_zh": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
       "source": "Hacker News (黑客新闻)",
       "_site": "Info Flow",
       "tier": 5,
@@ -2209,6 +1999,16 @@
       "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
       "source": "Hacker News · 24h最热",
       "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T04:02:09Z"
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "title_zh": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T04:02:09Z"
@@ -2377,8 +2177,8 @@
       "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "title_zh": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "url": "https://news.ycombinator.com/item?id=49798257",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T08:49:13Z"
@@ -2387,11 +2187,21 @@
       "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "title_zh": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
       "url": "https://news.ycombinator.com/item?id=49798257",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T08:49:13Z"
+    },
+    {
+      "title": "AI Mode for Emacs",
+      "title_zh": "AI Mode for Emacs",
+      "url": "https://github.com/ai-mode/ai-mode",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T08:52:02Z"
     },
     {
       "title": "Morphotonics raises more than €40M to scale waveguide manufacturing for AI glasses",
@@ -2467,8 +2277,8 @@
       "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
       "title_zh": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
       "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T09:18:54Z"
@@ -2477,8 +2287,8 @@
       "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
       "title_zh": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
       "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T09:18:54Z"
@@ -2567,8 +2377,8 @@
       "title": "JetBrains Air: A System of Products for Agentic Software Development",
       "title_zh": "JetBrains Air: A System of Products for Agentic Software Development",
       "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-22T11:00:58Z"
@@ -2577,8 +2387,8 @@
       "title": "JetBrains Air: A System of Products for Agentic Software Development",
       "title_zh": "JetBrains Air: A System of Products for Agentic Software Development",
       "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-22T11:00:58Z"
@@ -2696,6 +2506,16 @@
     {
       "title": "Will Open Source Survive the Agents That Replaced It?",
       "title_zh": "Will Open Source Survive the Agents That Replaced It?",
+      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T12:05:17Z"
+    },
+    {
+      "title": "Will Open Source Survive the Agents That Replaced It?",
+      "title_zh": "Will Open Source Survive the Agents That Replaced It?",
       "url": "https://news.ycombinator.com/item?id=49799910",
       "source": "hackernews",
       "_site": "NewsNow",
@@ -2717,16 +2537,6 @@
       "title": "Will Open Source Survive the Agents That Replaced It?",
       "title_zh": "Will Open Source Survive the Agents That Replaced It?",
       "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-22T12:05:17Z"
-    },
-    {
-      "title": "Will Open Source Survive the Agents That Replaced It?",
-      "title_zh": "Will Open Source Survive the Agents That Replaced It?",
-      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
       "source": "Hacker News (黑客新闻)",
       "_site": "Info Flow",
       "tier": 5,
@@ -2737,8 +2547,8 @@
       "title": "AI Has No Wisdom and Neither Will You",
       "title_zh": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T12:11:09Z"
@@ -2747,8 +2557,8 @@
       "title": "AI Has No Wisdom and Neither Will You",
       "title_zh": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T12:11:09Z"
@@ -2997,8 +2807,8 @@
       "title": "AI Is Antithetical to Learning",
       "title_zh": "AI Is Antithetical to Learning",
       "url": "https://jola.dev/posts/ai-antithetical-learning",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T13:24:40Z"
@@ -3007,8 +2817,8 @@
       "title": "AI Is Antithetical to Learning",
       "title_zh": "AI Is Antithetical to Learning",
       "url": "https://jola.dev/posts/ai-antithetical-learning",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T13:24:40Z"
@@ -3344,6 +3154,16 @@
       "ts": "2026-09-22T15:55:03Z"
     },
     {
+      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "title_zh": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "url": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "source": "New York Times",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T15:59:55Z"
+    },
+    {
       "title": "Rabbit Is Back, This Time With an AI Agent App",
       "title_zh": "Rabbit Is Back, This Time With an AI Agent App",
       "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
@@ -3414,6 +3234,26 @@
       "ts": "2026-09-22T16:15:06Z"
     },
     {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "title_zh": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:15:06Z"
+    },
+    {
+      "title": "AI may be making women's emails and job applications sound less professional",
+      "title_zh": "AI may be making women's emails and job applications sound less professional",
+      "url": "https://www.businessinsider.com/chatgpt-writes-weaker-emails-for-women-new-research-shows-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:16:28Z"
+    },
+    {
       "title": "The Narrow Path to a Xi-Trump AI Deal",
       "title_zh": "The Narrow Path to a Xi-Trump AI Deal",
       "url": "https://time.com/article/2026/09/22/trump-xi-ai-deal-china",
@@ -3472,6 +3312,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T16:29:05Z"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "title_zh": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:30:00Z"
     },
     {
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
@@ -3564,6 +3414,46 @@
       "ts": "2026-09-22T16:51:31Z"
     },
     {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "title_zh": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://news.ycombinator.com/item?id=49804316",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:51:31Z"
+    },
+    {
       "title": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
       "title_zh": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
       "url": "https://thenextweb.com/news/frontier-ai-joint-statement-21-countries-eu",
@@ -3572,6 +3462,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T16:54:41Z"
+    },
+    {
+      "title": "The best early Prime Day robot vacuum deals: Get more cleaning done for less",
+      "title_zh": "The best early Prime Day robot vacuum deals: Get more cleaning done for less",
+      "url": "https://mashable.com/life/best-early-prime-big-deal-days-robot-vacuum-deals-2026",
+      "source": "Mashable",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T16:57:24Z"
     },
     {
       "title": "I replaced Gemini with a local AI model on my phone; battery drain was surprisingly low",
@@ -3584,6 +3484,46 @@
       "ts": "2026-09-22T17:00:10Z"
     },
     {
+      "title": "Z.ai apologised, open-sourced ZCode, and wiped the commit history",
+      "title_zh": "Z.ai apologised, open-sourced ZCode, and wiped the commit history",
+      "url": "https://thenextweb.com/news/zai-zcode-open-source-commit-history-security-assessment",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:10:10Z"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+      "title_zh": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+      "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+      "source": "Mashable",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:12:14Z"
+    },
+    {
+      "title": "Apple Puts AirTag-Sized AI Pin on Hold",
+      "title_zh": "Apple Puts AirTag-Sized AI Pin on Hold",
+      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development",
+      "source": "Mac Rumors",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:23:42Z"
+    },
+    {
+      "title": "Anthropic’s cheaper Opus arrives weeks before its IPO",
+      "title_zh": "Anthropic’s cheaper Opus arrives weeks before its IPO",
+      "url": "https://thenextweb.com/news/anthropic-opus-5-5-price-cut",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:24:01Z"
+    },
+    {
       "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "title_zh": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "url": "https://www.coveragecat.com",
@@ -3594,6 +3534,56 @@
       "ts": "2026-09-22T17:26:36Z"
     },
     {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "title_zh": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T17:26:36Z"
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "title_zh": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T17:26:36Z"
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "title_zh": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://news.ycombinator.com/item?id=49804931",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T17:26:36Z"
+    },
+    {
+      "title": "OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases (Rachel Metz/Bloomberg)",
+      "title_zh": "OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases (Rachel Metz/Bloomberg)",
+      "url": "https://www.techmeme.com/260922/p40",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:30:00Z"
+    },
+    {
+      "title": "The US Navy is figuring out new ways to turn human battle plans into orders autonomous aircraft can follow",
+      "title_zh": "The US Navy is figuring out new ways to turn human battle plans into orders autonomous aircraft can follow",
+      "url": "https://www.businessinsider.com/us-navy-turns-human-battle-plans-into-orders-autonomous-aircraft-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:32:39Z"
+    },
+    {
       "title": "特朗普在联合国演讲中抨击伊朗和古巴，为人工智能发展辩护，并回顾了自己的执政成绩 - CNBC",
       "title_zh": "特朗普在联合国演讲中抨击伊朗和古巴，为人工智能发展辩护，并回顾了自己的执政成绩 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKX2dnMnltcXRQN1pydURuZGxSOXY3eEtIVVd2TjVHbC1wNHQ1TDkwLXVpLWgtUjZaZlJ6VTJITnZpY1FOdmc4M1ZjQ3NvaElTOE5ROWEtZFkxRTBhc1d6TUZndzkwU0VWdmfSAW9BVV95cUxNZlhHeFhKV3ZfQ1dWcDZHck45Y3djSnZVbkttXzRsNlFxVFBVV1FEM0ZlYTZSd3RXc3hRa29oNWJsUWpOd2JGUmRMQWlBVmZGSW5QM05NQVUwZEFaejNOU3AxYmZmaW9wOUFNOFVfdjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -3602,6 +3592,456 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-22T17:37:35.736000Z"
+    },
+    {
+      "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)",
+      "title_zh": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)",
+      "url": "https://www.techmeme.com/260922/p41",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:40:02Z"
+    },
+    {
+      "title": "These are the stock market's winners and losers in the AI agent economy",
+      "title_zh": "These are the stock market's winners and losers in the AI agent economy",
+      "url": "https://www.businessinsider.com/ai-stocks-winners-losers-agent-economy-meta-muse-chips-consumers-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T17:50:01Z"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "title_zh": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:00Z"
+    },
+    {
+      "title": "Trump wants to rebrand artificial intelligence. It was almost called these 3 names",
+      "title_zh": "Trump wants to rebrand artificial intelligence. It was almost called these 3 names",
+      "url": "https://www.businessinsider.com/trump-rename-ai-almost-had-3-names-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:28Z"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "title_zh": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:34Z"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "title_zh": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:34Z"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "title_zh": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:34Z"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "title_zh": "GPT-6 Sol and Luna",
+      "url": "https://news.ycombinator.com/item?id=49805509",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:00:34Z"
+    },
+    {
+      "title": "China is investigating DeepSeek and Moonshot, The Information reports",
+      "title_zh": "China is investigating DeepSeek and Moonshot, The Information reports",
+      "url": "https://thenextweb.com/news/china-cac-probe-deepseek-moonshot-anthropic-data",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:04:41Z"
+    },
+    {
+      "title": "Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)",
+      "title_zh": "Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)",
+      "url": "https://www.techmeme.com/260922/p42",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:05:00Z"
+    },
+    {
+      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "title_zh": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "source": "New York Times",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:06:39Z"
+    },
+    {
+      "title": "Soldiers can refuse to commit war crimes. Can AI?",
+      "title_zh": "Soldiers can refuse to commit war crimes. Can AI?",
+      "url": "https://www.vox.com/future-perfect/503564/military-ai-minimally-refuse-war-crimes",
+      "source": "Recode",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:10:00Z"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)",
+      "title_zh": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)",
+      "url": "https://www.techmeme.com/260922/p43",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:15:08Z"
+    },
+    {
+      "title": "Trump wants to rename Artificial Intelligence ‘Super Intelligence’ — but something else worries me",
+      "title_zh": "Trump wants to rename Artificial Intelligence ‘Super Intelligence’ — but something else worries me",
+      "url": "https://www.techradar.com/ai-platforms-assistants/trump-wants-to-rename-artificial-intelligence-super-intelligence-but-his-real-message-is-that-he-doesnt-want-to-regulate-it-and-thats-what-worries-me",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:15:10Z"
+    },
+    {
+      "title": "Unreal Agent",
+      "title_zh": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:15:53Z"
+    },
+    {
+      "title": "Unreal Agent",
+      "title_zh": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:15:53Z"
+    },
+    {
+      "title": "Unreal Agent",
+      "title_zh": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:15:53Z"
+    },
+    {
+      "title": "Unreal Agent",
+      "title_zh": "Unreal Agent",
+      "url": "https://news.ycombinator.com/item?id=49805748",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T18:15:53Z"
+    },
+    {
+      "title": "A phone maker now has the world’s top open-weight AI model",
+      "title_zh": "A phone maker now has the world’s top open-weight AI model",
+      "url": "https://thenextweb.com/news/xiaomi-mimo-v2-6-open-weight-model-anthropic-distillation",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:25:00Z"
+    },
+    {
+      "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+      "title_zh": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+      "url": "https://www.techmeme.com/260922/p44",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:25:01Z"
+    },
+    {
+      "title": "GPT-6 Sol 和 Luna",
+      "title_zh": "GPT-6 Sol 和 Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "openai.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:25:24.334000Z"
+    },
+    {
+      "title": "OpenAI will let outside groups test its models during training",
+      "title_zh": "OpenAI will let outside groups test its models during training",
+      "url": "https://thenextweb.com/news/openai-evaluators-training-phase",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:25:53Z"
+    },
+    {
+      "title": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)",
+      "title_zh": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)",
+      "url": "https://www.techmeme.com/260922/p45",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:40:01Z"
+    },
+    {
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "title_zh": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T18:40:30Z"
+    },
+    {
+      "title": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)",
+      "title_zh": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)",
+      "url": "https://www.techmeme.com/260922/p46",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:55:02Z"
+    },
+    {
+      "title": "Legora’s CEO says Europe should not build a frontier AI lab",
+      "title_zh": "Legora’s CEO says Europe should not build a frontier AI lab",
+      "url": "https://thenextweb.com/news/legora-junestrand-europe-frontier-lab-8-5bn-round",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:56:52Z"
+    },
+    {
+      "title": "Coinspaid Dev’s Alexey Tulia on engineering leadership when AI reaches production",
+      "title_zh": "Coinspaid Dev’s Alexey Tulia on engineering leadership when AI reaches production",
+      "url": "https://thenextweb.com/news/coinspaid-dev-tulia-ai-agents-engineering-leadership",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T18:57:38Z"
+    },
+    {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title_zh": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:03:38Z"
+    },
+    {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title_zh": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:03:38Z"
+    },
+    {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title_zh": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:03:38Z"
+    },
+    {
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title_zh": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://news.ycombinator.com/item?id=49806430",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:03:38Z"
+    },
+    {
+      "title": "Trump tells the UN that AI is now ‘super intelligence’",
+      "title_zh": "Trump tells the UN that AI is now ‘super intelligence’",
+      "url": "https://thenextweb.com/news/trump-tells-the-un-that-ai-is-now-super-intelligence",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:06:26Z"
+    },
+    {
+      "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+      "title_zh": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+      "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:11:11Z"
+    },
+    {
+      "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+      "title_zh": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "artificialanalysis.ai",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:13:26.296000Z"
+    },
+    {
+      "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
+      "title_zh": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
+      "url": "https://thenextweb.com/news/openai-gpt-6-sol-luna-api-price-cut",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:13:33Z"
+    },
+    {
+      "title": "Meta jumps 11% as investors bet on its Muse agent",
+      "title_zh": "Meta jumps 11% as investors bet on its Muse agent",
+      "url": "https://thenextweb.com/news/meta-jumps-11-as-investors-bet-on-its-muse-agent",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-22T19:17:28Z"
+    },
+    {
+      "title": "OpenAI names the four things it wants safety assessors to test",
+      "title_zh": "OpenAI names the four things it wants safety assessors to test",
+      "url": "https://thenextweb.com/news/openai-third-party-assessment-priorities-principles",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:20:43Z"
+    },
+    {
+      "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+      "title_zh": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5",
+      "source": "Mac Rumors",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:23:31Z"
+    },
+    {
+      "title": "A Faster Shortest Path Algorithm",
+      "title_zh": "A Faster Shortest Path Algorithm",
+      "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:24:58Z"
+    },
+    {
+      "title": "A Faster Shortest Path Algorithm",
+      "title_zh": "A Faster Shortest Path Algorithm",
+      "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:24:58Z"
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "title_zh": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+      "source": "Ars Technica",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:28:23Z"
+    },
+    {
+      "title": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)",
+      "title_zh": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)",
+      "url": "https://www.techmeme.com/260922/p48",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:30:01Z"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "title_zh": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000",
+      "source": "Ars Technica",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T19:45:47Z"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "title_zh": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T20:00:00Z"
+    },
+    {
+      "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+      "title_zh": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "source": "www.bloomberg.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-22T20:00:35.186000Z"
     }
   ]
 }
