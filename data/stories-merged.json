@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T13:03:16.267812Z",
+  "generated_at": "2026-09-23T13:46:08.614312Z",
   "window_hours": 24,
-  "total_stories": 322,
+  "total_stories": 329,
   "stories": [
     {
       "story_id": "story_c4259d8d",
@@ -10,14 +10,38 @@
       "primary_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source_count": 6,
       "source_names": [
+        "OpenAI News",
+        "openai.com",
+        "Hacker News",
         "X：Tibo (@thsottiaux)",
         "X：Sam Altman (@sama)",
-        "X：Sherwin Wu（@sherwinwu）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com",
-        "Hacker News"
+        "X：Sherwin Wu（@sherwinwu）"
       ],
       "sources": [
+        {
+          "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T18:00:00Z"
+        },
+        {
+          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
+          "title": "GPT-6 Sol 和 Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T18:25:24.334000Z"
+        },
+        {
+          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
+          "title": "GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:00:34Z"
+        },
         {
           "id": "aecfaa648cec2e91d17359dd41dd2bea367662e7",
           "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
@@ -41,30 +65,6 @@
           "source": "X：Sherwin Wu（@sherwinwu）",
           "site_id": "aihot",
           "published_at": "2026-09-22T18:19:24Z"
-        },
-        {
-          "id": "1acc31f0b1b5ee749c6cdfdec3de897f547d3744",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:00:00Z"
-        },
-        {
-          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
-          "title": "GPT-6 Sol 和 Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T18:25:24.334000Z"
-        },
-        {
-          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
-          "title": "GPT-6 Sol and Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T18:00:34Z"
         }
       ],
       "item_count": 6,
@@ -79,7 +79,7 @@
       "source_names": [
         "Anthropic：Newsroom（网页）",
         "www.anthropic.com",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "@mark_k"
       ],
       "sources": [
@@ -100,11 +100,11 @@
           "published_at": "2026-09-22T16:51:25.134000Z"
         },
         {
-          "id": "4da7bd6127fc9ac19863a956e66da1dfc11f808b",
+          "id": "cd5547068fd6105b5559404bf52b81bb857f3b81",
           "title": "Claude Opus 5.5",
           "url": "https://www.anthropic.com/claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:29:05Z"
         },
         {
@@ -118,6 +118,28 @@
       ],
       "item_count": 4,
       "score": 10090
+    },
+    {
+      "story_id": "story_165ac02a",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_36e5104f",
@@ -136,50 +158,6 @@
           "source": "OpenAI Codex Changelog",
           "site_id": "official_ai",
           "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_991bdfde",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_7d0f5cd5",
-      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "sources": [
-        {
-          "id": "dbca899862f8247da4f24bb8b7a8dba05d82db27",
-          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -217,8 +195,8 @@
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Hacker News：AI 热帖",
         "www.bloomberg.com",
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
+        "Hacker News",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -246,19 +224,19 @@
           "published_at": "2026-09-22T20:00:35.186000Z"
         },
         {
-          "id": "79ff301b3798eef8e7cd75aef727d9ea1caf7a89",
+          "id": "e47aefc3cbc3d482e36f116f201b4763eb73a4ff",
           "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
           "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T19:03:38Z"
         },
         {
-          "id": "162c3ae96faaea716bea0199a1e30f08dd0888b0",
+          "id": "60fb0b301f3b9ad523a4bfda55f6afd72b266ea3",
           "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
           "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T19:03:38Z"
         }
       ],
@@ -2239,6 +2217,94 @@
       "score": 9770
     },
     {
+      "story_id": "story_ffa3142e",
+      "title": "UN General Assembly to discuss war, climate and AI",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
+      "primary_url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "7a84b6bd2a4378c11359feaf04692fff12fece01",
+          "title": "UN General Assembly to discuss war, climate and AI",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T13:20:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d836ad98",
+      "title": "AI不会毁灭人类，只是加速人类的自毁",
+      "url": "https://www.huxiu.com/article/4893591.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4893591.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "54b9528d38b539b7a97c6f2c5e85869a6ad8f8ae",
+          "title": "AI不会毁灭人类，只是加速人类的自毁",
+          "url": "https://www.huxiu.com/article/4893591.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T13:18:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_518bd90a",
+      "title": "World leaders weigh AI worries, regulations",
+      "url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
+      "primary_url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "8c3713e10a7c722f8bbc85b8d02a0e43b6a0fd2e",
+          "title": "World leaders weigh AI worries, regulations",
+          "url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T13:08:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7d0f5cd5",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "9a3a9f1ff48b1519a32f48bf103c800ac12a1ec3",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_54b23082",
       "title": "PitPro’s first tire-changing robot goes live in Canada",
       "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
@@ -2261,44 +2327,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_dee6c5e8",
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
-      "primary_url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
+      "story_id": "story_b0346865",
+      "title": "生成式AI入侵，被喂食“泔水”的人开始抵抗",
+      "url": "https://www.huxiu.com/article/4893593.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4893593.html?f=rss",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "955fec09b85c8dfb7f83d565e237f10d36c672ca",
-          "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-          "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
-          "source": "Wired",
+          "id": "7343110b20dd3a8426c6ba3fd1b58e8782fd1d24",
+          "title": "生成式AI入侵，被喂食“泔水”的人开始抵抗",
+          "url": "https://www.huxiu.com/article/4893593.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-09-23T12:54:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_39228766",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
-      "primary_url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9a5ce718c5a201127f2f5539cd6832f7cb8972ca",
-          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T12:00:00Z"
+          "published_at": "2026-09-23T12:49:05Z"
         }
       ],
       "item_count": 1,
@@ -2371,6 +2415,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_9767b09c",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "b3a3340c75763a8fa5b33f317e25038e73014855",
+          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T11:02:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_95f4238b",
       "title": "中国人正在把AI塞进家电，领跑这个数千亿美元的产业",
       "url": "https://www.huxiu.com/article/4893553.html?f=rss",
@@ -2409,28 +2475,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-23T10:41:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0986a045",
-      "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
-      "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
-      "primary_url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b7925a6c4dc82bf9297261de35970a4489465647",
-          "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
-          "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T10:39:00Z"
         }
       ],
       "item_count": 1,
@@ -2849,28 +2893,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-23T06:49:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a078642d",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
-      "primary_url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "17d366dfa5064baa0839e64ae77272e2a18d3a59",
-          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T04:59:08Z"
         }
       ],
       "item_count": 1,
@@ -3361,6 +3383,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_b80d4f83",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "primary_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "dc1bf4a86bb6b2d3352f415f2132aa98fa381964",
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T23:21:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_4f96678c",
       "title": "【钛晨报】事关轻工纺织产业发展，三部门最新部署；阿里试水千问平板，与字节押注不同的AI终端；“2026中国民营企业500强”发布",
       "url": "https://www.tmtpost.com/8149326.html",
@@ -3449,6 +3493,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_991bdfde",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d91395cb2f641dc5aab8eb83481913bc8f6e20f2",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d0716c4b",
       "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
@@ -3465,6 +3531,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T20:52:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9c2a4dfc",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "c3592f0f2a0000d99999128fea1963e86d1a6284",
+          "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T19:28:23Z"
         }
       ],
       "item_count": 1,
@@ -3520,6 +3608,28 @@
         }
       ],
       "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_94144ed3",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+      "primary_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4ee72a4dfc50aceee9b212b7771d3d7e23547257",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
       "score": 9720
     },
     {
@@ -3589,6 +3699,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_57b69c0d",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "primary_url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "43e824d40613ecdcb8f62945d43a1b8697526ae9",
+          "title": "Rabbit Is Back, This Time With an AI Agent App",
+          "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_54f6d474",
       "title": "2026腾冲科学家论坛曼谷专题活动关注AI与合作",
       "url": "http://www.news.cn/20260922/2a570eda97e341ebb63655711d99ebbe/c.html",
@@ -3609,112 +3741,6 @@
       ],
       "item_count": 1,
       "score": 9720
-    },
-    {
-      "story_id": "story_88edb795",
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "9ed4a5d54203fe4cbee85a9429ee54f3f15b0213",
-          "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of the world body itself - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T13:18:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f6ec8e72",
-      "title": "“帮你干活”的AI大火，扎克伯格身家一夜暴增1675亿元，美股芯片股也被带着起飞",
-      "url": "https://www.huxiu.com/article/4893300.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893300.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "979e41ec9243f04477b3eb0e779128c19bbd68cf",
-          "title": "“帮你干活”的AI大火，扎克伯格身家一夜暴增1675亿元，美股芯片股也被带着起飞",
-          "url": "https://www.huxiu.com/article/4893300.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T13:12:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e3c56d44",
-      "title": "\"算力上天\"是泡沫还是刚需？",
-      "url": "https://www.huxiu.com/article/4893298.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893298.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "96a7ac46fbd044588698d6409bf80f37c0ccf1a2",
-          "title": "\"算力上天\"是泡沫还是刚需？",
-          "url": "https://www.huxiu.com/article/4893298.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T13:08:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_95be4cc1",
-      "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "primary_url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "source_count": 3,
-      "source_names": [
-        "artificialanalysis.ai",
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "d364bd4a0738830d8a80ead347513f56ee2064b0",
-          "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
-          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T19:13:26.296000Z"
-        },
-        {
-          "id": "9b23e49ff5c0f961803e40e563c7da47d1646ac8",
-          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
-          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T16:51:31Z"
-        },
-        {
-          "id": "0dfb1a8903e5dbd72d5787dd0d8c20eb18238703",
-          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-22T16:51:31Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
     },
     {
       "story_id": "story_08c31c4a",
@@ -3757,6 +3783,68 @@
       "score": 9580
     },
     {
+      "story_id": "story_e3a552f9",
+      "title": "Claude代码仅在遥测功能开启时才会读取 AGENTS.md 文件",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+      "primary_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+      "source_count": 2,
+      "source_names": [
+        "blog.szypowi.cz",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "86ed38ba81ffc6fbe1b2a30a05b1485c143ecef3",
+          "title": "克劳德代码仅在遥测功能开启时才会读取 AGENTS.md 文件",
+          "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+          "source": "blog.szypowi.cz",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T13:27:26.287000Z"
+        },
+        {
+          "id": "c72ce99c46ac9cc887ec29782b649893c635c23f",
+          "title": "Claude Code reads AGENTS.md only when telemetry is on",
+          "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-23T12:15:33Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_373bbbe6",
+      "title": "开放模型中的当前力量平衡",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source_count": 2,
+      "source_names": [
+        "www.interconnects.ai",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "309bdb435f8e3fdaea95284a021f504af63b453b",
+          "title": "开放模型中的当前力量平衡",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "source": "www.interconnects.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T12:56:55.101000Z"
+        },
+        {
+          "id": "c00de198ee26a0a21bf3841d2c6858541c6774a1",
+          "title": "The current balance of power in open models",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T22:03:46Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_e91df6fd",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://news.ycombinator.com/item?id=49801324",
@@ -3767,6 +3855,30 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "785817b4c6e9f7258e697d9e0a11cb527186248a",
+          "title": "What AI-Native Looks Like",
+          "url": "https://news.ycombinator.com/item?id=49815344",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T12:54:38Z"
+        },
+        {
+          "id": "1cecd9177c5d13b1ef639a2bf7941d93fc60c565",
+          "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+          "url": "https://news.ycombinator.com/item?id=49815127",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T12:32:00Z"
+        },
+        {
+          "id": "4a1ab2f02176695e0a1bdd1c77cb7fb1290f62cf",
+          "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+          "url": "https://news.ycombinator.com/item?id=49815095",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T12:28:40Z"
+        },
         {
           "id": "c630ed3735b0baca87c0a5ac2b469c82cea1486c",
           "title": "Claude Code reads AGENTS.md only when telemetry is on",
@@ -3896,7 +4008,7 @@
           "published_at": "2026-09-22T13:52:15Z"
         }
       ],
-      "item_count": 16,
+      "item_count": 19,
       "score": 9570
     },
     {
@@ -3907,7 +4019,7 @@
       "source_count": 2,
       "source_names": [
         "www.nobodywho.ai",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3919,11 +4031,11 @@
           "published_at": "2026-09-23T09:18:26.848000Z"
         },
         {
-          "id": "d8c4507e77890a8b29dce865d6a2d8256eabfd33",
+          "id": "960a3abee7c93609af041443cb22a6ee404e7677",
           "title": "Jev in 25 Lines of Python",
           "url": "https://www.nobodywho.ai/posts/jev-in-25-lines",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-23T07:26:23Z"
         }
       ],
@@ -3993,6 +4105,45 @@
       "score": 9570
     },
     {
+      "story_id": "story_95be4cc1",
+      "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "primary_url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source_count": 2,
+      "source_names": [
+        "artificialanalysis.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d364bd4a0738830d8a80ead347513f56ee2064b0",
+          "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "source": "artificialanalysis.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T19:13:26.296000Z"
+        },
+        {
+          "id": "d6b829d45554b7891711755e5944daa8525a06c4",
+          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-22T16:51:31Z"
+        },
+        {
+          "id": "0dfb1a8903e5dbd72d5787dd0d8c20eb18238703",
+          "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-22T16:51:31Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
       "story_id": "story_661f87df",
       "title": "OpenAI的GPT–6 Astra破解了自2005年以来一直未能破解的“埃尼格玛”密码",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
@@ -4000,7 +4151,7 @@
       "source_count": 2,
       "source_names": [
         "www.cryptocellar.org",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -4012,16 +4163,104 @@
           "published_at": "2026-09-22T14:45:25.428000Z"
         },
         {
-          "id": "05a359104200fa097ca1f3b6a988888d5e381f2c",
+          "id": "e9886771702e38158accaff27328b46c628040f9",
           "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
           "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T13:52:15Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_07bf0979",
+      "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
+      "url": "https://www.techmeme.com/260923/p21",
+      "primary_url": "https://www.techmeme.com/260923/p21",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "89b173fda17d0c1a0c3e71384cf9a94f287b2ac0",
+          "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
+          "url": "https://www.techmeme.com/260923/p21",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T13:05:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f0cb2de6",
+      "title": "LinkedIn is making it easier for you to get verified - and to hopefully cut back on scams and AI slop",
+      "url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
+      "primary_url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "0e0fe06c9edd2121ef994250bf2b01ccd75c76c2",
+          "title": "LinkedIn is making it easier for you to get verified - and to hopefully cut back on scams and AI slop",
+          "url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_44570c37",
+      "title": "Meta shipped 81% of the world’s AI glasses, and the runner-up has no camera",
+      "url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
+      "primary_url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0940485ff3e0c1b5bfa59d5ab80c59e28ea86222",
+          "title": "Meta shipped 81% of the world’s AI glasses, and the runner-up has no camera",
+          "url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:57:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dee6c5e8",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
+      "primary_url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "81896b300c9f8bec90c269b7b49305cd3fd0d887",
+          "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+          "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:54:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_bcb2a34c",
@@ -4178,6 +4417,28 @@
       "score": 7
     },
     {
+      "story_id": "story_ebbacd3f",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "primary_url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "cd13084d7974df5277dea1e56c300f2df90f8a50",
+          "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+          "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-23T12:32:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9b096c34",
       "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
       "url": "https://filmstudio.rxlab.app",
@@ -4200,22 +4461,44 @@
       "score": 7
     },
     {
-      "story_id": "story_e3a552f9",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-      "primary_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+      "story_id": "story_0cf94ceb",
+      "title": "Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M (Jagmeet Singh/TechCrunch)",
+      "url": "https://www.techmeme.com/260923/p20",
+      "primary_url": "https://www.techmeme.com/260923/p20",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "9105d98dd3c607ea1b7259c01b2d1c3a31670c57",
-          "title": "Claude Code reads AGENTS.md only when telemetry is on",
-          "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T12:15:33Z"
+          "id": "4f086d5b0a76da62423f4205189adc8fb66801a3",
+          "title": "Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M (Jagmeet Singh/TechCrunch)",
+          "url": "https://www.techmeme.com/260923/p20",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:25:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9be17d46",
+      "title": "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)",
+      "url": "https://www.techmeme.com/260923/p19",
+      "primary_url": "https://www.techmeme.com/260923/p19",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "104cde8cf1cb8413f55d7ddce1fc8ec631f03859",
+          "title": "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)",
+          "url": "https://www.techmeme.com/260923/p19",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:15:02Z"
         }
       ],
       "item_count": 1,
@@ -4260,6 +4543,116 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-09-23T12:01:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0db838e8",
+      "title": "AI-native patent firm Fearn launches to take on the billable hour",
+      "url": "https://thenextweb.com/news/fearn-ai-native-patent-firm-launch-flat-fees",
+      "primary_url": "https://thenextweb.com/news/fearn-ai-native-patent-firm-launch-flat-fees",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "c5ebfaabd4120431d952f3646d8e9e026979f07f",
+          "title": "AI-native patent firm Fearn launches to take on the billable hour",
+          "url": "https://thenextweb.com/news/fearn-ai-native-patent-firm-launch-flat-fees",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:00:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_239e10e0",
+      "title": "Adtech vet Brian O'Kelley's startup is pivoting to AI agents and rebranding with a new name",
+      "url": "https://www.businessinsider.com/brian-okelley-scope3-rebrand-apostra-agentic-ai-ad-buying-2026-9",
+      "primary_url": "https://www.businessinsider.com/brian-okelley-scope3-rebrand-apostra-agentic-ai-ad-buying-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "0c804bfb44bbf2b7fcd9f05d7458f0e0ba9675ed",
+          "title": "Adtech vet Brian O'Kelley's startup is pivoting to AI agents and rebranding with a new name",
+          "url": "https://www.businessinsider.com/brian-okelley-scope3-rebrand-apostra-agentic-ai-ad-buying-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6ad5f78c",
+      "title": "Legal AI startup Spellbook hired a new CMO — and she has strong opinions on avoiding 'creepy' AI marketing",
+      "url": "https://www.businessinsider.com/legal-ai-startup-spellbook-appoints-meltem-kuran-berkowitz-cmo-2026-9",
+      "primary_url": "https://www.businessinsider.com/legal-ai-startup-spellbook-appoints-meltem-kuran-berkowitz-cmo-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "3f095176e7b48e6821a5c7529fa944087f29f5af",
+          "title": "Legal AI startup Spellbook hired a new CMO — and she has strong opinions on avoiding 'creepy' AI marketing",
+          "url": "https://www.businessinsider.com/legal-ai-startup-spellbook-appoints-meltem-kuran-berkowitz-cmo-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_39228766",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+      "primary_url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "170386d86e3da94fc083bcc6d418b5d8e69d238a",
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3ad31796",
+      "title": "Qualcomms new Snapdragon 8 Elite Gen 6 chips bring agentic AI to mobile phones",
+      "url": "https://mashable.com/tech/qualcomm-snapdragon-8-elite-gen-6-agentic-ai-chips-summit",
+      "primary_url": "https://mashable.com/tech/qualcomm-snapdragon-8-elite-gen-6-agentic-ai-chips-summit",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "f590c1a1d87a19d4c6bb6b5b6440411a91543df0",
+          "title": "Qualcomms new Snapdragon 8 Elite Gen 6 chips bring agentic AI to mobile phones",
+          "url": "https://mashable.com/tech/qualcomm-snapdragon-8-elite-gen-6-agentic-ai-chips-summit",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T11:59:23Z"
         }
       ],
       "item_count": 1,
@@ -4354,28 +4747,6 @@
       "score": 7
     },
     {
-      "story_id": "story_9767b09c",
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "5f54f5a02321b09805c2988dee0d29b0e45ec4a4",
-          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T11:02:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_11100690",
       "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
       "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype",
@@ -4458,6 +4829,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-23T10:55:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0986a045",
+      "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
+      "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
+      "primary_url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "767796959e7c3ac6bfe4411eae5092c61a976f61",
+          "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
+          "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T10:39:00Z"
         }
       ],
       "item_count": 1,
@@ -4700,6 +5093,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-23T09:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c5157daa",
+      "title": "Every single ad is for AI these days",
+      "url": "https://www.reddit.com/r/antiai/comments/1wo0lpw/every_single_ad_is_for_ai_these_days",
+      "primary_url": "https://www.reddit.com/r/antiai/comments/1wo0lpw/every_single_ad_is_for_ai_these_days",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "774b44ea70dfe678756cfe192960dd50a6db460b",
+          "title": "Every single ad is for AI these days",
+          "url": "https://www.reddit.com/r/antiai/comments/1wo0lpw/every_single_ad_is_for_ai_these_days",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-09-23T08:55:42Z"
         }
       ],
       "item_count": 1,
@@ -5102,6 +5517,28 @@
       "score": 7
     },
     {
+      "story_id": "story_a078642d",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+      "primary_url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ac007e0de9cb88ca1115782f01f207716fd0fd99",
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T04:59:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_50d9a89b",
       "title": "Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)",
       "url": "https://www.techmeme.com/260922/p64",
@@ -5358,15 +5795,15 @@
       "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "de8bd31455814fa6b0f9e2738a2bcd81fe87ae7d",
+          "id": "44615a9dc654938925c4d9daadaef5f39cdefea9",
           "title": "The new CC, an AI agent built for families",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T23:46:07Z"
         }
       ],
@@ -5412,28 +5849,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-22T23:25:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b80d4f83",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-      "primary_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "cacc4ff8ced00243709f5885b3a4c2f19dbd9a46",
-          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T23:21:49Z"
         }
       ],
       "item_count": 1,
@@ -5522,28 +5937,6 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-09-22T22:04:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_373bbbe6",
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "a4ef990095a20da2dda3d76a08a5075f3708e278",
-          "title": "The current balance of power in open models",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T22:03:46Z"
         }
       ],
       "item_count": 1,
@@ -5918,28 +6311,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-22T19:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9c2a4dfc",
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "1edaff8f73ebbaf90e87b5517b5adbe5f91388ec",
-          "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T19:28:23Z"
         }
       ],
       "item_count": 1,
@@ -6408,28 +6779,6 @@
       "score": 7
     },
     {
-      "story_id": "story_94144ed3",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-      "primary_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2c0dd554cc8e0ed4c69d75c8b24ec591a813fa9a",
-          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_ffa312d0",
       "title": "These are the stock market's winners and losers in the AI agent economy",
       "url": "https://www.businessinsider.com/ai-stocks-winners-losers-agent-economy-meta-muse-chips-consumers-2026-9",
@@ -6546,15 +6895,15 @@
       "primary_url": "https://www.coveragecat.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "2d71c4cea3954c36236e96c1210969d350e768ff",
+          "id": "7c0b30e25e4b4ba417ea10cde5ac02726c21001f",
           "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
           "url": "https://www.coveragecat.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T17:26:36Z"
         }
       ],
@@ -6876,15 +7225,15 @@
       "primary_url": "https://ai-rete-rag.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f92b95d51d0a09b528e8689cc3ad7e4921e7357f",
+          "id": "d466e9d3f2564b99646f38280fe0e609e3746eb3",
           "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
           "url": "https://ai-rete-rag.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:15:06Z"
         }
       ],
@@ -6952,28 +7301,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-22T16:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_57b69c0d",
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-      "primary_url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "d6ee82312afac06296dd6f3d4dbcd6dc3bd7b6f9",
-          "title": "Rabbit Is Back, This Time With an AI Agent App",
-          "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -7348,138 +7675,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-22T13:52:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e1a2a860",
-      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai",
-      "primary_url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "44ebe25084eaaef1d2c2e7ab1907885ee4324a8e",
-          "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-          "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T13:27:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_55fecd33",
-      "title": "As a mom of 3, I use AI to make printable chore charts and activity books for my kids. They spend less time on screens.",
-      "url": "https://www.businessinsider.com/mom-ai-activity-books-chore-charts-chatgpt-2026-9",
-      "primary_url": "https://www.businessinsider.com/mom-ai-activity-books-chore-charts-chatgpt-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "95ffe537fd8b396e816f6efa827ea3783d50e8cc",
-          "title": "As a mom of 3, I use AI to make printable chore charts and activity books for my kids. They spend less time on screens.",
-          "url": "https://www.businessinsider.com/mom-ai-activity-books-chore-charts-chatgpt-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T13:27:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_69552af1",
-      "title": "AI Is Antithetical to Learning",
-      "url": "https://jola.dev/posts/ai-antithetical-learning",
-      "primary_url": "https://jola.dev/posts/ai-antithetical-learning",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "40e0f1d89c60784a8f06514ea32fd053dec3f9f8",
-          "title": "AI Is Antithetical to Learning",
-          "url": "https://jola.dev/posts/ai-antithetical-learning",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-22T13:24:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ad4ec09d",
-      "title": "人工智能没有智慧，你也不会拥有",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
-      "primary_url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
-      "source_count": 1,
-      "source_names": [
-        "alexn.org"
-      ],
-      "sources": [
-        {
-          "id": "d39d0ea950e15a086803031074f0b9e5bc185596",
-          "title": "人工智能没有智慧，你也不会拥有",
-          "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
-          "source": "alexn.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T13:11:28.578000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_911a22a3",
-      "title": "UK Prime Minister Andy Burnham says he plans to use the UK's upcoming G20 presidency to broker a global AI governance deal, ahead of the UN General Assembly (Politico)",
-      "url": "https://www.techmeme.com/260922/p25",
-      "primary_url": "https://www.techmeme.com/260922/p25",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "af4fd08cc75bab65f99012e65bbc5f95d4663e89",
-          "title": "UK Prime Minister Andy Burnham says he plans to use the UK's upcoming G20 presidency to broker a global AI governance deal, ahead of the UN General Assembly (Politico)",
-          "url": "https://www.techmeme.com/260922/p25",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T13:05:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c8b0cbf8",
-      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
-      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
-      "primary_url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "3f31b48aa7149b85d172ba854532eb9c00f28a37",
-          "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
-          "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T13:04:00Z"
         }
       ],
       "item_count": 1,
