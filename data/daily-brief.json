@@ -1,84 +1,18 @@
 {
-  "generated_at": "2026-09-22T23:53:09.855322Z",
+  "generated_at": "2026-09-23T01:53:08.455280Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "title": "Better prompt caching for GPT-6",
-      "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T21:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.99
-    },
-    {
-      "title": "Codex CLI 0.156.0",
-      "title_zh": null,
-      "url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.98
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "title_zh": null,
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "title_zh": null,
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "title_zh": null,
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.91
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-22T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.99
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
+      "title": "Introducing GPT-6 Sol and Luna",
       "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source": "OpenAI News",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-22T18:00:00Z",
       "ai_is_related": true,
-      "ai_score": 1.0
+      "ai_score": 0.95
     },
     {
       "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
@@ -99,6 +33,72 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-22T16:38:14Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+      "title_zh": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+      "url": "https://www.aibase.com/news/31279",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-23T01:52:29.003596Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
+      "title_zh": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
+      "url": "https://www.aibase.com/news/31277",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-23T01:52:29.003596Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra",
+      "title_zh": "Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra",
+      "url": "https://www.aibase.com/news/31283",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-23T01:52:29.003596Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+      "title_zh": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-23T01:24:44Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
+      "title_zh": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
+      "url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-23T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+      "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "source": "Simon Willison 博客",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-22T23:46:41Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -145,6 +145,17 @@
       "published_at": "2026-09-22T01:57:35Z",
       "ai_is_related": false,
       "ai_score": 0.57
+    },
+    {
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "title_zh": null,
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+      "source": "TechCrunch",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-22T18:40:30Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "Man shot by ICE agent is in detention with bullet in his back",
@@ -198,17 +209,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-09-22T19:17:28Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "title_zh": null,
-      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
-      "source": "TechCrunch",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-22T18:40:30Z",
       "ai_is_related": false,
       "ai_score": 0.32
     },

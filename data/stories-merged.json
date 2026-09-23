@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T23:53:09.857492Z",
+  "generated_at": "2026-09-23T01:53:08.456710Z",
   "window_hours": 24,
-  "total_stories": 307,
+  "total_stories": 318,
   "stories": [
     {
       "story_id": "story_c4259d8d",
@@ -10,14 +10,38 @@
       "primary_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source_count": 6,
       "source_names": [
+        "OpenAI News",
+        "openai.com",
+        "Hacker News (黑客新闻)",
         "X：Tibo (@thsottiaux)",
         "X：Sam Altman (@sama)",
-        "X：Sherwin Wu（@sherwinwu）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com",
-        "Hacker News (黑客新闻)"
+        "X：Sherwin Wu（@sherwinwu）"
       ],
       "sources": [
+        {
+          "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T18:00:00Z"
+        },
+        {
+          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
+          "title": "GPT-6 Sol 和 Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T18:25:24.334000Z"
+        },
+        {
+          "id": "88b5f6a9ce1de2f49c71bc863fcfe7bc2cf3e306",
+          "title": "GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-22T18:00:34Z"
+        },
         {
           "id": "aecfaa648cec2e91d17359dd41dd2bea367662e7",
           "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
@@ -41,30 +65,6 @@
           "source": "X：Sherwin Wu（@sherwinwu）",
           "site_id": "aihot",
           "published_at": "2026-09-22T18:19:24Z"
-        },
-        {
-          "id": "1acc31f0b1b5ee749c6cdfdec3de897f547d3744",
-          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:00:00Z"
-        },
-        {
-          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
-          "title": "GPT-6 Sol 和 Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T18:25:24.334000Z"
-        },
-        {
-          "id": "88b5f6a9ce1de2f49c71bc863fcfe7bc2cf3e306",
-          "title": "GPT-6 Sol and Luna",
-          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-22T18:00:34Z"
         }
       ],
       "item_count": 6,
@@ -120,146 +120,6 @@
       "score": 10090
     },
     {
-      "story_id": "story_991bdfde",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_36e5104f",
-      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "sources": [
-        {
-          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
-          "title": "Codex CLI 0.156.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 10020
-    },
-    {
-      "story_id": "story_137c5833",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_c5f86512",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "primary_url": "https://huggingface.co/blog/omlx",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "8a538da6b9fd9dcde3329b7a1e4ee803555af05d",
-          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-          "url": "https://huggingface.co/blog/omlx",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_5a9917ed",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
-          "title": "Priorities and principles for effective third party assessments",
-          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_6aa8c26a",
-      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-          "title": "Transformers now runs llama.cpp quants",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_7859c329",
       "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
@@ -286,12 +146,11 @@
       "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
       "primary_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Hacker News：AI 热帖",
         "www.bloomberg.com",
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -320,11 +179,11 @@
           "published_at": "2026-09-22T20:00:35.186000Z"
         },
         {
-          "id": "aa1fc81a13a56e5c3890d6cae93c684a950e8870",
+          "id": "79ff301b3798eef8e7cd75aef727d9ea1caf7a89",
           "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
           "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T19:03:38Z"
         },
         {
@@ -337,7 +196,7 @@
         }
       ],
       "item_count": 5,
-      "score": 10000
+      "score": 9990
     },
     {
       "story_id": "story_56236620",
@@ -378,6 +237,398 @@
       ],
       "item_count": 3,
       "score": 9980
+    },
+    {
+      "story_id": "story_d57f0933",
+      "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
+      "url": "https://www.aibase.com/news/31277",
+      "primary_url": "https://www.aibase.com/news/31277",
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "ea6ec639cb7eea5eb2f6d485f61b9fd14ad2afbc",
+          "title": "Anthropic上线Claude Opus 5.5 ，任务成本大降 40%",
+          "url": "https://www.aibase.com/news/31277",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        },
+        {
+          "id": "0930cad6379556abe5d372b5afbbd29c6ddb1020",
+          "title": "Anthropic深夜放大招：Claude Opus5.5上线，任务成本大降40%",
+          "url": "https://www.huxiu.com/article/4893345.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T00:23:16Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_80471c5c",
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "primary_url": "https://x.com/arena/status/2102416020678008986",
+      "source_count": 2,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "X：Arena (@arena)"
+      ],
+      "sources": [
+        {
+          "id": "08e5874b4d216e542f242ee0134588f14db489e8",
+          "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+          "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T01:24:44Z"
+        },
+        {
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_cecf923f",
+      "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+      "url": "https://www.aibase.com/news/31279",
+      "primary_url": "https://www.aibase.com/news/31279",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
+          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+          "url": "https://www.aibase.com/news/31279",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_44bb0d19",
+      "title": "Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra",
+      "url": "https://www.aibase.com/news/31283",
+      "primary_url": "https://www.aibase.com/news/31283",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "cfd8674927e57555c01513bb43a2752807d4be02",
+          "title": "Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra",
+          "url": "https://www.aibase.com/news/31283",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_0d694a4c",
+      "title": "Grok Bot 上线仅一个月，周活跃用户数正式突破 40 万大关",
+      "url": "https://www.aibase.com/news/31280",
+      "primary_url": "https://www.aibase.com/news/31280",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "3587bd1eb9dd4b9d90c2db75ae871e7e7ec7faae",
+          "title": "Grok Bot 上线仅一个月，周活跃用户数正式突破 40 万大关",
+          "url": "https://www.aibase.com/news/31280",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_67c8d12c",
+      "title": "OpenAI 宣布将在 AI 模型开发早期阶段引入第三方独立安全评估",
+      "url": "https://www.aibase.com/news/31281",
+      "primary_url": "https://www.aibase.com/news/31281",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "363ba7cb399377e43be837035fe584a3eed5d1bc",
+          "title": "OpenAI 宣布将在 AI 模型开发早期阶段引入第三方独立安全评估",
+          "url": "https://www.aibase.com/news/31281",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_979e8864",
+      "title": "OpenAI 推出 GPT-6 Sol 和 Luna：API 价格大降 50%，单任务成本最低不到竞品一成",
+      "url": "https://www.aibase.com/news/31278",
+      "primary_url": "https://www.aibase.com/news/31278",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "75e30bcdbcb2200057281820efb18dbac9664b1e",
+          "title": "OpenAI 推出 GPT-6 Sol 和 Luna：API 价格大降 50%，单任务成本最低不到竞品一成",
+          "url": "https://www.aibase.com/news/31278",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_7f001649",
+      "title": "OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰",
+      "url": "https://www.aibase.com/news/31284",
+      "primary_url": "https://www.aibase.com/news/31284",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "2d078d45857e5715418e3d1bf61e2d82dabebf41",
+          "title": "OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰",
+          "url": "https://www.aibase.com/news/31284",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_c6154df3",
+      "title": "​DeepSeek 传将向联合国安理会闭门通报 AI 潜在风险与安全挑战",
+      "url": "https://www.aibase.com/news/31290",
+      "primary_url": "https://www.aibase.com/news/31290",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "4571df93fea50a4c9584fb95d7d4eb019533b25d",
+          "title": "​DeepSeek 传将向联合国安理会闭门通报 AI 潜在风险与安全挑战",
+          "url": "https://www.aibase.com/news/31290",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_40b57f39",
+      "title": "​江西首个 Token 工厂正式落地南昌高新区，聚合超 300 款主流大模型",
+      "url": "https://www.aibase.com/news/31285",
+      "primary_url": "https://www.aibase.com/news/31285",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "177552b3e51e2d3fedb73b3f26829398d66f72e8",
+          "title": "​江西首个 Token 工厂正式落地南昌高新区，聚合超 300 款主流大模型",
+          "url": "https://www.aibase.com/news/31285",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5da46f2c",
+      "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+      "url": "https://www.aibase.com/news/31289",
+      "primary_url": "https://www.aibase.com/news/31289",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "34a96e7e846e8418433083b03902d11cbf758bf4",
+          "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+          "url": "https://www.aibase.com/news/31289",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_3321df1f",
+      "title": "消息称豆包调整Chat团队与后训练资源，对话模型业务进入结构优化阶段",
+      "url": "https://www.aibase.com/news/31286",
+      "primary_url": "https://www.aibase.com/news/31286",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "dbac470bcc5961d01af343140d6bb6c6bb003e47",
+          "title": "消息称豆包调整Chat团队与后训练资源，对话模型业务进入结构优化阶段",
+          "url": "https://www.aibase.com/news/31286",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5a711e38",
+      "title": "虎鲸文娱发布“鲸锐AI”，布局AI影视制作与管理平台",
+      "url": "https://www.aibase.com/news/31288",
+      "primary_url": "https://www.aibase.com/news/31288",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "7480c6df8658ba8f5320726e7795d0cdbf31a6a8",
+          "title": "虎鲸文娱发布“鲸锐AI”，布局AI影视制作与管理平台",
+          "url": "https://www.aibase.com/news/31288",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5e4123c6",
+      "title": "被指“OpenClaw换皮”后，Meta罕见承认:产品设计确实深受其影响",
+      "url": "https://www.aibase.com/news/31282",
+      "primary_url": "https://www.aibase.com/news/31282",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "d42ffea428335c2fd02cec1dc6eb161a9074b6e7",
+          "title": "被指“OpenClaw换皮”后，Meta罕见承认:产品设计确实深受其影响",
+          "url": "https://www.aibase.com/news/31282",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_d1690533",
+      "title": "谷歌前安全负责人警告：AI 对儿童的伤害恐超社交媒体",
+      "url": "https://www.aibase.com/news/31287",
+      "primary_url": "https://www.aibase.com/news/31287",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "a8b696cc5c474f1aa68a912ee6d82f5785e75f5d",
+          "title": "谷歌前安全负责人警告：AI 对儿童的伤害恐超社交媒体",
+          "url": "https://www.aibase.com/news/31287",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:52:29.003596Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_3692e7de",
+      "title": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
+      "url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
+      "primary_url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "7e70efe4fff955c49b8391eb19b1a160f6fa5e52",
+          "title": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
+          "url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
+          "source": "OpenRouter：Announcements（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_aebbca8c",
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "primary_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "sources": [
+        {
+          "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
+          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "source": "Simon Willison 博客",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T23:46:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_11981953",
@@ -704,28 +955,6 @@
           "source": "X：Claude (@claudeai)",
           "site_id": "aihot",
           "published_at": "2026-09-22T16:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_80471c5c",
-      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-      "url": "https://x.com/arena/status/2102416020678008986",
-      "primary_url": "https://x.com/arena/status/2102416020678008986",
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "sources": [
-        {
-          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "url": "https://x.com/arena/status/2102416020678008986",
-          "source": "X：Arena (@arena)",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T15:13:34Z"
         }
       ],
       "item_count": 1,
@@ -1480,116 +1709,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_0cd8733d",
-      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
-      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "sources": [
-        {
-          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
-          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
-          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T01:49:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_915c4118",
-      "title": "Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%",
-      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-      "primary_url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：研究、数据与评测"
-      ],
-      "sources": [
-        {
-          "id": "5fe724630c24f39b4a81942b7eff499fb52253e7",
-          "title": "Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%",
-          "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-          "source": "Epoch AI：研究、数据与评测",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ec7b0cef",
-      "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-      "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-      "primary_url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "05564152957824c3fc4253b6aceff5fd2b191f0d",
-          "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-          "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-          "source": "OpenRouter：Announcements（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_231a831a",
-      "title": "OpenRouter 推出 Batch API，批量推理可享半价",
-      "url": "https://openrouter.ai/blog/announcements/batch-api",
-      "primary_url": "https://openrouter.ai/blog/announcements/batch-api",
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "3faa9b6201370308d4b1fa0a14a53a269362e3a7",
-          "title": "OpenRouter 推出 Batch API，批量推理可享半价",
-          "url": "https://openrouter.ai/blog/announcements/batch-api",
-          "source": "OpenRouter：Announcements（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_fb987d6c",
-      "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
-      "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
-      "primary_url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "ad4a4481da04768504888d3c19bbc26dfc93e381",
-          "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
-          "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
-          "source": "OpenRouter：Announcements（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_194e1fed",
       "title": "The monetization potential of personal agents that are transacting on your behalf you is quite significant. If you imagine agents that are perfectly capable of handling an arbitrarily complex task end to end, then eve...",
       "url": "https://x.com/levie/status/2102253246807261579",
@@ -1678,70 +1797,35 @@
       "score": 9820
     },
     {
-      "story_id": "story_8beb9bf1",
-      "title": "In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway https://t.co/u9OiIyILCE",
-      "url": "https://x.com/rauchg/status/2102205684544852121",
-      "primary_url": "https://x.com/rauchg/status/2102205684544852121",
-      "source_count": 1,
+      "story_id": "story_57f3596a",
+      "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+      "url": "https://www.tmtpost.com/8149358.html",
+      "primary_url": "https://www.tmtpost.com/8149358.html",
+      "source_count": 2,
       "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
+        "钛媒体 TMTPost",
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "a2a80cd7e40e70ae0c05f08a3839c28cbd15a110",
-          "title": "In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway https://t.co/u9OiIyILCE",
-          "url": "https://x.com/rauchg/status/2102205684544852121",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-22T01:17:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_e6ad3d40",
-      "title": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it.. Instinct and Muse are great especially for browser use on the phone. It shows what a great agent...",
-      "url": "https://x.com/nikunj/status/2102186665863463199",
-      "primary_url": "https://x.com/nikunj/status/2102186665863463199",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
+          "id": "60efb4de41683adf03e294cb2371829232545778",
+          "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+          "url": "https://www.tmtpost.com/8149358.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T01:24:46Z"
+        },
         {
-          "id": "c49378f6112378a1bc340d93e308824e5689c6b6",
-          "title": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it.. Instinct and Muse are great especially for browser use on the phone. It shows what a great agent...",
-          "url": "https://x.com/nikunj/status/2102186665863463199",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-22T00:02:12Z"
+          "id": "fe564ab18e69e79a4f3d3ffc528c97288837c416",
+          "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+          "url": "https://www.huxiu.com/article/4893279.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T12:11:09Z"
         }
       ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_fbf67cef",
-      "title": "ChatGPT Finances can help you spot charges you missed and get your money back. From Ethan, product lead for ChatGPT Finances: “I used points to book a hotel, and then they still billed me. I had no idea it happened bu...",
-      "url": "https://x.com/petergyang/status/2102186174911746151",
-      "primary_url": "https://x.com/petergyang/status/2102186174911746151",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "c6d1897d6089b6d630a12b8d67b06cf7d4dfb93a",
-          "title": "ChatGPT Finances can help you spot charges you missed and get your money back. From Ethan, product lead for ChatGPT Finances: “I used points to book a hotel, and then they still billed me. I had no idea it happened bu...",
-          "url": "https://x.com/petergyang/status/2102186174911746151",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-22T00:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
+      "item_count": 2,
+      "score": 9770
     },
     {
       "story_id": "story_825b1025",
@@ -1814,53 +1898,198 @@
       "score": 9770
     },
     {
-      "story_id": "story_ea9e1e48",
-      "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
-      "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
-      "source_count": 2,
-      "source_names": [
-        "Al Jazeera English",
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "b2e0d6941ee658f252904c82d8ad1af00767ddca",
-          "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
-          "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T02:44:51Z"
-        },
-        {
-          "id": "830d8f120c33449a1b0111852a0918798f8c5fb7",
-          "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-          "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T01:44:17Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_b80d4f83",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-      "primary_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "story_id": "story_57b97135",
+      "title": "从蜜雪冰城到DeepSeek，高瓴系成大厂高管标配？",
+      "url": "https://www.tmtpost.com/8149163.html",
+      "primary_url": "https://www.tmtpost.com/8149163.html",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "钛媒体 TMTPost"
       ],
       "sources": [
         {
-          "id": "dc1bf4a86bb6b2d3352f415f2132aa98fa381964",
-          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-          "source": "TechCrunch",
+          "id": "b724b5f8ae5dac427105cd59af06ae50e877227b",
+          "title": "从蜜雪冰城到DeepSeek，高瓴系成大厂高管标配？",
+          "url": "https://www.tmtpost.com/8149163.html",
+          "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
-          "published_at": "2026-09-22T23:21:49Z"
+          "published_at": "2026-09-23T01:33:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_cc4143bf",
+      "title": "AI智能体，正在让CPU身价暴涨",
+      "url": "https://www.tmtpost.com/8149352.html",
+      "primary_url": "https://www.tmtpost.com/8149352.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "b3801d9a989cb99e0de3a6d33130cf1967a5bd29",
+          "title": "AI智能体，正在让CPU身价暴涨",
+          "url": "https://www.tmtpost.com/8149352.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T01:24:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_92954c14",
+      "title": "迈信林：8.9亿元算力采购合同遭违约，已支付约2.66亿元订金却未收到交付设备",
+      "url": "https://m.thepaper.cn/detail/34130343",
+      "primary_url": "https://m.thepaper.cn/detail/34130343",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "4e865f4cb2a4d4bfff9418e72465a277072e4b32",
+          "title": "迈信林：8.9亿元算力采购合同遭违约，已支付约2.66亿元订金却未收到交付设备",
+          "url": "https://m.thepaper.cn/detail/34130343",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T01:10:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6b358a88",
+      "title": "AI科技走进日常生活",
+      "url": "http://www.news.cn/20260923/73ec8b7311704b3497e916334f003da2/c.html",
+      "primary_url": "http://www.news.cn/20260923/73ec8b7311704b3497e916334f003da2/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "018738f137371f3424f5f2ca9f9e0a9ff592def2",
+          "title": "AI科技走进日常生活",
+          "url": "http://www.news.cn/20260923/73ec8b7311704b3497e916334f003da2/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T01:00:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f8fcc167",
+      "title": "GPT-6新模型掀桌，“白菜价”杀进DeepSeek腹地",
+      "url": "https://www.huxiu.com/article/4893346.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4893346.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "795174a3eb14df6736d9d3f3f2ed445fdaaf62eb",
+          "title": "GPT-6新模型掀桌，“白菜价”杀进DeepSeek腹地",
+          "url": "https://www.huxiu.com/article/4893346.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T00:27:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dca8e921",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "2d8157c8a9668244a7db31799777f785a4f6b841",
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T00:17:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c85fc7cc",
+      "title": "AIGC海报：二十四节气里的古诗词·秋分",
+      "url": "http://www.news.cn/20260923/b589c7ab91604e85814f27fc0d21144d/c.html",
+      "primary_url": "http://www.news.cn/20260923/b589c7ab91604e85814f27fc0d21144d/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "fc3e6e1a7a86d10aa7f96496e45384569cd306e1",
+          "title": "AIGC海报：二十四节气里的古诗词·秋分",
+          "url": "http://www.news.cn/20260923/b589c7ab91604e85814f27fc0d21144d/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T00:14:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_47ed0232",
+      "title": "菲尔兹奖得主迪米尼-科潘：我不用AI做创造性工作",
+      "url": "https://www.huxiu.com/article/4893341.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4893341.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "250668311d42b3f362453d28c8a7f1af20e36361",
+          "title": "菲尔兹奖得主迪米尼-科潘：我不用AI做创造性工作",
+          "url": "https://www.huxiu.com/article/4893341.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T00:06:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_887f84f8",
+      "title": "一夜三连发，Claude Opus5.5、GPT-6 Sol和Luna全部都来了。",
+      "url": "https://www.huxiu.com/article/4893337.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4893337.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "20247df0bbf2a75afce271eebde2ed2359a24859",
+          "title": "一夜三连发，Claude Opus5.5、GPT-6 Sol和Luna全部都来了。",
+          "url": "https://www.huxiu.com/article/4893337.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T23:40:16Z"
         }
       ],
       "item_count": 1,
@@ -1911,6 +2140,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_0b3c6cf5",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+      "primary_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e896c3351aabc1c0bd80f61f113a0f77025fbbac",
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T21:56:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_991bdfde",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d91395cb2f641dc5aab8eb83481913bc8f6e20f2",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d0716c4b",
       "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
@@ -1927,6 +2200,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T20:52:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_bd1d3ba0",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+      "primary_url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ec2aa7e8a6ae27c23a7381863679d3dafe490ad0",
+          "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+          "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T18:40:30Z"
         }
       ],
       "item_count": 1,
@@ -1960,28 +2255,6 @@
         }
       ],
       "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_94144ed3",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-      "primary_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "4ee72a4dfc50aceee9b212b7771d3d7e23547257",
-          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
       "score": 9720
     },
     {
@@ -2029,22 +2302,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_4301034f",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-      "primary_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "story_id": "story_3b73af80",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "7c1c98eb2f0fc4146a03c0cf1048c9adfa52dbb0",
-          "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-          "source": "TechCrunch",
+          "id": "27a851c1966442c862aaca7f8e8070cbbfff986b",
+          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-22T16:30:07Z"
+          "published_at": "2026-09-22T16:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2073,6 +2346,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_57b69c0d",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "primary_url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "43e824d40613ecdcb8f62945d43a1b8697526ae9",
+          "title": "Rabbit Is Back, This Time With an AI Agent App",
+          "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_eacf0d6d",
       "title": "AstroForge is putting AI in command of its next spacecraft",
       "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
@@ -2086,6 +2381,28 @@
           "id": "4d91a89abd8dcbdbc0ab0c8b1c4984490a4941a3",
           "title": "AstroForge is putting AI in command of its next spacecraft",
           "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fa2049db",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+      "primary_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "51453b6c444499048faa685860905cb1d9063ad4",
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T15:00:00Z"
@@ -2205,22 +2522,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_de126b54",
-      "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
-      "url": "https://www.huxiu.com/article/4893279.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893279.html?f=rss",
+      "story_id": "story_58473f70",
+      "title": "Could you spot an AI-powered scam? See if you can tell what’s real. - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWFtWENhZlRWS1ZNbVlidjJQWlNNQnc1dmJMbDQ3a0Q4aS1vWkZGc3Y0UmU5NDU1TUt0elBVcU94ZUVsRWhEQlVOdEhPME1RMzZsczVnVkZ6OHY4dEZxa0gzcWU0UDZpSS1rZlRuOUZRaFhqYWYwQjB0SmhUTmpnNmR0S1NVMV9ZWXNSMnJ3emFTUGZaRzNIRENWTk83U0FUenVqdG1uTmQ1RWs4RWF3?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWFtWENhZlRWS1ZNbVlidjJQWlNNQnc1dmJMbDQ3a0Q4aS1vWkZGc3Y0UmU5NDU1TUt0elBVcU94ZUVsRWhEQlVOdEhPME1RMzZsczVnVkZ6OHY4dEZxa0gzcWU0UDZpSS1rZlRuOUZRaFhqYWYwQjB0SmhUTmpnNmR0S1NVMV9ZWXNSMnJ3emFTUGZaRzNIRENWTk83U0FUenVqdG1uTmQ1RWs4RWF3?oc=5",
       "source_count": 1,
       "source_names": [
-        "虎嗅"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "fe564ab18e69e79a4f3d3ffc528c97288837c416",
-          "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
-          "url": "https://www.huxiu.com/article/4893279.html?f=rss",
-          "source": "虎嗅",
+          "id": "d835de60297263e67f4f939e9329a3e0d3cd9dfe",
+          "title": "Could you spot an AI-powered scam? See if you can tell what’s real. - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWFtWENhZlRWS1ZNbVlidjJQWlNNQnc1dmJMbDQ3a0Q4aS1vWkZGc3Y0UmU5NDU1TUt0elBVcU94ZUVsRWhEQlVOdEhPME1RMzZsczVnVkZ6OHY4dEZxa0gzcWU0UDZpSS1rZlRuOUZRaFhqYWYwQjB0SmhUTmpnNmR0S1NVMV9ZWXNSMnJ3emFTUGZaRzNIRENWTk83U0FUenVqdG1uTmQ1RWs4RWF3?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-22T12:11:09Z"
+          "published_at": "2026-09-22T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2265,28 +2582,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T11:58:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d25222ba",
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "primary_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "398e81925e424ab85272042070299f79591c9afe",
-          "title": "Meta patches Muse exploit that let attackers control the AI agent",
-          "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T11:53:58Z"
         }
       ],
       "item_count": 1,
@@ -2485,28 +2780,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T10:32:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_61893f21",
-      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-      "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
-      "primary_url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "e89912d666832814940172e0d80b152733137731",
-          "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-          "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2743,6 +3016,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-22T09:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dd2d96af",
+      "title": "How to Use AI With Your Privacy Intact",
+      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
+      "primary_url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "b54330590b69697bb5ca68c328a63a8d14339cf7",
+          "title": "How to Use AI With Your Privacy Intact",
+          "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3219,6 +3514,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_ea9e1e48",
+      "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+      "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "b2e0d6941ee658f252904c82d8ad1af00767ddca",
+          "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+          "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-22T02:44:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_02ded546",
       "title": "从代码生成到组织重构，AI Coding如何跨越生产力鸿沟 | 2026 ITValue Summit数字价值年会",
       "url": "https://www.tmtpost.com/8146307.html",
@@ -3263,116 +3580,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c8fdb795",
-      "title": "H5｜《新引擎》第126期：AI编程狂飙，安全跟得上吗？",
-      "url": "https://m.pai-tech.net/collection/8sfisxlp?tenantId=10002876",
-      "primary_url": "https://m.pai-tech.net/collection/8sfisxlp?tenantId=10002876",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "73ba5424f1c831d1222dcf085c4b4ff7f365b66e",
-          "title": "H5｜《新引擎》第126期：AI编程狂飙，安全跟得上吗？",
-          "url": "https://m.pai-tech.net/collection/8sfisxlp?tenantId=10002876",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T01:47:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_bc4218fa",
-      "title": "Claude走进实验室：大模型的终点不在办公室",
-      "url": "https://www.huxiu.com/article/4893046.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893046.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "bf63228521d279fee00f73026a77afbdc8ccea6a",
-          "title": "Claude走进实验室：大模型的终点不在办公室",
-          "url": "https://www.huxiu.com/article/4893046.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T01:40:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d5120366",
-      "title": "AI差点引发中美冲突：人类的安全，不能指望每次都有一个“彼得罗夫”",
-      "url": "https://www.huxiu.com/article/4893041.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893041.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "dfdfb94c3dac8bbb2ed6108ab731cd90f416797d",
-          "title": "AI差点引发中美冲突：人类的安全，不能指望每次都有一个“彼得罗夫”",
-          "url": "https://www.huxiu.com/article/4893041.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T01:20:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1737b60d",
-      "title": "Why AI companies can’t be trusted to self-regulate",
-      "url": "https://www.nature.com/articles/d41586-026-03014-1",
-      "primary_url": "https://www.nature.com/articles/d41586-026-03014-1",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "bfe95c60c49fc393f7d0aac66cefda6106db956a",
-          "title": "Why AI companies can’t be trusted to self-regulate",
-          "url": "https://www.nature.com/articles/d41586-026-03014-1",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d3b36d7c",
-      "title": "Will AI really kill us all? The science behind the hype",
-      "url": "https://www.nature.com/articles/d41586-026-02941-3",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02941-3",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "93d0bf236238ca4db8fa16edea77aa81fd16e0ec",
-          "title": "Will AI really kill us all? The science behind the hype",
-          "url": "https://www.nature.com/articles/d41586-026-02941-3",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_95be4cc1",
       "title": "Claude Opus 5.5 智能、性能与价格分析（Max）",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
@@ -3380,7 +3587,7 @@
       "source_count": 3,
       "source_names": [
         "artificialanalysis.ai",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
@@ -3393,19 +3600,19 @@
           "published_at": "2026-09-22T19:13:26.296000Z"
         },
         {
-          "id": "9b23e49ff5c0f961803e40e563c7da47d1646ac8",
+          "id": "d6b829d45554b7891711755e5944daa8525a06c4",
           "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
           "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:51:31Z"
         },
         {
-          "id": "b3c6808ec994a186662f0bd462d1476231b2ac43",
+          "id": "a43a5f4e18a81095284b2d9616874c2137bad338",
           "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
           "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T16:51:31Z"
         },
         {
@@ -3417,11 +3624,11 @@
           "published_at": "2026-09-22T12:40:31.910000Z"
         },
         {
-          "id": "46ed2c4d2130a642fa821fb67617e6bc824ea3f5",
+          "id": "92d7b6f0654392d165e6cdd4f77b34b463c56beb",
           "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
           "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T04:02:09Z"
         }
       ],
@@ -3437,7 +3644,7 @@
       "source_names": [
         "arcturus-labs.com",
         "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3457,78 +3664,16 @@
           "published_at": "2026-09-22T14:42:59Z"
         },
         {
-          "id": "7f1f85c5cb587f38dc3a005428e36407eb9ac16d",
+          "id": "79cc92d5c5bc60a655291ccbc05059898acb3d48",
           "title": "OpenAI is well positioned to fast-follow Jev",
           "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T14:42:59Z"
         }
       ],
       "item_count": 3,
       "score": 9580
-    },
-    {
-      "story_id": "story_94483ad0",
-      "title": "LLM 辅助长凳",
-      "url": "https://www.assbench.com",
-      "primary_url": "https://www.assbench.com",
-      "source_count": 2,
-      "source_names": [
-        "www.assbench.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "898ff16c63b0004098fa70050cc1968c53ef2613",
-          "title": "LLM 辅助长凳",
-          "url": "https://www.assbench.com",
-          "source": "www.assbench.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T22:20:32.474000Z"
-        },
-        {
-          "id": "23cbe722fa59dfc9bcf863022c35d5958769a669",
-          "title": "LLM Ass Bench",
-          "url": "https://www.assbench.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T20:34:19Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_60cbd800",
-      "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
-      "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
-      "primary_url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
-      "source_count": 2,
-      "source_names": [
-        "Mac Rumors",
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "30020139132973b3164952d4af16944b258ff519",
-          "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
-          "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T19:23:31Z"
-        },
-        {
-          "id": "26d385b52e9abbef7f06d6780a0207aee174799d",
-          "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
-          "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T17:12:14Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
     },
     {
       "story_id": "story_72c378aa",
@@ -3541,6 +3686,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "1e276271d2ed946e530e451e3e3f0e86c17e6f3b",
+          "title": "The new CC, an AI agent built for families",
+          "url": "https://news.ycombinator.com/item?id=49809806",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-22T23:46:07Z"
+        },
         {
           "id": "4f9de03283c7093cc0d098b8b40af4687dbfdc44",
           "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
@@ -3684,25 +3837,71 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-09-22T08:49:13Z"
-        },
-        {
-          "id": "1458b40816781994db45a7940d4e485fb3b16179",
-          "title": "Claude Status – Elevated errors for multiple models",
-          "url": "https://news.ycombinator.com/item?id=49795579",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T01:05:19Z"
-        },
-        {
-          "id": "61f601a8014c2c2df078cecbe53174000d84eb91",
-          "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-          "url": "https://news.ycombinator.com/item?id=49795260",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T00:24:00Z"
         }
       ],
-      "item_count": 20,
+      "item_count": 19,
+      "score": 9570
+    },
+    {
+      "story_id": "story_94483ad0",
+      "title": "LLM 辅助长凳",
+      "url": "https://www.assbench.com",
+      "primary_url": "https://www.assbench.com",
+      "source_count": 2,
+      "source_names": [
+        "www.assbench.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "898ff16c63b0004098fa70050cc1968c53ef2613",
+          "title": "LLM 辅助长凳",
+          "url": "https://www.assbench.com",
+          "source": "www.assbench.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T22:20:32.474000Z"
+        },
+        {
+          "id": "2ed668bb05522a3ed1f4f49153031b0424ce5f28",
+          "title": "LLM Ass Bench",
+          "url": "https://www.assbench.com",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T20:34:19Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_60cbd800",
+      "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+      "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+      "primary_url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+      "source_count": 2,
+      "source_names": [
+        "Mac Rumors",
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "30020139132973b3164952d4af16944b258ff519",
+          "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+          "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T19:23:31Z"
+        },
+        {
+          "id": "26d385b52e9abbef7f06d6780a0207aee174799d",
+          "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T17:12:14Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3713,7 +3912,7 @@
       "source_count": 2,
       "source_names": [
         "www.cryptocellar.org",
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3725,11 +3924,11 @@
           "published_at": "2026-09-22T14:45:25.428000Z"
         },
         {
-          "id": "05a359104200fa097ca1f3b6a988888d5e381f2c",
+          "id": "6f731db0cb91a95abdf3642bbe60beafef20c951",
           "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
           "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T13:52:15Z"
         }
       ],
@@ -3768,43 +3967,136 @@
       "score": 9570
     },
     {
-      "story_id": "story_04d52238",
-      "title": "Claude 状态——多个模型的错误率上升",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "primary_url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "source_count": 2,
+      "story_id": "story_be345f5f",
+      "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
+      "url": "https://www.techmeme.com/260922/p58",
+      "primary_url": "https://www.techmeme.com/260922/p58",
+      "source_count": 1,
       "source_names": [
-        "status.claude.com",
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "0df20c7349b010c57196ce828ab9f9aec07486a2",
+          "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
+          "url": "https://www.techmeme.com/260922/p58",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T00:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9a1c5e05",
+      "title": "Alibaba says its new Zhenwu V900 is China’s most powerful AI chip",
+      "url": "https://thenextweb.com/news/alibaba-zhenwu-v900-ai-chip-20gw-data-centres-qwen-5",
+      "primary_url": "https://thenextweb.com/news/alibaba-zhenwu-v900-ai-chip-20gw-data-centres-qwen-5",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "3502408983760ab96276754e7ded967790ff4ef7",
+          "title": "Alibaba says its new Zhenwu V900 is China’s most powerful AI chip",
+          "url": "https://thenextweb.com/news/alibaba-zhenwu-v900-ai-chip-20gw-data-centres-qwen-5",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T23:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ca761102",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+      "source_count": 1,
+      "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "70a1188c612082f49400bfbb865384fb6be59a5f",
-          "title": "Claude 状态——多个模型的错误率上升",
-          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-          "source": "status.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-22T08:47:46.973000Z"
-        },
-        {
-          "id": "a4d51309df14063a41854ac59d547218d928b849",
-          "title": "Claude Status – Elevated errors for multiple models",
-          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "id": "44615a9dc654938925c4d9daadaef5f39cdefea9",
+          "title": "The new CC, an AI agent built for families",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-09-22T01:05:19Z"
-        },
-        {
-          "id": "1a19e87e2b8791d13a838b37e971b9f6a23d04e3",
-          "title": "Elevated errors for multiple models – Resolved",
-          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-22T01:05:19Z"
+          "published_at": "2026-09-22T23:46:07Z"
         }
       ],
-      "item_count": 3,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fa783965",
+      "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+      "url": "https://www.techmeme.com/260922/p57",
+      "primary_url": "https://www.techmeme.com/260922/p57",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "1bcfe682717788bf9034306415eb989591ff8d29",
+          "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+          "url": "https://www.techmeme.com/260922/p57",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T23:25:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b80d4f83",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "primary_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "cacc4ff8ced00243709f5885b3a4c2f19dbd9a46",
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T23:21:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_339914d2",
+      "title": "McKinsey warns that AI may get a lot more expensive for companies",
+      "url": "https://www.businessinsider.com/mckinsey-ai-agent-costs-variable-expensive-2026-9",
+      "primary_url": "https://www.businessinsider.com/mckinsey-ai-agent-costs-variable-expensive-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "417426dfc75f17c3e211f0353da48cb89f3d2f98",
+          "title": "McKinsey warns that AI may get a lot more expensive for companies",
+          "url": "https://www.businessinsider.com/mckinsey-ai-agent-costs-variable-expensive-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T22:50:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_89211167",
@@ -3823,6 +4115,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-22T22:50:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1f2f8d4f",
+      "title": "Marc Benioff says Salesforce's investment in Anthropic was a plan B that could pay off in ‘tens of billions’",
+      "url": "https://www.businessinsider.com/salesforce-ai-investment-anthropic-could-be-worth-tens-of-billions-2026-9",
+      "primary_url": "https://www.businessinsider.com/salesforce-ai-investment-anthropic-could-be-worth-tens-of-billions-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "138d50db0b11c1712c3aeeb69042aa6cb580ce1c",
+          "title": "Marc Benioff says Salesforce's investment in Anthropic was a plan B that could pay off in ‘tens of billions’",
+          "url": "https://www.businessinsider.com/salesforce-ai-investment-anthropic-could-be-worth-tens-of-billions-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T22:49:49Z"
         }
       ],
       "item_count": 1,
@@ -3879,38 +4193,16 @@
       "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "37637e598bc616be3d0c867b762d7f86782aa1b8",
+          "id": "a4ef990095a20da2dda3d76a08a5075f3708e278",
           "title": "The current balance of power in open models",
           "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T22:03:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0b3c6cf5",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-      "primary_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f2887d061b3a2b8b77b807b834bfb6f8ba673782",
-          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T21:56:43Z"
         }
       ],
       "item_count": 1,
@@ -4319,15 +4611,15 @@
       "primary_url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "35cc439216465757a062d023248a7d30a8d59aa4",
+          "id": "80d364a5b7edb25576d8499e048ac851d18a870c",
           "title": "A Faster Shortest Path Algorithm",
           "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T19:24:58Z"
         }
       ],
@@ -4505,28 +4797,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-22T18:55:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bd1d3ba0",
-      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
-      "primary_url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "13677ecac35b2790e744ada8a673e1aa78f0ab0b",
-          "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-          "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T18:40:30Z"
         }
       ],
       "item_count": 1,
@@ -4775,6 +5045,28 @@
       "score": 7
     },
     {
+      "story_id": "story_94144ed3",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+      "primary_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2c0dd554cc8e0ed4c69d75c8b24ec591a813fa9a",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_ffa312d0",
       "title": "These are the stock market's winners and losers in the AI agent economy",
       "url": "https://www.businessinsider.com/ai-stocks-winners-losers-agent-economy-meta-muse-chips-consumers-2026-9",
@@ -4791,6 +5083,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-22T17:50:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a19b7b78",
+      "title": "Trump says AI will be renamed 'super intelligence' in all US documents",
+      "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence",
+      "primary_url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "94cb6a8e9e9d8090e17757d127c24fd1a407a936",
+          "title": "Trump says AI will be renamed 'super intelligence' in all US documents",
+          "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-22T17:40:59Z"
         }
       ],
       "item_count": 1,
@@ -5105,22 +5419,22 @@
       "score": 7
     },
     {
-      "story_id": "story_3b73af80",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "story_id": "story_4301034f",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "primary_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "19e9faf76f64b3a60753265a16b8fa23417b9422",
-          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-          "source": "The Verge",
+          "id": "c23d0815800dedc69b3069978e76b04bdf70821b",
+          "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+          "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-09-22T16:30:00Z"
+          "published_at": "2026-09-22T16:30:07Z"
         }
       ],
       "item_count": 1,
@@ -5199,15 +5513,15 @@
       "primary_url": "https://ai-rete-rag.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d466e9d3f2564b99646f38280fe0e609e3746eb3",
+          "id": "f92b95d51d0a09b528e8689cc3ad7e4921e7357f",
           "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
           "url": "https://ai-rete-rag.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-22T16:15:06Z"
         }
       ],
@@ -5275,28 +5589,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-22T16:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_57b69c0d",
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-      "primary_url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "d6ee82312afac06296dd6f3d4dbcd6dc3bd7b6f9",
-          "title": "Rabbit Is Back, This Time With an AI Agent App",
-          "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5375,15 +5667,15 @@
       "primary_url": "https://minimaxir.com/2026/09/agentic-iteration",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "f08c2c9dc5e02e2d073a4586fc03099a85637eb2",
+          "id": "8ee48588ba75e828c62334574796e53ee1d8dd4c",
           "title": "Writing Rust code that's fast by asking agents to make the code faster",
           "url": "https://minimaxir.com/2026/09/agentic-iteration",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T15:38:24Z"
         }
       ],
@@ -5517,28 +5809,6 @@
           "source": "Hacker News",
           "site_id": "techurls",
           "published_at": "2026-09-22T15:07:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fa2049db",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-      "primary_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2920ab82433d89c05e2f396f4db46fcb6093145f",
-          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T15:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5705,15 +5975,15 @@
       "primary_url": "https://jola.dev/posts/ai-antithetical-learning",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "5071716a697864964de040ed64f339aa32e64c13",
+          "id": "40e0f1d89c60784a8f06514ea32fd053dec3f9f8",
           "title": "AI Is Antithetical to Learning",
           "url": "https://jola.dev/posts/ai-antithetical-learning",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-22T13:24:40Z"
         }
       ],
@@ -6145,15 +6415,15 @@
       "primary_url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "5089c8eaebe4c76c4d7030dd8e22b256cc5c0e04",
+          "id": "e1e5af4ea21441ca10f47f7b10e945352f0c668d",
           "title": "Will Open Source Survive the Agents That Replaced It?",
           "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T12:05:17Z"
         }
       ],
@@ -6199,6 +6469,28 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-09-22T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d25222ba",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "primary_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "3573ab6dd39a0c6feaaf8509b2e7c13c6fdaea59",
+          "title": "Meta patches Muse exploit that let attackers control the AI agent",
+          "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T11:53:58Z"
         }
       ],
       "item_count": 1,
@@ -6425,6 +6717,28 @@
       "score": 7
     },
     {
+      "story_id": "story_61893f21",
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
+      "primary_url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "006adeba569a65f94e53502d2819f86054d5d212",
+          "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+          "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_06e4c6d2",
       "title": "The AI advice gap: what happens when the machine says \"yes\"?",
       "url": "https://www.techradar.com/pro/the-ai-advice-gap-what-happens-when-the-machine-says-yes",
@@ -6519,15 +6833,15 @@
       "primary_url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ae654b387f01e2bf41e4858735de6bdbf3f14b42",
+          "id": "af903415457d450ea1dfafbdeebd2b3209d4ad35",
           "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
           "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-22T09:18:54Z"
         }
       ],
@@ -6645,28 +6959,6 @@
       "score": 7
     },
     {
-      "story_id": "story_dd2d96af",
-      "title": "How to Use AI With Your Privacy Intact",
-      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
-      "primary_url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "f10fd496ada4c3f91ba2474c4cab58a462e09d87",
-          "title": "How to Use AI With Your Privacy Intact",
-          "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_4f44d68c",
       "title": "Morphotonics raises more than €40M to scale waveguide manufacturing for AI glasses",
       "url": "https://thenextweb.com/news/morphotonics-raises-40m-waveguide-manufacturing-ai-glasses",
@@ -6705,6 +6997,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-22T08:52:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_04d52238",
+      "title": "Claude 状态——多个模型的错误率上升",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "primary_url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source_count": 1,
+      "source_names": [
+        "status.claude.com"
+      ],
+      "sources": [
+        {
+          "id": "70a1188c612082f49400bfbb865384fb6be59a5f",
+          "title": "Claude 状态——多个模型的错误率上升",
+          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "source": "status.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T08:47:46.973000Z"
         }
       ],
       "item_count": 1,
@@ -7123,94 +7437,6 @@
           "source": "timdettmers.com",
           "site_id": "buzzing",
           "published_at": "2026-09-22T01:56:24.113000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b43f0de5",
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
-      "primary_url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "e2c833fb9417f8560c2fa9babf98790b3b12dd43",
-          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T01:24:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_67b92273",
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem",
-      "primary_url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "de659529b695ce64bb645dc80eeb36bfce214a65",
-          "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-          "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-22T00:24:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6473390a",
-      "title": "British Columbia files a lawsuit against OpenAI over mass shooting",
-      "url": "https://www.businessinsider.com/british-columbia-files-lawsuit-against-openai-over-school-shooting-2026-9",
-      "primary_url": "https://www.businessinsider.com/british-columbia-files-lawsuit-against-openai-over-school-shooting-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "5e5537a0c3d2c0147f51666cdac3ad024594fdd7",
-          "title": "British Columbia files a lawsuit against OpenAI over mass shooting",
-          "url": "https://www.businessinsider.com/british-columbia-files-lawsuit-against-openai-over-school-shooting-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T00:16:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_32d65092",
-      "title": "​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则",
-      "url": "https://juejin.cn/post/7687804226240069670",
-      "primary_url": "https://juejin.cn/post/7687804226240069670",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "dc7e90e63d732ab28e62334f8b003be2ceb54908",
-          "title": "​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则",
-          "url": "https://juejin.cn/post/7687804226240069670",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T00:08:59.367000Z"
         }
       ],
       "item_count": 1,
