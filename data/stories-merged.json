@@ -1,39 +1,8 @@
 {
-  "generated_at": "2026-09-24T12:57:27.791597Z",
+  "generated_at": "2026-09-24T13:45:59.875867Z",
   "window_hours": 24,
-  "total_stories": 346,
+  "total_stories": 327,
   "stories": [
-    {
-      "story_id": "story_68024e28",
-      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "www.anthropic.com"
-      ],
-      "sources": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        },
-        {
-          "id": "206716da6aa6e1d312d7db624ab47f9c8ee6cf56",
-          "title": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T19:28:38.639000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 10070
-    },
     {
       "story_id": "story_c24a6e6f",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -95,28 +64,6 @@
           "source": "Google DeepMind",
           "site_id": "official_ai",
           "published_at": "2026-09-23T16:00:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_165ac02a",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
         }
       ],
       "item_count": 1,
@@ -197,7 +144,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.smh.com.au",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -217,11 +164,11 @@
           "published_at": "2026-09-23T22:54:29.320000Z"
         },
         {
-          "id": "a441433d233595f2b0cabe5456c4655e325a4c59",
+          "id": "56afefd048ce11bd9c9dd48a8b2b19a033810164",
           "title": "OpenAI breaches Medicare, Albanese reveals",
           "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
@@ -237,7 +184,7 @@
       "source_names": [
         "X：Nathan Lambert (@natolambert)",
         "www.channelnewsasia.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -257,11 +204,11 @@
           "published_at": "2026-09-24T06:18:35.730000Z"
         },
         {
-          "id": "51bed15ec2f1503e13149edd92b0df35d630fc73",
+          "id": "eb7c6586450e992f6f119c04446d1fdd3401754b",
           "title": "Australia says OpenAI agent hacked into government website",
           "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-24T01:24:00Z"
         }
       ],
@@ -501,6 +448,50 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-24T12:56:25.410079Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5e7296a2",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_1739aafb",
+      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+      "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "primary_url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
+          "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+          "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:27:50Z"
         }
       ],
       "item_count": 1,
@@ -1343,28 +1334,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_0134eed3",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "4242b71e4e81bb1714db5411d123d5793c7b372f",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T15:25:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_f4eba7da",
       "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
       "url": "https://x.com/AravSrinivas/status/2102780186202972254",
@@ -1403,292 +1372,6 @@
           "source": "Claude：Blog（网页）",
           "site_id": "aihot",
           "published_at": "2026-09-23T14:33:15.378000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ceb25cb9",
-      "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
-      "url": "https://www.aibase.com/news/31310",
-      "primary_url": "https://www.aibase.com/news/31310",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "a0846ec5f1f59c7563f2e27777b5fa5797feb24d",
-          "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
-          "url": "https://www.aibase.com/news/31310",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_952f90f7",
-      "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-      "url": "https://www.aibase.com/news/31313",
-      "primary_url": "https://www.aibase.com/news/31313",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
-          "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "url": "https://www.aibase.com/news/31313",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_cd69fc65",
-      "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
-      "url": "https://www.aibase.com/news/31306",
-      "primary_url": "https://www.aibase.com/news/31306",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "380d97ed678c430fe3b11f5773215b91e366dd58",
-          "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
-          "url": "https://www.aibase.com/news/31306",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ed481309",
-      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-      "url": "https://www.aibase.com/news/31314",
-      "primary_url": "https://www.aibase.com/news/31314",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "url": "https://www.aibase.com/news/31314",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_0f30c203",
-      "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
-      "url": "https://www.aibase.com/news/31305",
-      "primary_url": "https://www.aibase.com/news/31305",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "a1c2d6dd50d0585583ecf7168504964ab080d85b",
-          "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
-          "url": "https://www.aibase.com/news/31305",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e7b02041",
-      "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
-      "url": "https://www.aibase.com/news/31303",
-      "primary_url": "https://www.aibase.com/news/31303",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "f9c647882171aec3276083dab05fcd2f62eda369",
-          "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
-          "url": "https://www.aibase.com/news/31303",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c9d4a465",
-      "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
-      "url": "https://www.aibase.com/news/31312",
-      "primary_url": "https://www.aibase.com/news/31312",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "8687a26100b3bb06139a6fe801e354041323e172",
-          "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
-          "url": "https://www.aibase.com/news/31312",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ad4b4461",
-      "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
-      "url": "https://www.aibase.com/news/31302",
-      "primary_url": "https://www.aibase.com/news/31302",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "c8232ac6a39ba2b860f8adc624c910f155fd9864",
-          "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
-          "url": "https://www.aibase.com/news/31302",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_1e8f609c",
-      "title": "杭州一小伙3天搓出100个作品冲击百万大奖，支付宝:别急",
-      "url": "https://www.aibase.com/news/31315",
-      "primary_url": "https://www.aibase.com/news/31315",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "517849f9fcf3cc724d3a7f90262d485b6caa7976",
-          "title": "杭州一小伙3天搓出100个作品冲击百万大奖，支付宝:别急",
-          "url": "https://www.aibase.com/news/31315",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_577e86ff",
-      "title": "盒马部署“AI验蟹师”：不到 1 分钟检测 50 只大闸蟹",
-      "url": "https://www.aibase.com/news/31304",
-      "primary_url": "https://www.aibase.com/news/31304",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "efa338b8187900ded7ef084300136059a792fdc1",
-          "title": "盒马部署“AI验蟹师”：不到 1 分钟检测 50 只大闸蟹",
-          "url": "https://www.aibase.com/news/31304",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_0f8099f5",
-      "title": "腾讯WorkBuddy企业版办公套件化升级:多端账号、资产打通，企业生产力再升级",
-      "url": "https://www.aibase.com/news/31309",
-      "primary_url": "https://www.aibase.com/news/31309",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "251629021304147fb617e0dba1a2fcd18c4b1e26",
-          "title": "腾讯WorkBuddy企业版办公套件化升级:多端账号、资产打通，企业生产力再升级",
-          "url": "https://www.aibase.com/news/31309",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_74c705f6",
-      "title": "阿里千问发布 Qwen-Audio-3.1：五款语音模型同发，ASR 价格直降 95%",
-      "url": "https://www.aibase.com/news/31308",
-      "primary_url": "https://www.aibase.com/news/31308",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "b4fabc3017126485a92e5c366d6b940c7e9f9a28",
-          "title": "阿里千问发布 Qwen-Audio-3.1：五款语音模型同发，ASR 价格直降 95%",
-          "url": "https://www.aibase.com/news/31308",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_b7312bf4",
-      "title": "麦肯锡泼冷水：智能体账单可能比聊天AI贵 30 倍，企业正被自己的AI热情反噬",
-      "url": "https://www.aibase.com/news/31311",
-      "primary_url": "https://www.aibase.com/news/31311",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "93705d36bc5b69d722d18c3733b870b841974d95",
-          "title": "麦肯锡泼冷水：智能体账单可能比聊天AI贵 30 倍，企业正被自己的AI热情反噬",
-          "url": "https://www.aibase.com/news/31311",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T13:02:32.778560Z"
         }
       ],
       "item_count": 1,
@@ -2047,6 +1730,46 @@
       "score": 9820
     },
     {
+      "story_id": "story_37782ca2",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "source_count": 3,
+      "source_names": [
+        "BBC World",
+        "BBC News",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "30def6984e8804509949707a7b598e5e38052930",
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T07:10:58Z"
+        },
+        {
+          "id": "6cccc4555c013091af1602dfddee7625756b8490",
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T22:23:28Z"
+        },
+        {
+          "id": "3ff27f7056b33d497279fe8f93f78bddddf62830",
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "url": "https://www.bbc.com/news/articles/c6vgy0333dppo",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-24T04:33:52Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9780
+    },
+    {
       "story_id": "story_6786552d",
       "title": "OpenAI智能体擅自访问医保数据，澳大利亚政府将调查",
       "url": "https://m.thepaper.cn/detail/34142897",
@@ -2075,45 +1798,6 @@
         }
       ],
       "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_37782ca2",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "source_count": 2,
-      "source_names": [
-        "BBC World",
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "30def6984e8804509949707a7b598e5e38052930",
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T07:10:58Z"
-        },
-        {
-          "id": "4319a47bb340eaebc43fef9f8104eac49f88cb5e",
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T03:22:54Z"
-        },
-        {
-          "id": "3ff27f7056b33d497279fe8f93f78bddddf62830",
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "url": "https://www.bbc.com/news/articles/c6vgy0333dppo",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-24T04:33:52Z"
-        }
-      ],
-      "item_count": 3,
       "score": 9770
     },
     {
@@ -2179,22 +1863,44 @@
       "score": 9770
     },
     {
-      "story_id": "story_5e7296a2",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "story_id": "story_cf93be8c",
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "primary_url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "d1b6361a8cad4ff0512d463401f66dcb7fe73239",
-          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-          "source": "TechCrunch",
+          "id": "ba1c5f9a8307f140cff38eec9a7de93d1e50e6df",
+          "title": "Meta’s Muse AI Charms can interact with each other",
+          "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-24T12:54:19Z"
+          "published_at": "2026-09-24T13:31:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2ccd30fa",
+      "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race",
+      "primary_url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "b0804796cb730c16a688571d76e5052bad78f215",
+          "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
+          "url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T13:17:00Z"
         }
       ],
       "item_count": 1,
@@ -2283,28 +1989,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-09-24T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0b9f26da",
-      "title": "OpenAI agents hacked an Australian government website in search for data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "ac27c72414c5fe2b80c5a53be5791664e9729cee",
-          "title": "OpenAI agents hacked an Australian government website in search for data",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T11:52:32Z"
         }
       ],
       "item_count": 1,
@@ -3163,28 +2847,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_02cc9696",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
-      "primary_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "214f603897ae87a751d42f4f25f85de340eb2451",
-          "title": "Everything new coming to Meta’s AI agent Muse",
-          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T01:13:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f70f7d34",
       "title": "科瑞技术7.52亿定增：八成募资押注AI精密制造，营收占比仅17%",
       "url": "https://www.tmtpost.com/8150987.html",
@@ -3223,28 +2885,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-24T00:54:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9d372d93",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-      "primary_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2bfb3fdbbef2bdcea432de9c8b5d15eb2825a49a",
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T00:46:17Z"
         }
       ],
       "item_count": 1,
@@ -3413,6 +3053,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_f6c92ed0",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
+      "primary_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "31f50ce5a947d7619e56d3c24b404eb1145945eb",
+          "title": "Meta introduces camera-free AI glasses",
+          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T23:39:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_a6ed9ec3",
       "title": "【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek",
       "url": "https://www.tmtpost.com/8151174.html",
@@ -3545,6 +3207,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_81267516",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+      "primary_url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "3662d276b408aa4bfa1b06579d8f43d1e8798270",
+          "title": "YouTube promises custom feeds and a lot more AI later this year",
+          "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T19:35:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7065bad6",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+      "primary_url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e26e57ce6456086c73300347d41929c7994a0e1d",
+          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T19:31:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d55c019d",
       "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
       "url": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
@@ -3567,28 +3273,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2b824ca5",
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "94ef588d107d55312a198ba527654274b8482f98",
-          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_c49f97fb",
       "title": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai",
@@ -3605,28 +3289,6 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-23T18:44:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4461c738",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
-      "primary_url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "8b0d0001ec3040281335516d837614bf4d5e65f3",
-          "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-          "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T18:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3677,6 +3339,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_ca90e964",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+      "primary_url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2323aa8ad649b1776b722e849c5b10a62f8f72b0",
+          "title": "ChatGPT mobile app gets voice-based agentic features",
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_95c6bb04",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
+      "primary_url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "28f644015bcdd19d6a27403dc9a10d3fe518dbf2",
+          "title": "Even Americans who use AI every day are worried about it",
+          "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T16:49:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_0fba04b1",
       "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
       "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
@@ -3721,42 +3427,64 @@
       "score": 9720
     },
     {
-      "story_id": "story_19ed12ce",
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
-      "primary_url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
+      "story_id": "story_0134eed3",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "Google DeepMind Blog"
       ],
       "sources": [
         {
-          "id": "20dd6395da89b545a22053a0110db63aa40728f7",
-          "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-          "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
-          "source": "TechCrunch",
+          "id": "f315759bbbc5cc37759b25861dcb16a272f06a08",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "source": "Google DeepMind Blog",
           "site_id": "opmlrss",
-          "published_at": "2026-09-23T14:30:00Z"
+          "published_at": "2026-09-23T15:25:14Z"
         }
       ],
       "item_count": 1,
       "score": 9720
     },
     {
-      "story_id": "story_8909ad75",
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "primary_url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "story_id": "story_f53afce8",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
+      "primary_url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "794825cd88db1de22dd1675f3bfc76e364929a15",
-          "title": "YouTube is building AI creator tools that do almost everything for them",
-          "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-          "source": "The Verge",
+          "id": "e287d560593693f2461031df255040c33216569a",
+          "title": "YouTube Music gets more conversational with new AI features",
+          "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T15:19:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_19935182",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+      "primary_url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "21d3748265b75bf08083241054e3225a9045989b",
+          "title": "YouTube releases new AI features for creators within its Studio app",
+          "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-23T14:30:00Z"
         }
@@ -3781,138 +3509,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-23T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_84362193",
-      "title": "澎湃AI晚新闻丨2026年9月23日",
-      "url": "https://m.thepaper.cn/detail/34135181",
-      "primary_url": "https://m.thepaper.cn/detail/34135181",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "4a91a32f8296be4872b626314bbd5ac6e99032ce",
-          "title": "澎湃AI晚新闻丨2026年9月23日",
-          "url": "https://m.thepaper.cn/detail/34135181",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:42:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ffa3142e",
-      "title": "UN General Assembly to discuss war, climate and AI",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
-      "primary_url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "7a84b6bd2a4378c11359feaf04692fff12fece01",
-          "title": "UN General Assembly to discuss war, climate and AI",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:20:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d836ad98",
-      "title": "AI不会毁灭人类，只是加速人类的自毁",
-      "url": "https://www.huxiu.com/article/4893591.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893591.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "54b9528d38b539b7a97c6f2c5e85869a6ad8f8ae",
-          "title": "AI不会毁灭人类，只是加速人类的自毁",
-          "url": "https://www.huxiu.com/article/4893591.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:18:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_518bd90a",
-      "title": "World leaders weigh AI worries, regulations",
-      "url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
-      "primary_url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "8c3713e10a7c722f8bbc85b8d02a0e43b6a0fd2e",
-          "title": "World leaders weigh AI worries, regulations",
-          "url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:08:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7d0f5cd5",
-      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "9a3a9f1ff48b1519a32f48bf103c800ac12a1ec3",
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_54b23082",
-      "title": "PitPro’s first tire-changing robot goes live in Canada",
-      "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
-      "primary_url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2738f5e4f9fb2f39469598d0ac59188fb76e2c87",
-          "title": "PitPro’s first tire-changing robot goes live in Canada",
-          "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3959,86 +3555,6 @@
       "score": 9580
     },
     {
-      "story_id": "story_569c95f8",
-      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-      "primary_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-      "source_count": 3,
-      "source_names": [
-        "claude.dev",
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
-          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "claude.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T21:34:38.801000Z"
-        },
-        {
-          "id": "f2466370d9437c18f3ff56c964b7c1ea946f042e",
-          "title": "How we made claude.ai 3x faster in two weeks",
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T19:23:40Z"
-        },
-        {
-          "id": "6a153d21328c38250f916728ff38def9b6068ab4",
-          "title": "Once Claude can measure something, it can make it faster",
-          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-23T19:23:40Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_9b2c40b9",
-      "title": "Stripe 的知识人工智能平台",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "primary_url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "source_count": 3,
-      "source_names": [
-        "stripe.dev",
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "613321aa112eac8c9c2cb2518f56cf0bf70a1c64",
-          "title": "Stripe 的知识人工智能平台",
-          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-          "source": "stripe.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T16:50:24.378000Z"
-        },
-        {
-          "id": "7e186a4f2b046d03bc26215221d9da31adf38fa9",
-          "title": "Stripe built its internal AI platform",
-          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T13:38:00Z"
-        },
-        {
-          "id": "4b541ecff4dc2ead74c5a0d56f94c019ed7036ec",
-          "title": "Stripe's Knowledge AI Platform",
-          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T13:38:00Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_eada485b",
       "title": "Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频",
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
@@ -4077,7 +3593,7 @@
       "source_count": 2,
       "source_names": [
         "transluce.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -4089,11 +3605,11 @@
           "published_at": "2026-09-24T09:11:35.299000Z"
         },
         {
-          "id": "eb3c9d4f6bdccb9c86e022887ec52dbe101e606f",
+          "id": "d05501786d867cc649da7801c3276330dacc1e94",
           "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
           "url": "https://transluce.org/agent-activity",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-24T05:21:10Z"
         }
       ],
@@ -4194,6 +3710,76 @@
       "score": 9570
     },
     {
+      "story_id": "story_569c95f8",
+      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "primary_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "source_count": 2,
+      "source_names": [
+        "claude.dev",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "9aea7332b1e0e13e51fec4551703ad48897eabaa",
+          "title": "只要克劳德能对某件事进行测量，就能让它变得更快",
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "claude.dev",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T21:34:38.801000Z"
+        },
+        {
+          "id": "beb4eda04abdc9df120a98da9fced047b2174999",
+          "title": "How we made claude.ai 3x faster in two weeks",
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "6a153d21328c38250f916728ff38def9b6068ab4",
+          "title": "Once Claude can measure something, it can make it faster",
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-23T19:23:40Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
+      "story_id": "story_68024e28",
+      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source_count": 2,
+      "source_names": [
+        "www.anthropic.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "206716da6aa6e1d312d7db624ab47f9c8ee6cf56",
+          "title": "克劳德发现了一种具有CRISPR样重复序列的新型酶系统",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "www.anthropic.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T19:28:38.639000Z"
+        },
+        {
+          "id": "3739bf45b04c884f31346010ae391280b6bfd1e0",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-23T18:06:47Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_4b234e56",
       "title": "Strands 安全带",
       "url": "https://strandsagents.com/blog/introducing-strands-harness",
@@ -4263,7 +3849,7 @@
       "source_count": 2,
       "source_names": [
         "drivingbench.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -4275,11 +3861,11 @@
           "published_at": "2026-09-23T16:35:38.456000Z"
         },
         {
-          "id": "4ab821e0b590ea0e1b16f80b8228757bfac546f2",
+          "id": "b8657ae99b9fbb96e73fb68d56b76a967deeb638",
           "title": "GPT-6 Astra has gained the ability to drive a car",
           "url": "https://drivingbench.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-23T15:14:22Z"
         }
       ],
@@ -4316,6 +3902,72 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_2eb9594c",
+      "title": "Flutter Golden Tests：给 AI Agent 的 UI 测试系统",
+      "url": "https://juejin.cn/post/7688611918492008490",
+      "primary_url": "https://juejin.cn/post/7688611918492008490",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "66c9a2203def668c00caa544150bf60368980ebb",
+          "title": "Flutter Golden Tests：给 AI Agent 的 UI 测试系统",
+          "url": "https://juejin.cn/post/7688611918492008490",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T13:45:36.336000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5152d921",
+      "title": "Google Is Sending an A.I. Data Center to Outer Space",
+      "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "primary_url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "48392104936ee30f0652bbe0988fcc85eaf57367",
+          "title": "Google Is Sending an A.I. Data Center to Outer Space",
+          "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T13:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d3f04999",
+      "title": "Massive Chinese hack uses AI agents to steal over 600,000 credit cards and hit hundreds of sites with malware",
+      "url": "https://www.techradar.com/pro/security/massive-chinese-hack-uses-ai-agents-to-steal-over-600-000-credit-cards-and-hit-hundreds-of-sites-with-malware",
+      "primary_url": "https://www.techradar.com/pro/security/massive-chinese-hack-uses-ai-agents-to-steal-over-600-000-credit-cards-and-hit-hundreds-of-sites-with-malware",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "9053a0143f65abe56aaa86d95b5b49a343621c59",
+          "title": "Massive Chinese hack uses AI agents to steal over 600,000 credit cards and hit hundreds of sites with malware",
+          "url": "https://www.techradar.com/pro/security/massive-chinese-hack-uses-ai-agents-to-steal-over-600-000-credit-cards-and-hit-hundreds-of-sites-with-malware",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_a1a9e415",
@@ -4560,28 +4212,6 @@
       "score": 7
     },
     {
-      "story_id": "story_44b7bc24",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "ddfa84ea33428ef232d3985faea9dcb553e4bbc2",
-          "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-24T11:54:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_0b3379b1",
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
       "url": "https://news.ycombinator.com/item?id=49827794",
@@ -4591,6 +4221,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "073c305ecb757759a9bb0323fbec419206f8b0f7",
+          "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+          "url": "https://news.ycombinator.com/item?id=49829650",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T12:23:41Z"
+        },
         {
           "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
           "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
@@ -4702,17 +4340,75 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-23T15:14:22Z"
-        },
-        {
-          "id": "fed25338347551727d689270a40a6834e4389cfa",
-          "title": "Stripe's Knowledge AI Platform",
-          "url": "https://news.ycombinator.com/item?id=49815982",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T13:38:00Z"
         }
       ],
       "item_count": 15,
+      "score": 7
+    },
+    {
+      "story_id": "story_dcbd7fdc",
+      "title": "Week four panic? Here's how to turn your Gemini free trial into an academic comeback",
+      "url": "https://www.androidpolice.com/gemini-study-tricks-mid-semester",
+      "primary_url": "https://www.androidpolice.com/gemini-study-tricks-mid-semester",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "c78e7b455262f2c9c9b67fd1c2ae367b792cd47c",
+          "title": "Week four panic? Here's how to turn your Gemini free trial into an academic comeback",
+          "url": "https://www.androidpolice.com/gemini-study-tricks-mid-semester",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T12:15:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_44b7bc24",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "ddfa84ea33428ef232d3985faea9dcb553e4bbc2",
+          "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-24T11:54:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0b9f26da",
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "51d92d47c7e7f5e3f37b18b8bca4be9467307686",
+          "title": "OpenAI agents hacked an Australian government website in search for data",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T11:52:32Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -5206,15 +4902,15 @@
       "primary_url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "80a7f8042fc03613bac181cd369741695a2786af",
+          "id": "713fce4b3b893d48fe9586d2916fc94103faadeb",
           "title": "AI has no intent and no motivation",
           "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-24T09:13:25Z"
         }
       ],
@@ -5794,6 +5490,72 @@
       "score": 7
     },
     {
+      "story_id": "story_4e0dd009",
+      "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+      "url": "https://github.com/saulpw/visidata/pull/3229",
+      "primary_url": "https://github.com/saulpw/visidata/pull/3229",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "af04ae9069bc571ea8547d64c7ffb36b72bbb1ad",
+          "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+          "url": "https://github.com/saulpw/visidata/pull/3229",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-24T01:14:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02cc9696",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+      "primary_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "651dbe2c183cf6d944098b2e3de90be20e930775",
+          "title": "Everything new coming to Meta’s AI agent Muse",
+          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T01:13:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9d372d93",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "primary_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f3ee8cd30a1541e7ba83f2f16f5eaa4ed08cb686",
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T00:46:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_67cf8127",
       "title": "Meta beat OpenAI to the punch on announcing an AI gadget",
       "url": "https://www.businessinsider.com/meta-just-beat-openai-to-the-on-an-ai-device-2026-9",
@@ -5986,28 +5748,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-23T23:43:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f6c92ed0",
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-      "primary_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "22fbf603e01946a700bed2552076396fe8d4f88f",
-          "title": "Meta introduces camera-free AI glasses",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T23:39:44Z"
         }
       ],
       "item_count": 1,
@@ -6328,15 +6068,15 @@
       "primary_url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "47f489aa8c3c80cda73a4c4110831d4aafb48f24",
+          "id": "964e1d6422b3319b221ebc9ed47b130332e3223f",
           "title": "OpenAI 'agent' hacked Australia's health service",
           "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-23T21:49:57Z"
         }
       ],
@@ -6394,15 +6134,15 @@
       "primary_url": "https://madradavid.com/claudes-load-bearing-seams",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "7eb3f0b1afa441f9b0205cf68d0d2aa0a2775b2b",
+          "id": "cecf86c2b2947a780d874a484d4fbbf6420e30da",
           "title": "Claude's Load-Bearing Seams",
           "url": "https://madradavid.com/claudes-load-bearing-seams",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-23T21:31:04Z"
         }
       ],
@@ -6482,15 +6222,15 @@
       "primary_url": "https://fly.io/blog/vscode-ssh-wtf",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "9aaf0a6f7492feed89ec720e042298978c78ac3c",
+          "id": "aa73083f52c6164e37d9c93ff70a5ba74ed2ae23",
           "title": "VSCode's SSH Agent Is Bananas (2025)",
           "url": "https://fly.io/blog/vscode-ssh-wtf",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-23T21:01:48Z"
         }
       ],
@@ -6740,50 +6480,6 @@
       "score": 7
     },
     {
-      "story_id": "story_81267516",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
-      "primary_url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "83caef7adcd946fd20930e5a142bc856e6538a02",
-          "title": "YouTube promises custom feeds and a lot more AI later this year",
-          "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T19:35:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7065bad6",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
-      "primary_url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "21bd5d5d8632aff891aef8f105f263617e253414",
-          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T19:31:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_ce725126",
       "title": "Anthropic says Claude found a new enzyme system with CRISPR-like repeats",
       "url": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
@@ -6894,6 +6590,28 @@
       "score": 7
     },
     {
+      "story_id": "story_2b824ca5",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "45da123e53932b5c4a197a2f816b7e260194466d",
+          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_ff521047",
       "title": "I used Muse, Instinct, and Grok Bot to plan my European vacation. Meta's AI agent was my favorite.",
       "url": "https://www.businessinsider.com/ai-agents-travel-plan-europe-trip-muse-instinct-grok-bot-2026-9",
@@ -6966,16 +6684,38 @@
       "primary_url": "https://huggingface.co/apple/LensVLM-9B",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "1b3e3346c4212c9ebbebc0a886bbf7900143c511",
+          "id": "2656329307c817655128e71e2fe52dcce254a3be",
           "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
           "url": "https://huggingface.co/apple/LensVLM-9B",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-23T18:36:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4461c738",
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
+      "primary_url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "a66c6ac733cf0198e4497087efbfca006ffbb421",
+          "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+          "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T18:30:00Z"
         }
       ],
       "item_count": 1,
@@ -7180,44 +6920,22 @@
       "score": 7
     },
     {
-      "story_id": "story_ca90e964",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
-      "primary_url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+      "story_id": "story_9b2c40b9",
+      "title": "Stripe 的知识人工智能平台",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "primary_url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "stripe.dev"
       ],
       "sources": [
         {
-          "id": "7dd891e5ded8b2ff1c31dc30f233e34d8d92029f",
-          "title": "ChatGPT mobile app gets voice-based agentic features",
-          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_95c6bb04",
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
-      "primary_url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "cc821a0d7ce03f0eb209a705fe37431c6c0922b2",
-          "title": "Even Americans who use AI every day are worried about it",
-          "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T16:49:58Z"
+          "id": "613321aa112eac8c9c2cb2518f56cf0bf70a1c64",
+          "title": "Stripe 的知识人工智能平台",
+          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+          "source": "stripe.dev",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T16:50:24.378000Z"
         }
       ],
       "item_count": 1,
@@ -7532,28 +7250,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f53afce8",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
-      "primary_url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "64a4f68a836091f4e169f1f87e86be6c35002eda",
-          "title": "YouTube Music gets more conversational with new AI features",
-          "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T15:19:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_fe0c8d81",
       "title": "At its Accelerate conference, Amazon says it is opening its seller tools to third-party AI agents, starting with Claude, in beta for US merchants (Todd Bishop/GeekWire)",
       "url": "https://www.techmeme.com/260923/p29",
@@ -7664,20 +7360,42 @@
       "score": 7
     },
     {
-      "story_id": "story_19935182",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
-      "primary_url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+      "story_id": "story_19ed12ce",
+      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
+      "primary_url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "426eb0b2a2de08e537ea15f834a205323207d8a9",
-          "title": "YouTube releases new AI features for creators within its Studio app",
-          "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+          "id": "00e2d258aa00f9bf241f0925e7ed15641c57eafa",
+          "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+          "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
           "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-23T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8909ad75",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "primary_url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "832d6b8da7280be419af05fd16099a53436c7e19",
+          "title": "YouTube is building AI creator tools that do almost everything for them",
+          "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+          "source": "The Verge",
           "site_id": "techurls",
           "published_at": "2026-09-23T14:30:00Z"
         }
@@ -7714,15 +7432,15 @@
       "primary_url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "8171d990de82014a0f8cb758b4c0752bb88d1632",
+          "id": "a4f0920e63734e5f58c98327deb2c59e0664fd58",
           "title": "Community condemn Bedminster AI mural as 'insult' to artists",
           "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-23T14:16:12Z"
         }
       ],
@@ -7834,160 +7552,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-23T13:46:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cc318b83",
-      "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney (Corbin Bolies/Variety)",
-      "url": "https://www.techmeme.com/260923/p24",
-      "primary_url": "https://www.techmeme.com/260923/p24",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "93aeaef338ce18c4d8cc52a6819eaeb3b72c4455",
-          "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney (Corbin Bolies/Variety)",
-          "url": "https://www.techmeme.com/260923/p24",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T13:40:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e3a552f9",
-      "title": "克劳德代码仅在遥测功能开启时才会读取 AGENTS.md 文件",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-      "primary_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-      "source_count": 1,
-      "source_names": [
-        "blog.szypowi.cz"
-      ],
-      "sources": [
-        {
-          "id": "86ed38ba81ffc6fbe1b2a30a05b1485c143ecef3",
-          "title": "克劳德代码仅在遥测功能开启时才会读取 AGENTS.md 文件",
-          "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-          "source": "blog.szypowi.cz",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T13:27:26.287000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f82d3335",
-      "title": "London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M (John Reynolds/Tech.eu)",
-      "url": "https://www.techmeme.com/260923/p23",
-      "primary_url": "https://www.techmeme.com/260923/p23",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "bd9e5cc65ff59ea9edd4f28677470a9265b39bf9",
-          "title": "London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M (John Reynolds/Tech.eu)",
-          "url": "https://www.techmeme.com/260923/p23",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T13:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_07bf0979",
-      "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
-      "url": "https://www.techmeme.com/260923/p21",
-      "primary_url": "https://www.techmeme.com/260923/p21",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "89b173fda17d0c1a0c3e71384cf9a94f287b2ac0",
-          "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
-          "url": "https://www.techmeme.com/260923/p21",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T13:05:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f0cb2de6",
-      "title": "LinkedIn is making it easier for you to get verified - and to hopefully cut back on scams and AI slop",
-      "url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
-      "primary_url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "0e0fe06c9edd2121ef994250bf2b01ccd75c76c2",
-          "title": "LinkedIn is making it easier for you to get verified - and to hopefully cut back on scams and AI slop",
-          "url": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_44570c37",
-      "title": "Meta shipped 81% of the world’s AI glasses, and the runner-up has no camera",
-      "url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
-      "primary_url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "0940485ff3e0c1b5bfa59d5ab80c59e28ea86222",
-          "title": "Meta shipped 81% of the world’s AI glasses, and the runner-up has no camera",
-          "url": "https://thenextweb.com/news/ai-glasses-shipments-omdia-meta-even-realities-camera-free",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-23T12:57:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_373bbbe6",
-      "title": "开放模型中的当前力量平衡",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source_count": 1,
-      "source_names": [
-        "www.interconnects.ai"
-      ],
-      "sources": [
-        {
-          "id": "309bdb435f8e3fdaea95284a021f504af63b453b",
-          "title": "开放模型中的当前力量平衡",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "www.interconnects.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T12:56:55.101000Z"
         }
       ],
       "item_count": 1,
