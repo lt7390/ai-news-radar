@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T20:14:22.791391Z",
+  "generated_at": "2026-09-26T23:57:28.741559Z",
   "window_hours": 24,
-  "total_stories": 145,
+  "total_stories": 126,
   "stories": [
     {
       "story_id": "story_36e5104f",
@@ -30,11 +30,10 @@
       "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
       "url": "https://swarmtraces.org",
       "primary_url": "https://swarmtraces.org",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "swarmtraces.org",
-        "Hacker News (黑客新闻)"
+        "swarmtraces.org"
       ],
       "sources": [
         {
@@ -52,18 +51,32 @@
           "source": "swarmtraces.org",
           "site_id": "buzzing",
           "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:27Z"
         }
       ],
-      "item_count": 3,
-      "score": 9980
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_beb19af2",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_96dff04f",
@@ -110,6 +123,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_e162327c",
+      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News：AI 热帖"
+      ],
+      "sources": [
+        {
+          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News：AI 热帖",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T14:03:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_25174aa9",
       "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
@@ -148,50 +183,6 @@
           "source": "X：Ethan Mollick (@emollick)",
           "site_id": "aihot",
           "published_at": "2026-09-26T04:54:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e17a6e35",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source_count": 1,
-      "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
-      ],
-      "sources": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_36a0f7d3",
-      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-      "url": "https://x.com/OpenAI/status/2103587050347995581",
-      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "sources": [
-        {
-          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
-          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-          "url": "https://x.com/OpenAI/status/2103587050347995581",
-          "source": "X：OpenAI (@OpenAI)",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:46:50Z"
         }
       ],
       "item_count": 1,
@@ -308,50 +299,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_98c613ab",
-      "title": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful...",
-      "url": "https://x.com/levie/status/2103629073595728372",
-      "primary_url": "https://x.com/levie/status/2103629073595728372",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "076980d3c7967802de5281f56cca5571ca429482",
-          "title": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful...",
-          "url": "https://x.com/levie/status/2103629073595728372",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T23:33:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_746ba0c3",
-      "title": "We are aware that codex is down and are working hard to bring back normal service.",
-      "url": "https://x.com/thsottiaux/status/2103620061156290622",
-      "primary_url": "https://x.com/thsottiaux/status/2103620061156290622",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "sources": [
-        {
-          "id": "2ec71e10b8ff690a0f420c8c7a3066f582ee5c8f",
-          "title": "We are aware that codex is down and are working hard to bring back normal service.",
-          "url": "https://x.com/thsottiaux/status/2103620061156290622",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T22:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_aa3eec91",
       "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
@@ -383,6 +330,72 @@
       "score": 9770
     },
     {
+      "story_id": "story_b65ce9a4",
+      "title": "Student protesters disrupt NVIDIA AI climate panel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "844dfc587bf01aeb91d00c9fe1ff4a714919089e",
+          "title": "Student protesters disrupt NVIDIA AI climate panel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-26T22:09:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_94191f70",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "primary_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "51c582c42afb7d2110f46588272cfe7e239fc4b9",
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-26T21:02:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5968ff29",
+      "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "9bc9a9a1601cb66a05733e98f2715862d606774f",
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-26T18:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d9a89ba4",
       "title": "新闻周刊丨面对AI“越界”，各国如何携手守住边界？",
       "url": "https://m.thepaper.cn/detail/34158199",
@@ -405,6 +418,36 @@
       "score": 9720
     },
     {
+      "story_id": "story_3e8aa643",
+      "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "a50db52fb1c295b303209a8fb0fee3ead72e469a",
+          "title": "China and US agree to establish AI safety channel and continue trade and military talks - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-26T17:42:00Z"
+        },
+        {
+          "id": "af1a4fdc323bf94aa623375c8f686eb5016f2792",
+          "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-26T11:17:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
       "story_id": "story_c60d1818",
       "title": "Trump rejects combining US-China AI efforts",
       "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
@@ -424,36 +467,6 @@
         }
       ],
       "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_3e8aa643",
-      "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "a50db52fb1c295b303209a8fb0fee3ead72e469a",
-          "title": "China and US agree to establish AI safety channel and continue trade and military talks - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-26T17:21:00Z"
-        },
-        {
-          "id": "af1a4fdc323bf94aa623375c8f686eb5016f2792",
-          "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-26T11:17:00Z"
-        }
-      ],
-      "item_count": 2,
       "score": 9720
     },
     {
@@ -1075,156 +1088,63 @@
       "score": 9720
     },
     {
-      "story_id": "story_c812424c",
-      "title": "全国首家青少年人工智能学院将满两岁，缘何而设？如何育才？",
-      "url": "https://m.thepaper.cn/detail/34142118",
-      "primary_url": "https://m.thepaper.cn/detail/34142118",
-      "source_count": 1,
+      "story_id": "story_a78ef24e",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source_count": 2,
       "source_names": [
-        "澎湃新闻"
+        "arxiv.org",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d7d8a7d32449bb8c338d6cb092bc4ae3b952165d",
-          "title": "全国首家青少年人工智能学院将满两岁，缘何而设？如何育才？",
-          "url": "https://m.thepaper.cn/detail/34142118",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T23:31:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_45526b92",
-      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "e0f2166ddded66f919aa9c80535810aca01b3966",
-          "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-          "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T23:21:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f53edbeb",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-      "primary_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "26040bd92cf97fdef401c64f224c2a91d5d8805a",
-          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T23:11:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_00a6f3df",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "9d9a77aee15ed18ba518510efef166aebb1412b4",
-          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T23:05:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7dbe5dcf",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "fcd2ccf8715769b194580cc1fd78215a46660081",
-          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T21:36:20Z"
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
         },
         {
-          "id": "3ee7f37443f500719d682b7ba1ef601fe6b9a0d9",
-          "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T21:36:20Z"
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-26T18:22:41Z"
         }
       ],
       "item_count": 2,
-      "score": 9720
+      "score": 9570
     },
     {
-      "story_id": "story_e03560e1",
-      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-      "source_count": 1,
+      "story_id": "story_df537d37",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "primary_url": "https://news.ycombinator.com/item?id=49861047",
+      "source_count": 2,
       "source_names": [
-        "Al Jazeera English"
+        "HN Algolia · AI 24h",
+        "hackernews"
       ],
       "sources": [
         {
-          "id": "179656cdff4f60cd686f4ddaad26d92924223c3b",
-          "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-25T20:46:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c6d47778",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "https://news.ycombinator.com/item?id=49853175",
-      "primary_url": "https://news.ycombinator.com/item?id=49853175",
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "Hacker News"
-      ],
-      "sources": [
+          "id": "8882243747d2b680700b5be08735873006e2916e",
+          "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T22:15:32Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
         {
           "id": "96e25dde3f9930cbfa731b60983b53a85af4e86d",
           "title": "Drawgent: Coding agent on a live Excalidraw canvas",
@@ -1298,23 +1218,147 @@
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
-          "id": "558bbb7d48f93f90aa1d0b1cfda4f7665fc0f83c",
-          "title": "Tell HN: Codex Is Down [fixed]",
-          "url": "https://news.ycombinator.com/item?id=49851032",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T22:51:44Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://news.ycombinator.com/item?id=49849985",
+          "id": "17019fb237601facfad5d8beb3981d4c32606785",
+          "title": "An agent used DNS to reach an external chatbot",
+          "url": "https://news.ycombinator.com/item?id=49853137",
           "source": "hackernews",
           "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
+          "published_at": "2026-09-26T04:14:11Z"
+        },
+        {
+          "id": "4cf2a912aeaf98d4aca19990bc475c26370c4d1e",
+          "title": "Generate fonts where every LLM token is the same width",
+          "url": "https://news.ycombinator.com/item?id=49851883",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T00:30:03Z"
         }
       ],
-      "item_count": 11,
+      "item_count": 13,
+      "score": 9570
+    },
+    {
+      "story_id": "story_e9ce6988",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source_count": 2,
+      "source_names": [
+        "www.windowscentral.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "The Copilot+ PC brand is dead",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_b51f6e2c",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source_count": 2,
+      "source_names": [
+        "discourse.haskell.org",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "b9dcb74d17f8f0b22a40720691acaabb08009fed",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_a56823c4",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "74dfa7fe18cbf9f96947112931720717d47deb81",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_2e4f7874",
+      "title": "An OpenAI agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "An OpenAI agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
+        },
+        {
+          "id": "c55d937f20afbd34161ed7a3420a89d5a13a2760",
+          "title": "An agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-26T04:14:11Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -1325,7 +1369,7 @@
       "source_count": 2,
       "source_names": [
         "blog.bustikiller.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1337,11 +1381,11 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
+          "id": "1b5ac7221348a4a3a41e2a54f6c07ecfc2cbacdd",
           "title": "One Month Without AI",
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-26T10:08:21Z"
         }
       ],
@@ -1356,7 +1400,7 @@
       "source_count": 2,
       "source_names": [
         "allanrbo.blogspot.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1368,11 +1412,11 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "ffed7b9f1bb18bb3870ec3301731a0f3b4892cc3",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "A single function Jev-like wrapper for LLMs, including vision models",
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         }
       ],
@@ -1380,35 +1424,70 @@
       "score": 9570
     },
     {
-      "story_id": "story_c3e2e1a2",
-      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "primary_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "source_count": 2,
+      "story_id": "story_430f7782",
+      "title": "Claude Deleted 48k Files",
+      "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
+      "primary_url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
-          "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T23:22:18Z"
-        },
-        {
-          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
-          "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T23:16:40Z"
+          "id": "747b38bfb6b32af2fc8f9dbb9ba2ebf21ff47e82",
+          "title": "Claude Deleted 48k Files",
+          "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-26T23:42:06Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9d1dbb2e",
+      "title": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+      "url": "https://juejin.cn/post/7689061402817265710",
+      "primary_url": "https://juejin.cn/post/7689061402817265710",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "fd227838a2ce061b086a466e230a4320088630a8",
+          "title": "DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程",
+          "url": "https://juejin.cn/post/7689061402817265710",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T23:37:45.350000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_419ced22",
+      "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)",
+      "url": "https://www.techmeme.com/260926/p17",
+      "primary_url": "https://www.techmeme.com/260926/p17",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "55c6f5302635216abf14e51852956011f5909573",
+          "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)",
+          "url": "https://www.techmeme.com/260926/p17",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T19:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_8cf97dea",
@@ -1565,52 +1644,22 @@
       "score": 7
     },
     {
-      "story_id": "story_a56823c4",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "story_id": "story_464d6abf",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
       "source_count": 1,
       "source_names": [
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "74dfa7fe18cbf9f96947112931720717d47deb81",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-26T15:56:34Z"
-        },
-        {
-          "id": "e2654fd3f4d981f7176ee0a9fcb8f8f3135802a4",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:56:34Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 7
-    },
-    {
-      "story_id": "story_2e4f7874",
-      "title": "An OpenAI agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "An OpenAI agent used DNS to reach an external chatbot",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
       "item_count": 1,
@@ -1743,28 +1792,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-26T14:16:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e162327c",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "bbff655df694e9f10881403393590c321f9a24c6",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "item_count": 1,
@@ -1997,15 +2024,15 @@
       "primary_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ef97b051226d7730aa6956a8d2701fc6848aec04",
+          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
           "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-26T13:05:36Z"
         }
       ],
@@ -2063,15 +2090,15 @@
       "primary_url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d47756a04e8aecb8f90bdff4e73baced4e0081c2",
+          "id": "858db12029d307f76b67e38032273552de7f9f28",
           "title": "CEO of Mistral: AI is software. It can be controlled",
           "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-26T12:52:04Z"
         }
       ],
@@ -2117,50 +2144,6 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-09-26T11:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e9ce6988",
-      "title": "The Copilot+ PC brand is dead",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "819c0723e2acd615aad249d04d236060cb1ae135",
-          "title": "The Copilot+ PC brand is dead",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-26T09:55:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b51f6e2c",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
       "item_count": 1,
@@ -2893,6 +2876,28 @@
       "score": 7
     },
     {
+      "story_id": "story_31401033",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "primary_url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "39c56b8f7b2d842754afff95e14a0a91c52ae2ee",
+          "title": "Generate fonts where every LLM token is the same width",
+          "url": "https://ampdot.mesh.host/token-space-fonts.html",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-26T00:30:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_3d76b1bc",
       "title": "[分享创造] 做了个免费开源的 AI 交易工作台",
       "url": "https://www.v2ex.com/t/1244827",
@@ -2975,402 +2980,6 @@
           "source": "mouse.dev",
           "site_id": "buzzing",
           "published_at": "2026-09-25T23:59:47.244000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_834ef40e",
-      "title": "[OpenAI] We need a reset, Tibo.",
-      "url": "https://www.v2ex.com/t/1244825",
-      "primary_url": "https://www.v2ex.com/t/1244825",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "a662019f61be3b2dfa9c6b8e9fb3715a786e2150",
-          "title": "[OpenAI] We need a reset, Tibo.",
-          "url": "https://www.v2ex.com/t/1244825",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-09-25T23:52:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_96deb187",
-      "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "primary_url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "06fc6a795a51aba2d8f8049eae844058ac8e965d",
-          "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-          "url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T23:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ed88ad9c",
-      "title": "OpenAI Codex 401 Outage",
-      "url": "https://status.openai.com",
-      "primary_url": "https://status.openai.com",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "288417c42e9815928528622836b5b5fb810e483a",
-          "title": "OpenAI Codex 401 Outage",
-          "url": "https://status.openai.com",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-25T23:07:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f5ac19f",
-      "title": "Issues with Codex – Identified – Full Outage",
-      "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-      "primary_url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "4ea5244a991808da235ed5f003ae38c0a9ff7004",
-          "title": "Issues with Codex – Identified – Full Outage",
-          "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T23:04:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_feef0e28",
-      "title": "[OpenAI] 这下得给个重置吧！ unexpected status 401 Unauthorized: Incorrect API key provided",
-      "url": "https://www.v2ex.com/t/1244824",
-      "primary_url": "https://www.v2ex.com/t/1244824",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "72f0cab7a0bb18e3a582fda64074282e2e6728d1",
-          "title": "[OpenAI] 这下得给个重置吧！ unexpected status 401 Unauthorized: Incorrect API key provided",
-          "url": "https://www.v2ex.com/t/1244824",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-09-25T23:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1589fb1e",
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "primary_url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "04460cfd9e3e62fd3a8b07f7ea97756ab76a731a",
-          "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-          "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T22:49:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b5dd736b",
-      "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-      "url": "https://juejin.cn/post/7688528701483827241",
-      "primary_url": "https://juejin.cn/post/7688528701483827241",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "93e2af7817444a9a152719ddcebe379d7ab34b62",
-          "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
-          "url": "https://juejin.cn/post/7688528701483827241",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T22:35:48.434000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f15b78d",
-      "title": "USAF considering 'very large' autonomous airborne tankers to replace KC-135, KC-46 — and Boeing's MQ-25 Stingray UAV is only the beginning",
-      "url": "https://www.techradar.com/pro/usaf-considering-very-large-autonomous-airborne-tankers-to-replace-kc-135-kc-46-and-boeings-mq-25-stingray-uav-is-only-the-beginning",
-      "primary_url": "https://www.techradar.com/pro/usaf-considering-very-large-autonomous-airborne-tankers-to-replace-kc-135-kc-46-and-boeings-mq-25-stingray-uav-is-only-the-beginning",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "c8c0b75aecaae484223b1e3d4421ddb4c1d1667e",
-          "title": "USAF considering 'very large' autonomous airborne tankers to replace KC-135, KC-46 — and Boeing's MQ-25 Stingray UAV is only the beginning",
-          "url": "https://www.techradar.com/pro/usaf-considering-very-large-autonomous-airborne-tankers-to-replace-kc-135-kc-46-and-boeings-mq-25-stingray-uav-is-only-the-beginning",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T22:35:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d75528ef",
-      "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-      "url": "https://www.techmeme.com/260925/p22",
-      "primary_url": "https://www.techmeme.com/260925/p22",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "0c599ab1c587020e5cb6e3c896b319611391464f",
-          "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-          "url": "https://www.techmeme.com/260925/p22",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T22:30:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_42854505",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "primary_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f0f20830feaa7fac01e3bbcc3c8d5a610fc95457",
-          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T22:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_07d340d8",
-      "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)",
-      "url": "https://www.techmeme.com/260925/p21",
-      "primary_url": "https://www.techmeme.com/260925/p21",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "66d8be4e4d37518e03832a79992dc3f182e4dfd4",
-          "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)",
-          "url": "https://www.techmeme.com/260925/p21",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T21:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9771378a",
-      "title": "HP debuts $7,449 Ryzen AI Max+ PRO 495 laptop — ZBook Ultra G3a has 192GB RAM, 512GB SSD, and can handle up to 300B parameters",
-      "url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
-      "primary_url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "489eb33607acb16d17d9fed2c77604266c17070e",
-          "title": "HP debuts $7,449 Ryzen AI Max+ PRO 495 laptop — ZBook Ultra G3a has 192GB RAM, 512GB SSD, and can handle up to 300B parameters",
-          "url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T21:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_42dc86b4",
-      "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-      "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-      "primary_url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "af8dfb43aaf7102278239db31dbae341ae9483b2",
-          "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-          "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T21:15:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_22b4cbcc",
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "primary_url": "https://www.gptbeyond.com/try?home=1",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "9f06084a9a6ce2b13b7556b759a3991d91325977",
-          "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-          "url": "https://www.gptbeyond.com/try?home=1",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:09:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4ce7f198",
-      "title": "Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)",
-      "url": "https://www.techmeme.com/260925/p20",
-      "primary_url": "https://www.techmeme.com/260925/p20",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "e18baad3d0a7ce609e60b2a63388463be7756812",
-          "title": "Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)",
-          "url": "https://www.techmeme.com/260925/p20",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T21:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fb16a153",
-      "title": "Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (New York Times)",
-      "url": "https://www.techmeme.com/260925/p18",
-      "primary_url": "https://www.techmeme.com/260925/p18",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "bb0c0accef622037412ecefca34b2b7b8dec4c01",
-          "title": "Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (New York Times)",
-          "url": "https://www.techmeme.com/260925/p18",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T20:35:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4cef5d1d",
-      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
-      "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
-      "primary_url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "1db615d843393ebeb85e9235255e4e5d2b7b6161",
-          "title": "How to stop Meta training its AI models on your smart glasses' visual data",
-          "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T20:35:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a039be99",
-      "title": "是的，克劳德可以完成“九环”",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source_count": 1,
-      "source_names": [
-        "www.anthropic.com"
-      ],
-      "sources": [
-        {
-          "id": "9f19f11198d79d4dec4b75491349d342c5484f15",
-          "title": "是的，克劳德可以完成“九环”",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T20:17:37.059000Z"
         }
       ],
       "item_count": 1,
