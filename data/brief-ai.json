@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T02:05:05.994813Z",
+  "generated_at": "2026-09-26T08:45:48.900138Z",
   "category": "ai",
-  "total": 267,
+  "total": 287,
   "items": [
     {
       "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
@@ -32,16 +32,6 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-09-26T00:00:00Z"
-    },
-    {
-      "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-      "title_zh": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-      "url": "https://www.ithome.com/1/007/144.htm",
-      "source": "IT之家（RSS）",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-09-25T07:02:05Z"
     },
     {
       "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
@@ -204,144 +194,114 @@
       "ts": "2026-09-25T23:59:47.248000Z"
     },
     {
-      "title": "This is called stroking the AI's ego and it works https://t.co/CpSvOv3kmF",
-      "title_zh": "This is called stroking the AI's ego and it works https://t.co/CpSvOv3kmF",
-      "url": "https://x.com/petergyang/status/2103310612864569388",
+      "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+      "title_zh": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+      "url": "https://x.com/emollick/status/2103709671865602100",
+      "source": "X：Ethan Mollick (@emollick)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-26T04:54:05Z"
+    },
+    {
+      "title": "https://t.co/3kIQ5LKes3",
+      "title_zh": "https://t.co/3kIQ5LKes3",
+      "url": "https://x.com/claudeai/status/2103515670428238179",
+      "source": "Follow Builders · X · Claude",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T16:03:11Z"
+    },
+    {
+      "title": "https://t.co/7zcjE09JYh",
+      "title_zh": "https://t.co/7zcjE09JYh",
+      "url": "https://x.com/claudeai/status/2103515668171853944",
+      "source": "Follow Builders · X · Claude",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T16:03:11Z"
+    },
+    {
+      "title": "What are you going to explore with Opus 5.5 this weekend?",
+      "title_zh": "What are you going to explore with Opus 5.5 this weekend?",
+      "url": "https://x.com/claudeai/status/2103515672777290083",
+      "source": "Follow Builders · X · Claude",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T16:03:12Z"
+    },
+    {
+      "title": "We're helping world-class organizations like @klaviyo build agentic deployment platforms. ① Connect every agent (claude, codex, cursor…) ② Configure SSO via their IDP (Okta, Entra) ③ Now everyone can cook, securely® W...",
+      "title_zh": "We're helping world-class organizations like @klaviyo build agentic deployment platforms. ① Connect every agent (claude, codex, cursor…) ② Configure SSO via their IDP (Okta, Entra) ③ Now everyone can cook, securely® W...",
+      "url": "https://x.com/rauchg/status/2103564484602384855",
+      "source": "Follow Builders · X · Guillermo Rauch",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T19:17:10Z"
+    },
+    {
+      "title": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
+      "title_zh": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
+      "url": "https://x.com/sama/status/2103567198690349362",
+      "source": "Follow Builders · X · Sam Altman",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T19:27:57Z"
+    },
+    {
+      "title": "We are aware that codex is down and are working hard to bring back normal service.",
+      "title_zh": "We are aware that codex is down and are working hard to bring back normal service.",
+      "url": "https://x.com/thsottiaux/status/2103620061156290622",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T22:58:00Z"
+    },
+    {
+      "title": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful...",
+      "title_zh": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. We can test our deterministic processes through software, but most enterprises have no useful...",
+      "url": "https://x.com/levie/status/2103629073595728372",
+      "source": "Follow Builders · X · Aaron Levie",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-25T23:33:49Z"
+    },
+    {
+      "title": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work sorry about the brief disruption! (and yes we have a special spare codex when things are down to help us out) h...",
+      "title_zh": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work sorry about the brief disruption! (and yes we have a special spare codex when things are down to help us out) h...",
+      "url": "https://x.com/thsottiaux/status/2103637477760311522",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-09-26T00:07:13Z"
+    },
+    {
+      "title": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel...",
+      "title_zh": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel...",
+      "url": "https://x.com/steipete/status/2103648679169257737",
+      "source": "Follow Builders · X · Peter Steinberger",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": false,
+      "ts": "2026-09-26T00:51:43Z"
+    },
+    {
+      "title": "Ok all memes aside I had Grok @bot and Muse track the same Japan flight itinerary and Muse suggested a price that was $1K+ more than Grok Bot. When I asked Muse why it said it searched Duffel instead of Google Flights...",
+      "title_zh": "Ok all memes aside I had Grok @bot and Muse track the same Japan flight itinerary and Muse suggested a price that was $1K+ more than Grok Bot. When I asked Muse why it said it searched Duffel instead of Google Flights...",
+      "url": "https://x.com/petergyang/status/2103693608729932025",
       "source": "Follow Builders · X · Peter Yang",
       "_site": "Follow Builders",
       "tier": 2,
       "ai": true,
-      "ts": "2026-09-25T02:28:22Z"
-    },
-    {
-      "title": "夹缝中的Find X10：OPPO低端承压，AI难成新引擎",
-      "title_zh": "夹缝中的Find X10：OPPO低端承压，AI难成新引擎",
-      "url": "https://www.huxiu.com/article/4893916.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:25:40Z"
-    },
-    {
-      "title": "AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？",
-      "title_zh": "AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？",
-      "url": "https://www.tmtpost.com/8152068.html",
-      "source": "钛媒体 TMTPost",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:30:26Z"
-    },
-    {
-      "title": "AI海报丨月满苍穹诗满楼，中秋诗词入画来",
-      "title_zh": "AI海报丨月满苍穹诗满楼，中秋诗词入画来",
-      "url": "http://www.news.cn/20260925/aad6a999623a4c97af8c86bc377e713f/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:31:23Z"
-    },
-    {
-      "title": "大厂的AI战火，攻入硬件",
-      "title_zh": "大厂的AI战火，攻入硬件",
-      "url": "https://www.tmtpost.com/8152015.html",
-      "source": "钛媒体 TMTPost",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:33:00Z"
-    },
-    {
-      "title": "prompt工程师，一个新兴职业的崛起与消失",
-      "title_zh": "prompt工程师，一个新兴职业的崛起与消失",
-      "url": "https://www.tmtpost.com/8152516.html",
-      "source": "钛媒体 TMTPost",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:45:00Z"
-    },
-    {
-      "title": "记者手记丨AI大潮下，职业技能人才如何以“技”立身",
-      "title_zh": "记者手记丨AI大潮下，职业技能人才如何以“技”立身",
-      "url": "http://www.news.cn/20260925/3b287138c66f4e5ca11d059132917c0f/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T02:59:18Z"
-    },
-    {
-      "title": "AI 新药摸到“返老还童”门槛？3.7万名AI 员工组团开药企",
-      "title_zh": "AI 新药摸到“返老还童”门槛？3.7万名AI 员工组团开药企",
-      "url": "https://www.huxiu.com/article/4893924.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T03:05:18Z"
-    },
-    {
-      "title": "When AI’s moving this fast, who’s protecting us?",
-      "title_zh": "When AI’s moving this fast, who’s protecting us?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T03:34:54Z"
-    },
-    {
-      "title": "Litter-Robot Promo Codes: Up to $150 Off",
-      "title_zh": "Litter-Robot Promo Codes: Up to $150 Off",
-      "url": "https://www.wired.com/story/litter-robot-promo-code",
-      "source": "Wired",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T05:00:00Z"
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "title_zh": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T05:00:00Z"
-    },
-    {
-      "title": "AI时代，技能何以珍贵",
-      "title_zh": "AI时代，技能何以珍贵",
-      "url": "http://www.news.cn/20260925/c19bd73431604ad9b06013a243444237/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T05:21:52Z"
-    },
-    {
-      "title": "Meta Muse遭亚马逊封禁—— Agent时代的平台权力再分配",
-      "title_zh": "Meta Muse遭亚马逊封禁—— Agent时代的平台权力再分配",
-      "url": "https://www.huxiu.com/article/4893934.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-09-25T07:01:17Z"
-    },
-    {
-      "title": "12天下载量超ChatGPT的Muse，字节阿里谁能先跟上？",
-      "title_zh": "12天下载量超ChatGPT的Muse，字节阿里谁能先跟上？",
-      "url": "https://www.huxiu.com/article/4893935.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-25T07:11:14Z"
+      "ts": "2026-09-26T03:50:15Z"
     },
     {
       "title": "起底AI网恋：4700个AI围猎2.5万人，10元造完美情人",
@@ -674,6 +634,16 @@
       "ts": "2026-09-25T20:46:15Z"
     },
     {
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title_zh": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "source": "ArsTechnica",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-25T21:36:20Z"
+    },
+    {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "title_zh": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
@@ -784,164 +754,134 @@
       "ts": "2026-09-26T01:25:30Z"
     },
     {
-      "title": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-      "title_zh": "在伯克利，人工智能安全基本上是一个性 cult 组织",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "source": "www.verysane.ai",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "没有英伟达，大模型也能跑？",
+      "title_zh": "没有英伟达，大模型也能跑？",
+      "url": "https://www.huxiu.com/article/4893261.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T02:34:35.119000Z"
+      "ts": "2026-09-26T02:02:49Z"
     },
     {
-      "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)",
-      "title_zh": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)",
-      "url": "https://www.techmeme.com/260924/p55",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "AI行业冒出一批高薪新岗位，不用会写代码",
+      "title_zh": "AI行业冒出一批高薪新岗位，不用会写代码",
+      "url": "https://www.huxiu.com/article/4894002.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T02:40:01Z"
+      "ts": "2026-09-26T02:33:02Z"
     },
     {
-      "title": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)",
-      "title_zh": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)",
-      "url": "https://www.techmeme.com/260924/p56",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Vertiv以及另外6只值得现在买入的AI工业类股票",
+      "title_zh": "Vertiv以及另外6只值得现在买入的AI工业类股票",
+      "url": "https://www.tmtpost.com/8152979.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T03:15:01Z"
+      "ts": "2026-09-26T02:42:34Z"
     },
     {
-      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-      "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "source": "resobscura.substack.com",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "title_zh": "OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T04:25:45.760000Z"
+      "ts": "2026-09-26T02:50:56Z"
     },
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "title_zh": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "AI代写论文露馅？顶刊主编一问，作者啥都答不上来",
+      "title_zh": "AI代写论文露馅？顶刊主编一问，作者啥都答不上来",
+      "url": "https://www.huxiu.com/article/4894008.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T05:00:00Z"
+      "ts": "2026-09-26T03:17:27Z"
     },
     {
-      "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)",
-      "title_zh": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)",
-      "url": "https://www.techmeme.com/260925/p1",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "离谱，OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
+      "title_zh": "离谱，OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
+      "url": "https://www.huxiu.com/article/4894009.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T05:25:00Z"
+      "ts": "2026-09-26T03:17:41Z"
     },
     {
-      "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-      "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "source": "www.afr.com",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "AI改写小厂招聘表：8人团队管30家店、一天做800张图，义乌老板“手搓”数字员工",
+      "title_zh": "AI改写小厂招聘表：8人团队管30家店、一天做800张图，义乌老板“手搓”数字员工",
+      "url": "https://www.huxiu.com/article/4894014.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T05:45:21.151000Z"
+      "ts": "2026-09-26T04:10:39Z"
     },
     {
-      "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
-      "title_zh": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
-      "url": "https://www.techmeme.com/260925/p2",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "专访哈斯F1领队：AI 会改变F1，但最后做决定的还是人",
+      "title_zh": "专访哈斯F1领队：AI 会改变F1，但最后做决定的还是人",
+      "url": "https://www.huxiu.com/article/4894015.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T06:30:01Z"
+      "ts": "2026-09-26T04:10:53Z"
     },
     {
-      "title": "给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择",
-      "title_zh": "给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择",
-      "url": "https://juejin.cn/post/7688528701483515945",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-25T06:44:38.294000Z"
+      "title": "比尔·盖茨最新警告：人工智能足以导致“十亿人死亡”",
+      "title_zh": "比尔·盖茨最新警告：人工智能足以导致“十亿人死亡”",
+      "url": "https://www.huxiu.com/article/4894021.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-26T04:30:42Z"
     },
     {
-      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-      "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-      "url": "https://juejin.cn/post/7688334749719789604",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
+      "title_zh": "【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫",
+      "url": "https://www.tmtpost.com/8153052.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T06:44:38.294000Z"
+      "ts": "2026-09-26T04:46:19Z"
     },
     {
-      "title": "看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡",
-      "title_zh": "看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡",
-      "url": "https://juejin.cn/post/7688314787340091401",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "特稿丨在中国遇见AI未来——海外客商在数贸会抢抓数字合作新机遇",
+      "title_zh": "特稿丨在中国遇见AI未来——海外客商在数贸会抢抓数字合作新机遇",
+      "url": "http://www.news.cn/20260926/2f9e4c509a314b188facda1a39846f1d/c.html",
+      "source": "新华网 / 新华社新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T06:44:38.294000Z"
+      "ts": "2026-09-26T04:46:57Z"
     },
     {
-      "title": "The Efficiency-Throughput Gap with GitHub Copilot",
-      "title_zh": "The Efficiency-Throughput Gap with GitHub Copilot",
-      "url": "https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Could AI firms be held responsible for mass shootings?",
+      "title_zh": "Could AI firms be held responsible for mass shootings?",
+      "url": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T07:02:09Z"
+      "ts": "2026-09-26T07:46:45Z"
     },
     {
-      "title": "OpenAI is reportedly preparing to preview a GPT-6 Cyber security model",
-      "title_zh": "OpenAI is reportedly preparing to preview a GPT-6 Cyber security model",
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-preview-fortune",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "ChatGPT says its rogue AI agents posted users’ images online, entered federal website",
+      "title_zh": "ChatGPT says its rogue AI agents posted users’ images online, entered federal website",
+      "url": "https://www.france24.com/en/technology/20260926-chatgpt-says-its-rogue-ai-agents-posted-users-images-online-entered-federal-website",
+      "source": "France24 English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-25T07:12:48Z"
-    },
-    {
-      "title": "SoftBank invests $225M in ASI and forms autonomous construction venture",
-      "title_zh": "SoftBank invests $225M in ASI and forms autonomous construction venture",
-      "url": "https://thenextweb.com/news/softbank-asi-225m-autonomous-construction",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T07:42:51Z"
-    },
-    {
-      "title": "Trump and House Speaker Mike Johnson will reportedly meet tech CEOs on AI on 29 September",
-      "title_zh": "Trump and House Speaker Mike Johnson will reportedly meet tech CEOs on AI on 29 September",
-      "url": "https://thenextweb.com/news/trump-johnson-tech-ceos-ai-meeting",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T08:15:44Z"
-    },
-    {
-      "title": "Why making AI too easy to use is a risk for your business",
-      "title_zh": "Why making AI too easy to use is a risk for your business",
-      "url": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T08:44:49Z"
+      "ts": "2026-09-26T08:35:02Z"
     },
     {
       "title": "What the end of tokenmaxxing means for AI ROI",
@@ -1484,16 +1424,6 @@
       "ts": "2026-09-25T14:07:08Z"
     },
     {
-      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "title_zh": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T14:07:08Z"
-    },
-    {
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "title_zh": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
@@ -1509,6 +1439,16 @@
       "url": "https://news.ycombinator.com/item?id=49844896",
       "source": "hackernews",
       "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-25T14:07:08Z"
+    },
+    {
+      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "title_zh": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-09-25T14:07:08Z"
@@ -1984,16 +1924,6 @@
       "ts": "2026-09-25T17:57:37Z"
     },
     {
-      "title": "Yes, Claude can do Nine Loops",
-      "title_zh": "Yes, Claude can do Nine Loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T18:11:48Z"
-    },
-    {
       "title": "Yes, Claude can do nine loops",
       "title_zh": "Yes, Claude can do nine loops",
       "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
@@ -2004,24 +1934,14 @@
       "ts": "2026-09-25T18:11:48Z"
     },
     {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "title_zh": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special",
+      "title": "Yes, Claude can do Nine Loops",
+      "title_zh": "Yes, Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
       "source": "Hacker News",
       "_site": "TechURLs",
       "tier": 5,
       "ai": true,
-      "ts": "2026-09-25T18:18:06Z"
-    },
-    {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "title_zh": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-25T18:18:06Z"
+      "ts": "2026-09-25T18:11:48Z"
     },
     {
       "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
@@ -2054,6 +1974,26 @@
       "ts": "2026-09-25T18:18:06Z"
     },
     {
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "title_zh": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-25T18:18:06Z"
+    },
+    {
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "title_zh": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-25T18:18:06Z"
+    },
+    {
       "title": "Show HN: I couldn't deal with another Claude Code tab",
       "title_zh": "Show HN: I couldn't deal with another Claude Code tab",
       "url": "https://aidash.dev",
@@ -2062,16 +2002,6 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-25T18:22:30Z"
-    },
-    {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "title_zh": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-25T18:33:50Z"
     },
     {
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
@@ -2099,6 +2029,16 @@
       "url": "https://news.ycombinator.com/item?id=49848269",
       "source": "hackernews",
       "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-25T18:33:50Z"
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "title_zh": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-25T18:33:50Z"
@@ -2534,6 +2474,16 @@
       "ts": "2026-09-25T23:20:00Z"
     },
     {
+      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+      "title_zh": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-25T23:22:18Z"
+    },
+    {
       "title": "太AI了；没看",
       "title_zh": "太AI了；没看",
       "url": "https://www.tai-dr.com",
@@ -2664,6 +2614,26 @@
       "ts": "2026-09-26T01:28:56Z"
     },
     {
+      "title": "'The prophecy is fulfilled': Popular 2020 XKCD comic predicted 'HEIF Heist' OpenAI hack and even mentions ImageMagick in spooky coincidence",
+      "title_zh": "'The prophecy is fulfilled': Popular 2020 XKCD comic predicted 'HEIF Heist' OpenAI hack and even mentions ImageMagick in spooky coincidence",
+      "url": "https://www.techradar.com/ai-platforms-assistants/openai/the-prophecy-is-fulfilled-popular-2020-xkcd-comic-predicted-heif-heist-openai-hack-and-even-mentions-imagemagick-in-spooky-coincidence",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T01:30:00Z"
+    },
+    {
+      "title": "OpenAI said there are 5 main ways rogue AI agents are messing with the internet",
+      "title_zh": "OpenAI said there are 5 main ways rogue AI agents are messing with the internet",
+      "url": "https://www.businessinsider.com/openai-rogue-ai-agents-sec-census-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T01:34:16Z"
+    },
+    {
       "title": "[程序员] browser-use 羊毛已被薅秃，无法再打开 muse.ai 了",
       "title_zh": "[程序员] browser-use 羊毛已被薅秃，无法再打开 muse.ai 了",
       "url": "https://www.v2ex.com/t/1244843",
@@ -2672,6 +2642,236 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-26T01:56:11Z"
+    },
+    {
+      "title": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)",
+      "title_zh": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)",
+      "url": "https://www.techmeme.com/260926/p1",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:10:01Z"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "title_zh": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:20:58Z"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "title_zh": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:20:58Z"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "title_zh": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:20:58Z"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "title_zh": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "https://news.ycombinator.com/item?id=49853175",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:20:58Z"
+    },
+    {
+      "title": "微软重启Copilot，退出个人AI聊天机器人领域的竞争",
+      "title_zh": "微软重启Copilot，退出个人AI聊天机器人领域的竞争",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "source": "www.bloomberg.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T04:58:00.167000Z"
+    },
+    {
+      "title": "Palantir and 8VC cofounder Joe Lonsdale, an investor in Anthropic, says AI companies are attempting to sway public policy by warning of existential AI risks (Joe Brock/Reuters)",
+      "title_zh": "Palantir and 8VC cofounder Joe Lonsdale, an investor in Anthropic, says AI companies are attempting to sway public policy by warning of existential AI risks (Joe Brock/Reuters)",
+      "url": "https://www.techmeme.com/260926/p3",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T05:05:00Z"
+    },
+    {
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "title_zh": "Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T05:36:46Z"
+    },
+    {
+      "title": "NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)",
+      "title_zh": "NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)",
+      "url": "https://www.techmeme.com/260926/p5",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T05:40:01Z"
+    },
+    {
+      "title": "A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)",
+      "title_zh": "A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)",
+      "url": "https://www.techmeme.com/260926/p6",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T06:30:01Z"
+    },
+    {
+      "title": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+      "title_zh": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+      "url": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T07:04:00Z"
+    },
+    {
+      "title": "教皇利奥十四世在访问法国期间警告称，人工智能可能危及人类 - Al Jazeera",
+      "title_zh": "教皇利奥十四世在访问法国期间警告称，人工智能可能危及人类 - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjd1UjZJdWItWVZsOUVnSE92UU5pMUdDckZSZ3YtZmtzSU5VeWNsNmZsQ3dSZzRoQThzaFN5NjlwLTBIYXRWczFIWjBsajlENVlESXY1NVpIcEpEdlVudmNIaTVsRDN3NXVXanRMUHVST3JzcGdkbGp0NWV2UWN4SjNxY0E3OU9qOV94MzFFaVdONkhmQzlhakEzNjN1Q0Ntem5yc3Z1Z1h1cEXSAbABQVVfeXFMTjNiQm9xWGtVbkJ0OUdLU1lRX19GUzVnaGtnT0tJeXdaNDhUbDdkN2RDMTRPX25qc25pMzREMnc0ZTF5WXV3ZWJpeWdfemI4VHk0QTFPTW1MTEtWelllcjJHRnNnYlVaOW1ScDVxdjNhaEdWTkZGOUg1MDBGSzBfckJYMVhGbWo1WU9rNEVjbGdYa3pfMmJPbEhrdUcyeFIzQnNENHhIcHlqS0JxTGpaeFM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T07:20:08.220000Z"
+    },
+    {
+      "title": "Prompt Workbench",
+      "title_zh": "Prompt Workbench",
+      "url": "https://www.producthunt.com/products/prompt-workbench",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:01.587000Z"
+    },
+    {
+      "title": "Minicut AI",
+      "title_zh": "Minicut AI",
+      "url": "https://www.producthunt.com/products/minicut-ai",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:01.587000Z"
+    },
+    {
+      "title": "Huglies AI 1.6 Elite",
+      "title_zh": "Huglies AI 1.6 Elite",
+      "url": "https://www.producthunt.com/products/huglies-ai-1-6-elite",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:01.587000Z"
+    },
+    {
+      "title": "Rep AI: Fitness Rep Counter",
+      "title_zh": "Rep AI: Fitness Rep Counter",
+      "url": "https://www.producthunt.com/products/rep-ai-fitness-rep-counter",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:01.587000Z"
+    },
+    {
+      "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案",
+      "title_zh": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案",
+      "url": "https://juejin.cn/post/7688585710283014184",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "从零构建一个生产级记忆型 AI Agent —— AgentScope 项目全景技术与学习指南",
+      "title_zh": "从零构建一个生产级记忆型 AI Agent —— AgentScope 项目全景技术与学习指南",
+      "url": "https://juejin.cn/post/7688252916677230592",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "AI 圈爆火的 Jev 是什么？如何在 TraeCode 中使用",
+      "title_zh": "AI 圈爆火的 Jev 是什么？如何在 TraeCode 中使用",
+      "url": "https://juejin.cn/post/7688018731444584457",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "Skill 为什么不同于 Tool？Agent 技能库的自演进与动态加载机制",
+      "title_zh": "Skill 为什么不同于 Tool？Agent 技能库的自演进与动态加载机制",
+      "url": "https://juejin.cn/post/7687897009885397028",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "从零到一开发一个英语情景教学Agent",
+      "title_zh": "从零到一开发一个英语情景教学Agent",
+      "url": "https://juejin.cn/post/7688557018052968498",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
+      "title_zh": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
+      "url": "https://juejin.cn/post/7689029662157668390",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:24.435000Z"
+    },
+    {
+      "title": "AI圈最近爆火的\"哑巴\"Jev，到底是个啥？",
+      "title_zh": "AI圈最近爆火的\"哑巴\"Jev，到底是个啥？",
+      "url": "https://juejin.cn/post/7688571406653538350",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-26T08:35:24.435000Z"
     }
   ]
 }
