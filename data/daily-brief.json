@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-09-25T22:51:30.865825Z",
+  "generated_at": "2026-09-26T02:05:05.852284Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "title_zh": null,
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-25T19:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
-      "title": "Codex CLI 0.157.0",
+      "title": "Codex CLI 0.157.1",
       "title_zh": null,
       "url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-09-25T00:00:00Z",
+      "published_at": "2026-09-26T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.98
     },
@@ -33,6 +22,17 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-25T18:13:31Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-25T23:59:47.248000Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -114,6 +114,28 @@
       "ai_score": 1.0
     },
     {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "title_zh": null,
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-25T23:05:40Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "title_zh": null,
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-25T13:56:16Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
       "title": "Meta Muse遭亚马逊封禁—— Agent时代的平台权力再分配",
       "title_zh": "Meta Muse遭亚马逊封禁—— Agent时代的平台权力再分配",
       "url": "https://www.huxiu.com/article/4893934.html?f=rss",
@@ -123,17 +145,6 @@
       "published_at": "2026-09-25T07:01:17Z",
       "ai_is_related": false,
       "ai_score": 0.47
-    },
-    {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "title_zh": null,
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-25T13:56:16Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
     },
     {
       "title": "给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择",
