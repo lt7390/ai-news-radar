@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-09-27T19:20:55.116591Z",
+  "generated_at": "2026-09-27T22:37:03.884791Z",
   "window_hours": 24,
-  "total_stories": 110,
+  "total_stories": 113,
   "stories": [
     {
       "story_id": "story_03439fa6",
       "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -33,11 +32,11 @@
           "published_at": "2026-09-27T09:27:15.061000Z"
         },
         {
-          "id": "6854eace19c7e2682b7a7aab63b863052b423cd0",
+          "id": "3d4770a2ea778c25b7d3d2b9fbe506d6fcdf7325",
           "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
@@ -50,7 +49,7 @@
         }
       ],
       "item_count": 4,
-      "score": 9990
+      "score": 9980
     },
     {
       "story_id": "story_0209f1c7",
@@ -273,28 +272,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_8d5bc40b",
-      "title": "Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at y...",
-      "url": "https://x.com/rauchg/status/2103939888513274147",
-      "primary_url": "https://x.com/rauchg/status/2103939888513274147",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
-        {
-          "id": "702f3fc8c6b5ce86e13387874eea8ad8ff2d8f74",
-          "title": "Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at y...",
-          "url": "https://x.com/rauchg/status/2103939888513274147",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-26T20:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_113b2d34",
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -302,7 +279,7 @@
       "source_count": 2,
       "source_names": [
         "The Verge",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -314,16 +291,82 @@
           "published_at": "2026-09-27T17:21:07Z"
         },
         {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "id": "26eaf52c861a21976d1fd3e5533413afe5f3c943",
           "title": "OpenAI agents tried to bruteforce a UN website's API fields",
           "url": "https://swarmcha.se/posts/openai-unctad",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-27T01:08:07Z"
         }
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_14fc67fa",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "97a50bb8d3cc98ecec7b26565e924d0004b84a16",
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-27T20:46:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5d01f912",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "primary_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "c8cbc139caaa3f58a1c24cfc1b53000c260ba068",
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-27T20:34:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_bb729a07",
+      "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+      "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "b3b1ff04aeb34f7c73f9fd42864faf65d4852eca",
+          "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+          "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-27T19:34:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d556674d",
@@ -744,28 +787,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_b9b5f2d4",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "primary_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3174d5b94b12c8c360529fd9c9e75cb44095cbbb",
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-27T01:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_51a5d384",
       "title": "管住AI，成了一门新生意",
       "url": "https://www.huxiu.com/article/4894076.html?f=rss",
@@ -862,28 +883,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_b65ce9a4",
-      "title": "Student protesters disrupt NVIDIA AI climate panel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "844dfc587bf01aeb91d00c9fe1ff4a714919089e",
-          "title": "Student protesters disrupt NVIDIA AI climate panel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-26T22:09:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_17205d58",
       "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
       "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
@@ -891,7 +890,7 @@
       "source_count": 2,
       "source_names": [
         "www.youtube.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -903,11 +902,11 @@
           "published_at": "2026-09-27T18:54:12.868000Z"
         },
         {
-          "id": "11734242c012203d263f84a75a25ce6f03cdc6ae",
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
           "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-27T17:32:02Z"
         }
       ],
@@ -946,85 +945,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_54be7039",
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://news.ycombinator.com/item?id=49868831",
-      "primary_url": "https://news.ycombinator.com/item?id=49868831",
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "url": "https://news.ycombinator.com/item?id=49868831",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:32:02Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "There are no \"rogue\" AI agents",
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN: TinyAIArena watch AI agents battle it out",
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "8882243747d2b680700b5be08735873006e2916e",
-          "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T22:15:32Z"
-        },
-        {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
-        }
-      ],
-      "item_count": 8,
-      "score": 9570
-    },
-    {
       "story_id": "story_40ecfa87",
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
       "url": "https://earnanhonestdollar.com/bench",
@@ -1054,6 +974,204 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_2a436e6f",
+      "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "primary_url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "0312f76df3a4df5476f46d42177b576fcc29ade2",
+          "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+          "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T22:12:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_57d4210d",
+      "title": "Everyone at work is using Claude — get ahead of them for $15",
+      "url": "https://mashable.com/life/sept-27-claude-ai-professional-e-degree",
+      "primary_url": "https://mashable.com/life/sept-27-claude-ai-professional-e-degree",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "0e3aea93db2ccae376d869fee2ec7492d32d2ce9",
+          "title": "Everyone at work is using Claude — get ahead of them for $15",
+          "url": "https://mashable.com/life/sept-27-claude-ai-professional-e-degree",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0dc7c82b",
+      "title": "How AI's acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks (New York Times)",
+      "url": "https://www.techmeme.com/260927/p11",
+      "primary_url": "https://www.techmeme.com/260927/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "7608db1373b7a869ed5a5877ba0ac0814b9b7335",
+          "title": "How AI's acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks (New York Times)",
+          "url": "https://www.techmeme.com/260927/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T21:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_db6d64d6",
+      "title": "(4) Katie Notopoulos on X: “This Makes Me Feel Insane! This Is Faux-Hallmark Pap and if You Believe for 1 Sec That He Cares About Helping People “spending More Time With Family” or “opening a Bakery” You Don’t Need to Wait for AI to Kill Us; You’re Stupid Enough to Drown From Looking Up at the Rain” / X",
+      "url": "https://daringfireball.net/linked/2026/09/27/notopoulos-wang",
+      "primary_url": "https://daringfireball.net/linked/2026/09/27/notopoulos-wang",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "64a7e1669654992fae24c3186e90088bd9a2e802",
+          "title": "(4) Katie Notopoulos on X: “This Makes Me Feel Insane! This Is Faux-Hallmark Pap and if You Believe for 1 Sec That He Cares About Helping People “spending More Time With Family” or “opening a Bakery” You Don’t Need to Wait for AI to Kill Us; You’re Stupid Enough to Drown From Looking Up at the Rain” / X",
+          "url": "https://daringfireball.net/linked/2026/09/27/notopoulos-wang",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T20:21:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a340c53d",
+      "title": "Q&A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more (Shirin Ghaffary/Bloomberg)",
+      "url": "https://www.techmeme.com/260927/p10",
+      "primary_url": "https://www.techmeme.com/260927/p10",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "4891d641a141c740b6d975a70065ec4e36dabe39",
+          "title": "Q&A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more (Shirin Ghaffary/Bloomberg)",
+          "url": "https://www.techmeme.com/260927/p10",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dcc1cbb3",
+      "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "primary_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
+          "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a535bb0f",
+      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+      "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+      "primary_url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "4db2c8bc2d1a329a72bc235a3935a4f34fbda183",
+          "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+          "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:12:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6ac83851",
+      "title": "UK campaigners who beat AI copyright plan warn Australia",
+      "url": "https://thenextweb.com/news/uk-campaigners-warn-australia-ai-copyright",
+      "primary_url": "https://thenextweb.com/news/uk-campaigners-warn-australia-ai-copyright",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "d8ad017f95e8d6e399bd3404a6296002b7940a4b",
+          "title": "UK campaigners who beat AI copyright plan warn Australia",
+          "url": "https://thenextweb.com/news/uk-campaigners-warn-australia-ai-copyright",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T18:57:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6d125224",
+      "title": "Trump to host Anthropic’s Dario Amodei at White House dinner, Axios reports",
+      "url": "https://thenextweb.com/news/trump-amodei-anthropic-white-house-dinner",
+      "primary_url": "https://thenextweb.com/news/trump-amodei-anthropic-white-house-dinner",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "09daa5c84035b4d738f7a3a7bb9338f102394d18",
+          "title": "Trump to host Anthropic’s Dario Amodei at White House dinner, Axios reports",
+          "url": "https://thenextweb.com/news/trump-amodei-anthropic-white-house-dinner",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T18:39:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_b4f2d6f3",
@@ -1144,6 +1262,68 @@
       "score": 7
     },
     {
+      "story_id": "story_54be7039",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://news.ycombinator.com/item?id=49868831",
+      "primary_url": "https://news.ycombinator.com/item?id=49868831",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T17:32:02Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
+        }
+      ],
+      "item_count": 6,
+      "score": 7
+    },
+    {
       "story_id": "story_7745cb58",
       "title": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so",
       "url": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
@@ -1194,15 +1374,15 @@
       "primary_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "b806307c1d8fe92d12f8df748a1a1b0da1734b57",
+          "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
           "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
           "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-27T16:29:38Z"
         }
       ],
@@ -1546,15 +1726,15 @@
       "primary_url": "https://arxiv.org/abs/2609.25021",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
           "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-27T10:26:25Z"
         }
       ],
@@ -2090,6 +2270,28 @@
       "score": 7
     },
     {
+      "story_id": "story_b9b5f2d4",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "primary_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b14b0a3784e68454110a693689d6f403781fced4",
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T01:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_73dd8313",
       "title": "[Claude] Claude 周用量和五小时限额比值",
       "url": "https://www.v2ex.com/t/1244979",
@@ -2392,160 +2594,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-26T22:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e9ce6988",
-      "title": "Copilot 电脑品牌已不复存在",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "source_count": 1,
-      "source_names": [
-        "www.windowscentral.com"
-      ],
-      "sources": [
-        {
-          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
-          "title": "Copilot 电脑品牌已不复存在",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "www.windowscentral.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T21:55:10.332000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ff2e2332",
-      "title": "OpenAI pauses training of its 'most capable models'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI pauses training of its 'most capable models'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T21:07:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_94191f70",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "primary_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "60e9444fd0feb32e5e235cc0d7a9491bb4bfc2a7",
-          "title": "Insurers claim AI is already increasing healthcare costs",
-          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T21:02:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8f619d39",
-      "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-      "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused",
-      "primary_url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "0b947a7af14f4de40fa7cd32e071d6c1b0ed4f9d",
-          "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-          "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T20:34:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b51f6e2c",
-      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "source_count": 1,
-      "source_names": [
-        "discourse.haskell.org"
-      ],
-      "sources": [
-        {
-          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "discourse.haskell.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:03.489000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cfdc8615",
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "primary_url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_419ced22",
-      "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)",
-      "url": "https://www.techmeme.com/260926/p17",
-      "primary_url": "https://www.techmeme.com/260926/p17",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "55c6f5302635216abf14e51852956011f5909573",
-          "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)",
-          "url": "https://www.techmeme.com/260926/p17",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T19:50:00Z"
         }
       ],
       "item_count": 1,
