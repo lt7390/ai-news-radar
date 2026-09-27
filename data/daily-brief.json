@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-26T23:57:28.739174Z",
+  "generated_at": "2026-09-27T02:36:59.497831Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
-      "title": "Codex CLI 0.157.1",
-      "title_zh": null,
-      "url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-09-26T00:00:00Z",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+      "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-26T23:55:49Z",
       "ai_is_related": true,
-      "ai_score": 0.98
+      "ai_score": 1.0
     },
     {
       "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
@@ -48,17 +48,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News：AI 热帖",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-26T14:03:54Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
       "title_zh": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
@@ -81,17 +70,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-25T23:59:47.248000Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "Ok all memes aside I had Grok @bot and Muse track the same Japan flight itinerary and Muse suggested a price that was $1K+ more than Grok Bot. When I asked Muse why it said it searched Duffel instead of Google Flights...",
       "title_zh": null,
       "url": "https://x.com/petergyang/status/2103693608729932025",
@@ -103,15 +81,37 @@
       "ai_score": 0.81
     },
     {
-      "title": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work sorry about the brief disruption! (and yes we have a special spare codex when things are down to help us out) h...",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "title_zh": null,
-      "url": "https://x.com/thsottiaux/status/2103637477760311522",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-09-26T00:07:13Z",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "source": "TechCrunch",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-27T01:30:00Z",
       "ai_is_related": true,
-      "ai_score": 0.85
+      "ai_score": 0.71
+    },
+    {
+      "title": "管住AI，成了一门新生意",
+      "title_zh": "管住AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-27T00:36:28Z",
+      "ai_is_related": true,
+      "ai_score": 0.67
+    },
+    {
+      "title": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
+      "title_zh": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
+      "url": "https://www.huxiu.com/article/4893572.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-27T00:00:01Z",
+      "ai_is_related": true,
+      "ai_score": 0.67
     },
     {
       "title": "Opus 5.5实测！10 个案例拆解，全网模型审美天花板真的来了",
@@ -136,15 +136,26 @@
       "ai_score": 0.33
     },
     {
-      "title": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel...",
-      "title_zh": null,
-      "url": "https://x.com/steipete/status/2103648679169257737",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-09-26T00:51:43Z",
+      "title": "[程序员] Agent Skill 开始分化：同名产品两种许可证",
+      "title_zh": "[程序员] Agent Skill 开始分化：同名产品两种许可证",
+      "url": "https://www.v2ex.com/t/1244993",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-27T02:29:29Z",
       "ai_is_related": false,
-      "ai_score": 0.57
+      "ai_score": 0.32
+    },
+    {
+      "title": "货拉拉 DataAgent 实践：策略复盘的智能化探索",
+      "title_zh": "货拉拉 DataAgent 实践：策略复盘的智能化探索",
+      "url": "https://juejin.cn/post/7688739949715603496",
+      "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-27T02:08:50.585000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
