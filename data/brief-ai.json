@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T10:12:49.649932Z",
+  "generated_at": "2026-09-28T16:46:03.341523Z",
   "category": "ai",
-  "total": 217,
+  "total": 260,
   "items": [
     {
       "title": "Holo4: powering generalist computer-use agents",
@@ -14,24 +14,14 @@
       "ts": "2026-09-28T09:44:05Z"
     },
     {
-      "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-      "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+      "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face：Blog（RSS）",
       "_site": "AI HOT",
-      "tier": 1,
+      "tier": 0,
       "ai": true,
-      "ts": "2026-09-27T16:00:00Z"
-    },
-    {
-      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
-      "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
-      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-09-27T16:00:00Z"
+      "ts": "2026-09-28T09:44:05Z"
     },
     {
       "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
@@ -172,6 +162,16 @@
       "tier": 1,
       "ai": true,
       "ts": "2026-09-28T07:22:33Z"
+    },
+    {
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+      "title_zh": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "source": "Hacker News：AI 热帖",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-28T07:33:29Z"
     },
     {
       "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
@@ -414,14 +414,14 @@
       "ts": "2026-09-28T10:12:14.421972Z"
     },
     {
-      "title": "【深度】一文读懂 Muse 爆火背后的底层逻辑：你最需要的可能不是 Agent",
-      "title_zh": "【深度】一文读懂 Muse 爆火背后的底层逻辑：你最需要的可能不是 Agent",
-      "url": "https://waytoagi.feishu.cn/wiki/GG6lws3qriFWRrkxN9tce93rn6g?from=from_copylink",
-      "source": "社区更新 · 2026-09-26",
-      "_site": "WaytoAGI",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-09-27T14:50:48.096215Z"
+      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "title_zh": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-09-28T15:41:27Z"
     },
     {
       "title": "Asked ChatGPT for book recommendations after a long back and forth of books I tend to like.. if you have others to add, let me know 👋 Currently reading: &gt; White Mirror by @TinkeredThinker &gt; Challenger by @Higgin...",
@@ -514,56 +514,6 @@
       "ts": "2026-09-27T23:20:52Z"
     },
     {
-      "title": "中国-欧盟电影节关注跨文化传播和人工智能应用",
-      "title_zh": "中国-欧盟电影节关注跨文化传播和人工智能应用",
-      "url": "http://www.news.cn/20260927/73672522f2e14db9b20325656cd8573b/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-27T12:47:50Z"
-    },
-    {
-      "title": "中美AI具体谈了什么？",
-      "title_zh": "中美AI具体谈了什么？",
-      "url": "https://www.huxiu.com/article/4894154.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-27T16:07:04Z"
-    },
-    {
-      "title": "AI 把短剧做到了200元一分钟，为什么制作方反而亏更多？",
-      "title_zh": "AI 把短剧做到了200元一分钟，为什么制作方反而亏更多？",
-      "url": "https://www.huxiu.com/article/4894155.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-27T16:09:57Z"
-    },
-    {
-      "title": "一场赛博草台班子事故：AI越狱、ZZZ备份和六周清理",
-      "title_zh": "一场赛博草台班子事故：AI越狱、ZZZ备份和六周清理",
-      "url": "https://www.huxiu.com/article/4894156.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-27T16:10:31Z"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "title_zh": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-27T16:30:00Z"
-    },
-    {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "title_zh": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -634,8 +584,8 @@
       "ts": "2026-09-27T23:36:04Z"
     },
     {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
-      "title_zh": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - apnews.com",
+      "title_zh": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -644,8 +594,8 @@
       "ts": "2026-09-27T23:51:00Z"
     },
     {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - apnews.com",
-      "title_zh": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - apnews.com",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
+      "title_zh": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -721,7 +671,7 @@
       "_site": "OPML RSS",
       "tier": 3,
       "ai": true,
-      "ts": "2026-09-28T02:32:11Z"
+      "ts": "2026-09-28T02:23:00Z"
     },
     {
       "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
@@ -1014,6 +964,16 @@
       "ts": "2026-09-28T09:00:00Z"
     },
     {
+      "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+      "title_zh": "Schools are experimenting with AI with little evidence or policy to guide them",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+      "source": "NPR Top News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-28T09:00:00Z"
+    },
+    {
       "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
       "title_zh": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
       "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
@@ -1054,324 +1014,104 @@
       "ts": "2026-09-28T10:00:00Z"
     },
     {
-      "title": "一位代理通过DNS连接到一个外部聊天机器人",
-      "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source": "alignment.openai.com",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "title_zh": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-27T10:14:33.203000Z"
+      "ts": "2026-09-28T11:32:19Z"
     },
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "title_zh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "title_zh": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-27T10:26:25Z"
+      "ts": "2026-09-28T13:00:00Z"
     },
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "title_zh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T10:26:25Z"
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "title_zh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T10:26:25Z"
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "title_zh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T10:26:25Z"
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "title_zh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://news.ycombinator.com/item?id=49865343",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T10:26:25Z"
-    },
-    {
-      "title": "In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals (Lily Kuo/New York Times)",
-      "title_zh": "In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals (Lily Kuo/New York Times)",
-      "url": "https://www.techmeme.com/260927/p5",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T11:00:30Z"
-    },
-    {
-      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-      "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "source": "www.privatemode.ai",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T11:32:15.779000Z"
-    },
-    {
-      "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-      "title_zh": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-      "url": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T13:45:00Z"
-    },
-    {
-      "title": "Council backed Devon AI datacentre before it went public, Guardian reports",
-      "title_zh": "Council backed Devon AI datacentre before it went public, Guardian reports",
-      "url": "https://thenextweb.com/news/devon-ai-datacentre-xlinks-council-backing",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T13:57:03Z"
-    },
-    {
-      "title": "EU’s AI envoy tells commissioners to focus on using AI, Politico reports",
-      "title_zh": "EU’s AI envoy tells commissioners to focus on using AI, Politico reports",
-      "url": "https://thenextweb.com/news/eu-ai-envoy-snabe-productivity-adoption",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:05:51Z"
-    },
-    {
-      "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
-      "title_zh": "Why letting Claude clean your TV's bloatware isn't the best idea",
-      "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:15:00Z"
-    },
-    {
-      "title": "I moved to Gemini Notebook after Gems kept hallucinating",
-      "title_zh": "I moved to Gemini Notebook after Gems kept hallucinating",
-      "url": "https://www.androidpolice.com/i-moved-to-gemini-notebook-after-gems-kept-hallucinating",
-      "source": "Android Police",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:15:10Z"
-    },
-    {
-      "title": "GPT-6 Sol & Luna",
-      "title_zh": "GPT-6 Sol & Luna",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:25:47.345000Z"
-    },
-    {
-      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
-      "title_zh": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
-      "url": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:34:00Z"
-    },
-    {
-      "title": "第 26 章 案例二 企业知识库问答 Agent",
-      "title_zh": "第 26 章 案例二 企业知识库问答 Agent",
-      "url": "https://juejin.cn/post/7689219046840074278",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+      "title_zh": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": false,
-      "ts": "2026-09-27T14:51:08.303000Z"
+      "ts": "2026-09-28T13:00:43Z"
     },
     {
-      "title": "开发自己的第一个MCP--用 AI 智能重构 Excel 处理工作流",
-      "title_zh": "开发自己的第一个MCP--用 AI 智能重构 Excel 处理工作流",
-      "url": "https://juejin.cn/post/7688929298951864335",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "title_zh": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-27T14:51:08.303000Z"
+      "ts": "2026-09-28T13:36:06Z"
     },
     {
-      "title": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
-      "title_zh": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
-      "url": "https://juejin.cn/post/7689377403413430307",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T14:51:08.303000Z"
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation Season 3 • Mushoku Tensei III: Isekai Ittara Honki Dasu - Episode 14 discussion - FINAL",
-      "title_zh": "Mushoku Tensei: Jobless Reincarnation Season 3 • Mushoku Tensei III: Isekai Ittara Honki Dasu - Episode 14 discussion - FINAL",
-      "url": "https://www.reddit.com/r/anime/comments/1wrmf28/mushoku_tensei_jobless_reincarnation_season_3",
-      "source": "Reddit (热门)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-09-27T15:01:41Z"
-    },
-    {
-      "title": "Best AI Tools for One-Person Business",
-      "title_zh": "Best AI Tools for One-Person Business",
-      "url": "https://www.producthunt.com/products/best-ai-tools-for-one-person-business",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:25:54.662000Z"
-    },
-    {
-      "title": "'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-      "title_zh": "'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:39:24Z"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "title_zh": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:51:28Z"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "title_zh": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://news.ycombinator.com/item?id=49867775",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:51:28Z"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "title_zh": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:51:28Z"
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "title_zh": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T15:51:28Z"
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "title_zh": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:19:46Z"
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "title_zh": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:19:46Z"
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "title_zh": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:19:46Z"
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "title_zh": "There are no \"rogue\" AI agents",
-      "url": "https://news.ycombinator.com/item?id=49868083",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:19:46Z"
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "title_zh": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:29:38Z"
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "title_zh": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-27T16:29:38Z"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "title_zh": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "title_zh": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-09-27T16:30:00Z"
+      "ts": "2026-09-28T13:38:48Z"
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "title_zh": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": false,
+      "ts": "2026-09-28T14:50:30Z"
+    },
+    {
+      "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+      "title_zh": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-28T15:26:46Z"
+    },
+    {
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "title_zh": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-28T15:29:21Z"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "title_zh": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-28T15:30:00Z"
+    },
+    {
+      "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
+      "title_zh": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
+      "url": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-28T16:24:25Z"
     },
     {
       "title": "Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
@@ -2034,6 +1774,16 @@
       "ts": "2026-09-28T08:23:07.165000Z"
     },
     {
+      "title": "1.3亿月活还不够，DeepSeek这次直接把饭碗端走了",
+      "title_zh": "1.3亿月活还不够，DeepSeek这次直接把饭碗端走了",
+      "url": "https://juejin.cn/post/7688993872609558563",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T08:23:07.165000Z"
+    },
+    {
       "title": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
       "title_zh": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
       "url": "https://juejin.cn/post/7688929298951880719",
@@ -2047,16 +1797,6 @@
       "title": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
       "title_zh": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
       "url": "https://juejin.cn/post/7688528701484253225",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-09-28T08:23:07.165000Z"
-    },
-    {
-      "title": "1.3亿月活还不够，DeepSeek这次直接把饭碗端走了",
-      "title_zh": "1.3亿月活还不够，DeepSeek这次直接把饭碗端走了",
-      "url": "https://juejin.cn/post/7688993872609558563",
       "source": "juejin",
       "_site": "NewsNow",
       "tier": 5,
@@ -2082,6 +1822,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-28T08:34:00Z"
+    },
+    {
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "title_zh": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T08:35:40Z"
     },
     {
       "title": "Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the \"bipartisan psychosis\" over data centers (The Washington Sun)",
@@ -2114,6 +1864,16 @@
       "ts": "2026-09-28T09:00:00Z"
     },
     {
+      "title": "Big AI's content problem: Take the work, keep the money",
+      "title_zh": "Big AI's content problem: Take the work, keep the money",
+      "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T09:04:17Z"
+    },
+    {
       "title": "Localization is the missing test for voice AI",
       "title_zh": "Localization is the missing test for voice AI",
       "url": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
@@ -2122,6 +1882,36 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-28T09:08:17Z"
+    },
+    {
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "title_zh": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T09:30:00Z"
+    },
+    {
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "title_zh": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T10:00:00Z"
+    },
+    {
+      "title": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
+      "title_zh": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
+      "url": "https://www.axios.com/2026/09/28/ai-domyn-uljan-sharka-openai-anthropic-safety-lying",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T10:05:15Z"
     },
     {
       "title": "人工智能中的“快思”与“慢思”：元认知的作用（2021）",
@@ -2172,6 +1962,646 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-28T10:12:33.435000Z"
+    },
+    {
+      "title": "向Claude Opus 5.5提供提示",
+      "title_zh": "向Claude Opus 5.5提供提示",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "source": "platform.claude.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T10:51:57.660000Z"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "title_zh": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:02:12Z"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "title_zh": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:02:12Z"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "title_zh": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:02:12Z"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "title_zh": "What Would a Serious AI Product Look Like?",
+      "url": "https://news.ycombinator.com/item?id=49876148",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:02:12Z"
+    },
+    {
+      "title": "The US government plans to use AI to help redact documents",
+      "title_zh": "The US government plans to use AI to help redact documents",
+      "url": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:25:54Z"
+    },
+    {
+      "title": "[Law Proposal] Ban the ai thirst trap game ads.",
+      "title_zh": "[Law Proposal] Ban the ai thirst trap game ads.",
+      "url": "https://www.reddit.com/r/CriticalStateGlobal/comments/1wsc1xj/law_proposal_ban_the_ai_thirst_trap_game_ads",
+      "source": "Reddit (热门)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:28:59Z"
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "title_zh": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:32:19Z"
+    },
+    {
+      "title": "How NOT to detect residential proxies",
+      "title_zh": "How NOT to detect residential proxies",
+      "url": "https://blog.truesign.ai/posts/how-NOT-to-detect-residential-proxies",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:51:31Z"
+    },
+    {
+      "title": "AI agents are the ultimate Aggregators; they reveal apps as a means, not an end, and offering them is tech's biggest prize, with Meta and Microsoft well-poised (Ben Thompson/Stratechery)",
+      "title_zh": "AI agents are the ultimate Aggregators; they reveal apps as a means, not an end, and offering them is tech's biggest prize, with Meta and Microsoft well-poised (Ben Thompson/Stratechery)",
+      "url": "https://www.techmeme.com/260928/p16",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T11:55:01Z"
+    },
+    {
+      "title": "After months with Gemini, I found an Android AI tool that actually works the way I need it to",
+      "title_zh": "After months with Gemini, I found an Android AI tool that actually works the way I need it to",
+      "url": "https://www.androidpolice.com/after-months-with-gemini-i-found-an-android-ai-tool-that-actually-works-way-i-need-it-to",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:00:10Z"
+    },
+    {
+      "title": "人工智能公司竞相展示其对人类威胁最大的模型",
+      "title_zh": "人工智能公司竞相展示其对人类威胁最大的模型",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
+      "source": "thecivilian.co.nz",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:11:05.564000Z"
+    },
+    {
+      "title": "France’s Goncourt prize drops a novel over claims AI wrote it",
+      "title_zh": "France’s Goncourt prize drops a novel over claims AI wrote it",
+      "url": "https://thenextweb.com/news/goncourt-drops-orelien-novel-ai-claims",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:22:52Z"
+    },
+    {
+      "title": "The risk that comes from outsourcing our brains to AI",
+      "title_zh": "The risk that comes from outsourcing our brains to AI",
+      "url": "https://www.businessinsider.com/ai-creep-writing-jobs-skill-atrophy-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:25:31Z"
+    },
+    {
+      "title": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+      "title_zh": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+      "url": "https://www.techmeme.com/260928/p17",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:35:01Z"
+    },
+    {
+      "title": "Mark Zuckerberg unveils Meta Enterprise Platform, its \"next major pillar of our business\" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it (Meghan Bobrowsky/Wall Street Journal)",
+      "title_zh": "Mark Zuckerberg unveils Meta Enterprise Platform, its \"next major pillar of our business\" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it (Meghan Bobrowsky/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260928/p18",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:45:00Z"
+    },
+    {
+      "title": "More elite AI researchers now work in China than in the US, study finds",
+      "title_zh": "More elite AI researchers now work in China than in the US, study finds",
+      "url": "https://thenextweb.com/news/china-overtakes-us-elite-ai-talent-carnegie",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:49:01Z"
+    },
+    {
+      "title": "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)",
+      "title_zh": "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)",
+      "url": "https://www.techmeme.com/260928/p19",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T12:53:05Z"
+    },
+    {
+      "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "title_zh": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+      "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T13:00:00Z"
+    },
+    {
+      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+      "title_zh": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+      "url": "https://www.openappa.com",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-28T13:20:44Z"
+    },
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "title_zh": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T13:36:06Z"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "title_zh": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T13:38:48Z"
+    },
+    {
+      "title": "Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia's CUDA-based hardware (Kyt Dotson/SiliconANGLE)",
+      "title_zh": "Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia's CUDA-based hardware (Kyt Dotson/SiliconANGLE)",
+      "url": "https://www.techmeme.com/260928/p22",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T13:40:00Z"
+    },
+    {
+      "title": "Forget manual panning: XbotGo’s dual-lens AI camera tracks many sports games",
+      "title_zh": "Forget manual panning: XbotGo’s dual-lens AI camera tracks many sports games",
+      "url": "https://www.androidpolice.com/xbotgo-falcon-dual-lens-ai-camera",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T13:56:37Z"
+    },
+    {
+      "title": "ChatGPT Voice's new plugins make voice more useful",
+      "title_zh": "ChatGPT Voice's new plugins make voice more useful",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-tried-chatgpt-voices-new-plugin-support-and-this-is-what-voice-assistants-have-been-missing",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:01:03Z"
+    },
+    {
+      "title": "I gave Muse access to my personal data, and now I know why personal agents are probably going to change the world",
+      "title_zh": "I gave Muse access to my personal data, and now I know why personal agents are probably going to change the world",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-gave-muse-access-to-my-personal-data-and-now-i-know-why-personal-agents-are-probably-going-to-change-the-world",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-28T14:06:43Z"
+    },
+    {
+      "title": "AI assistants helping people maximize their cash could trigger a bank run, Apollo's chief economist warns",
+      "title_zh": "AI assistants helping people maximize their cash could trigger a bank run, Apollo's chief economist warns",
+      "url": "https://www.businessinsider.com/ai-agents-maxing-out-cash-trigger-bank-run-deposit-apollo-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:10:10Z"
+    },
+    {
+      "title": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+      "title_zh": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260928/p24",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:15:01Z"
+    },
+    {
+      "title": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+      "title_zh": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+      "url": "https://thenextweb.com/news/openai-rogue-agents-53-user-images-government-sites",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:18:05Z"
+    },
+    {
+      "title": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more (Joe/@joedaroo)",
+      "title_zh": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more (Joe/@joedaroo)",
+      "url": "https://www.techmeme.com/260928/p25",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:25:01Z"
+    },
+    {
+      "title": "Goldman’s interns really don’t want AI to touch one part of their lives",
+      "title_zh": "Goldman’s interns really don’t want AI to touch one part of their lives",
+      "url": "https://www.businessinsider.com/goldman-sachs-intern-survey-ai-wall-street-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:30:04Z"
+    },
+    {
+      "title": "Modulate raises $25M to sell AI that listens to voice calls, not just transcripts",
+      "title_zh": "Modulate raises $25M to sell AI that listens to voice calls, not just transcripts",
+      "url": "https://thenextweb.com/news/modulate-25m-funding-audio-native-ai",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:30:54Z"
+    },
+    {
+      "title": "What happens when AI is confidently wrong in the workplace?",
+      "title_zh": "What happens when AI is confidently wrong in the workplace?",
+      "url": "https://www.techradar.com/pro/what-happens-when-ai-is-confidently-wrong-in-the-workplace",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:31:18Z"
+    },
+    {
+      "title": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)",
+      "title_zh": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)",
+      "url": "https://www.techmeme.com/260928/p26",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:35:02Z"
+    },
+    {
+      "title": "Robot dogs on farms do a lot more than just guarding",
+      "title_zh": "Robot dogs on farms do a lot more than just guarding",
+      "url": "https://www.engadget.com/2268588/farmers-new-job-for-robot-dogs",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:45:00Z"
+    },
+    {
+      "title": "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+      "title_zh": "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+      "url": "https://www.techmeme.com/260928/p27",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:45:05Z"
+    },
+    {
+      "title": "A legendary streaming microphone is back after 17 years — the Yeti 2 has new AI-powered features and a built-in screen",
+      "title_zh": "A legendary streaming microphone is back after 17 years — the Yeti 2 has new AI-powered features and a built-in screen",
+      "url": "https://www.techradar.com/audio/a-legendary-streaming-microphone-is-back-after-17-years-the-yeti-2-has-new-ai-powered-features-and-a-built-in-screen",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:49:11Z"
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "title_zh": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-28T14:50:30Z"
+    },
+    {
+      "title": "OpenAI and Anthropic probe tens of thousands of AI incidents, Axios reports",
+      "title_zh": "OpenAI and Anthropic probe tens of thousands of AI incidents, Axios reports",
+      "url": "https://thenextweb.com/news/openai-anthropic-tens-of-thousands-ai-incidents-axios",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:55:06Z"
+    },
+    {
+      "title": "Jensen Huang says AI distillation is 'competition.'",
+      "title_zh": "Jensen Huang says AI distillation is 'competition.'",
+      "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:55:34Z"
+    },
+    {
+      "title": "Jensen Huang says AI distillation is 'competition.'",
+      "title_zh": "Jensen Huang says AI distillation is 'competition.'",
+      "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T14:55:34Z"
+    },
+    {
+      "title": "How to stop AI companies from training on your data",
+      "title_zh": "How to stop AI companies from training on your data",
+      "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:15:00Z"
+    },
+    {
+      "title": "I switched to Gemini on my Galaxy for a week; I'm convinced I'll never go back to Bixby",
+      "title_zh": "I switched to Gemini on my Galaxy for a week; I'm convinced I'll never go back to Bixby",
+      "url": "https://www.androidpolice.com/i-switched-to-gemini-on-galaxy-im-convinced-to-never-go-back-to-bixby",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:15:10Z"
+    },
+    {
+      "title": "Walmart’s CEO rules out personalised pricing, including by its AI assistant",
+      "title_zh": "Walmart’s CEO rules out personalised pricing, including by its AI assistant",
+      "url": "https://thenextweb.com/news/walmart-personalised-pricing-ceo-letter-sparky",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:15:18Z"
+    },
+    {
+      "title": "How dare she use AI!",
+      "title_zh": "How dare she use AI!",
+      "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1wshcm3/how_dare_she_use_ai",
+      "source": "Reddit (热门)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:15:52Z"
+    },
+    {
+      "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+      "title_zh": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:26:46Z"
+    },
+    {
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "title_zh": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:29:21Z"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "title_zh": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:30:00Z"
+    },
+    {
+      "title": "Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO (Harshita Mary Varghese/Reuters)",
+      "title_zh": "Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO (Harshita Mary Varghese/Reuters)",
+      "url": "https://www.techmeme.com/260928/p28",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-28T15:45:01Z"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "title_zh": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:46:36Z"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "title_zh": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:46:36Z"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "title_zh": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://news.ycombinator.com/item?id=49879883",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T15:46:36Z"
+    },
+    {
+      "title": "Bill Gates Says an AI 'Kill Switch' Isn't Enough",
+      "title_zh": "Bill Gates Says an AI 'Kill Switch' Isn't Enough",
+      "url": "https://slashdot.org/story/26/09/28/0615249/bill-gates-says-an-ai-kill-switch-isnt-enough",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:00:00Z"
+    },
+    {
+      "title": "HiringCafe lands $6.8M to fix the broken job hunt with AI talent agent",
+      "title_zh": "HiringCafe lands $6.8M to fix the broken job hunt with AI talent agent",
+      "url": "https://thenextweb.com/news/hiringcafe-6-8m-pre-seed-ai-talent-agent",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:00:40Z"
+    },
+    {
+      "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models (AI Security Institute)",
+      "title_zh": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models (AI Security Institute)",
+      "url": "https://www.techmeme.com/260928/p29",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:05:01Z"
+    },
+    {
+      "title": "New data suggests recent grads aren't being hit by AI effect on hiring — but for how long?",
+      "title_zh": "New data suggests recent grads aren't being hit by AI effect on hiring — but for how long?",
+      "url": "https://www.techradar.com/pro/new-data-suggests-recent-grads-arent-being-hit-by-ai-effect-on-hiring-but-for-how-long",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:10:00Z"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "title_zh": "The problem is not the AI code, but nobody knows anything anymore",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:11:42Z"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "title_zh": "The problem is not the AI code, but nobody knows anything anymore",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:11:42Z"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "title_zh": "The problem is not the AI code, but nobody knows anything anymore",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:11:42Z"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "title_zh": "The problem is not the AI code, but nobody knows anything anymore",
+      "url": "https://news.ycombinator.com/item?id=49880312",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:11:42Z"
+    },
+    {
+      "title": "MCP Connectors by Databox",
+      "title_zh": "MCP Connectors by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:35:21.164000Z"
+    },
+    {
+      "title": "Microsoft Copilot",
+      "title_zh": "Microsoft Copilot",
+      "url": "https://www.producthunt.com/products/microsoft-copilot",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:35:21.164000Z"
+    },
+    {
+      "title": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
+      "title_zh": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
+      "url": "https://juejin.cn/post/7690197651808616502",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-28T16:35:35.726000Z"
+    },
+    {
+      "title": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+      "title_zh": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+      "url": "https://juejin.cn/post/7690197651807535158",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-09-28T16:35:35.726000Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T10:12:49.542206Z",
+  "generated_at": "2026-09-28T16:46:03.231066Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
       "title": "Holo4: powering generalist computer-use agents",
-      "title_zh": null,
+      "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
       "source": "Hugging Face Blog",
       "source_tier_rank": 0,
@@ -13,6 +13,17 @@
       "published_at": "2026-09-28T09:44:05Z",
       "ai_is_related": true,
       "ai_score": 0.95
+    },
+    {
+      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "title_zh": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-28T15:41:27Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的",
@@ -103,17 +114,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-      "title_zh": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-      "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-28T06:58:30Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users. On one hand, there is some subset of the economy that benefits from the friction...",
       "title_zh": null,
       "url": "https://x.com/levie/status/2104350592290406849",
@@ -147,24 +147,46 @@
       "ai_score": 0.57
     },
     {
-      "title": "【深度】一文读懂 Muse 爆火背后的底层逻辑：你最需要的可能不是 Agent",
-      "title_zh": "【深度】一文读懂 Muse 爆火背后的底层逻辑：你最需要的可能不是 Agent",
-      "url": "https://waytoagi.feishu.cn/wiki/GG6lws3qriFWRrkxN9tce93rn6g?from=from_copylink",
-      "source": "社区更新 · 2026-09-26",
-      "source_tier_rank": 2,
-      "source_tier_label": "社区更新",
-      "published_at": "2026-09-27T14:50:48.096215Z",
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "title_zh": null,
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data",
+      "source": "TechCrunch",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-28T14:50:30Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+      "title_zh": "Agent 如何拥有长期记忆：六个主流项目的设计思路对比",
+      "url": "https://juejin.cn/post/7690197651807535158",
+      "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-28T16:35:35.726000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     },
     {
-      "title": "第 26 章 案例二 企业知识库问答 Agent",
-      "title_zh": "第 26 章 案例二 企业知识库问答 Agent",
-      "url": "https://juejin.cn/post/7689219046840074278",
-      "source": "juejin",
+      "title": "I gave Muse access to my personal data, and now I know why personal agents are probably going to change the world",
+      "title_zh": null,
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-gave-muse-access-to-my-personal-data-and-now-i-know-why-personal-agents-are-probably-going-to-change-the-world",
+      "source": "TechRadar",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
-      "published_at": "2026-09-27T14:51:08.303000Z",
+      "published_at": "2026-09-28T14:06:43Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+      "title_zh": null,
+      "url": "https://www.openappa.com",
+      "source": "Hacker News · 24h最热",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-28T13:20:44Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
