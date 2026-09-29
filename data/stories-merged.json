@@ -1,56 +1,69 @@
 {
-  "generated_at": "2026-09-29T17:45:58.772427Z",
+  "generated_at": "2026-09-29T21:33:19.129624Z",
   "window_hours": 24,
-  "total_stories": 347,
+  "total_stories": 343,
   "stories": [
     {
-      "story_id": "story_a4430430",
-      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "primary_url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "source_count": 4,
+      "story_id": "story_dd3f81de",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source_count": 3,
       "source_names": [
-        "X：Thariq (@trq212)",
-        "Follow Builders · X · Thariq",
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：马东锡 NLP (@dongxi_nlp)"
+        "OpenAI News",
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
+          "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
         },
         {
-          "id": "2ce42eb3a75206e2cbb555e61385df53cfaba4b9",
-          "title": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "Follow Builders · X · Thariq",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T19:54:02Z"
+          "id": "0ce1cd9e5c8d7fbcdfd144e3d9e46d3cf0b1158f",
+          "title": "GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:06:45Z"
         },
         {
-          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
-        },
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
+          "id": "79df06514fcc61d9cb24bd3e1c5d04b8642f45b7",
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T17:06:45Z"
         }
       ],
-      "item_count": 4,
-      "score": 10090
+      "item_count": 3,
+      "score": 10080
+    },
+    {
+      "story_id": "story_6af8dd1a",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T15:30:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_9179e475",
@@ -75,6 +88,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_66cfd105",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "primary_url": "https://openai.com/index/devday-2026-recap",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_36e5104f",
       "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
       "url": "https://developers.openai.com/codex/changelog",
@@ -93,6 +128,14 @@
           "published_at": "2026-09-29T00:00:00Z"
         },
         {
+          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
+          "title": "Codex CLI 0.159.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
           "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
           "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
           "url": "https://developers.openai.com/codex/changelog",
@@ -101,7 +144,51 @@
           "published_at": "2026-09-29T00:00:00Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 3,
+      "score": 10020
+    },
+    {
+      "story_id": "story_75186818",
+      "title": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作",
+      "url": "https://x.com/OpenAIDevs/status/2104997619152130278",
+      "primary_url": "https://x.com/OpenAIDevs/status/2104997619152130278",
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "sources": [
+        {
+          "id": "ae5db8c8298aa2c66f83b51ecaa1b59a1f2dde88",
+          "title": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作",
+          "url": "https://x.com/OpenAIDevs/status/2104997619152130278",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:11:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_efaf25f4",
+      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
+      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
+      "primary_url": "https://x.com/OpenAIDevs/status/2104993035507712318",
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "sources": [
+        {
+          "id": "8859df6f78438bde7105c2c14049abda894caf11",
+          "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
+          "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:53:43Z"
+        }
+      ],
+      "item_count": 1,
       "score": 10020
     },
     {
@@ -111,60 +198,16 @@
       "primary_url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
         {
-          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
-          "title": "How we will do better for Australia",
+          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
           "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_f95544b5",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_6af8dd1a",
-      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "9f9033a506e5eeb96cc674f22edaa8b3a9d048a8",
-          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "source": "Hugging Face：Blog（RSS）",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
-          "published_at": "2026-09-29T15:30:38Z"
+          "published_at": "2026-09-29T01:00:00Z"
         }
       ],
       "item_count": 1,
@@ -191,86 +234,6 @@
       ],
       "item_count": 1,
       "score": 10020
-    },
-    {
-      "story_id": "story_80accab2",
-      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "www.worldlabs.ai",
-        "X：Fei-Fei Li (@drfeifei, World Labs)"
-      ],
-      "sources": [
-        {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News：AI 热帖",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
-        },
-        {
-          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
-          "title": "World Labs 将加入 AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "www.worldlabs.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:12.115000Z"
-        },
-        {
-          "id": "5259641aa1ebda417008afc1e93bb9ebff128d1d",
-          "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
-          "url": "https://x.com/drfeifei/status/2104664403681632453",
-          "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:07:51Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
-    },
-    {
-      "story_id": "story_4f8611b1",
-      "title": "Anthropic 发布 Claude Sonnet 5.5",
-      "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "primary_url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "source_count": 3,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)",
-        "producthunt",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "6cfb77c33d0aea6990e3cbde3dc0275b772c2316",
-          "title": "Anthropic 发布 Claude Sonnet 5.5",
-          "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:06Z"
-        },
-        {
-          "id": "d533d8bcfe1f12122bc5c3439eb48d5eeaeb20a3",
-          "title": "Claude Sonnet 5.5",
-          "url": "https://www.producthunt.com/products/claude",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-29T11:10:17.122000Z"
-        },
-        {
-          "id": "b651d1daefdf1f9041e6603b36b4332ac1ea85d5",
-          "title": "Claude Sonnet 5.5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5-5",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T18:00:54Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
     },
     {
       "story_id": "story_e73902cb",
@@ -366,66 +329,158 @@
       "score": 9970
     },
     {
-      "story_id": "story_30b3d6d4",
-      "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
-      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-      "primary_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-      "source_count": 2,
+      "story_id": "story_429bef6d",
+      "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+      "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "source_count": 1,
       "source_names": [
-        "GitHub Blog",
-        "Hacker News"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "sources": [
         {
-          "id": "7f80a47f4884b2e81c718fb3b46d7243ee5107bd",
-          "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
-          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-          "source": "GitHub Blog",
+          "id": "64f8f8b1a6db2d38b4ac1067308170161f734910",
+          "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "site_id": "aihot",
-          "published_at": "2026-09-28T19:00:00Z"
-        },
-        {
-          "id": "68f00302c3948fb61d0d7e1a7dc3735272b08cfc",
-          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T00:55:47Z"
+          "published_at": "2026-09-29T19:32:30Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 1,
+      "score": 9920
     },
     {
-      "story_id": "story_6e198211",
-      "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug",
-      "url": "https://x.com/bcherny/status/2104638725317923228",
-      "primary_url": "https://x.com/bcherny/status/2104638725317923228",
-      "source_count": 2,
+      "story_id": "story_13678764",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+      "primary_url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+      "source_count": 1,
       "source_names": [
-        "X：Boris Cherny (@bcherny)",
-        "Follow Builders · X · Boris Cherny"
+        "The Decoder：AI News（RSS）"
       ],
       "sources": [
         {
-          "id": "1bd36594f987d6053527738c1ae2bc2f6c4c9f60",
-          "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug",
-          "url": "https://x.com/bcherny/status/2104638725317923228",
-          "source": "X：Boris Cherny (@bcherny)",
+          "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+          "source": "The Decoder：AI News（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:25:49Z"
-        },
-        {
-          "id": "9b0a1fca735f775f0e78759d438127bd014386de",
-          "title": "Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage. https://t.co/Vt1K1ubcFd https://t.co/d6QCsCd1gi",
-          "url": "https://x.com/bcherny/status/2104638725317923228",
-          "source": "Follow Builders · X · Boris Cherny",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T18:25:49Z"
+          "published_at": "2026-09-29T19:24:12Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_df6d6d13",
+      "title": "Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警",
+      "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
+      "primary_url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "c0df2180bc636cbbedf45d00b304f2782e98460c",
+          "title": "Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警",
+          "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:18:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_2763cc0d",
+      "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万",
+      "url": "https://www.ithome.com/1/008/532.htm",
+      "primary_url": "https://www.ithome.com/1/008/532.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "4b504f49b66d1f165449e91f6239a24d7ad7e2cb",
+          "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万",
+          "url": "https://www.ithome.com/1/008/532.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:47:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_8e1125d0",
+      "title": "GPT-6.1 上线 Arena 评测平台",
+      "url": "https://x.com/arena/status/2105006240363581728",
+      "primary_url": "https://x.com/arena/status/2105006240363581728",
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "sources": [
+        {
+          "id": "e695f78b2183116ad1d0a16ae470aa8600e4993f",
+          "title": "GPT-6.1 上线 Arena 评测平台",
+          "url": "https://x.com/arena/status/2105006240363581728",
+          "source": "X：Arena (@arena)",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:46:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_48cc6be2",
+      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+      "url": "https://x.com/arena/status/2104998408616558940",
+      "primary_url": "https://x.com/arena/status/2104998408616558940",
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "sources": [
+        {
+          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+          "url": "https://x.com/arena/status/2104998408616558940",
+          "source": "X：Arena (@arena)",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:15:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_0a9c1c7a",
+      "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+      "url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "primary_url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "sources": [
+        {
+          "id": "e8c26d7f027469255a76697dd93c2a00b5f3bf47",
+          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+          "url": "https://x.com/thsottiaux/status/2104991529416999243",
+          "source": "X：Tibo (@thsottiaux)",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:47:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_53ccb9f1",
@@ -444,6 +499,28 @@
           "source": "X：ChatGPT (@ChatGPT)",
           "site_id": "aihot",
           "published_at": "2026-09-29T17:29:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_7c5890f9",
+      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "primary_url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
+          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "source": "The Decoder：AI News（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:23:22Z"
         }
       ],
       "item_count": 1,
@@ -1330,286 +1407,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_f8e53de2",
-      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-      "url": "https://x.com/arena/status/2104673568776990762",
-      "primary_url": "https://x.com/arena/status/2104673568776990762",
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "sources": [
-        {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
-          "source": "X：Arena (@arena)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_9e8346de",
-      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_cc176c2f",
-      "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
-      "url": "https://x.com/rohanpaul_ai/status/2104671839876472854",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104671839876472854",
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "sources": [
-        {
-          "id": "dbc0a0bf8ff95fa8ebb9191025fa7df42c88a66d",
-          "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
-          "url": "https://x.com/rohanpaul_ai/status/2104671839876472854",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:37:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_db943de6",
-      "title": "World Labs 宣布加入 AMD",
-      "url": "https://x.com/theworldlabs/status/2104665621120311465",
-      "primary_url": "https://x.com/theworldlabs/status/2104665621120311465",
-      "source_count": 1,
-      "source_names": [
-        "X：World Labs (@theworldlabs)"
-      ],
-      "sources": [
-        {
-          "id": "2d620f4754bc3a3a6c2fff275ff9810474f4db7e",
-          "title": "World Labs 宣布加入 AMD",
-          "url": "https://x.com/theworldlabs/status/2104665621120311465",
-          "source": "X：World Labs (@theworldlabs)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:12:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e4034125",
-      "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
-      "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-      "primary_url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "6ed22d8e1e68c06a069f6288bc9e4a49e279f718",
-          "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
-          "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-          "source": "Databricks：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:11:23Z"
-        },
-        {
-          "id": "024924c20f8966ef3ec0786765fc13b1157ce46d",
-          "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
-          "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-          "source": "Databricks：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:11:23Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9920
-    },
-    {
-      "story_id": "story_93e91797",
-      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-      "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "sources": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ffaa3d55",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "sources": [
-        {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e4e1058e",
-      "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-      "url": "https://x.com/arena/status/2104640009232117859",
-      "primary_url": "https://x.com/arena/status/2104640009232117859",
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "sources": [
-        {
-          "id": "096094bb371025e1ed05179152821f702087a651",
-          "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-          "url": "https://x.com/arena/status/2104640009232117859",
-          "source": "X：Arena (@arena)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:30:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_cd13c416",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-      "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-      "primary_url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-      "source_count": 1,
-      "source_names": [
-        "Claude：YouTube（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-          "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-          "source": "Claude：YouTube（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:19Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9920
-    },
-    {
-      "story_id": "story_bbe914f6",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-      "url": "https://x.com/claudeai/status/2104633115620823187",
-      "primary_url": "https://x.com/claudeai/status/2104633115620823187",
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "sources": [
-        {
-          "id": "6ab3bc5addfbcbe73714b6deffff14e8b322f63b",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-          "url": "https://x.com/claudeai/status/2104633115620823187",
-          "source": "X：Claude (@claudeai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_b45d56f8",
-      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
-      "url": "https://x.com/arena/status/2104632801740132772",
-      "primary_url": "https://x.com/arena/status/2104632801740132772",
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "sources": [
-        {
-          "id": "3efa1c5c7bacf132655cbc7502002a4a8b39541f",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
-          "url": "https://x.com/arena/status/2104632801740132772",
-          "source": "X：Arena (@arena)",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_6d21bdf5",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_9226773c",
       "title": "DeepSeek Harness 桌面端发布：一手体验",
       "url": "https://waytoagi.feishu.cn/wiki/TVoDwH5mNiEwRvktypDcdUOnnxg?from=from_copylink",
@@ -1874,200 +1671,24 @@
       "score": 9820
     },
     {
-      "story_id": "story_25e03e68",
-      "title": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. https://t.co/IoYJ2w2gEp",
-      "url": "https://x.com/claudeai/status/2104675003673325732",
-      "primary_url": "https://x.com/claudeai/status/2104675003673325732",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Claude"
-      ],
-      "sources": [
-        {
-          "id": "3a495bc92030f69c77af8d12043e079eb99db356",
-          "title": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. https://t.co/IoYJ2w2gEp",
-          "url": "https://x.com/claudeai/status/2104675003673325732",
-          "source": "Follow Builders · X · Claude",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T20:49:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_a18be41a",
-      "title": "What are you exploring with Sonnet 5.5?",
-      "url": "https://x.com/claudeai/status/2104675005090923000",
-      "primary_url": "https://x.com/claudeai/status/2104675005090923000",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Claude"
-      ],
-      "sources": [
-        {
-          "id": "c0584786a6bdd9859c481df3984f39563d2908ef",
-          "title": "What are you exploring with Sonnet 5.5?",
-          "url": "https://x.com/claudeai/status/2104675005090923000",
-          "source": "Follow Builders · X · Claude",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T20:49:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_985d1667",
-      "title": "Pixel-art forest creatures by @measure_plan, every frame drawn in code. https://t.co/jPGx50oMNS",
-      "url": "https://x.com/claudeai/status/2104675000787603486",
-      "primary_url": "https://x.com/claudeai/status/2104675000787603486",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Claude"
-      ],
-      "sources": [
-        {
-          "id": "4f14eb4f744fd0587a74c2e868b70d4a2285bb4a",
-          "title": "Pixel-art forest creatures by @measure_plan, every frame drawn in code. https://t.co/jPGx50oMNS",
-          "url": "https://x.com/claudeai/status/2104675000787603486",
-          "source": "Follow Builders · X · Claude",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T20:49:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_284f256a",
-      "title": "i've been to every dev day since 2023 this is by far the most launches @OpenAI has ever had rsi? https://t.co/omm9gjdLXB https://t.co/c8esVxyR7C",
-      "url": "https://x.com/danshipper/status/2104662907716050988",
-      "primary_url": "https://x.com/danshipper/status/2104662907716050988",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Dan Shipper"
-      ],
-      "sources": [
-        {
-          "id": "ada8325909bd243e45a0654864be43f34a25a1be",
-          "title": "i've been to every dev day since 2023 this is by far the most launches @OpenAI has ever had rsi? https://t.co/omm9gjdLXB https://t.co/c8esVxyR7C",
-          "url": "https://x.com/danshipper/status/2104662907716050988",
-          "source": "Follow Builders · X · Dan Shipper",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T20:01:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_c265c20e",
-      "title": "We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. We derived two AI skills from the migration...",
-      "url": "https://x.com/rauchg/status/2104660502723072281",
-      "primary_url": "https://x.com/rauchg/status/2104660502723072281",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
-        {
-          "id": "9393290e6edaf8249073fa41a153f94823ef060b",
-          "title": "We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. We derived two AI skills from the migration...",
-          "url": "https://x.com/rauchg/status/2104660502723072281",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T19:52:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_65591652",
-      "title": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content. Across the board we saw...",
-      "url": "https://x.com/levie/status/2104648654074343480",
-      "primary_url": "https://x.com/levie/status/2104648654074343480",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "9ee121c143a87be7b3aaf381a45e510558b85dd8",
-          "title": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content. Across the board we saw...",
-          "url": "https://x.com/levie/status/2104648654074343480",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T19:05:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_dc0cd440",
-      "title": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work. Here it rakes a yard of leaves using tool calls. 24s faster than Sonne...",
-      "url": "https://x.com/_catwu/status/2104639552170377399",
-      "primary_url": "https://x.com/_catwu/status/2104639552170377399",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Cat Wu"
-      ],
-      "sources": [
-        {
-          "id": "006fe2e8dcd3e3958f64fe5115bfdbe84f7570e3",
-          "title": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work. Here it rakes a yard of leaves using tool calls. 24s faster than Sonne...",
-          "url": "https://x.com/_catwu/status/2104639552170377399",
-          "source": "Follow Builders · X · Cat Wu",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T18:29:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_41bd1782",
-      "title": "SONNET 5.5 IS OUT! It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks. It's faster and cheaper than Op...",
-      "url": "https://x.com/danshipper/status/2104636728992776510",
-      "primary_url": "https://x.com/danshipper/status/2104636728992776510",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Dan Shipper"
-      ],
-      "sources": [
-        {
-          "id": "912ba6ea3e32c11b1196ba7b86f629599c5f756c",
-          "title": "SONNET 5.5 IS OUT! It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks. It's faster and cheaper than Op...",
-          "url": "https://x.com/danshipper/status/2104636728992776510",
-          "source": "Follow Builders · X · Dan Shipper",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-28T18:17:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_cd489f20",
       "title": "OpenAI cancels release of new artificial intelligence model over safety concerns",
       "url": "https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns",
       "primary_url": "https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns",
       "source_count": 3,
       "source_names": [
-        "Wired",
+        "BBC World",
         "France24 English",
         "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "bd1061bf35efb4453b7e7066e18668fa7002b543",
-          "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-          "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
-          "source": "Wired",
+          "id": "0675e929e4adae647060f2a61dfc138785cf3a99",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
           "site_id": "opmlrss",
-          "published_at": "2026-09-29T10:36:22Z"
+          "published_at": "2026-09-29T09:14:13Z"
         },
         {
           "id": "86c7e5176f801df3183bf37d0c79134f1e1e3a0d",
@@ -2238,35 +1859,188 @@
       "score": 9770
     },
     {
-      "story_id": "story_7c088768",
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
-      "primary_url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
-      "source_count": 2,
+      "story_id": "story_ad8ce24b",
+      "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+      "source_count": 1,
       "source_names": [
-        "ArsTechnica",
-        "Slashdot"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "9c7064929c9b8d824ffcdaa138123c02bee82f69",
-          "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-          "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
-          "source": "ArsTechnica",
+          "id": "9b4653ceb38b5db60a1815eafb804403f3b7f11f",
+          "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-28T20:49:39Z"
+          "published_at": "2026-09-29T21:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9d10d840",
+      "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+      "primary_url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "5383ad94e9c9ff4d735ef6c9c6159e321bfd2da0",
+          "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T21:00:26Z"
         },
         {
-          "id": "21d98d1b59e4299dacecbb59dc2c467e28595be7",
-          "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
-          "url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T15:00:00Z"
+          "id": "de598f2ba370fa4060064ad839d4160ffbce0051",
+          "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+          "url": "https://www.france24.com/en/safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T20:58:14Z"
         }
       ],
       "item_count": 2,
-      "score": 9770
+      "score": 9720
+    },
+    {
+      "story_id": "story_93271308",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "1d1b73d27452cdeb0cf840a508a63d504e5875f4",
+          "title": "Trump rules out joint US-China venture to develop AI",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T20:24:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a23a547d",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+      "primary_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "80817edf93243a69835f0b42b1eba976c94f1a1e",
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T20:15:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5e4f37ed",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "395c3a5c493e6d6c1ded8e2224c9f7ec8bc51aa8",
+          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T19:52:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9e7310a9",
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+      "primary_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "c4530cc6f380167f4823b1f5d662284cd0fed15d",
+          "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+          "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T19:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_88116edf",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+      "primary_url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "7d4767ee8e8433c0e6635877c091c64466c76436",
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T18:11:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_485039d0",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2b822ff687595e9d69d189dd9a73f1b804c9a1ef",
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T17:45:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_b8eb1ff5",
@@ -2291,88 +2065,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_b0ab3a70",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "story_id": "story_f198c9a1",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "659dd32adf5535c70bf487cb69e470e3811863d5",
-          "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-          "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+          "id": "5688109a5e3d996e2a9dee6fd8110a4ca59f2b21",
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-29T17:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d95ae0e4",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "91ce4134604f80cdfd8511671e82242a1716fada",
-          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-          "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T17:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9c75674b",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "1af1200759cd7f02ac6425f09c10f4d072d7fcd7",
-          "title": "OpenAI launches Dots, its Muse competitor",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T17:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_74ec7da7",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a5e9365b6aa0d1453dd4c09156321a93df113184",
-          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T17:15:00Z"
+          "published_at": "2026-09-29T17:17:15Z"
         }
       ],
       "item_count": 1,
@@ -2423,22 +2131,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_93271308",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "story_id": "story_5897d334",
+      "title": "Federal prosecutors charge Venezuelan man shot by ICE agent in Texas with assaulting an officer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUlQaGlWVzlfWnJ2WF9ZU3J3U3BtNG5nMGd0UG5lS1lZZGhFY0o4bnAyNmU5bloyQVlCbTdDNE82U1ZzbFdmdXV5bkRuZWtOeUJYemdEMDdYd3AxMm9ZalFJdUtqeTlUdEVUdzhENFFVRm56ejBrMkhiX3FqVnBOTGU2aERXd2twaTZ3RTNlWXlFRm9vYVRxZHV4WTFHcnhndmhFS1p4dURNYzdqNTh6YQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUlQaGlWVzlfWnJ2WF9ZU3J3U3BtNG5nMGd0UG5lS1lZZGhFY0o4bnAyNmU5bloyQVlCbTdDNE82U1ZzbFdmdXV5bkRuZWtOeUJYemdEMDdYd3AxMm9ZalFJdUtqeTlUdEVUdzhENFFVRm56ejBrMkhiX3FqVnBOTGU2aERXd2twaTZ3RTNlWXlFRm9vYVRxZHV4WTFHcnhndmhFS1p4dURNYzdqNTh6YQ?oc=5",
       "source_count": 1,
       "source_names": [
-        "BBC World"
+        "AP World News"
       ],
       "sources": [
         {
-          "id": "1d1b73d27452cdeb0cf840a508a63d504e5875f4",
-          "title": "Trump rules out joint US-China venture to develop AI",
-          "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
+          "id": "221c759c2890eafe695c232288784db438e808d1",
+          "title": "Federal prosecutors charge Venezuelan man shot by ICE agent in Texas with assaulting an officer - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUlQaGlWVzlfWnJ2WF9ZU3J3U3BtNG5nMGd0UG5lS1lZZGhFY0o4bnAyNmU5bloyQVlCbTdDNE82U1ZzbFdmdXV5bkRuZWtOeUJYemdEMDdYd3AxMm9ZalFJdUtqeTlUdEVUdzhENFFVRm56ejBrMkhiX3FqVnBOTGU2aERXd2twaTZ3RTNlWXlFRm9vYVRxZHV4WTFHcnhndmhFS1p4dURNYzdqNTh6YQ?oc=5",
+          "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-29T16:09:26Z"
+          "published_at": "2026-09-29T16:43:57Z"
         }
       ],
       "item_count": 1,
@@ -2505,50 +2213,6 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T14:26:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_61266768",
-      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "13095977cd3ba25d96dcd7349f46a27b3ffc6b0e",
-          "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T14:22:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1b7e5457",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
-      "primary_url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "1709471966c7a1b4021960e9f22184e7a8aa4e57",
-          "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-          "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T14:10:00Z"
         }
       ],
       "item_count": 1,
@@ -2645,28 +2309,6 @@
           "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T12:49:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_02d7cbf8",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "02451d60fa1c209cf172388cbd827602d2076208",
-          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T12:45:05Z"
         }
       ],
       "item_count": 1,
@@ -2793,28 +2435,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T10:32:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_18d0be05",
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "6a9e9add3edf0f02ea2a8348c7ed2b07a6381306",
-          "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3079,6 +2699,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T07:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_871b187f",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+      "primary_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2746b87f97e1963a93fb8ebe732d78e1faf4157b",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T05:13:43Z"
         }
       ],
       "item_count": 1,
@@ -3635,6 +3277,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_c9003803",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "c085690f11dd2bef2e69793b7404468d1eadb440",
+          "title": "OpenAI reportedly ditches model over safety concerns",
+          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-28T23:39:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_bf59e396",
       "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
@@ -3657,198 +3321,137 @@
       "score": 9720
     },
     {
-      "story_id": "story_efa98b45",
-      "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "primary_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "67a6ba998efa00749662d74b05a3d4f65126e7a9",
-          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T21:31:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b3f8b766",
-      "title": "阿里AI的增长之谜",
-      "url": "https://www.huxiu.com/article/4894426.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894426.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "8f2a78ead9892a48c5f07e5aeae37366338e2066",
-          "title": "阿里AI的增长之谜",
-          "url": "https://www.huxiu.com/article/4894426.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T21:01:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_3dd8fcdc",
-      "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
-      "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-      "primary_url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "adabdea049c09a76b29763a89fcc8a434fb843b0",
-          "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
-          "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T20:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c75a5813",
-      "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
-      "url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "1578e89a09ca319f860571d02fb6cf7c92878def",
-          "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
-          "url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T19:45:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b85fb137",
-      "title": "OpenAI’s AI agents need to catch up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "8055dcbd2477de2e16b1b33ff3ac4a87549ff1ed",
-          "title": "OpenAI’s AI agents need to catch up",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T18:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_edc2c184",
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "181504bcaf67726fb10008cd7c87082a68394ad8",
-          "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T18:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e5d386d9",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-      "primary_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b3dbabf32883624a627378eceead99e45719cf0d",
-          "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-28T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_18d39871",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "story_id": "story_507a23ff",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "source_count": 3,
       "source_names": [
-        "www.anthropic.com",
+        "jorgegarciaherrero.com",
         "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
           "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
+          "published_at": "2026-09-29T11:32:02.125000Z"
         },
         {
-          "id": "f5de9dfc13f94b33882cc5bfeeb9802e74f9abdf",
-          "title": "Claude Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
+          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-09-28T17:58:11Z"
+          "published_at": "2026-09-29T09:03:41Z"
         },
         {
-          "id": "bc06aba902c479d0408eb4033df4a1de97e65fab",
-          "title": "Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-28T17:58:11Z"
+          "id": "576b3216894b66cfea5852d425eaf9175b538262",
+          "title": "AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T09:03:41Z"
         }
       ],
       "item_count": 3,
       "score": 9580
+    },
+    {
+      "story_id": "story_6cb7b0c1",
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "primary_url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "43e7cd97dfba792164b0b3b4afe101aa1e7e0251",
+          "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
+          "url": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T21:00:00Z"
+        },
+        {
+          "id": "571e0f47989ac109078014d0c7da6b4a394a0040",
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T12:01:07Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_69e28ed7",
+      "title": "人工智能需要6万亿美元的年收入，才能支撑数据中心的蓬勃发展",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+      "primary_url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+      "source_count": 2,
+      "source_names": [
+        "www.thenationalnews.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d47cc8d4e4a8e0d53e9105f8f26c633e42c2deae",
+          "title": "人工智能需要6万亿美元的年收入，才能支撑数据中心的蓬勃发展",
+          "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+          "source": "www.thenationalnews.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T20:43:58.739000Z"
+        },
+        {
+          "id": "c437419877898099cd11ea237aaecf88461e637e",
+          "title": "AI needs $6T in annual revenue to justify data centre boom",
+          "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T19:21:25Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_402218d3",
+      "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
+      "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
+      "primary_url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "8d645f6ef1dc9990439ef3c419a27bb5ee5e4ade",
+          "title": "McDonald's Reportedly Using AI to 'Dynamically' Price Its Burgers",
+          "url": "https://tech.slashdot.org/story/26/09/29/1815221/mcdonalds-reportedly-using-ai-to-dynamically-price-its-burgers",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T20:00:00Z"
+        },
+        {
+          "id": "f9d9d6b22075415f778db86a4e8a6f6f2e754fa2",
+          "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
+          "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:00:25Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_ff702bf6",
@@ -3858,7 +3461,7 @@
       "source_count": 2,
       "source_names": [
         "www.eff.org",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3870,11 +3473,11 @@
           "published_at": "2026-09-29T17:36:13.589000Z"
         },
         {
-          "id": "1fe5fff265f4a171c212d399d497fa0d608c4f7d",
+          "id": "5e7866403c2af8d03aee49bd9e3010135367ba2b",
           "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
           "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T16:30:48Z"
         }
       ],
@@ -3920,7 +3523,7 @@
       "source_count": 2,
       "source_names": [
         "status.claude.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3932,54 +3535,15 @@
           "published_at": "2026-09-29T15:29:57.375000Z"
         },
         {
-          "id": "ea66c607f6426e75842c26063bcefbcb34ebd933",
+          "id": "37b0987ea1c2b3104c4b951a4b55db0974ff2f89",
           "title": "Claude partial outage",
           "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-29T14:25:41Z"
         }
       ],
       "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_507a23ff",
-      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "source_count": 2,
-      "source_names": [
-        "jorgegarciaherrero.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "1e0c9edcb68e7c10898e7cb2a8d68f322ee6f806",
-          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
-          "title": "AI companies leak data to advertisers [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "item_count": 3,
       "score": 9570
     },
     {
@@ -4051,16 +3615,16 @@
       "primary_url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "New York Times"
       ],
       "sources": [
         {
-          "id": "8aa1011c2bc3786b8884e3746d799aedee417e8b",
+          "id": "5901fcd5c3c63a2f9736f61f617d33e8afcf3a4f",
           "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
           "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T00:34:27Z"
         },
         {
@@ -4076,84 +3640,220 @@
       "score": 9570
     },
     {
-      "story_id": "story_a51d19ad",
-      "title": "MicroLLM Lab – 在浏览器中体验 7 款微型大型语言模型",
-      "url": "https://stateofutopia.com/experiments/microllmlab",
-      "primary_url": "https://stateofutopia.com/experiments/microllmlab",
-      "source_count": 2,
-      "source_names": [
-        "stateofutopia.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "813c169c8c4b22879c7b3e620d2f85dffd7acfbc",
-          "title": "MicroLLM Lab – 在浏览器中体验 7 款微型大型语言模型",
-          "url": "https://stateofutopia.com/experiments/microllmlab",
-          "source": "stateofutopia.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:10:12.942000Z"
-        },
-        {
-          "id": "e452ed53337e7ad05eb84c1d50e5dde61e7e6f41",
-          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-          "url": "https://stateofutopia.com/experiments/microllmlab",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-28T18:58:53Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_a9f883b1",
-      "title": "是时候对人工智能实验室展开调查了",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "primary_url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "source_count": 2,
-      "source_names": [
-        "calnewport.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "d3277f9a483ab5c5ce8b741e28f5bbd7393b951d",
-          "title": "是时候对人工智能实验室展开调查了",
-          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-          "source": "calnewport.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T22:08:11.961000Z"
-        },
-        {
-          "id": "f5fa52abb043a57f1a9cdc52b978b4f75081a62e",
-          "title": "It's Time to Investigate the AI Labs",
-          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-28T19:53:35Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_cf1566a3",
-      "title": "ChatGPT Pro 500",
-      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "primary_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "story_id": "story_6972b040",
+      "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors (Axios)",
+      "url": "https://www.techmeme.com/260929/p48",
+      "primary_url": "https://www.techmeme.com/260929/p48",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "31af635720d18594fbdea0d9fb2eb5b587fe064a",
-          "title": "ChatGPT Pro 500",
-          "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-          "source": "Hacker News",
+          "id": "f5be887522e9362941d1951d1a9b39daa8e2520c",
+          "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors (Axios)",
+          "url": "https://www.techmeme.com/260929/p48",
+          "source": "Techmeme",
           "site_id": "techurls",
-          "published_at": "2026-09-29T17:26:27Z"
+          "published_at": "2026-09-29T21:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cc7bc5e4",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+      "primary_url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "7115a24ddaa09d206d09833af620b62ac1b461e3",
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T21:14:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2a6b9e32",
+      "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+      "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+      "primary_url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "51aba88aacab01cecbb2011733f71fd79187084b",
+          "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+          "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T21:13:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_110c2886",
+      "title": "After AI lunch, Trump backs self-regulation and plans to rename AI",
+      "url": "https://thenextweb.com/news/trump-white-house-ai-ceos-lunch-2",
+      "primary_url": "https://thenextweb.com/news/trump-white-house-ai-ceos-lunch-2",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "8bd7639e40f31bd095e1bd379058a30abc12c8dd",
+          "title": "After AI lunch, Trump backs self-regulation and plans to rename AI",
+          "url": "https://thenextweb.com/news/trump-white-house-ai-ceos-lunch-2",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T20:53:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f1ad80e7",
+      "title": "Sam Altman outlined OpenAI's 3-part plan for dominance",
+      "url": "https://www.businessinsider.com/sam-altman-unveils-openai-three-part-strategy-devday-2026-9",
+      "primary_url": "https://www.businessinsider.com/sam-altman-unveils-openai-three-part-strategy-devday-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "e37cc159ba8e3d723363413d5335db9b9ca05aab",
+          "title": "Sam Altman outlined OpenAI's 3-part plan for dominance",
+          "url": "https://www.businessinsider.com/sam-altman-unveils-openai-three-part-strategy-devday-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T20:49:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dd1006d4",
+      "title": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+      "url": "https://www.techmeme.com/260929/p47",
+      "primary_url": "https://www.techmeme.com/260929/p47",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "d1454674efdb1a91b11b3128326859fbad6b96bf",
+          "title": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+          "url": "https://www.techmeme.com/260929/p47",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T20:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a5b7b122",
+      "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+      "url": "https://www.techmeme.com/260929/p46",
+      "primary_url": "https://www.techmeme.com/260929/p46",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "addfd606c6c8244243fbe19c916b18643e7e8ca7",
+          "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+          "url": "https://www.techmeme.com/260929/p46",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T20:15:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02288340",
+      "title": "The biggest announcements from OpenAI DevDay: Dots, GPT-6.1 Sol, Ultrafast",
+      "url": "https://mashable.com/tech/openai-devday-2026-biggest-announcements",
+      "primary_url": "https://mashable.com/tech/openai-devday-2026-biggest-announcements",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "1c3c8ff545ef87b33dac6d14e0cc0ce4bd1b8923",
+          "title": "The biggest announcements from OpenAI DevDay: Dots, GPT-6.1 Sol, Ultrafast",
+          "url": "https://mashable.com/tech/openai-devday-2026-biggest-announcements",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:58:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a49c7f50",
+      "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)",
+      "url": "https://www.techmeme.com/260929/p45",
+      "primary_url": "https://www.techmeme.com/260929/p45",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "c8ae6fd05c8ef2af45a0e081afbb057c75531d7c",
+          "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)",
+          "url": "https://www.techmeme.com/260929/p45",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:50:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4cc5c42e",
+      "title": "What China wants from AI",
+      "url": "https://www.vox.com/podcasts/504448/china-artificial-intelligence-xi-jinping-cold-war",
+      "primary_url": "https://www.vox.com/podcasts/504448/china-artificial-intelligence-xi-jinping-cold-war",
+      "source_count": 1,
+      "source_names": [
+        "Recode"
+      ],
+      "sources": [
+        {
+          "id": "8a444e46f02352fd8dda16f3ca8dc9abeb64e519",
+          "title": "What China wants from AI",
+          "url": "https://www.vox.com/podcasts/504448/china-artificial-intelligence-xi-jinping-cold-war",
+          "source": "Recode",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:35:44Z"
         }
       ],
       "item_count": 1,
@@ -4170,6 +3870,22 @@
       ],
       "sources": [
         {
+          "id": "5a33f895697721b880b198edb38f5c344e9d126e",
+          "title": "AI needs $6T in annual revenue to justify data centre boom",
+          "url": "https://news.ycombinator.com/item?id=49898952",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T19:21:25Z"
+        },
+        {
+          "id": "f4a5dcf00fcc88de55c029465f3b5c1806855303",
+          "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+          "url": "https://news.ycombinator.com/item?id=49898931",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T19:20:02Z"
+        },
+        {
           "id": "cd48ae353a1b189a576c3759a3f2c93de789020f",
           "title": "ChatGPT Pro 500",
           "url": "https://news.ycombinator.com/item?id=49896975",
@@ -4178,8 +3894,24 @@
           "published_at": "2026-09-29T17:26:27Z"
         },
         {
+          "id": "ce481ef905934189bdfab7588b564442601c2d19",
+          "title": "Dots: Always-on agents",
+          "url": "https://news.ycombinator.com/item?id=49896604",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T17:07:57Z"
+        },
+        {
           "id": "38c616dfa0e16784ddcdcc3b5e2ebb77690eeb8f",
           "title": "GPT 6.1 Sol",
+          "url": "https://news.ycombinator.com/item?id=49896586",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T17:06:45Z"
+        },
+        {
+          "id": "1e9d15d437aaebc9b5afcdf695efb2c76bb8b5ea",
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "url": "https://news.ycombinator.com/item?id=49896586",
           "source": "hackernews",
           "site_id": "newsnow",
@@ -4208,49 +3940,713 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "2d1554c48132afa6a920b9e79a92b4666bf606f6",
-          "title": "Pacing the Frontier is not the actual goal for AI labs",
-          "url": "https://news.ycombinator.com/item?id=49884119",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T20:47:26Z"
-        },
-        {
-          "id": "0251e1d4afb1639f1a52ae90f86674aae25ed456",
-          "title": "It's Time to Investigate the AI Labs",
-          "url": "https://news.ycombinator.com/item?id=49883471",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T19:53:35Z"
-        },
-        {
-          "id": "5dd1ed487ab94ed1f6649f487584e371b37fddb3",
-          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-          "url": "https://news.ycombinator.com/item?id=49882781",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T18:58:53Z"
-        },
-        {
-          "id": "a7f6dfa7797cde98311750e3473f371d27d45906",
-          "title": "Claude Sonnet 5.5",
-          "url": "https://news.ycombinator.com/item?id=49881850",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "9f073caba9e1cd01a744a5f660ca2e74cf118124",
-          "title": "I made a visual workspace for AI Automations",
-          "url": "https://news.ycombinator.com/item?id=49881777",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:53:14Z"
         }
       ],
-      "item_count": 10,
+      "item_count": 9,
+      "score": 7
+    },
+    {
+      "story_id": "story_5c165331",
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "primary_url": "https://github.com/lostmsu/TurboGPT",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d3995dc97017a1957fb8e5d70aefea0a852e490c",
+          "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+          "url": "https://github.com/lostmsu/TurboGPT",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T19:20:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e797bce1",
+      "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)",
+      "url": "https://www.techmeme.com/260929/p44",
+      "primary_url": "https://www.techmeme.com/260929/p44",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "254aeaf2c8b26dbffe445a65e0c59fa516bf6b85",
+          "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)",
+          "url": "https://www.techmeme.com/260929/p44",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0e0f0174",
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "07f944e7e824fc35a7c43a198b88b5fd1ac888c8",
+          "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+          "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:17:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c2169f8c",
+      "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+      "url": "https://mashable.com/tech/openai-dev-day-dots-ai-agents",
+      "primary_url": "https://mashable.com/tech/openai-dev-day-dots-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "fef459130c1fcdb24a5f1652dafe1996e4bc4692",
+          "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026",
+          "url": "https://mashable.com/tech/openai-dev-day-dots-ai-agents",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:15:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e5597fb4",
+      "title": "A family almost let their dad sleep through a stroke, until ChatGPT told them to get help",
+      "url": "https://www.techradar.com/ai-platforms-assistants/we-almost-let-my-dad-sleep-through-a-stroke-chatgpt-is-the-reason-we-didnt-this-is-exactly-how-i-want-ai-health-advice-to-work",
+      "primary_url": "https://www.techradar.com/ai-platforms-assistants/we-almost-let-my-dad-sleep-through-a-stroke-chatgpt-is-the-reason-we-didnt-this-is-exactly-how-i-want-ai-health-advice-to-work",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "c1da910708e7844ef52c8fe6167e8eb3f59c35ed",
+          "title": "A family almost let their dad sleep through a stroke, until ChatGPT told them to get help",
+          "url": "https://www.techradar.com/ai-platforms-assistants/we-almost-let-my-dad-sleep-through-a-stroke-chatgpt-is-the-reason-we-didnt-this-is-exactly-how-i-want-ai-health-advice-to-work",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_34f3f050",
+      "title": "White House’s New AI Website Confirms Trump Lost the 2020 Presidential Election",
+      "url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
+      "primary_url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "af6508dc0230878a9e69be224e72dece02ab24cd",
+          "title": "White House’s New AI Website Confirms Trump Lost the 2020 Presidential Election",
+          "url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T18:47:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7eaa3525",
+      "title": "There's now an official US government AI chatbot",
+      "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot",
+      "primary_url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "47794d9c8a203ae573b2ca93b93ecc92da115618",
+          "title": "There's now an official US government AI chatbot",
+          "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:43:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3ef4357b",
+      "title": "Sam Altman says OpenAI now has an AI research intern",
+      "url": "https://thenextweb.com/news/sam-altman-openai-ai-research-intern-devday-keynote",
+      "primary_url": "https://thenextweb.com/news/sam-altman-openai-ai-research-intern-devday-keynote",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "09e8888e89ba316ff2818b5820800ecd29a00920",
+          "title": "Sam Altman says OpenAI now has an AI research intern",
+          "url": "https://thenextweb.com/news/sam-altman-openai-ai-research-intern-devday-keynote",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:39:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ac3f8589",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "62c429d6e62161080084f2e2f650af371274daac",
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6acf3f76",
+      "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests (Maximilian Schreiner/The Decoder)",
+      "url": "https://www.techmeme.com/260929/p42",
+      "primary_url": "https://www.techmeme.com/260929/p42",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "6d5136400f28b48b74fd1440ac562f4040e804d0",
+          "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests (Maximilian Schreiner/The Decoder)",
+          "url": "https://www.techmeme.com/260929/p42",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:30:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f12bdb6c",
+      "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+      "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents",
+      "primary_url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "68a7b83a49ca5f51ad368480a48699412c9561ba",
+          "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+          "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7ea187e7",
+      "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/260929/p41",
+      "primary_url": "https://www.techmeme.com/260929/p41",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "6b471dc1ce4fd6939aec5b42adb74812f2bce351",
+          "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)",
+          "url": "https://www.techmeme.com/260929/p41",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:26:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0ee1d322",
+      "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding (Dean Takahashi/GamesBeat)",
+      "url": "https://www.techmeme.com/260929/p40",
+      "primary_url": "https://www.techmeme.com/260929/p40",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "159cba9976f7f3b0521df4db6da9d2d11711f9fc",
+          "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding (Dean Takahashi/GamesBeat)",
+          "url": "https://www.techmeme.com/260929/p40",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f8e32c2a",
+      "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT (Paul Sawers/The New Stack)",
+      "url": "https://www.techmeme.com/260929/p39",
+      "primary_url": "https://www.techmeme.com/260929/p39",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "3254d0d5a91b4e324329dd19bfdd4c63af48b09c",
+          "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT (Paul Sawers/The New Stack)",
+          "url": "https://www.techmeme.com/260929/p39",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:11:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9e868686",
+      "title": "Trump rules out working with China on AI safety before tech CEO lunch",
+      "url": "https://thenextweb.com/news/trump-rejects-china-ai-safety-cooperation",
+      "primary_url": "https://thenextweb.com/news/trump-rejects-china-ai-safety-cooperation",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "872eb1192200d529c452e9d519cf20766413cabd",
+          "title": "Trump rules out working with China on AI safety before tech CEO lunch",
+          "url": "https://thenextweb.com/news/trump-rejects-china-ai-safety-cooperation",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:08:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_778d00a2",
+      "title": "OpenAI’s agents can now run entirely inside Amazon’s cloud",
+      "url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
+      "primary_url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "82c550f466dcc2bc201366d8a7b989d94c4c45e9",
+          "title": "OpenAI’s agents can now run entirely inside Amazon’s cloud",
+          "url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:08:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_93fb42e6",
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
+      "primary_url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "35f7e8f1172c566e953756b9b750e13b6600e3d5",
+          "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+          "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:03:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_387f5321",
+      "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
+      "url": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots",
+      "primary_url": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "6cf5a178e064c8965d5da9fd0ece5405a9f13f9a",
+          "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
+          "url": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b58416c8",
+      "title": "OpenAI halves Pro 200 usage and launches a $500 ChatGPT plan at DevDay",
+      "url": "https://thenextweb.com/news/openai-devday-pro-200-usage-cut-pro-500-plan",
+      "primary_url": "https://thenextweb.com/news/openai-devday-pro-200-usage-cut-pro-500-plan",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "e99690e1bbaf9a4a9669f8da1f045eb854fe8e79",
+          "title": "OpenAI halves Pro 200 usage and launches a $500 ChatGPT plan at DevDay",
+          "url": "https://thenextweb.com/news/openai-devday-pro-200-usage-cut-pro-500-plan",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:58:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f04e1826",
+      "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)",
+      "url": "https://www.techmeme.com/260929/p38",
+      "primary_url": "https://www.techmeme.com/260929/p38",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ff72289c4d0b43d6eb74ebe7f59a5fa30fd4c56e",
+          "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)",
+          "url": "https://www.techmeme.com/260929/p38",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:50:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ca0393f1",
+      "title": "OpenAI announces ChatGPT Space, a collaborative workspace for users and ChatGPT and Dots, available on Pro, Business and Enterprise plans (Kris Holt/Engadget)",
+      "url": "https://www.techmeme.com/260929/p37",
+      "primary_url": "https://www.techmeme.com/260929/p37",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "6b31b4beaaea55559317f558676f6cdba6606355",
+          "title": "OpenAI announces ChatGPT Space, a collaborative workspace for users and ChatGPT and Dots, available on Pro, Business and Enterprise plans (Kris Holt/Engadget)",
+          "url": "https://www.techmeme.com/260929/p37",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:45:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c178e1fe",
+      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "8e71316409416ce49527ce6e10d59abfbb39c8a8",
+          "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T17:44:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_75903909",
+      "title": "Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)",
+      "url": "https://www.techmeme.com/260929/p36",
+      "primary_url": "https://www.techmeme.com/260929/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "7a53579c495424c81040a7a83187740f0a397777",
+          "title": "Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)",
+          "url": "https://www.techmeme.com/260929/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:42:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a68609df",
+      "title": "Trump revealed the seating chart for his big AI meeting. See who's in — and who's missing.",
+      "url": "https://www.businessinsider.com/trump-seating-chart-white-house-meeting-ai-executives-lunch-2026-9",
+      "primary_url": "https://www.businessinsider.com/trump-seating-chart-white-house-meeting-ai-executives-lunch-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "79ebdf412af76a8322e5e632c4e8c1b03fdb7495",
+          "title": "Trump revealed the seating chart for his big AI meeting. See who's in — and who's missing.",
+          "url": "https://www.businessinsider.com/trump-seating-chart-white-house-meeting-ai-executives-lunch-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:35:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_183f0142",
+      "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android (Reece Rogers/Wired)",
+      "url": "https://www.techmeme.com/260929/p35",
+      "primary_url": "https://www.techmeme.com/260929/p35",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "161fc59a565dec8d2dd8c881968eae094fb21192",
+          "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android (Reece Rogers/Wired)",
+          "url": "https://www.techmeme.com/260929/p35",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cad4b5e5",
+      "title": "OpenAI releases GPT-6.1 Sol at a fifth of GPT-6 Astra’s token prices",
+      "url": "https://thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
+      "primary_url": "https://thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "7c5c3a1b65371ef1eab5ca76899493c5659a1436",
+          "title": "OpenAI releases GPT-6.1 Sol at a fifth of GPT-6 Astra’s token prices",
+          "url": "https://thenextweb.com/news/openai-gpt-6-1-sol-price-astra-devday",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:33:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d43c5ce1",
+      "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex (Igor Bonifacic/Engadget)",
+      "url": "https://www.techmeme.com/260929/p34",
+      "primary_url": "https://www.techmeme.com/260929/p34",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "78e88d2ff7693be13b9b07b3d5fb98163763bed1",
+          "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex (Igor Bonifacic/Engadget)",
+          "url": "https://www.techmeme.com/260929/p34",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:31:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_acb31664",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "primary_url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "7524b9e339f0aaf059a644a5a874d047436d4590",
+          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:31:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2fcae2d4",
+      "title": "AI is driving a data-center power boom. Here are some of the biggest US projects being built.",
+      "url": "https://www.businessinsider.com/these-largest-planned-us-ai-data-centers-ranked-by-power-2026-9",
+      "primary_url": "https://www.businessinsider.com/these-largest-planned-us-ai-data-centers-ranked-by-power-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "178a08358b91f30fac948689c7d3168ac91a2fa9",
+          "title": "AI is driving a data-center power boom. Here are some of the biggest US projects being built.",
+          "url": "https://www.businessinsider.com/these-largest-planned-us-ai-data-centers-ranked-by-power-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:29:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ff5a3379",
+      "title": "OpenAI launches dots, always-on AI agents with their own cloud computers",
+      "url": "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+      "primary_url": "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "d3e49f69de907181cbdfbf4b1484cada1ff9f575",
+          "title": "OpenAI launches dots, always-on AI agents with their own cloud computers",
+          "url": "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:29:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cd7c235a",
+      "title": "Elon Musk, Jeff Bezos and Mark Zuckerberg among 31 guests at Trump’s AI lunch",
+      "url": "https://thenextweb.com/news/trump-white-house-ai-lunch-guest-list",
+      "primary_url": "https://thenextweb.com/news/trump-white-house-ai-lunch-guest-list",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "4a7f39a5c6698492b1cdeb39ef414627aea2dbfa",
+          "title": "Elon Musk, Jeff Bezos and Mark Zuckerberg among 31 guests at Trump’s AI lunch",
+          "url": "https://thenextweb.com/news/trump-white-house-ai-lunch-guest-list",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:27:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cf1566a3",
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "primary_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "31af635720d18594fbdea0d9fb2eb5b587fe064a",
+          "title": "ChatGPT Pro 500",
+          "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:26:27Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -4270,28 +4666,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:23:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dd3f81de",
-      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "primary_url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source_count": 1,
-      "source_names": [
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
-          "title": "GPT 6.1 Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T17:20:30.075000Z"
         }
       ],
       "item_count": 1,
@@ -4320,22 +4694,22 @@
       "score": 7
     },
     {
-      "story_id": "story_f198c9a1",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+      "story_id": "story_c2ee7922",
+      "title": "What smart people are saying about Anthropic's leaked IPO prospectus numbers",
+      "url": "https://www.businessinsider.com/what-smart-people-say-about-anthropics-leaked-ipo-prospectus-2026-9",
+      "primary_url": "https://www.businessinsider.com/what-smart-people-say-about-anthropics-leaked-ipo-prospectus-2026-9",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "Business Insider"
       ],
       "sources": [
         {
-          "id": "bc1299f94e0221a07953e7db94508293d87a6475",
-          "title": "OpenAI launches Dots, its bubbly agentic avatar",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
-          "source": "TechCrunch",
+          "id": "30447f924569e7bec661b97111a14185c32a397e",
+          "title": "What smart people are saying about Anthropic's leaked IPO prospectus numbers",
+          "url": "https://www.businessinsider.com/what-smart-people-say-about-anthropics-leaked-ipo-prospectus-2026-9",
+          "source": "Business Insider",
           "site_id": "techurls",
-          "published_at": "2026-09-29T17:17:15Z"
+          "published_at": "2026-09-29T17:18:17Z"
         }
       ],
       "item_count": 1,
@@ -4452,6 +4826,94 @@
       "score": 7
     },
     {
+      "story_id": "story_b0ab3a70",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d564e9c6f331324b75ce7878d58c3d3cc728cda5",
+          "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+          "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d95ae0e4",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "cec6c53cce3bcf6acf85b8124a605cd1ded26a79",
+          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+          "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9c75674b",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "8a28cf395d51256d0e997283c2946566cb6961c1",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_74ec7da7",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1ca4e25c5539716ebce4c78ddfc6ed1f881e4142",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T17:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_5ac63014",
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
@@ -4512,28 +4974,6 @@
           "source": "Mac Rumors",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_66cfd105",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "primary_url": "https://openai.com/index/devday-2026-recap",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "a1b58e4342ddab94712b70325b48673e6ee5e560",
-          "title": "DevDay 2026 Recap",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-29T17:07:45Z"
         }
       ],
       "item_count": 1,
@@ -4622,28 +5062,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_402218d3",
-      "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
-      "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
-      "primary_url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "f9d9d6b22075415f778db86a4e8a6f6f2e754fa2",
-          "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
-          "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T17:00:25Z"
         }
       ],
       "item_count": 1,
@@ -5024,6 +5442,28 @@
       "score": 7
     },
     {
+      "story_id": "story_0061c709",
+      "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
+      "url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development",
+      "primary_url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "21d98d1b59e4299dacecbb59dc2c467e28595be7",
+          "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
+          "url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_c64cf4b4",
       "title": "Claude down: Why it says account temporarily unable to authenticate",
       "url": "https://mashable.com/tech/anthropic-claude-down-account-temporarily-unable-authenticate",
@@ -5134,6 +5574,28 @@
       "score": 7
     },
     {
+      "story_id": "story_61266768",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_44d6d510",
       "title": "Nvidia launches new AI safety program designed at stopping models escaping their sandboxes",
       "url": "https://www.techradar.com/pro/nvidia-launches-new-ai-safety-program-designed-at-stopping-models-escaping-their-sandboxes",
@@ -5194,6 +5656,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-29T14:10:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b7e5457",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
+      "primary_url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "83ed9813914138dda0f267eadebd86f91c9599aa",
+          "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+          "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:10:00Z"
         }
       ],
       "item_count": 1,
@@ -5552,6 +6036,28 @@
       "score": 7
     },
     {
+      "story_id": "story_02d7cbf8",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3b16c199fd4aa043f044fb3edc31ff76fb107ed2",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T12:45:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d2f4df64",
       "title": "GPT-6 Astra ran simulated supply-chain attacks in UK government tests",
       "url": "https://thenextweb.com/news/gpt-6-astra-supply-chain-attacks-uk-aisi-simulations",
@@ -5618,28 +6124,6 @@
       "score": 7
     },
     {
-      "story_id": "story_6cb7b0c1",
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "primary_url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "571e0f47989ac109078014d0c7da6b4a394a0040",
-          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-          "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-29T12:01:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_aa32ab3e",
       "title": "EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 (Nick Lichtenberg/Fortune)",
       "url": "https://www.techmeme.com/260929/p18",
@@ -5678,6 +6162,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T11:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b630a45",
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.producthunt.com/products/claude",
+      "primary_url": "https://www.producthunt.com/products/claude",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "d533d8bcfe1f12122bc5c3439eb48d5eeaeb20a3",
+          "title": "Claude Sonnet 5.5",
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T11:10:17.122000Z"
         }
       ],
       "item_count": 1,
@@ -5816,6 +6322,28 @@
       "score": 7
     },
     {
+      "story_id": "story_70c82dac",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
+      "primary_url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "d713f28212122cebafe2176139ab9616e8f47689",
+          "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+          "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T10:36:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_5cf69a42",
       "title": "AI industry needs to earn $6 trillion by 2031 to justify data centres",
       "url": "https://www.reddit.com/r/technology/comments/1wt6mcm/ai_industry_needs_to_earn_6_trillion_by_2031_to",
@@ -5854,6 +6382,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-29T10:30:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_18d0be05",
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "bbf81147ad24e311e79cb17258661ee0dc6801da",
+          "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -6438,15 +6988,15 @@
       "primary_url": "https://twitter.com/thsottiaux/status/2104823812042940713",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "13d89699105f74fb81547054f72ee7b49b31a5c6",
+          "id": "62222f1d16776279d086cf5ba1e45ea6c07bdd72",
           "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
           "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-29T07:07:53Z"
         }
       ],
@@ -6630,28 +7180,6 @@
       "score": 7
     },
     {
-      "story_id": "story_871b187f",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
-      "primary_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "c4f50b3aacb37dbe97c02ad746138226e02381da",
-          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T05:13:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_4b8e1aa4",
       "title": "OpenAI apologizes for its AI models breaching Australian government websites, pledges cyber defense funding, and plans to form a task force as part of reforms (Bloomberg)",
       "url": "https://www.techmeme.com/260929/p1",
@@ -6828,28 +7356,6 @@
       "score": 7
     },
     {
-      "story_id": "story_74455c8e",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "38650c8f5b96f871575103acd8b8f20a393cf56e",
-          "title": "OpenAI scraps rollout of new model over safety concerns",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T01:18:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_907bca7e",
       "title": "Sources on how SoftBank's $11B junk bond sale landed, despite investor questions about OpenAI's listing timeline, data center plans, and SB Energy's delayed IPO (Bloomberg)",
       "url": "https://www.techmeme.com/260928/p45",
@@ -6866,6 +7372,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T01:04:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_30b3d6d4",
+      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "primary_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "68f00302c3948fb61d0d7e1a7dc3735272b08cfc",
+          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T00:55:47Z"
         }
       ],
       "item_count": 1,
@@ -7070,28 +7598,6 @@
       "score": 7
     },
     {
-      "story_id": "story_c9003803",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "14f884c0933a881b6a098b49c284a01a4b1ee6c0",
-          "title": "OpenAI reportedly ditches model over safety concerns",
-          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T23:39:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_1f9c5b25",
       "title": "以餐厅后厨为例讲清楚AI十大技术概念",
       "url": "https://juejin.cn/post/7689740291688562703",
@@ -7152,6 +7658,28 @@
           "source": "blog.cloudflare.com",
           "site_id": "buzzing",
           "published_at": "2026-09-28T23:25:23.290000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a51d19ad",
+      "title": "MicroLLM Lab – 在浏览器中体验 7 款微型大型语言模型",
+      "url": "https://stateofutopia.com/experiments/microllmlab",
+      "primary_url": "https://stateofutopia.com/experiments/microllmlab",
+      "source_count": 1,
+      "source_names": [
+        "stateofutopia.com"
+      ],
+      "sources": [
+        {
+          "id": "813c169c8c4b22879c7b3e620d2f85dffd7acfbc",
+          "title": "MicroLLM Lab – 在浏览器中体验 7 款微型大型语言模型",
+          "url": "https://stateofutopia.com/experiments/microllmlab",
+          "source": "stateofutopia.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:10:12.942000Z"
         }
       ],
       "item_count": 1,
@@ -7246,6 +7774,50 @@
       "score": 7
     },
     {
+      "story_id": "story_80accab2",
+      "title": "World Labs 将加入 AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "source_count": 1,
+      "source_names": [
+        "www.worldlabs.ai"
+      ],
+      "sources": [
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a9f883b1",
+      "title": "是时候对人工智能实验室展开调查了",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+      "primary_url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+      "source_count": 1,
+      "source_names": [
+        "calnewport.com"
+      ],
+      "sources": [
+        {
+          "id": "d3277f9a483ab5c5ce8b741e28f5bbd7393b951d",
+          "title": "是时候对人工智能实验室展开调查了",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+          "source": "calnewport.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:11.961000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_5a3809db",
       "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
       "url": "https://blog.greenpants.net/ai-accountability",
@@ -7306,754 +7878,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-28T21:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_82dd0a3d",
-      "title": "Palmer Luckey says AI won’t save founders from the hardest part of their jobs",
-      "url": "https://www.businessinsider.com/palmer-luckey-says-ai-wont-make-founders-job-easy-2026-9",
-      "primary_url": "https://www.businessinsider.com/palmer-luckey-says-ai-wont-make-founders-job-easy-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "187ca9b5b1baac97f96e0e384fdfb9d3a5e6b489",
-          "title": "Palmer Luckey says AI won’t save founders from the hardest part of their jobs",
-          "url": "https://www.businessinsider.com/palmer-luckey-says-ai-wont-make-founders-job-easy-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T21:16:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_84761af4",
-      "title": "In an effort to stop using AI images, my kid's school started using kid art for their fundraisers and events.",
-      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1wsr1ku/in_an_effort_to_stop_using_ai_images_my_kids",
-      "primary_url": "https://www.reddit.com/r/mildlyinteresting/comments/1wsr1ku/in_an_effort_to_stop_using_ai_images_my_kids",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "8234f0295101cce2dcb28fa709ef0d076c06cedb",
-          "title": "In an effort to stop using AI images, my kid's school started using kid art for their fundraisers and events.",
-          "url": "https://www.reddit.com/r/mildlyinteresting/comments/1wsr1ku/in_an_effort_to_stop_using_ai_images_my_kids",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-09-28T21:10:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2af69019",
-      "title": "Disney wants staffers to use AI for their annual reviews and goal setting — and there could be drawbacks",
-      "url": "https://www.businessinsider.com/disney-ai-push-annual-performance-review-josh-damaro-2026-9",
-      "primary_url": "https://www.businessinsider.com/disney-ai-push-annual-performance-review-josh-damaro-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "c05a2c128efd527044114ac04c124fc8fe572325",
-          "title": "Disney wants staffers to use AI for their annual reviews and goal setting — and there could be drawbacks",
-          "url": "https://www.businessinsider.com/disney-ai-push-annual-performance-review-josh-damaro-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:48:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a96c407b",
-      "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-      "primary_url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "f69bd3317e09a8fab181af9a7be6aa332ab8354b",
-          "title": "Pacing the Frontier is not the actual goal for AI labs",
-          "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:47:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1b59bcc6",
-      "title": "Hinton, Bengio and AI lab scientists warn of an intelligence explosion",
-      "url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
-      "primary_url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7f18b53ec2d7f8a7462f21bbaba72b2b4c07f2b9",
-          "title": "Hinton, Bengio and AI lab scientists warn of an intelligence explosion",
-          "url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:45:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aa875287",
-      "title": "一款真正严肃的人工智能产品会是什么样子？",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "primary_url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "source_count": 1,
-      "source_names": [
-        "blog.glyph.im"
-      ],
-      "sources": [
-        {
-          "id": "a7824ff9826c58481077b5a6df19eb3e61df75fa",
-          "title": "一款真正严肃的人工智能产品会是什么样子？",
-          "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-          "source": "blog.glyph.im",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T20:34:19.335000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b58b7e81",
-      "title": "Android Auto's Gemini has a major problem when it comes to calling 911",
-      "url": "https://www.androidpolice.com/android-autos-gemini-has-a-major-problem-with-911",
-      "primary_url": "https://www.androidpolice.com/android-autos-gemini-has-a-major-problem-with-911",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "cde4e0e31a2859065d078a0050a6b7effbad0446",
-          "title": "Android Auto's Gemini has a major problem when it comes to calling 911",
-          "url": "https://www.androidpolice.com/android-autos-gemini-has-a-major-problem-with-911",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:55:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2ddf3aa1",
-      "title": "We survived without AI for centuries",
-      "url": "https://www.reddit.com/r/MurderedByWords/comments/1wsouex/we_survived_without_ai_for_centuries",
-      "primary_url": "https://www.reddit.com/r/MurderedByWords/comments/1wsouex/we_survived_without_ai_for_centuries",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "fc26696f2e3dc631c105ae8ef8611cd28ed7ce18",
-          "title": "We survived without AI for centuries",
-          "url": "https://www.reddit.com/r/MurderedByWords/comments/1wsouex/we_survived_without_ai_for_centuries",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-09-28T19:49:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e563c263",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9c17a82c00313e8fd7599325127fb87595cfb5b2",
-          "title": "Shopify opens checkout to browser-based AI agents",
-          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:33:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_22d26db9",
-      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
-      "url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9",
-      "primary_url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "4ac7a4186a5f31990f8820d5a1b9e2ab6beb7bf2",
-          "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
-          "url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:31:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4ad730cb",
-      "title": "SiMa.ai raises $150m at a $1.45bn valuation for physical AI chips",
-      "url": "https://thenextweb.com/news/sima-ai-150m-series-c-1-45bn-valuation-physical-ai",
-      "primary_url": "https://thenextweb.com/news/sima-ai-150m-series-c-1-45bn-valuation-physical-ai",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "6522a02f7e70c1ce4e28e2129b0c8a7e140034ec",
-          "title": "SiMa.ai raises $150m at a $1.45bn valuation for physical AI chips",
-          "url": "https://thenextweb.com/news/sima-ai-150m-series-c-1-45bn-valuation-physical-ai",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:27:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dfe9c635",
-      "title": "Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)",
-      "url": "https://www.techmeme.com/260928/p34",
-      "primary_url": "https://www.techmeme.com/260928/p34",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "90766050fab86388dcf90e9ff0c5953dbf3d43b6",
-          "title": "Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)",
-          "url": "https://www.techmeme.com/260928/p34",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:25:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d59ce8e8",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
-      "primary_url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "7b4e3ca157c74405d7270ca1a41d0f4e796237d5",
-          "title": "The AI boom took over Climate Week and not everyone is happy about it",
-          "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:21:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0005be89",
-      "title": "UK AI minister says AI testing is not enough, Fortune reports",
-      "url": "https://thenextweb.com/news/kanishka-narayan-ai-risk-harden-defences-fortune",
-      "primary_url": "https://thenextweb.com/news/kanishka-narayan-ai-risk-harden-defences-fortune",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "6179242d40b3a924b17732cf26aaf8ccde60b0b6",
-          "title": "UK AI minister says AI testing is not enough, Fortune reports",
-          "url": "https://thenextweb.com/news/kanishka-narayan-ai-risk-harden-defences-fortune",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:17:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6156aacc",
-      "title": "Anthropic releases Claude Sonnet 5.5, a faster and cheaper follow-up to Opus 5.5",
-      "url": "https://mashable.com/tech/anthropic-claude-sonnet-launch-cheaper-opus-model",
-      "primary_url": "https://mashable.com/tech/anthropic-claude-sonnet-launch-cheaper-opus-model",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "f68c3a65d1c09628af4cd90435fb793f648189b7",
-          "title": "Anthropic releases Claude Sonnet 5.5, a faster and cheaper follow-up to Opus 5.5",
-          "url": "https://mashable.com/tech/anthropic-claude-sonnet-launch-cheaper-opus-model",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:16:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d8ed365f",
-      "title": "Europe and UAE plan $1 billion orbital data center with 50 connected \"computers\" and a central \"LLM store\" that allows users to select what open source model to use on data collected by satellite sensors",
-      "url": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
-      "primary_url": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "0252e38d6fe6c8d948024a0a9dd19f6c313f37ad",
-          "title": "Europe and UAE plan $1 billion orbital data center with 50 connected \"computers\" and a central \"LLM store\" that allows users to select what open source model to use on data collected by satellite sensors",
-          "url": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5399487e",
-      "title": "大型律所正经历剧变——但这并非由人工智能引发的",
-      "url": "https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai",
-      "primary_url": "https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "142c4edb005416d1a7cdc9d4be08422a551a53f2",
-          "title": "大型律所正经历剧变——但这并非由人工智能引发的",
-          "url": "https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T19:14:35.508000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_53b99795",
-      "title": "人工智能正向以色列选民走来",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters",
-      "primary_url": "https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "9f8d12000a61e32607de6e9667640b87c26eb25e",
-          "title": "人工智能正向以色列选民走来",
-          "url": "https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T19:14:35.490000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d8453387",
-      "title": "Anthropic ends discounts once tokens run out, The Information reports",
-      "url": "https://thenextweb.com/news/anthropic-openai-enterprise-discounts-tokens-the-information",
-      "primary_url": "https://thenextweb.com/news/anthropic-openai-enterprise-discounts-tokens-the-information",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "169ba698d601903e1c0f8f7a8e1dcaa4dda35e47",
-          "title": "Anthropic ends discounts once tokens run out, The Information reports",
-          "url": "https://thenextweb.com/news/anthropic-openai-enterprise-discounts-tokens-the-information",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:07:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4b7c46b6",
-      "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)",
-      "url": "https://www.techmeme.com/260928/p33",
-      "primary_url": "https://www.techmeme.com/260928/p33",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a63c8df0f84d3ac0f78ab467f73d4cd92358dc74",
-          "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)",
-          "url": "https://www.techmeme.com/260928/p33",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_33df793c",
-      "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
-      "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-      "primary_url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "725e397d625847a0d1dd881e041a1f09c3eb86ae",
-          "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
-          "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b3d412ca",
-      "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
-      "url": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push",
-      "primary_url": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "2571d926b003a4e6e5f0dc394be51f748a1725d8",
-          "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
-          "url": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7a9fa9c7",
-      "title": "Meta is starting an enterprise business to justify its massive AI spending",
-      "url": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending",
-      "primary_url": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "30b77679fa533c19fadf61ab7f44c418974fdcda",
-          "title": "Meta is starting an enterprise business to justify its massive AI spending",
-          "url": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:37:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f875ab18",
-      "title": "Florida asks a court to stop OpenAI building new AI models",
-      "url": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier",
-      "primary_url": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "93bc99ff40ba9438d7f3782455d43e5ac0e4ca0b",
-          "title": "Florida asks a court to stop OpenAI building new AI models",
-          "url": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:36:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5fbe809c",
-      "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-      "primary_url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "cd29d0a43955704524407386605d99f0c4e9bd8d",
-          "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-          "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T18:31:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e6c9dca",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a376e4af339fc74d884af2d2bc59d8976c216a5e",
-          "title": "Nvidia launches new platform for reining in rogue AI agents",
-          "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:31:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_27c45ba7",
-      "title": "Anthropic releases Claude Sonnet 5.5 with the cyber limits it reserved for its best models",
-      "url": "https://thenextweb.com/news/sonnet-5-5-cyber-distillation",
-      "primary_url": "https://thenextweb.com/news/sonnet-5-5-cyber-distillation",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "5a30bf4238d13e034527b68fd94ac75f7fc31931",
-          "title": "Anthropic releases Claude Sonnet 5.5 with the cyber limits it reserved for its best models",
-          "url": "https://thenextweb.com/news/sonnet-5-5-cyber-distillation",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:30:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_25f3341a",
-      "title": "The Case Against Pacing the AI Frontier",
-      "url": "https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier",
-      "primary_url": "https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier",
-      "source_count": 1,
-      "source_names": [
-        "TIME Magazine"
-      ],
-      "sources": [
-        {
-          "id": "af839f25d6b1db76f2ba685ca713e1061275586e",
-          "title": "The Case Against Pacing the AI Frontier",
-          "url": "https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier",
-          "source": "TIME Magazine",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:15:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_537d5b76",
-      "title": "Meta hires MongoDB CEO CJ Desai to sell its AI to businesses",
-      "url": "https://thenextweb.com/news/meta-enterprise-platform-cj-desai-mongodb-ceo",
-      "primary_url": "https://thenextweb.com/news/meta-enterprise-platform-cj-desai-mongodb-ceo",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "15e3b2be265472f0e8a9efcd1dcb909e79ea1fd7",
-          "title": "Meta hires MongoDB CEO CJ Desai to sell its AI to businesses",
-          "url": "https://thenextweb.com/news/meta-enterprise-platform-cj-desai-mongodb-ceo",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:09:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f9968bd0",
-      "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
-      "url": "https://www.techmeme.com/260928/p32",
-      "primary_url": "https://www.techmeme.com/260928/p32",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "8a843642cba53421b7e145c56fbd8aeb71f775d0",
-          "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
-          "url": "https://www.techmeme.com/260928/p32",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:07:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2ad84169",
-      "title": "AI models are becoming outdated at record speed — so what does that mean for the tokens that companies are spending millions on?",
-      "url": "https://www.techradar.com/pro/ai-models-are-becoming-outdated-at-record-speed-so-what-does-that-mean-for-the-tokens-that-companies-are-spending-millions-on",
-      "primary_url": "https://www.techradar.com/pro/ai-models-are-becoming-outdated-at-record-speed-so-what-does-that-mean-for-the-tokens-that-companies-are-spending-millions-on",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "bee696c2483ceff4f1cfbc73efa414b3f0947312",
-          "title": "AI models are becoming outdated at record speed — so what does that mean for the tokens that companies are spending millions on?",
-          "url": "https://www.techradar.com/pro/ai-models-are-becoming-outdated-at-record-speed-so-what-does-that-mean-for-the-tokens-that-companies-are-spending-millions-on",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3c0005c3",
-      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-      "url": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog",
-      "primary_url": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "5335a232d928414f03ba0345cf2bdc924c744783",
-          "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-          "url": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2e53fc93",
-      "title": "I made a visual workspace for AI Automations",
-      "url": "https://www.biom.dev",
-      "primary_url": "https://www.biom.dev",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "f43d84481e144b726837f36103c7f54ccb9bea39",
-          "title": "I made a visual workspace for AI Automations",
-          "url": "https://www.biom.dev",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T17:53:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_125b0a32",
-      "title": "Instinct raised $1B at $10B for an AI agent that rings restaurants on its own phone",
-      "url": "https://thenextweb.com/news/instinct-1bn-agent-calls-eu-rule",
-      "primary_url": "https://thenextweb.com/news/instinct-1bn-agent-calls-eu-rule",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "4ca3bd268a8edbe251039b82deadc2abef8158b8",
-          "title": "Instinct raised $1B at $10B for an AI agent that rings restaurants on its own phone",
-          "url": "https://thenextweb.com/news/instinct-1bn-agent-calls-eu-rule",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T17:50:28Z"
         }
       ],
       "item_count": 1,
