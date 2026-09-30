@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T07:32:56.356593Z",
+  "generated_at": "2026-09-30T07:46:02.183075Z",
   "window_hours": 24,
-  "total_stories": 369,
+  "total_stories": 370,
   "stories": [
     {
       "story_id": "story_f806dd97",
@@ -12,8 +12,8 @@
       "source_names": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "openai.com",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -33,24 +33,46 @@
           "published_at": "2026-09-29T17:36:13.593000Z"
         },
         {
-          "id": "d4e7affbc703317e492dac3bdcb03d5d69f2721d",
+          "id": "e97cb8f4f9be6b5289bad975a24176e66716c31a",
           "title": "Dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-29T17:07:57Z"
-        },
-        {
-          "id": "05e730e301a740fbccc03e3093933c3ed103bd04",
-          "title": "Dots: Always-on agents",
           "url": "https://openai.com/index/introducing-dots",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
+          "published_at": "2026-09-29T17:07:57Z"
+        },
+        {
+          "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-29T17:07:57Z"
         }
       ],
       "item_count": 4,
       "score": 10090
+    },
+    {
+      "story_id": "story_6af8dd1a",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T15:30:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_9179e475",
@@ -163,66 +185,26 @@
       "score": 10020
     },
     {
-      "story_id": "story_6af8dd1a",
-      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "story_id": "story_66cfd105",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "primary_url": "https://openai.com/index/devday-2026-recap",
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
         {
-          "id": "9f9033a506e5eeb96cc674f22edaa8b3a9d048a8",
-          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "ba34b98778e97a19a9c917b6433bc1dad5a30fa8",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
-          "published_at": "2026-09-29T15:30:38Z"
+          "published_at": "2026-09-29T10:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 10020
-    },
-    {
-      "story_id": "story_507a23ff",
-      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "jorgegarciaherrero.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News：AI 热帖",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
-          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
     },
     {
       "story_id": "story_522f82c5",
@@ -256,16 +238,24 @@
       "score": 9970
     },
     {
-      "story_id": "story_429bef6d",
-      "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
-      "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "story_id": "story_a1f7e152",
+      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
       "source_count": 2,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch"
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "sources": [
+        {
+          "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
+          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:52:37Z"
+        },
         {
           "id": "64f8f8b1a6db2d38b4ac1067308170161f734910",
           "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
@@ -273,14 +263,6 @@
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "site_id": "aihot",
           "published_at": "2026-09-29T19:32:30Z"
-        },
-        {
-          "id": "4beb818a5819cb4e1d37cae1da99b99b00f785f4",
-          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T19:52:37Z"
         }
       ],
       "item_count": 2,
@@ -1131,28 +1113,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_61266768",
-      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
-          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
-          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-          "source": "Ars Technica：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T14:22:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_addb1667",
       "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
       "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
@@ -1816,8 +1776,8 @@
       "source_count": 3,
       "source_names": [
         "OpenAI News",
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
+        "openai.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1829,19 +1789,19 @@
           "published_at": "2026-09-29T10:00:00Z"
         },
         {
-          "id": "6f70472690eb287e9e2330ceead8fee62c20c6b6",
+          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
           "title": "GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "79df06514fcc61d9cb24bd3e1c5d04b8642f45b7",
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "url": "https://openai.com/index/introducing-gpt-6-1-sol",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-09-29T17:06:45Z"
-        },
-        {
-          "id": "38962e864ad8b46571505649290c8d777c5cbc56",
-          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
           "published_at": "2026-09-29T17:06:45Z"
         }
       ],
@@ -1918,6 +1878,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-30T07:18:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2530ad2b",
+      "title": "既做裁判又当运动员？特朗普让AI巨头自我监管",
+      "url": "https://m.thepaper.cn/detail/34178736",
+      "primary_url": "https://m.thepaper.cn/detail/34178736",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "83a0145dc88c7867a5a4e2c2255466778c52ae96",
+          "title": "既做裁判又当运动员？特朗普让AI巨头自我监管",
+          "url": "https://m.thepaper.cn/detail/34178736",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-30T07:14:27Z"
         }
       ],
       "item_count": 1,
@@ -2806,28 +2788,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_cc7bc5e4",
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
-      "primary_url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "e868bcd27254832de4ad373120b0f4d7af6a7b66",
-          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T21:14:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_ace78b31",
       "title": "Trump says doesn't want to work with China on AI safety",
       "url": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
@@ -2880,22 +2840,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_5e4f37ed",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "story_id": "story_a23a547d",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+      "primary_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "395c3a5c493e6d6c1ded8e2224c9f7ec8bc51aa8",
-          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "id": "80817edf93243a69835f0b42b1eba976c94f1a1e",
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-29T19:52:37Z"
+          "published_at": "2026-09-29T20:15:47Z"
         }
       ],
       "item_count": 1,
@@ -2924,28 +2884,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_88116edf",
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
-      "primary_url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "7d4767ee8e8433c0e6635877c091c64466c76436",
-          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-          "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T18:11:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_93fb42e6",
       "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
       "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
@@ -2962,6 +2900,28 @@
           "source": "Wired",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T18:03:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_485039d0",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2b822ff687595e9d69d189dd9a73f1b804c9a1ef",
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T17:45:51Z"
         }
       ],
       "item_count": 1,
@@ -3008,11 +2968,11 @@
           "published_at": "2026-09-29T17:15:00Z"
         },
         {
-          "id": "659dd32adf5535c70bf487cb69e470e3811863d5",
+          "id": "d564e9c6f331324b75ce7878d58c3d3cc728cda5",
           "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
           "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-29T17:15:00Z"
         }
       ],
@@ -3020,20 +2980,42 @@
       "score": 9720
     },
     {
-      "story_id": "story_9c75674b",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "story_id": "story_74ec7da7",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "1af1200759cd7f02ac6425f09c10f4d072d7fcd7",
-          "title": "OpenAI launches Dots, its Muse competitor",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-          "source": "The Verge",
+          "id": "a5e9365b6aa0d1453dd4c09156321a93df113184",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T17:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5ac63014",
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
+      "primary_url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "8947f89aa17c6b1988a53ed125e55ef7687896f2",
+          "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+          "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
+          "source": "Wired",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T17:15:00Z"
         }
@@ -3204,28 +3186,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_73b25c0a",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
-      "primary_url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "6fe6731e57da2f9fbc8606e6e3d10e9b463fa5c4",
-          "title": "Meta is expanding its AI agent Muse to small businesses",
-          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T13:47:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_9fcc9d56",
       "title": "Man charged over AI image of crocodile in Singapore reservoir",
       "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&at_campaign=rss",
@@ -3270,6 +3230,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_02d7cbf8",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "02451d60fa1c209cf172388cbd827602d2076208",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T12:45:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_6c3dca16",
       "title": "我国生成式人工智能用户规模突破7亿人",
       "url": "http://www.news.cn/20260929/40258c3794684c20ae7867909cdec2ce/c.html",
@@ -3286,6 +3268,28 @@
           "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T12:36:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_aea4dcea",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
+      "primary_url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "145ea8952830db3fb66d9b12426bbea3ea23384a",
+          "title": "Reco raises $55M as AI agent security startups crowd the market",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-29T12:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3374,28 +3378,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-29T10:32:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_18d0be05",
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "6a9e9add3edf0f02ea2a8348c7ed2b07a6381306",
-          "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-29T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3693,6 +3675,46 @@
       "score": 9590
     },
     {
+      "story_id": "story_507a23ff",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source_count": 3,
+      "source_names": [
+        "jorgegarciaherrero.com",
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
+          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
+          "title": "AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
       "story_id": "story_bb634f2f",
       "title": "PSSA: A non-transformer language model written from scratch in Rust",
       "url": "https://news.ycombinator.com/item?id=49903993",
@@ -3819,7 +3841,7 @@
       "source_count": 2,
       "source_names": [
         "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3831,11 +3853,11 @@
           "published_at": "2026-09-29T21:30:27.650000Z"
         },
         {
-          "id": "8e082293fb381cfa3aec745eebd5a73ecc985f17",
+          "id": "cd931df78dd4705f5a8ad7bc1313561127ffaeed",
           "title": "GLM-5.3 and the spread of advanced cyber capabilities",
           "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T17:31:26Z"
         }
       ],
@@ -3881,7 +3903,7 @@
       "source_count": 2,
       "source_names": [
         "www.thenationalnews.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3893,11 +3915,11 @@
           "published_at": "2026-09-29T20:43:58.739000Z"
         },
         {
-          "id": "c437419877898099cd11ea237aaecf88461e637e",
+          "id": "9562bf1fb1d9973fa17604840b60c269542cc8d9",
           "title": "AI needs $6T in annual revenue to justify data centre boom",
           "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T19:21:25Z"
         }
       ],
@@ -3912,7 +3934,7 @@
       "source_count": 2,
       "source_names": [
         "www.eff.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3924,11 +3946,11 @@
           "published_at": "2026-09-29T17:36:13.589000Z"
         },
         {
-          "id": "472d174e0c1900d28060387494845c96f88dc6b3",
+          "id": "5e7866403c2af8d03aee49bd9e3010135367ba2b",
           "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
           "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T16:30:48Z"
         }
       ],
@@ -3943,7 +3965,7 @@
       "source_count": 2,
       "source_names": [
         "appleinsider.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3955,11 +3977,11 @@
           "published_at": "2026-09-29T15:46:20.708000Z"
         },
         {
-          "id": "81e9d34171a99fb34b68779d5762dc6e0eb69ad5",
+          "id": "b673b73fd8e7d9046f2c1de33d02f8abef2c3c06",
           "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
           "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-29T14:15:24Z"
         }
       ],
@@ -3996,6 +4018,28 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_a133c9f5",
+      "title": "CrawlRaven MCP",
+      "url": "https://www.producthunt.com/products/crawlraven-mcp",
+      "primary_url": "https://www.producthunt.com/products/crawlraven-mcp",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "eb539efd350a390035994f3c5646d156202b0a46",
+          "title": "CrawlRaven MCP",
+          "url": "https://www.producthunt.com/products/crawlraven-mcp",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-30T07:45:40.801000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_679638f8",
@@ -4378,15 +4422,15 @@
       "primary_url": "https://github.com/Sparticle62ops/pssa",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6d9673f3db82762d2b7c01dd9543bff938ddf951",
+          "id": "89651ec66972c05d31ae65611e6380a46a3ba958",
           "title": "PSSA: A non-transformer language model written from scratch in Rust",
           "url": "https://github.com/Sparticle62ops/pssa",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-30T03:19:54Z"
         }
       ],
@@ -4400,15 +4444,15 @@
       "primary_url": "https://agmai.org/general-sep29",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "885f3351b7baf5d0904f4adf1265957993a9d81b",
+          "id": "efde6aef7727efedcde4c6b4024362f6221fd5ce",
           "title": "Responsible Release of AI-Generated Mathematics",
           "url": "https://agmai.org/general-sep29",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-30T02:36:12Z"
         }
       ],
@@ -4677,6 +4721,36 @@
         }
       ],
       "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2c1579b2",
+      "title": "White House’s New AI-powered America.gov Website Confirms U.S President Lost the 2020 Presidential Election",
+      "url": "https://www.reddit.com/r/technology/comments/1wtpzj9/white_houses_new_aipowered_americagov_website",
+      "primary_url": "https://www.reddit.com/r/technology/comments/1wtpzj9/white_houses_new_aipowered_americagov_website",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "dec142031b87cf4bdd099f1ff0e048a21747e72c",
+          "title": "White House’s New AI-powered America.gov Website Confirms U.S President Lost the 2020 Presidential Election",
+          "url": "https://www.reddit.com/r/technology/comments/1wtpzj9/white_houses_new_aipowered_americagov_website",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T23:50:34Z"
+        },
+        {
+          "id": "af6508dc0230878a9e69be224e72dece02ab24cd",
+          "title": "White House’s New AI Website Confirms Trump Lost the 2020 Presidential Election",
+          "url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-09-29T18:47:55Z"
+        }
+      ],
+      "item_count": 2,
       "score": 7
     },
     {
@@ -5098,6 +5172,28 @@
       "score": 7
     },
     {
+      "story_id": "story_cc7bc5e4",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+      "primary_url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "7115a24ddaa09d206d09833af620b62ac1b461e3",
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T21:14:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2a6b9e32",
       "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
       "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
@@ -5186,28 +5282,6 @@
       "score": 7
     },
     {
-      "story_id": "story_a23a547d",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-      "primary_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9065a7c9ccc9faa3c0b313b6d1c12d428545f88b",
-          "title": "OpenAI’s latest features take direct aim at the app store model",
-          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T20:15:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_a5b7b122",
       "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
       "url": "https://www.techmeme.com/260929/p46",
@@ -5268,6 +5342,28 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-09-29T19:58:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5e4f37ed",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "855e8d4529a894077dd98cdcd95e3bbb81524734",
+          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T19:52:37Z"
         }
       ],
       "item_count": 1,
@@ -5346,15 +5442,15 @@
       "primary_url": "https://github.com/lostmsu/TurboGPT",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "73ea424a6a52befb87cba467762d1f153cd65315",
+          "id": "7d743040653b7c74828e1620b58bf3c0d08e0e04",
           "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
           "url": "https://github.com/lostmsu/TurboGPT",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-29T19:20:02Z"
         }
       ],
@@ -5494,28 +5590,6 @@
       "score": 7
     },
     {
-      "story_id": "story_34f3f050",
-      "title": "White House’s New AI Website Confirms Trump Lost the 2020 Presidential Election",
-      "url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
-      "primary_url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "af6508dc0230878a9e69be224e72dece02ab24cd",
-          "title": "White House’s New AI Website Confirms Trump Lost the 2020 Presidential Election",
-          "url": "https://www.reddit.com/r/politics/comments/1wtijj6/white_houses_new_ai_website_confirms_trump_lost",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-09-29T18:47:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_7eaa3525",
       "title": "There's now an official US government AI chatbot",
       "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot",
@@ -5642,6 +5716,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T18:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_88116edf",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+      "primary_url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "18fc76f3378937cd588edef9be6365a5e5d0b54b",
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T18:11:09Z"
         }
       ],
       "item_count": 1,
@@ -5796,28 +5892,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:50:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_485039d0",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a70383419ee699e7855e26f1509e12504b0b0038",
-          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T17:45:51Z"
         }
       ],
       "item_count": 1,
@@ -6330,42 +6404,20 @@
       "score": 7
     },
     {
-      "story_id": "story_74ec7da7",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "story_id": "story_9c75674b",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "1ca4e25c5539716ebce4c78ddfc6ed1f881e4142",
-          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T17:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5ac63014",
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
-      "primary_url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "aec7fff57ae82df616345ea0f260a38c538509de",
-          "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-          "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
-          "source": "Wired",
+          "id": "8a28cf395d51256d0e997283c2946566cb6961c1",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "source": "The Verge",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:15:00Z"
         }
@@ -6412,28 +6464,6 @@
           "source": "Mac Rumors",
           "site_id": "techurls",
           "published_at": "2026-09-29T17:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_66cfd105",
-      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "primary_url": "https://openai.com/index/devday-2026-recap",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8332ce5be2ff0f6106ec4be5145ac4e1cc6e6564",
-          "title": "DevDay 2026 Recap",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-29T17:07:45Z"
         }
       ],
       "item_count": 1,
@@ -7078,6 +7108,28 @@
       "score": 7
     },
     {
+      "story_id": "story_61266768",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_44d6d510",
       "title": "Nvidia launches new AI safety program designed at stopping models escaping their sandboxes",
       "url": "https://www.techradar.com/pro/nvidia-launches-new-ai-safety-program-designed-at-stopping-models-escaping-their-sandboxes",
@@ -7292,6 +7344,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-29T13:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_73b25c0a",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+      "primary_url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "08cdb287cce7cfe344393857155691c3d467a51c",
+          "title": "Meta is expanding its AI agent Muse to small businesses",
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T13:47:30Z"
         }
       ],
       "item_count": 1,
@@ -7540,28 +7614,6 @@
       "score": 7
     },
     {
-      "story_id": "story_02d7cbf8",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3b16c199fd4aa043f044fb3edc31ff76fb107ed2",
-          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T12:45:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_d2f4df64",
       "title": "GPT-6 Astra ran simulated supply-chain attacks in UK government tests",
       "url": "https://thenextweb.com/news/gpt-6-astra-supply-chain-attacks-uk-aisi-simulations",
@@ -7600,28 +7652,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-29T12:30:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aea4dcea",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
-      "primary_url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "59b4550c4a393f86d2be2f0e7421fb1811766300",
-          "title": "Reco raises $55M as AI agent security startups crowd the market",
-          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T12:30:00Z"
         }
       ],
       "item_count": 1,
@@ -7864,6 +7894,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-29T10:30:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_18d0be05",
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "bbf81147ad24e311e79cb17258661ee0dc6801da",
+          "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -8436,28 +8488,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-29T08:11:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a94975d9",
-      "title": "OpenAI cancels October launch of GPT-6.1 Astra after failed safety tests",
-      "url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
-      "primary_url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7722aa1115051b02031c511e0ee58885e095004f",
-          "title": "OpenAI cancels October launch of GPT-6.1 Astra after failed safety tests",
-          "url": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T07:37:18Z"
         }
       ],
       "item_count": 1,
