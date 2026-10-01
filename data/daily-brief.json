@@ -1,18 +1,40 @@
 {
-  "generated_at": "2026-10-01T00:52:50.802534Z",
+  "generated_at": "2026-10-01T07:45:57.493147Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
-      "title": "Helping small businesses put AI to work",
-      "title_zh": null,
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
+      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
+      "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-09-30T10:00:00Z",
+      "published_at": "2026-09-30T10:30:00Z",
       "ai_is_related": true,
-      "ai_score": 0.91
+      "ai_score": 1.0
+    },
+    {
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "url": "https://modal.com/blog/modal-clusters-generally-available",
+      "source": "Modal 官方工程博客（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": null,
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T04:44:34Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
@@ -22,6 +44,39 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-10-01T00:09:22Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+      "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+      "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+      "title_zh": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -59,70 +114,59 @@
       "ai_score": 1.0
     },
     {
-      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-      "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
-      "source": "Ars Technica：AI（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T18:47:01Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-      "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T18:42:04Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-      "title_zh": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-      "url": "https://x.com/JensenHuang/status/2105348324484342238",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T17:25:30Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-      "title_zh": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T16:20:04Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-      "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind：Blog（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T15:03:07Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "New benchmark to climb https://t.co/r9NRjd0i8n",
+      "title": "Other code editors let you top down coordinate child agents I’ve never really seen this where agent swarms speak to one another as peers and self coordinate allowing you to organically explore the space instead of pre...",
       "title_zh": null,
-      "url": "https://x.com/thenanyu/status/2105154553327026643",
-      "source": "Follow Builders · X · Nan Yu",
+      "url": "https://x.com/garrytan/status/2105449821645480046",
+      "source": "Follow Builders · X · Garry Tan",
       "source_tier_rank": 2,
       "source_tier_label": "Builders/X源",
-      "published_at": "2026-09-30T04:35:32Z",
+      "published_at": "2026-10-01T00:08:49Z",
       "ai_is_related": false,
-      "ai_score": 0.33
+      "ai_score": 0.57
+    },
+    {
+      "title": "I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow. https://t.co/YUcQB...",
+      "title_zh": null,
+      "url": "https://x.com/steipete/status/2105362785534361996",
+      "source": "Follow Builders · X · Peter Steinberger",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-09-30T18:22:58Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
+    },
+    {
+      "title": "Agent 开始不下班了，但这不是最重要的",
+      "title_zh": "Agent 开始不下班了，但这不是最重要的",
+      "url": "https://www.huxiu.com/article/4895016.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-01T04:14:29Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "AMD拟82亿美元收购李飞飞的公司：世界模型到底值钱在哪？",
+      "title_zh": "AMD拟82亿美元收购李飞飞的公司：世界模型到底值钱在哪？",
+      "url": "https://www.huxiu.com/article/4895005.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-01T03:43:19Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "对话Instinct创始人：Agent的终极商业模式是什么？",
+      "title_zh": "对话Instinct创始人：Agent的终极商业模式是什么？",
+      "url": "https://www.huxiu.com/article/4894978.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-01T03:18:07Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "个人Agent，人迈向硅基的第一步？",
@@ -132,28 +176,6 @@
       "source_tier_rank": 3,
       "source_tier_label": "RSS/OPML",
       "published_at": "2026-09-30T11:17:47Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "82亿美元，AMD买下李飞飞世界模型公司：卖铲子的人，为什么自己下矿了？",
-      "title_zh": "82亿美元，AMD买下李飞飞世界模型公司：卖铲子的人，为什么自己下矿了？",
-      "url": "https://www.huxiu.com/article/4894745.html?f=rss",
-      "source": "虎嗅",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-09-30T02:55:27Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "当Agent 开始“摇人”，安全的边界变了",
-      "title_zh": "当Agent 开始“摇人”，安全的边界变了",
-      "url": "https://www.huxiu.com/article/4894718.html?f=rss",
-      "source": "虎嗅",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-09-30T01:16:47Z",
       "ai_is_related": false,
       "ai_score": 0.47
     },
@@ -187,39 +209,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-09-30T11:00:00Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手",
-      "title_zh": "基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手",
-      "url": "https://juejin.cn/post/7690762523469479977",
-      "source": "juejin",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-30T07:09:38.716000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Agent Identity",
-      "title_zh": null,
-      "url": "https://www.producthunt.com/products/agent-identity",
-      "source": "producthunt",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-30T07:09:38.208000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Show HN: 包含52.6万颗小行星和所有被追踪卫星的实时太阳系模型",
-      "title_zh": "Show HN: 包含52.6万颗小行星和所有被追踪卫星的实时太阳系模型",
-      "url": "https://space.bl2.net",
-      "source": "space.bl2.net",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-30T01:25:41.708000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
