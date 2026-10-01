@@ -1,18 +1,73 @@
 {
-  "generated_at": "2026-10-01T14:51:05.629474Z",
+  "generated_at": "2026-10-01T20:36:42.013840Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "source": "Google DeepMind",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "title_zh": null,
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-09-30T20:01:45Z",
+      "published_at": "2026-10-01T15:01:43Z",
       "ai_is_related": true,
-      "ai_score": 0.91
+      "ai_score": 0.95
+    },
+    {
+      "title": "Codex CLI 0.160.0",
+      "title_zh": null,
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-01T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.98
+    },
+    {
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+      "title_zh": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-01T18:08:07Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+      "title_zh": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+      "url": "https://x.com/arena/status/2105733983250301224",
+      "source": "X：Arena (@arena)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T18:57:58Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+      "title_zh": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+      "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "source": "LangChain：Blog（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T17:01:32Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+      "title_zh": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+      "url": "https://x.com/arena/status/2105702037849841954",
+      "source": "X：Arena (@arena)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T16:51:02Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
@@ -22,6 +77,17 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-10-01T12:05:49Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+      "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-01T12:00:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -48,72 +114,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-01T04:44:34Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-      "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-01T00:09:22Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-01T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-01T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-      "title_zh": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-      "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-01T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-      "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-30T21:35:38Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "Other code editors let you top down coordinate child agents I’ve never really seen this where agent swarms speak to one another as peers and self coordinate allowing you to organically explore the space instead of pre...",
       "title_zh": null,
       "url": "https://x.com/garrytan/status/2105449821645480046",
@@ -125,15 +125,15 @@
       "ai_score": 0.57
     },
     {
-      "title": "I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow. https://t.co/YUcQB...",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
       "title_zh": null,
-      "url": "https://x.com/steipete/status/2105362785534361996",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-09-30T18:22:58Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-01T20:30:47Z",
       "ai_is_related": false,
-      "ai_score": 0.57
+      "ai_score": 0.47
     },
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
@@ -180,6 +180,28 @@
       "ai_score": 0.47
     },
     {
+      "title": "Agent Memory架构设计与实现",
+      "title_zh": "Agent Memory架构设计与实现",
+      "url": "https://juejin.cn/post/7690512501442609186",
+      "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-01T20:11:10.052000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)",
+      "title_zh": null,
+      "url": "https://www.techmeme.com/261001/p32",
+      "source": "Techmeme",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-01T18:15:02Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
       "title": "我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构",
       "title_zh": "我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构",
       "url": "https://juejin.cn/post/7690413193492217856",
@@ -198,28 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-01T14:26:56.228000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[分享创造] 本地图片 agent 工具 Layerive 更新：加了批量改图、图片融合、抠图和局部删除等功能",
-      "title_zh": "[分享创造] 本地图片 agent 工具 Layerive 更新：加了批量改图、图片融合、抠图和局部删除等功能",
-      "url": "https://www.v2ex.com/t/1246056",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-01T14:18:37Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Show HN: 一台可运行的“恩尼格玛”密码机的3D模型",
-      "title_zh": "Show HN: 一台可运行的“恩尼格玛”密码机的3D模型",
-      "url": "https://enigma.design",
-      "source": "enigma.design",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-01T12:02:12.341000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
