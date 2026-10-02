@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T07:45:59.207648Z",
+  "generated_at": "2026-10-02T14:11:34.124455Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -13,17 +13,6 @@
       "published_at": "2026-10-02T04:01:31Z",
       "ai_is_related": true,
       "ai_score": 0.95
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "title_zh": null,
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-01T16:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.91
     },
     {
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
@@ -44,6 +33,17 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-10-01T18:08:07Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+      "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "source": "NVIDIA Blog（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-02T13:00:39Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -125,6 +125,17 @@
       "ai_score": 0.33
     },
     {
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "title_zh": null,
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation",
+      "source": "TechCrunch",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-01T21:55:22Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
       "title_zh": null,
       "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
@@ -134,28 +145,6 @@
       "published_at": "2026-10-01T20:30:47Z",
       "ai_is_related": false,
       "ai_score": 0.47
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "title_zh": null,
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
-      "source": "TechCrunch",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-10-01T14:00:00Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "title_zh": null,
-      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation",
-      "source": "TechCrunch",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-01T21:55:22Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
     },
     {
       "title": "Agent Memory架构设计与实现",
@@ -209,17 +198,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-01T14:18:37Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Show HN: 一台可运行的“恩尼格玛”密码机的3D模型",
-      "title_zh": "Show HN: 一台可运行的“恩尼格玛”密码机的3D模型",
-      "url": "https://enigma.design",
-      "source": "enigma.design",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-01T12:02:12.341000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
