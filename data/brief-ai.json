@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T01:07:33.725187Z",
+  "generated_at": "2026-10-02T07:35:15.747911Z",
   "category": "ai",
-  "total": 285,
+  "total": 299,
   "items": [
     {
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
@@ -44,6 +44,16 @@
       "ts": "2026-10-01T18:08:07Z"
     },
     {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "title_zh": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-10-02T04:01:31Z"
+    },
+    {
       "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
       "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
       "url": "https://modal.com/blog/modal-clusters-generally-available",
@@ -52,16 +62,6 @@
       "tier": 1,
       "ai": true,
       "ts": null
-    },
-    {
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-10-01T04:44:34Z"
     },
     {
       "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
@@ -214,36 +214,6 @@
       "ts": "2026-10-02T00:44:40Z"
     },
     {
-      "title": "Most token aggregators have extreme noise from ① token promos from/to providers that train on your data or ② providers that *claim* to be ZDR. Vercel AI Gateway is the largest trustworthy datasource to understand glob...",
-      "title_zh": "Most token aggregators have extreme noise from ① token promos from/to providers that train on your data or ② providers that *claim* to be ZDR. Vercel AI Gateway is the largest trustworthy datasource to understand glob...",
-      "url": "https://x.com/rauchg/status/2105476587756138942",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-10-01T01:55:11Z"
-    },
-    {
-      "title": "People I met at DevDay: I love your channel! Thank you! People in YouTube comments: Fing AI shill 🥲",
-      "title_zh": "People I met at DevDay: I love your channel! Thank you! People in YouTube comments: Fing AI shill 🥲",
-      "url": "https://x.com/petergyang/status/2105486915147645063",
-      "source": "Follow Builders · X · Peter Yang",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-10-01T02:36:13Z"
-    },
-    {
-      "title": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-      "title_zh": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-10-01T04:44:34Z"
-    },
-    {
       "title": "零基础入门Opus5.5做视频，万字拆解AI是如何用代码做视频的【提示词+Skill全开源】",
       "title_zh": "零基础入门Opus5.5做视频，万字拆解AI是如何用代码做视频的【提示词+Skill全开源】",
       "url": "https://waytoagi.feishu.cn/wiki/G6MGwsALHi4xBCk657yca5oGnld?from=from_copylink",
@@ -314,134 +284,184 @@
       "ts": "2026-10-01T07:45:17.444213Z"
     },
     {
-      "title": "特朗普宣布推出AI政府门户网站：America.gov",
-      "title_zh": "特朗普宣布推出AI政府门户网站：America.gov",
-      "url": "https://www.huxiu.com/article/4894974.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "Why AI Agents Cheat | Eric Ho (Goodfire)",
+      "title_zh": "Why AI Agents Cheat | Eric Ho (Goodfire)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "source": "Follow Builders · Podcast · The MAD Podcast with Matt Turck",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T01:36:53Z"
+      "ts": "2026-10-01T11:30:00Z"
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "title_zh": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-10-01T02:31:24Z"
-    },
-    {
-      "title": "我们盘点了30款出海的AI+游戏产品，发现钱都流向了生产管线",
-      "title_zh": "我们盘点了30款出海的AI+游戏产品，发现钱都流向了生产管线",
-      "url": "https://www.huxiu.com/article/4894996.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI Is this the beginning of the interp exponential? 00:00 Cold open & intro 01:06 \"Amoral students with an absent te...",
+      "title_zh": "Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI Is this the beginning of the interp exponential? 00:00 Cold open & intro 01:06 \"Amoral students with an absent te...",
+      "url": "https://x.com/mattturck/status/2105685876218925081",
+      "source": "Follow Builders · X · Matt Turck",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T02:51:59Z"
+      "ts": "2026-10-01T15:46:49Z"
     },
     {
-      "title": "对话Instinct创始人：Agent的终极商业模式是什么？",
-      "title_zh": "对话Instinct创始人：Agent的终极商业模式是什么？",
-      "url": "https://www.huxiu.com/article/4894978.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-10-01T03:18:07Z"
-    },
-    {
-      "title": "未来五年，最紧缺的AI人才之一：FDE",
-      "title_zh": "未来五年，最紧缺的AI人才之一：FDE",
-      "url": "https://www.huxiu.com/article/4894968.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "This great conversation on the rise of AI interpretability with @eric_ho of @GoodfireAI is also available on Spotify, Apple Podcasts, @snipd_app and here on YouTube (like and subscribe!): https://t.co/7TSOLBCvuZ",
+      "title_zh": "This great conversation on the rise of AI interpretability with @eric_ho of @GoodfireAI is also available on Spotify, Apple Podcasts, @snipd_app and here on YouTube (like and subscribe!): https://t.co/7TSOLBCvuZ",
+      "url": "https://x.com/mattturck/status/2105685880639717513",
+      "source": "Follow Builders · X · Matt Turck",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T03:30:00Z"
+      "ts": "2026-10-01T15:46:50Z"
     },
     {
-      "title": "South Korea’s exports hit record high on AI boom",
-      "title_zh": "South Korea’s exports hit record high on AI boom",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "I think there is much more potential energy in Sign In With ChatGPT/Plugin Extensions than we realize",
+      "title_zh": "I think there is much more potential energy in Sign In With ChatGPT/Plugin Extensions than we realize",
+      "url": "https://x.com/sama/status/2105687922234237364",
+      "source": "Follow Builders · X · Sam Altman",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T04:08:15Z"
+      "ts": "2026-10-01T15:54:57Z"
     },
     {
-      "title": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-      "title_zh": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-      "url": "https://www.huxiu.com/article/4895013.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying workflows. This requires a high level of t...",
+      "title_zh": "A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying workflows. This requires a high level of t...",
+      "url": "https://x.com/levie/status/2105695329513504976",
+      "source": "Follow Builders · X · Aaron Levie",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T04:08:40Z"
+      "ts": "2026-10-01T16:24:23Z"
     },
     {
-      "title": "Agent 开始不下班了，但这不是最重要的",
-      "title_zh": "Agent 开始不下班了，但这不是最重要的",
-      "url": "https://www.huxiu.com/article/4895016.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-10-01T04:14:29Z"
-    },
-    {
-      "title": "兄弟，找个班上吧，不要迷信AI创业，我是后悔离职的",
-      "title_zh": "兄弟，找个班上吧，不要迷信AI创业，我是后悔离职的",
-      "url": "https://www.huxiu.com/article/4895017.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "Last week, I launched my AI course to help you build a personal AI system that takes work off your plate. 100+ new members have joined since then, and I'm grateful. Instead of making you watch stale videos or sit thro...",
+      "title_zh": "Last week, I launched my AI course to help you build a personal AI system that takes work off your plate. 100+ new members have joined since then, and I'm grateful. Instead of making you watch stale videos or sit thro...",
+      "url": "https://x.com/petergyang/status/2105718093289033989",
+      "source": "Follow Builders · X · Peter Yang",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T04:16:45Z"
+      "ts": "2026-10-01T17:54:50Z"
     },
     {
-      "title": "What to know about the terrifying FlyDubai flight bound for Israel - AP News",
-      "title_zh": "What to know about the terrifying FlyDubai flight bound for Israel - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5",
-      "source": "AP World News",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-10-01T04:36:00Z"
-    },
-    {
-      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
-      "title_zh": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
-      "url": "https://www.huxiu.com/article/4894986.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits. Give it a try with Claude Sonnet 5.5. It has a strong eye for design an...",
+      "title_zh": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits. Give it a try with Claude Sonnet 5.5. It has a strong eye for design an...",
+      "url": "https://x.com/claudeai/status/2105721630051692804",
+      "source": "Follow Builders · X · Claude",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T04:52:41Z"
+      "ts": "2026-10-01T18:08:53Z"
     },
     {
-      "title": "Gemini 4能追回多少？",
-      "title_zh": "Gemini 4能追回多少？",
-      "url": "https://www.huxiu.com/article/4895025.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans. How it works and full terms: https://t.co/zEtM50m851",
+      "title_zh": "Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans. How it works and full terms: https://t.co/zEtM50m851",
+      "url": "https://x.com/claudeai/status/2105721631595209057",
+      "source": "Follow Builders · X · Claude",
+      "_site": "Follow Builders",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-10-01T05:37:10Z"
+      "ts": "2026-10-01T18:08:54Z"
     },
     {
-      "title": "Live: FlyDubai suspends flights to and from Israel after pilot attack",
-      "title_zh": "Live: FlyDubai suspends flights to and from Israel after pilot attack",
-      "url": "https://www.france24.com/en/middle-east/20261001-live-flydubai-suspends-flights-to-and-from-israel-after-pilot-attack",
-      "source": "France24 English",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-10-01T05:58:55Z"
+      "title": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. https://t.co/ZSwn1UEupp",
+      "title_zh": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. https://t.co/ZSwn1UEupp",
+      "url": "https://x.com/rauchg/status/2105723481413550427",
+      "source": "Follow Builders · X · Guillermo Rauch",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-01T18:16:15Z"
+    },
+    {
+      "title": "You should be able to use your AI subscription wherever you need: https://t.co/XpVq1kVYxe",
+      "title_zh": "You should be able to use your AI subscription wherever you need: https://t.co/XpVq1kVYxe",
+      "url": "https://x.com/sama/status/2105739098640298253",
+      "source": "Follow Builders · X · Sam Altman",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-01T19:18:18Z"
+    },
+    {
+      "title": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experie...",
+      "title_zh": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experie...",
+      "url": "https://x.com/bcherny/status/2105756563302723721",
+      "source": "Follow Builders · X · Boris Cherny",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-01T20:27:42Z"
+    },
+    {
+      "title": "\"AI agents are aeroplanes for the mind: faster and more powerful than the bicycle, harder to control, costlier when they crash.\"",
+      "title_zh": "\"AI agents are aeroplanes for the mind: faster and more powerful than the bicycle, harder to control, costlier when they crash.\"",
+      "url": "https://x.com/steipete/status/2105773541652308145",
+      "source": "Follow Builders · X · Peter Steinberger",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-01T21:35:10Z"
+    },
+    {
+      "title": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a c...",
+      "title_zh": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a c...",
+      "url": "https://x.com/karpathy/status/2105819303471976479",
+      "source": "Follow Builders · X · Andrej Karpathy",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T00:37:00Z"
+    },
+    {
+      "title": "AI Podcasts be like: Cold open: \"AI is about to destroy humanity. RSI is leading to a hard take off that we won't be able to control.\" &lt;&lt; but first, a message from our sponsors: meet AgentTina, your agentic work...",
+      "title_zh": "AI Podcasts be like: Cold open: \"AI is about to destroy humanity. RSI is leading to a hard take off that we won't be able to control.\" &lt;&lt; but first, a message from our sponsors: meet AgentTina, your agentic work...",
+      "url": "https://x.com/mattturck/status/2105835377290289601",
+      "source": "Follow Builders · X · Matt Turck",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T01:40:53Z"
+    },
+    {
+      "title": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "title_zh": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T02:14:51Z"
+    },
+    {
+      "title": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me &amp; find references. I asked Claude to make an animation editor where we could iterate on the jump, I'm re...",
+      "title_zh": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me &amp; find references. I asked Claude to make an animation editor where we could iterate on the jump, I'm re...",
+      "url": "https://x.com/trq212/status/2105849295580889208",
+      "source": "Follow Builders · X · Thariq",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T02:36:11Z"
+    },
+    {
+      "title": "I love a good reset although these days Claude Max feels basically unlimited on Opus and Sonnet",
+      "title_zh": "I love a good reset although these days Claude Max feels basically unlimited on Opus and Sonnet",
+      "url": "https://x.com/petergyang/status/2105855807061655827",
+      "source": "Follow Builders · X · Peter Yang",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T03:02:03Z"
+    },
+    {
+      "title": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet. https://t.co/jTTAhBsMfu",
+      "title_zh": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet. https://t.co/jTTAhBsMfu",
+      "url": "https://x.com/karpathy/status/2105909609487872075",
+      "source": "Follow Builders · X · Andrej Karpathy",
+      "_site": "Follow Builders",
+      "tier": 2,
+      "ai": true,
+      "ts": "2026-10-02T06:35:51Z"
     },
     {
       "title": "FlyDubai cockpit incident turns focus to crew-related hijackings",
@@ -474,8 +494,8 @@
       "ts": "2026-10-01T08:05:23Z"
     },
     {
-      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - apnews.com",
-      "title_zh": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - apnews.com",
+      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
+      "title_zh": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -484,8 +504,8 @@
       "ts": "2026-10-01T08:06:54Z"
     },
     {
-      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
-      "title_zh": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
+      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - apnews.com",
+      "title_zh": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4?oc=5",
       "source": "AP World News",
       "_site": "OPML RSS",
@@ -602,6 +622,16 @@
       "tier": 3,
       "ai": true,
       "ts": "2026-10-01T11:37:46Z"
+    },
+    {
+      "title": "Tokyo court grants legal protection to human voices in AI clone case - AP News",
+      "title_zh": "Tokyo court grants legal protection to human voices in AI clone case - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU5mS3JndXp4a2VWam9GYlhlT0swV1RnRUQ1bmcxaTFwZ1RORjB5cExBUndfb2dQVkNmWGVEMTVGZjU5Z1lXcHFUYVk0WnM1YUxaUEdkT1Y3bnMyQlJtaDZBN2E0WmwwZ0plYUZhUzNYSllKdkc4SVliOVVPS3dMdTh0d2F2aUx2Q1l2Z3JYZw?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-10-01T11:38:00Z"
     },
     {
       "title": "“大空头”：为了人类的利益，市场应当大幅下跌，阻止OpenAI和Anthropic IPO",
@@ -1034,8 +1064,8 @@
       "ts": "2026-10-01T22:10:42Z"
     },
     {
-      "title": "Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link",
-      "title_zh": "Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link",
+      "title": "Netanyahu says Flydubai co-pilot was radicalised as UAE probes terror link",
+      "title_zh": "Netanyahu says Flydubai co-pilot was radicalised as UAE probes terror link",
       "url": "https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link",
       "source": "France24 English",
       "_site": "OPML RSS",
@@ -1054,334 +1084,104 @@
       "ts": "2026-10-02T00:35:25Z"
     },
     {
-      "title": "Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Matthias Bastian/The Decoder)",
-      "title_zh": "Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Matthias Bastian/The Decoder)",
-      "url": "https://www.techmeme.com/260930/p55",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "DeepSeek为什么要16000张卡？",
+      "title_zh": "DeepSeek为什么要16000张卡？",
+      "url": "https://www.huxiu.com/article/4895107.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T02:15:04Z"
+      "ts": "2026-10-02T01:11:24Z"
     },
     {
-      "title": "CS240 人工智能作弊事件回顾",
-      "title_zh": "CS240 人工智能作弊事件回顾",
-      "url": "https://turkeyland.net/thoughts/ai.php",
-      "source": "turkeyland.net",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "OpenAI fires workers for mishandling 'sensitive information'",
+      "title_zh": "OpenAI fires workers for mishandling 'sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T02:53:17.701000Z"
+      "ts": "2026-10-02T01:34:56Z"
     },
     {
-      "title": "Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor's Antonio Gracias and Atreides' Gavin Baker at a $750M valuation (Julie Bort/TechCrunch)",
-      "title_zh": "Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor's Antonio Gracias and Atreides' Gavin Baker at a $750M valuation (Julie Bort/TechCrunch)",
-      "url": "https://www.techmeme.com/260930/p56",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "deepseek为什么要在此时拥抱华为？",
+      "title_zh": "deepseek为什么要在此时拥抱华为？",
+      "url": "https://www.tmtpost.com/8158082.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T02:55:00Z"
+      "ts": "2026-10-02T01:56:11Z"
     },
     {
-      "title": "Is sandboxing sufficient to contain rogue agents?",
-      "title_zh": "Is sandboxing sufficient to contain rogue agents?",
-      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "The price Europe pays for keeping AI under control",
+      "title_zh": "The price Europe pays for keeping AI under control",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T03:27:41Z"
+      "ts": "2026-10-02T01:56:57Z"
     },
     {
-      "title": "Is sandboxing sufficient to contain rogue agents?",
-      "title_zh": "Is sandboxing sufficient to contain rogue agents?",
-      "url": "https://news.ycombinator.com/item?id=49917378",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "谁在为AI购物买单？",
+      "title_zh": "谁在为AI购物买单？",
+      "url": "https://www.huxiu.com/article/4895103.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T03:27:41Z"
+      "ts": "2026-10-02T02:16:00Z"
     },
     {
-      "title": "Docs and sources: Google researchers worried about AI risks to children, including potential cognitive and emotional harm, as the company pushed AI into schools (Wall Street Journal)",
-      "title_zh": "Docs and sources: Google researchers worried about AI risks to children, including potential cognitive and emotional harm, as the company pushed AI into schools (Wall Street Journal)",
-      "url": "https://www.techmeme.com/260930/p58",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "title_zh": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "url": "https://www.tmtpost.com/8158249.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T03:35:01Z"
+      "ts": "2026-10-02T02:32:28Z"
     },
     {
-      "title": "[分享创造] 用 DeepSeek 跑无人值守的编程 agent，记了 20 个合并 PR 的账：中位数 $0.125 一个",
-      "title_zh": "[分享创造] 用 DeepSeek 跑无人值守的编程 agent，记了 20 个合并 PR 的账：中位数 $0.125 一个",
-      "url": "https://www.v2ex.com/t/1245983",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
+      "title": "魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元",
+      "title_zh": "魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元",
+      "url": "https://m.thepaper.cn/detail/34186242",
+      "source": "澎湃新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T03:49:50Z"
+      "ts": "2026-10-02T03:22:17Z"
     },
     {
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "title_zh": "AI boom could trigger market shocks, Bank of England boss warns",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6倍压垮人工审核",
+      "title_zh": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6倍压垮人工审核",
+      "url": "https://www.huxiu.com/article/4895127.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T04:03:17Z"
+      "ts": "2026-10-02T04:12:13Z"
     },
     {
-      "title": "[问与答] 寻找做 AI 人工智能科技播客的小伙伴",
-      "title_zh": "[问与答] 寻找做 AI 人工智能科技播客的小伙伴",
-      "url": "https://www.v2ex.com/t/1245986",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
+      "title": "AI开始替咨询师干活，咨询业为什么还在增长？",
+      "title_zh": "AI开始替咨询师干活，咨询业为什么还在增长？",
+      "url": "https://www.huxiu.com/article/4895129.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T04:20:01Z"
+      "ts": "2026-10-02T04:58:08Z"
     },
     {
-      "title": "[程序员] 为什么 AI 写代码的功能老是在变？",
-      "title_zh": "[程序员] 为什么 AI 写代码的功能老是在变？",
-      "url": "https://www.v2ex.com/t/1245989",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
+      "title": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动",
+      "title_zh": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动",
+      "url": "https://m.thepaper.cn/detail/34191283",
+      "source": "澎湃新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-10-01T04:43:49Z"
-    },
-    {
-      "title": "Sources: Tencent signed a ~$7B, five-year deal with Oracle this year for access to ~100K advanced AI chips unavailable in China via Southeast Asian data centers (Zijing Wu/Financial Times)",
-      "title_zh": "Sources: Tencent signed a ~$7B, five-year deal with Oracle this year for access to ~100K advanced AI chips unavailable in China via Southeast Asian data centers (Zijing Wu/Financial Times)",
-      "url": "https://www.techmeme.com/261001/p1",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T04:50:00Z"
-    },
-    {
-      "title": "[买买买] 大家对小米那个手机壳式的迷你吉他有什么看法，以及新乐器在电子时代的发展？以及与 AI 的结合？",
-      "title_zh": "[买买买] 大家对小米那个手机壳式的迷你吉他有什么看法，以及新乐器在电子时代的发展？以及与 AI 的结合？",
-      "url": "https://www.v2ex.com/t/1245991",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T04:51:26Z"
-    },
-    {
-      "title": "[问与答] AI 接入 VPS/NAS",
-      "title_zh": "[问与答] AI 接入 VPS/NAS",
-      "url": "https://www.v2ex.com/t/1245992",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T04:55:27Z"
-    },
-    {
-      "title": "Asymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions (Rafe Rosner-Uddin/Financial Times)",
-      "title_zh": "Asymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions (Rafe Rosner-Uddin/Financial Times)",
-      "url": "https://www.techmeme.com/261001/p3",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:10:01Z"
-    },
-    {
-      "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
-      "title_zh": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
-      "url": "https://www.v2ex.com/t/1245995",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:24:14Z"
-    },
-    {
-      "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
-      "title_zh": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
-      "url": "https://www.v2ex.com/t/1245997",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:34:01Z"
-    },
-    {
-      "title": "Salesforce agrees to buy AI customer research startup Listen Labs, reportedly for $2B; Listen Labs had raised a $69M Series B at a $500M valuation in January (Chris Metinko/Axios)",
-      "title_zh": "Salesforce agrees to buy AI customer research startup Listen Labs, reportedly for $2B; Listen Labs had raised a $69M Series B at a $500M valuation in January (Chris Metinko/Axios)",
-      "url": "https://www.techmeme.com/261001/p5",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:35:02Z"
-    },
-    {
-      "title": "FTC opens probe of Anthropic, OpenAI",
-      "title_zh": "FTC opens probe of Anthropic, OpenAI",
-      "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:42:45Z"
-    },
-    {
-      "title": "AI borrowers face tough sell in risky corners of US credit market",
-      "title_zh": "AI borrowers face tough sell in risky corners of US credit market",
-      "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:45:42Z"
-    },
-    {
-      "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
-      "title_zh": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
-      "url": "https://www.v2ex.com/t/1245999",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T05:53:49Z"
-    },
-    {
-      "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access (Claude)",
-      "title_zh": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access (Claude)",
-      "url": "https://www.techmeme.com/261001/p7",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:10:00Z"
-    },
-    {
-      "title": "A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY2018 to $11.48B in FY2026 as AI reshapes cybersecurity (Allie Garfinkle/Fortune)",
-      "title_zh": "A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY2018 to $11.48B in FY2026 as AI reshapes cybersecurity (Allie Garfinkle/Fortune)",
-      "url": "https://www.techmeme.com/261001/p8",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:20:01Z"
-    },
-    {
-      "title": "[Claude] Anthropic 开始给 Claude 用户送实体周边了",
-      "title_zh": "[Claude] Anthropic 开始给 Claude 用户送实体周边了",
-      "url": "https://www.v2ex.com/t/1246001",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:28:24Z"
-    },
-    {
-      "title": "SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients (Financial Times)",
-      "title_zh": "SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients (Financial Times)",
-      "url": "https://www.techmeme.com/261001/p9",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:30:01Z"
-    },
-    {
-      "title": "[上海] 自己写太慢、AI 写又一眼假，有没有稳定降\"AI 味\"的办法？（附朱雀检测困扰）",
-      "title_zh": "[上海] 自己写太慢、AI 写又一眼假，有没有稳定降\"AI 味\"的办法？（附朱雀检测困扰）",
-      "url": "https://www.v2ex.com/t/1246003",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:41:31Z"
-    },
-    {
-      "title": "[问与答] gpt6.1 sol 和 5.6 sol 相同思考等级 哪个强",
-      "title_zh": "[问与答] gpt6.1 sol 和 5.6 sol 相同思考等级 哪个强",
-      "url": "https://www.v2ex.com/t/1246006",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T06:49:50Z"
-    },
-    {
-      "title": "Google’s next big Gemini upgrade beats Claude and ChatGPT at their own game",
-      "title_zh": "Google’s next big Gemini upgrade beats Claude and ChatGPT at their own game",
-      "url": "https://www.androidpolice.com/googles-next-big-gemini-upgrade-beats-claude-chatgpt-own-game",
-      "source": "Android Police",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:13:50Z"
-    },
-    {
-      "title": "PromptFlow",
-      "title_zh": "PromptFlow",
-      "url": "https://www.producthunt.com/products/promptflow-7",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:25:52.488000Z"
-    },
-    {
-      "title": "Excalibur AI TV",
-      "title_zh": "Excalibur AI TV",
-      "url": "https://www.producthunt.com/products/excalibur-ai-tv",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:25:52.488000Z"
-    },
-    {
-      "title": "AI Native 团队完整开发落地手册",
-      "title_zh": "AI Native 团队完整开发落地手册",
-      "url": "https://juejin.cn/post/7690779187615563776",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:26:01.112000Z"
-    },
-    {
-      "title": "面试官问\"你怎么证明它有效\"，200个转AI的后端没几个答得上来",
-      "title_zh": "面试官问\"你怎么证明它有效\"，200个转AI的后端没几个答得上来",
-      "url": "https://juejin.cn/post/7690490009979928576",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:26:01.112000Z"
-    },
-    {
-      "title": "干了 6 年前端，我是怎么一步步转型到 AI 的？",
-      "title_zh": "干了 6 年前端，我是怎么一步步转型到 AI 的？",
-      "url": "https://juejin.cn/post/7690468159976701998",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:26:01.112000Z"
-    },
-    {
-      "title": "Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）",
-      "title_zh": "Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）",
-      "url": "https://juejin.cn/post/7690869043603292206",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-10-01T07:26:01.112000Z"
+      "ts": "2026-10-02T06:16:32Z"
     },
     {
       "title": "[分享创造] 做了一个 AI 视频、图片和音频 API 比价站 Vidily，把参数和计费条件一起看",
@@ -2484,6 +2284,16 @@
       "ts": "2026-10-01T17:50:19Z"
     },
     {
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "title_zh": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-01T17:58:37Z"
+    },
+    {
       "title": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
       "title_zh": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
       "url": "https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities",
@@ -2572,6 +2382,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-10-01T19:21:53Z"
+    },
+    {
+      "title": "FLUX 3 Image",
+      "title_zh": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-01T19:24:29Z"
     },
     {
       "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)",
@@ -2724,6 +2544,16 @@
       "ts": "2026-10-01T22:02:31Z"
     },
     {
+      "title": "Aweb – Communication for AI Agents",
+      "title_zh": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-01T22:02:31Z"
+    },
+    {
       "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
       "title_zh": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
       "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group",
@@ -2772,6 +2602,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-10-01T22:15:57Z"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "title_zh": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-01T22:23:38Z"
     },
     {
       "title": "ChatGPT can now help you virtually try on clothes",
@@ -2852,6 +2692,306 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-10-02T00:49:29Z"
+    },
+    {
+      "title": "Elizabeth Warren probes $19B in tax breaks for Amazon, Google, Meta and Microsoft as AI drains $96B in federal revenue",
+      "title_zh": "Elizabeth Warren probes $19B in tax breaks for Amazon, Google, Meta and Microsoft as AI drains $96B in federal revenue",
+      "url": "https://www.reddit.com/r/technology/comments/1wvge9l/elizabeth_warren_probes_19b_in_tax_breaks_for",
+      "source": "Reddit (热门)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T00:55:44Z"
+    },
+    {
+      "title": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
+      "title_zh": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
+      "url": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T01:05:00Z"
+    },
+    {
+      "title": "Ask HN: Programming Codex/Claude to code for a duration",
+      "title_zh": "Ask HN: Programming Codex/Claude to code for a duration",
+      "url": "https://news.ycombinator.com/item?id=49928960",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T01:28:38Z"
+    },
+    {
+      "title": "Sources: Jay Clayton will likely be the White House's pick for AI czar, and he may remain in his current role as director of national intelligence (Jennifer Jacobs/CBS News)",
+      "title_zh": "Sources: Jay Clayton will likely be the White House's pick for AI czar, and he may remain in his current role as director of national intelligence (Jennifer Jacobs/CBS News)",
+      "url": "https://www.techmeme.com/261001/p46",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T01:30:03Z"
+    },
+    {
+      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "title_zh": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T01:34:56Z"
+    },
+    {
+      "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents (Arasu Kannagi Basil/Reuters)",
+      "title_zh": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents (Arasu Kannagi Basil/Reuters)",
+      "url": "https://www.techmeme.com/261001/p47",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T01:55:01Z"
+    },
+    {
+      "title": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)",
+      "title_zh": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)",
+      "url": "https://www.techmeme.com/261001/p48",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-10-02T02:35:00Z"
+    },
+    {
+      "title": "投票选出Hacker News提出的哪些AI挑战已经实现",
+      "title_zh": "投票选出Hacker News提出的哪些AI挑战已经实现",
+      "url": "https://stoppels.ch/goalposts",
+      "source": "stoppels.ch",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T02:56:57.255000Z"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "title_zh": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T03:11:20Z"
+    },
+    {
+      "title": "DeepSeek Harness",
+      "title_zh": "DeepSeek Harness",
+      "url": "https://news.ycombinator.com/item?id=49929489",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T03:11:20Z"
+    },
+    {
+      "title": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence (Mackenzie Hawkins/Bloomberg)",
+      "title_zh": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence (Mackenzie Hawkins/Bloomberg)",
+      "url": "https://www.techmeme.com/261001/p49",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T03:30:08Z"
+    },
+    {
+      "title": "[程序员] 请问深度使用 AI 编程的大佬，现在 AI 能猜对你的心思了吗？",
+      "title_zh": "[程序员] 请问深度使用 AI 编程的大佬，现在 AI 能猜对你的心思了吗？",
+      "url": "https://www.v2ex.com/t/1246108",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T03:50:15Z"
+    },
+    {
+      "title": "[OpenAI] 又要重置了，不过重置时区问题， Grok 也算不准",
+      "title_zh": "[OpenAI] 又要重置了，不过重置时区问题， Grok 也算不准",
+      "url": "https://www.v2ex.com/t/1246114",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T04:01:53Z"
+    },
+    {
+      "title": "[分享创造] 跟个风，我也做了个 Codex 重置预测",
+      "title_zh": "[分享创造] 跟个风，我也做了个 Codex 重置预测",
+      "url": "https://www.v2ex.com/t/1246118",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T04:23:37Z"
+    },
+    {
+      "title": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+      "title_zh": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+      "url": "https://www.techmeme.com/261002/p1",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T04:55:00Z"
+    },
+    {
+      "title": "[Claude] claude 也重置了吗",
+      "title_zh": "[Claude] claude 也重置了吗",
+      "url": "https://www.v2ex.com/t/1246119",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T05:17:28Z"
+    },
+    {
+      "title": "《青蛙和蟾蜍与日益强大的机器》",
+      "title_zh": "《青蛙和蟾蜍与日益强大的机器》",
+      "url": "https://www.frogandtoad.ai",
+      "source": "www.frogandtoad.ai",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T05:35:05.352000Z"
+    },
+    {
+      "title": "The AI boom is pushing bond yields higher in ways that go beyond corporate borrowing, ING says",
+      "title_zh": "The AI boom is pushing bond yields higher in ways that go beyond corporate borrowing, ING says",
+      "url": "https://www.businessinsider.com/bond-market-yields-10-year-treasury-ai-productivity-corporate-borrowing-2026-10",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T05:35:37Z"
+    },
+    {
+      "title": "[AI Agent 智能体] muse 账号注册实况（同一卡可以多次绑定）",
+      "title_zh": "[AI Agent 智能体] muse 账号注册实况（同一卡可以多次绑定）",
+      "url": "https://www.v2ex.com/t/1246125",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T05:57:53Z"
+    },
+    {
+      "title": "DeepSeek 束带",
+      "title_zh": "DeepSeek 束带",
+      "url": "https://www.deepseek.com/en/harness",
+      "source": "www.deepseek.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T06:05:38.511000Z"
+    },
+    {
+      "title": "[分享创造] VC 投资人看 AI 应用",
+      "title_zh": "[分享创造] VC 投资人看 AI 应用",
+      "url": "https://www.v2ex.com/t/1246131",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T06:53:31Z"
+    },
+    {
+      "title": "游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！",
+      "title_zh": "游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！",
+      "url": "https://juejin.cn/post/7690869176362172425",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "Windows 下 Claude Code 落地全指南：从安装配置到避坑优化",
+      "title_zh": "Windows 下 Claude Code 落地全指南：从安装配置到避坑优化",
+      "url": "https://juejin.cn/post/7690784318688804914",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "构建稳定的 AI Agent：Harness 工程的核心机制与实践思考",
+      "title_zh": "构建稳定的 AI Agent：Harness 工程的核心机制与实践思考",
+      "url": "https://juejin.cn/post/7690982503821246506",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra",
+      "title_zh": "OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra",
+      "url": "https://juejin.cn/post/7690930433831895050",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？",
+      "title_zh": "Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？",
+      "url": "https://juejin.cn/post/7690832227404300351",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "在职前端 Skill 和 MCP 分享",
+      "title_zh": "在职前端 Skill 和 MCP 分享",
+      "url": "https://juejin.cn/post/7691142360248614947",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
+      "title_zh": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
+      "url": "https://juejin.cn/post/7690841638806421538",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "AI 回答为什么能一个字一个字蹦出来？前端搞懂 SSE 这一篇就够了",
+      "title_zh": "AI 回答为什么能一个字一个字蹦出来？前端搞懂 SSE 这一篇就够了",
+      "url": "https://juejin.cn/post/7690593334699753491",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:07:19.511000Z"
+    },
+    {
+      "title": "中国在人工智能领域的推进带来了一个问题：使用过度 - The New York Times",
+      "title_zh": "中国在人工智能领域的推进带来了一个问题：使用过度 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUVhoQVNBcExzYkF5TlZFMDNiMml6U2FsTkVsUm1wRV9WVGFwaGh1SWZjX2N0VW5aWW9kYVFIbGFLZ0lUZmVFSFp6bFEyWl9HdEUtMS1GYjF2bG10LVFJSXY4VERlNm0zZVg4eXkzcmQxUm5UY0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-10-02T07:08:41.791000Z"
     }
   ]
 }
