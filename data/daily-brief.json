@@ -1,30 +1,8 @@
 {
-  "generated_at": "2026-10-03T12:47:22.785213Z",
+  "generated_at": "2026-10-03T17:39:47.668377Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "title": "A model guide for the GPT-6 family",
-      "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-02T16:15:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "title_zh": null,
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-02T15:19:50Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
     {
       "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
       "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
@@ -44,6 +22,17 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-10-02T19:11:30Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+      "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": null,
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -114,6 +103,17 @@
       "ai_score": 1.0
     },
     {
+      "title": "here is my official @OpenAI DevDay FOOD vibe check (I know you’ve been waiting) https://t.co/JnLpqALBg7",
+      "title_zh": null,
+      "url": "https://x.com/danshipper/status/2106144801653506531",
+      "source": "Follow Builders · X · Dan Shipper",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-02T22:10:25Z",
+      "ai_is_related": true,
+      "ai_score": 0.81
+    },
+    {
       "title": "Capy is like a 24/7 standup for your agents https://t.co/cNQwkWMxSz",
       "title_zh": null,
       "url": "https://x.com/garrytan/status/2106102038706970794",
@@ -121,28 +121,6 @@
       "source_tier_rank": 2,
       "source_tier_label": "Builders/X源",
       "published_at": "2026-10-02T19:20:30Z",
-      "ai_is_related": false,
-      "ai_score": 0.57
-    },
-    {
-      "title": "People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
-      "title_zh": null,
-      "url": "https://x.com/mattturck/status/2106076198027890750",
-      "source": "Follow Builders · X · Matt Turck",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T17:37:49Z",
-      "ai_is_related": false,
-      "ai_score": 0.33
-    },
-    {
-      "title": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, al...",
-      "title_zh": null,
-      "url": "https://x.com/garrytan/status/2106063850453991758",
-      "source": "Follow Builders · X · Garry Tan",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T16:48:45Z",
       "ai_is_related": false,
       "ai_score": 0.57
     },
@@ -167,6 +145,17 @@
       "published_at": "2026-10-03T03:26:25Z",
       "ai_is_related": false,
       "ai_score": 0.47
+    },
+    {
+      "title": "“Kolibri”已降落：一款主权开放重量级模型",
+      "title_zh": "“Kolibri”已降落：一款主权开放重量级模型",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "source": "aleph-alpha.com",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-03T15:13:44.246000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "jamwithai /      production-agentic-rag-course",
@@ -220,6 +209,17 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-03T07:21:19.148000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "[Google] Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
+      "title_zh": "[Google] Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
+      "url": "https://www.v2ex.com/t/1246247",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-03T07:10:06Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }

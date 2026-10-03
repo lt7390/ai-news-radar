@@ -1,52 +1,8 @@
 {
-  "generated_at": "2026-10-03T12:47:22.786547Z",
+  "generated_at": "2026-10-03T17:39:47.670618Z",
   "window_hours": 24,
-  "total_stories": 211,
+  "total_stories": 171,
   "stories": [
-    {
-      "story_id": "story_d8bea22f",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "A model guide for the GPT-6 family",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_e5ba9a82",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
     {
       "story_id": "story_a14d942d",
       "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
@@ -90,6 +46,28 @@
       ],
       "item_count": 1,
       "score": 10020
+    },
+    {
+      "story_id": "story_61c0f97d",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "sources": [
+        {
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_0a5e63c9",
@@ -218,50 +196,6 @@
           "source": "X：ChatGPT (@ChatGPT)",
           "site_id": "aihot",
           "published_at": "2026-10-02T18:07:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_21beef39",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "sources": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_3c12f207",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
         }
       ],
       "item_count": 1,
@@ -422,138 +356,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_96a4a252",
-      "title": "People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
-      "url": "https://x.com/mattturck/status/2106076198027890750",
-      "primary_url": "https://x.com/mattturck/status/2106076198027890750",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "a95aa54237643dd8cdea541c9f28803a079a4d73",
-          "title": "People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
-          "url": "https://x.com/mattturck/status/2106076198027890750",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T17:37:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_7219c0b9",
-      "title": "I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complicated so I decided to check if Claude can build the core feature set that I actually needed. Claude bu...",
-      "url": "https://x.com/petergyang/status/2106072698564874410",
-      "primary_url": "https://x.com/petergyang/status/2106072698564874410",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "0cd24397a53fd775a4804d7d7a6991a2f8789074",
-          "title": "I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complicated so I decided to check if Claude can build the core feature set that I actually needed. Claude bu...",
-          "url": "https://x.com/petergyang/status/2106072698564874410",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T17:23:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_fe535c15",
-      "title": "If you are a home automation nerd, this is a fun prompt to try on Claude Code / Codex (edit based on your own setup): \"Can you sniff network packets in our house and see what else can we automate? For context: We have...",
-      "url": "https://x.com/nikunj/status/2106072546206773574",
-      "primary_url": "https://x.com/nikunj/status/2106072546206773574",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
-        {
-          "id": "5252ff6157d73944af503a6a4901fb9a43fa14e7",
-          "title": "If you are a home automation nerd, this is a fun prompt to try on Claude Code / Codex (edit based on your own setup): \"Can you sniff network packets in our house and see what else can we automate? For context: We have...",
-          "url": "https://x.com/nikunj/status/2106072546206773574",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T17:23:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_098ea0f4",
-      "title": "I'm teaching a FREE lightning lesson on building an AI system to take work off your plate today at 11:30 AM pst. It works with ChatGPT, Claude, or your favorite AI harness. Join 500+ folks who have signed up to attend...",
-      "url": "https://x.com/petergyang/status/2106071235696447660",
-      "primary_url": "https://x.com/petergyang/status/2106071235696447660",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "4ca3d1dea0728198ae6730e3b563cd5326d31bfc",
-          "title": "I'm teaching a FREE lightning lesson on building an AI system to take work off your plate today at 11:30 AM pst. It works with ChatGPT, Claude, or your favorite AI harness. Join 500+ folks who have signed up to attend...",
-          "url": "https://x.com/petergyang/status/2106071235696447660",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T17:18:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_934a58cc",
-      "title": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, al...",
-      "url": "https://x.com/garrytan/status/2106063850453991758",
-      "primary_url": "https://x.com/garrytan/status/2106063850453991758",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Garry Tan"
-      ],
-      "sources": [
-        {
-          "id": "e76bf306063c4862e9658bd4c23093af3608bebc",
-          "title": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, al...",
-          "url": "https://x.com/garrytan/status/2106063850453991758",
-          "source": "Follow Builders · X · Garry Tan",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T16:48:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_26247469",
-      "title": "It's time to get serious about Security x AI. One of the joys of doing AIE is helping others start their own high quality conferences in their countries and domains. Every single 2025 partner has come back — and the 2...",
-      "url": "https://x.com/swyx/status/2106042773510177256",
-      "primary_url": "https://x.com/swyx/status/2106042773510177256",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Swyx"
-      ],
-      "sources": [
-        {
-          "id": "554adb8421cb88fb89fc3c4ac32f49d87e3adabf",
-          "title": "It's time to get serious about Security x AI. One of the joys of doing AIE is helping others start their own high quality conferences in their countries and domains. Every single 2025 partner has come back — and the 2...",
-          "url": "https://x.com/swyx/status/2106042773510177256",
-          "source": "Follow Builders · X · Swyx",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-02T15:25:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_4a2eb831",
       "title": "国庆出游用AI，第一批人已经被坑惨了",
       "url": "https://www.tmtpost.com/8158647.html",
@@ -585,66 +387,123 @@
       "score": 9770
     },
     {
-      "story_id": "story_f3a84680",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "story_id": "story_b0cbec00",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
+        "BBC World",
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "30174d689407e59411fac8734f3abc281123aca6",
-          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch",
+          "id": "0920a3e8cab1d35cdac949a73d00fd68b57ab3b3",
+          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
           "site_id": "opmlrss",
-          "published_at": "2026-10-02T18:11:27Z"
+          "published_at": "2026-10-02T23:06:00Z"
         },
         {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
+          "title": "US killer's sentence quashed because of AI video of victim shown in court",
+          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
+          "published_at": "2026-10-03T13:34:18Z"
         }
       ],
       "item_count": 2,
       "score": 9770
     },
     {
-      "story_id": "story_62fbb46e",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-      "primary_url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-      "source_count": 2,
+      "story_id": "story_cc9d6793",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "primary_url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source_count": 1,
       "source_names": [
-        "ArsTechnica",
-        "Ars Technica"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "d89d5f7e50f939c36eb195692c2b406628564495",
-          "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-          "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-          "source": "ArsTechnica",
+          "id": "8d7330ed09ff5f62b55ce90507d6dc8f9233a81c",
+          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-10-02T14:52:16Z"
-        },
-        {
-          "id": "4d7557ff8c70a57d3639782e0deece58edc80b95",
-          "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-          "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T14:52:16Z"
+          "published_at": "2026-10-03T16:49:10Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_177ca5e8",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "primary_url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "273468c0d3f6cd548dc0d7628f4fb3a058a08fe6",
+          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-03T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f8fc0aa1",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "421af07f5ebcfd965c3534449b41d095ae63c68d",
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-03T14:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_51b6860f",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "primary_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "bb851ed806db8e97b9b1faec43fa1e5d84c60427",
+          "title": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-03T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_97a6562b",
@@ -977,50 +836,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_b0cbec00",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "0920a3e8cab1d35cdac949a73d00fd68b57ab3b3",
-          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T23:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a4bfb352",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-      "primary_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "4ff7e72e874fc0171233faee2975e033587dcbed",
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T23:03:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_adfa3c0d",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
@@ -1131,114 +946,35 @@
       "score": 9720
     },
     {
-      "story_id": "story_209bc246",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-      "primary_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-      "source_count": 1,
+      "story_id": "story_70592382",
+      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "tej.as",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "2db0b3d766781f069c866d6c5a5743538030af92",
-          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T17:32:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d8d0407f",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-      "primary_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
+          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "tej.as",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T14:44:01.702000Z"
+        },
         {
-          "id": "8c1c0420609cf0e2237ae007134ea9951bd23b2a",
-          "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-          "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T17:00:00Z"
+          "id": "67595cb2a370d989d1c3149366613f852203d4a3",
+          "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c1a2bedf",
-      "title": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
-      "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "0e736d0d2d70567613c1c44d40d2d2c59be6dadb",
-          "title": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
-          "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T16:06:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c249456d",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
-      "primary_url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "33dbac8cca916e482e82dfd661fd81c70f7d8913",
-          "title": "Pope Leo XIV is not a fan of AI-generated art",
-          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T15:39:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_2abff2d0",
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked",
-      "primary_url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4e9bd87b3eef575aa1e6a998b7a5125b9b46ea81",
-          "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-          "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_32cc1907",
@@ -1334,66 +1070,475 @@
       "score": 9570
     },
     {
-      "story_id": "story_6d921b2f",
-      "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-      "primary_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "story_id": "story_f3a84680",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
       "source_count": 2,
       "source_names": [
-        "arstechnica.com",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "57749c9a0896c0f3914680125721ceb4c461406e",
-          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-          "source": "arstechnica.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T21:14:53.842000Z"
-        },
-        {
-          "id": "9bb8b61033ee27250bc446a73b00f959e23f557e",
-          "title": "With most information hidden, the game Stratego had stumped AI until now",
-          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-10-02T14:11:24Z"
+          "published_at": "2026-10-02T19:03:03Z"
+        },
+        {
+          "id": "206a426550dce39151885c2a875a6ad50f363882",
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T18:11:27Z"
         }
       ],
       "item_count": 2,
       "score": 9570
     },
     {
-      "story_id": "story_4a9479fa",
-      "title": "人工智能让我感到难过",
-      "url": "https://mondobe.com/ai-makes-me-sad",
-      "primary_url": "https://mondobe.com/ai-makes-me-sad",
-      "source_count": 2,
+      "story_id": "story_b2afabeb",
+      "title": "Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流",
+      "url": "https://juejin.cn/post/7691219326316380175",
+      "primary_url": "https://juejin.cn/post/7691219326316380175",
+      "source_count": 1,
       "source_names": [
-        "mondobe.com",
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "da469891738baf35dfefc19f9216618753acce77",
+          "title": "Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流",
+          "url": "https://juejin.cn/post/7691219326316380175",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:39:26.567000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_596b7197",
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "primary_url": "https://sspai.com/post/114945",
+      "source_count": 1,
+      "source_names": [
+        "sspai"
+      ],
+      "sources": [
+        {
+          "id": "002ccf5ef3bd713877bbfc584427f1d741979952",
+          "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+          "url": "https://sspai.com/post/114945",
+          "source": "sspai",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:39:26.567000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2d57dd70",
+      "title": "[OpenAI] 有没有人觉得 Codex 的智能比 Chat 差多了",
+      "url": "https://www.v2ex.com/t/1246318",
+      "primary_url": "https://www.v2ex.com/t/1246318",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "a8f76a9389d3cc29811f6bd588333adf60701125",
+          "title": "[OpenAI] 有没有人觉得 Codex 的智能比 Chat 差多了",
+          "url": "https://www.v2ex.com/t/1246318",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:00:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c5e34d28",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "primary_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ee655fb9099050484d7a12dcbc00ae5c752b1c06",
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f68099f7",
+      "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+      "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
+      "primary_url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "e02fa5e43d14875e7f37533d742c005329163f7e",
+          "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+          "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T16:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_66b03bf0",
+      "title": "[德语] 用 GPT Live 构建了一个 德语 B1 口语考试的工具",
+      "url": "https://www.v2ex.com/t/1246317",
+      "primary_url": "https://www.v2ex.com/t/1246317",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "41616523ddd11628e25141a33877ac0698a8304d",
+          "title": "[德语] 用 GPT Live 构建了一个 德语 B1 口语考试的工具",
+          "url": "https://www.v2ex.com/t/1246317",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T16:15:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_25c53555",
+      "title": "[程序员] 还有人说这波 Personal AI Agent 是伪需求？",
+      "url": "https://www.v2ex.com/t/1246315",
+      "primary_url": "https://www.v2ex.com/t/1246315",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "befb2c4cd631fc2e4c31b6acc6c03e92c8c437a3",
+          "title": "[程序员] 还有人说这波 Personal AI Agent 是伪需求？",
+          "url": "https://www.v2ex.com/t/1246315",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T16:05:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_36fcf03a",
+      "title": "[推广] GPT 自助充值， Plus129¥/ Pro5x 689¥/ Pro10x 1249¥",
+      "url": "https://www.v2ex.com/t/1246314",
+      "primary_url": "https://www.v2ex.com/t/1246314",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "7817fafd0fdea41a5cbb0f5bdfc34e86a8aa59ff",
+          "title": "[推广] GPT 自助充值， Plus129¥/ Pro5x 689¥/ Pro10x 1249¥",
+          "url": "https://www.v2ex.com/t/1246314",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T15:33:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8314081",
+      "title": "“Kolibri”已降落：一款主权开放重量级模型",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "source_count": 1,
+      "source_names": [
+        "aleph-alpha.com"
+      ],
+      "sources": [
+        {
+          "id": "d3eeeeac982fa3539eba5976b614332da0798597",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "aleph-alpha.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T15:13:44.246000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0f2e4d42",
+      "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model (Sarah Perez/TechCrunch)",
+      "url": "https://www.techmeme.com/261003/p9",
+      "primary_url": "https://www.techmeme.com/261003/p9",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "5717e82b6408bff2725e8c9eb56911d322d62915",
+          "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model (Sarah Perez/TechCrunch)",
+          "url": "https://www.techmeme.com/261003/p9",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T15:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dc4d2de2",
+      "title": "3 Gemini integrations that genuinely sped up my daily workflow",
+      "url": "https://www.androidpolice.com/gemini-app-integrations-speed-up-workflow",
+      "primary_url": "https://www.androidpolice.com/gemini-app-integrations-speed-up-workflow",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "2e12a1e0082e31ae6612b244d107c4fe6760b219",
+          "title": "3 Gemini integrations that genuinely sped up my daily workflow",
+          "url": "https://www.androidpolice.com/gemini-app-integrations-speed-up-workflow",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T15:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f1ca70a7",
+      "title": "[Cursor] 收 cursor auto",
+      "url": "https://www.v2ex.com/t/1246310",
+      "primary_url": "https://www.v2ex.com/t/1246310",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "25b1c3cfff576ba2ec7517c7dba60d0393e573ad",
+          "title": "[Cursor] 收 cursor auto",
+          "url": "https://www.v2ex.com/t/1246310",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T14:58:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d5a5b8fe",
+      "title": "[程序员] [分享创造] NetPulse：复制一句话给 AI Agent，让它把你所有 VPS 体检一遍",
+      "url": "https://www.v2ex.com/t/1246309",
+      "primary_url": "https://www.v2ex.com/t/1246309",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "2b86666e013915fc02c1ac9fc6f397650f3c57e1",
+          "title": "[程序员] [分享创造] NetPulse：复制一句话给 AI Agent，让它把你所有 VPS 体检一遍",
+          "url": "https://www.v2ex.com/t/1246309",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T14:57:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_beca7800",
+      "title": "Gobstopper – context compaction proxy for Claude Code and Codex",
+      "url": "https://gobstopper.sh",
+      "primary_url": "https://gobstopper.sh",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "6d0101ef49644c39866a0085951788255fa39640",
+          "title": "Gobstopper – context compaction proxy for Claude Code and Codex",
+          "url": "https://gobstopper.sh",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-10-03T14:49:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6a082af0",
+      "title": "[问与答] 现在 chatgpt 短信验证，用哪家稳一点？",
+      "url": "https://www.v2ex.com/t/1246300",
+      "primary_url": "https://www.v2ex.com/t/1246300",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "35ce6b1646c7b431ec8a45f5ef031961638854e1",
+          "title": "[问与答] 现在 chatgpt 短信验证，用哪家稳一点？",
+          "url": "https://www.v2ex.com/t/1246300",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T14:11:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f71b15e8",
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source_count": 1,
+      "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "5cf77a493a9bbed5af4dcd49c884621254b03ec0",
-          "title": "人工智能让我感到难过",
-          "url": "https://mondobe.com/ai-makes-me-sad",
-          "source": "mondobe.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T16:16:42.657000Z"
-        },
-        {
-          "id": "76c6d3dc37ac76eaa09ebd5b3696ad3418df4b1e",
-          "title": "AI Makes Me Sad",
-          "url": "https://mondobe.com/ai-makes-me-sad",
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-10-02T15:18:00Z"
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fb241001",
+      "title": "A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them (Nilesh Christopher/Los Angeles Times)",
+      "url": "https://www.techmeme.com/261003/p8",
+      "primary_url": "https://www.techmeme.com/261003/p8",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "22228ed5eb38ee1e4a200c445b55a39100bae756",
+          "title": "A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them (Nilesh Christopher/Los Angeles Times)",
+          "url": "https://www.techmeme.com/261003/p8",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T13:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_15562e8d",
+      "title": "[推广] Chatgpt 代充 plus/5x/10x/25x",
+      "url": "https://www.v2ex.com/t/1246298",
+      "primary_url": "https://www.v2ex.com/t/1246298",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "8fb31a19f3276f4219c820dcce4651639fbb369d",
+          "title": "[推广] Chatgpt 代充 plus/5x/10x/25x",
+          "url": "https://www.v2ex.com/t/1246298",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T13:29:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1e422163",
+      "title": "Googlebooks are bringing Gemini Intelligence to premium laptops, but is the cost worth it for these Android based-devices compared to Chromebooks?",
+      "url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook",
+      "primary_url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "20263c31c966b6bafb2610baa024f506d6b5726d",
+          "title": "Googlebooks are bringing Gemini Intelligence to premium laptops, but is the cost worth it for these Android based-devices compared to Chromebooks?",
+          "url": "https://www.techradar.com/computing/chromebooks/googlebook-vs-chromebook",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_85da62f3",
+      "title": "[AI SaaS 产品推荐] 10 月 1 日完成开发，看看我的新产品能跑多远",
+      "url": "https://www.v2ex.com/t/1246293",
+      "primary_url": "https://www.v2ex.com/t/1246293",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "c9f4e6dd71a6b4a5398c640c84ec3254263c49e0",
+          "title": "[AI SaaS 产品推荐] 10 月 1 日完成开发，看看我的新产品能跑多远",
+          "url": "https://www.v2ex.com/t/1246293",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-03T12:50:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_1a141d49",
@@ -1635,6 +1780,52 @@
         }
       ],
       "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9ced30c8",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://news.ycombinator.com/item?id=49943034",
+      "primary_url": "https://news.ycombinator.com/item?id=49943034",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
+          "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "url": "https://news.ycombinator.com/item?id=49943034",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
+          "id": "ebf95b59f8753f1c9189dcaaa4097c77da42f0d8",
+          "title": "Show HN: Offrun – manage every coding agent from one workspace",
+          "url": "https://news.ycombinator.com/item?id=49942434",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T08:40:17Z"
+        },
+        {
+          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T20:00:15Z"
+        },
+        {
+          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://news.ycombinator.com/item?id=49936575",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T18:01:16Z"
+        }
+      ],
+      "item_count": 4,
       "score": 7
     },
     {
@@ -1924,57 +2115,25 @@
       "score": 7
     },
     {
-      "story_id": "story_0de94f3e",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://news.ycombinator.com/item?id=49933740",
-      "primary_url": "https://news.ycombinator.com/item?id=49933740",
+      "story_id": "story_c44175eb",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev",
+      "primary_url": "https://offrun.dev",
       "source_count": 1,
       "source_names": [
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ebf95b59f8753f1c9189dcaaa4097c77da42f0d8",
+          "id": "ce18b2858284abfbc830d95ead86e466c0cf879b",
           "title": "Show HN: Offrun – manage every coding agent from one workspace",
-          "url": "https://news.ycombinator.com/item?id=49942434",
-          "source": "hackernews",
-          "site_id": "newsnow",
+          "url": "https://offrun.dev",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-10-03T08:40:17Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
-          "title": "From the creator of Redis; run LLM locally with ds4",
-          "url": "https://news.ycombinator.com/item?id=49936575",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T18:01:16Z"
-        },
-        {
-          "id": "554e2c487cd1aa67c346f71c9675d50dd64d9e6c",
-          "title": "With most information hidden, the game Stratego had stumped AI until now",
-          "url": "https://news.ycombinator.com/item?id=49933740",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:24Z"
-        },
-        {
-          "id": "1779c4b0ca409b126e43f778e29c69199c285d75",
-          "title": "Claude-Shaped Science",
-          "url": "https://news.ycombinator.com/item?id=49933386",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T13:38:03Z"
         }
       ],
-      "item_count": 5,
+      "item_count": 1,
       "score": 7
     },
     {
@@ -2924,6 +3083,28 @@
       "score": 7
     },
     {
+      "story_id": "story_a4bfb352",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "primary_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "aaa07303c18c1f6ca759e12f85515cd1f9ed259a",
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T23:03:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_72ff1611",
       "title": "AI Has Finally Learned To Play Stratego",
       "url": "https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego",
@@ -3116,6 +3297,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-10-02T21:33:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6d921b2f",
+      "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "primary_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "source_count": 1,
+      "source_names": [
+        "arstechnica.com"
+      ],
+      "sources": [
+        {
+          "id": "57749c9a0896c0f3914680125721ceb4c461406e",
+          "title": "由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策",
+          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+          "source": "arstechnica.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T21:14:53.842000Z"
         }
       ],
       "item_count": 1,
@@ -3430,6 +3633,28 @@
       "score": 7
     },
     {
+      "story_id": "story_6f134fa7",
+      "title": "Why didn't we get GPT-2 in 2005?",
+      "url": "https://dynomight.net/gpt-2",
+      "primary_url": "https://dynomight.net/gpt-2",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "155fb6d8fd9695b339cccb3cfd088aa85c8057fe",
+          "title": "Why didn't we get GPT-2 in 2005?",
+          "url": "https://dynomight.net/gpt-2",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:31:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_77800ea5",
       "title": "ChatGPT 中的网站",
       "url": "https://chatgpt.com/features/sites",
@@ -3622,1128 +3847,6 @@
           "source": "bfl.ai",
           "site_id": "buzzing",
           "published_at": "2026-10-02T17:50:56.693000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_92b7c44e",
-      "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
-      "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
-      "primary_url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7791832637b3194cffff43c24d4334d16b643c16",
-          "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
-          "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T17:38:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7096387d",
-      "title": "Sources: SpaceX's AI unit held talks about leasing computing capacity to Microsoft, as it fully embraces the neocloud business despite Musk's initial reluctance (Grace Kay/The Information)",
-      "url": "https://www.techmeme.com/261002/p17",
-      "primary_url": "https://www.techmeme.com/261002/p17",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "6e48f196f42a2a8d3374f074f45446ed0be903cf",
-          "title": "Sources: SpaceX's AI unit held talks about leasing computing capacity to Microsoft, as it fully embraces the neocloud business despite Musk's initial reluctance (Grace Kay/The Information)",
-          "url": "https://www.techmeme.com/261002/p17",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T17:35:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d4bdbbdf",
-      "title": "[Claude] Claude 网页版似乎可以泄漏思维链",
-      "url": "https://www.v2ex.com/t/1246190",
-      "primary_url": "https://www.v2ex.com/t/1246190",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "9fbbc0d0c86a23690e7d4bb37dc8a7d8d8bd3f69",
-          "title": "[Claude] Claude 网页版似乎可以泄漏思维链",
-          "url": "https://www.v2ex.com/t/1246190",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T17:20:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_77d5c13a",
-      "title": "This popular AI agent could be hacked by a single email — with potentially disastrous consequences",
-      "url": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
-      "primary_url": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "b4bd0d453106043faf7971037109e544fabff8f0",
-          "title": "This popular AI agent could be hacked by a single email — with potentially disastrous consequences",
-          "url": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T17:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bb4819c3",
-      "title": "Mystery Function",
-      "url": "https://codeset.ai/function",
-      "primary_url": "https://codeset.ai/function",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "64d64ea63b9725f11daf9b1a952ac4b16244403b",
-          "title": "Mystery Function",
-          "url": "https://codeset.ai/function",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T17:03:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_653e8c9e",
-      "title": "Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search",
-      "url": "https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search",
-      "primary_url": "https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "bcdeb2aa09ad4516ce885724cf539dfef286277d",
-          "title": "Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search",
-          "url": "https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d0a4107a",
-      "title": "The relationship between AI and influencers is … complicated",
-      "url": "https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10",
-      "primary_url": "https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "d76c8652e38e515fbf7d81f49a317b507ba11658",
-          "title": "The relationship between AI and influencers is … complicated",
-          "url": "https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:51:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_32d693d3",
-      "title": "[推广] azure gpt, aws bedrock, calude key 上游源头找下游用户. az gpt, awsb, claude openai",
-      "url": "https://www.v2ex.com/t/1246186",
-      "primary_url": "https://www.v2ex.com/t/1246186",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "8ef1738121e6e11003a3a681e006f373b67d50cb",
-          "title": "[推广] azure gpt, aws bedrock, calude key 上游源头找下游用户. az gpt, awsb, claude openai",
-          "url": "https://www.v2ex.com/t/1246186",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T16:38:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_31d2abc6",
-      "title": "Pope Leo comes out against AI-generated art and calls for an alliance with artists",
-      "url": "https://thenextweb.com/news/pope-ai-art-eu-labelling-gap",
-      "primary_url": "https://thenextweb.com/news/pope-ai-art-eu-labelling-gap",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "df86f4d5082dd2bd54a57045275d0ff31bd01ab0",
-          "title": "Pope Leo comes out against AI-generated art and calls for an alliance with artists",
-          "url": "https://thenextweb.com/news/pope-ai-art-eu-labelling-gap",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:35:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7fd88928",
-      "title": "Meta’s Muse AI passes 5 million downloads, breaking records",
-      "url": "https://mashable.com/tech/meta-muse-ai-assistant-app-5-million-downloads",
-      "primary_url": "https://mashable.com/tech/meta-muse-ai-assistant-app-5-million-downloads",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "bcf48ed09d86d48e1df096e17c2707d811b328eb",
-          "title": "Meta’s Muse AI passes 5 million downloads, breaking records",
-          "url": "https://mashable.com/tech/meta-muse-ai-assistant-app-5-million-downloads",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:27:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_20532e6f",
-      "title": "[问与答] 有没有可以使用字节跳动给企业 AI 的模型的途径？",
-      "url": "https://www.v2ex.com/t/1246184",
-      "primary_url": "https://www.v2ex.com/t/1246184",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "ffdcbab04e66e49879ec9dcec895983b1bb518a5",
-          "title": "[问与答] 有没有可以使用字节跳动给企业 AI 的模型的途径？",
-          "url": "https://www.v2ex.com/t/1246184",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T16:19:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6ecd13c9",
-      "title": "The Pope decries AI-generated art",
-      "url": "https://www.businessinsider.com/the-pope-criticizes-ai-generated-art-2026-10",
-      "primary_url": "https://www.businessinsider.com/the-pope-criticizes-ai-generated-art-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "55a05f2255375810ca7b4fc36996519a8f38d9da",
-          "title": "The Pope decries AI-generated art",
-          "url": "https://www.businessinsider.com/the-pope-criticizes-ai-generated-art-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:10:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4e674024",
-      "title": "Volantis raises $88M for a photonic memory layer built for AI inference",
-      "url": "https://thenextweb.com/news/volantis-photonic-memory-europe-inp",
-      "primary_url": "https://thenextweb.com/news/volantis-photonic-memory-europe-inp",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "1109d8a0966ffc71c0db4a3290b2bbf3b51de84f",
-          "title": "Volantis raises $88M for a photonic memory layer built for AI inference",
-          "url": "https://thenextweb.com/news/volantis-photonic-memory-europe-inp",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_69d518ed",
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open",
-      "primary_url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4f318a7754a5c41bb09ce8545e6d96aa21f5e54f",
-          "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-          "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_304f0f48",
-      "title": "Robotics startup FieldAI closes new funding round at $10 billion valuation",
-      "url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "primary_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "14334c80c27a92b225e01f2fbb9ae40a05a1525f",
-          "title": "Robotics startup FieldAI closes new funding round at $10 billion valuation",
-          "url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:39:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5f38a79c",
-      "title": "Pope Leo comes out swinging against AI slop",
-      "url": "https://mashable.com/tech/pope-leo-xiv-ai-art-slop",
-      "primary_url": "https://mashable.com/tech/pope-leo-xiv-ai-art-slop",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "1bc099ed6d015d74ca0457fd1025c01dc5608498",
-          "title": "Pope Leo comes out swinging against AI slop",
-          "url": "https://mashable.com/tech/pope-leo-xiv-ai-art-slop",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:35:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7933c4f7",
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "primary_url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "486591ee1157a7b3d33fe4daeb5a6b0ca46a04b9",
-          "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-          "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T15:24:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_20cdc421",
-      "title": "The Four Horsemen of Agentic Coding",
-      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "primary_url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "ffc294748d8cc3e04c00683ef9a9b3d56b381f08",
-          "title": "The Four Horsemen of Agentic Coding",
-          "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T15:19:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8c3ed887",
-      "title": "Mozilla shutting down Solo AI website creator",
-      "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
-      "primary_url": "https://support.soloist.ai/doc/solo-shutdown-faq",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "fb201e7bbc815021fe354c258ad6dec5fe826930",
-          "title": "Mozilla shutting down Solo AI website creator",
-          "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T15:19:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_abb4741c",
-      "title": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
-      "url": "https://www.techmeme.com/261002/p14",
-      "primary_url": "https://www.techmeme.com/261002/p14",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "956f777b3060aadf7546b13925c67dd01b71ff6d",
-          "title": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
-          "url": "https://www.techmeme.com/261002/p14",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2c872576",
-      "title": "I tried Gemini's free new movie maker; Hollywood has absolutely nothing to worry about",
-      "url": "https://www.androidpolice.com/i-tried-geminis-free-new-movie-maker-and-hollywood-has-nothing-to-fear",
-      "primary_url": "https://www.androidpolice.com/i-tried-geminis-free-new-movie-maker-and-hollywood-has-nothing-to-fear",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "43e045d3dccbe11760b8ac5cb01eb1a1db3d6a5f",
-          "title": "I tried Gemini's free new movie maker; Hollywood has absolutely nothing to worry about",
-          "url": "https://www.androidpolice.com/i-tried-geminis-free-new-movie-maker-and-hollywood-has-nothing-to-fear",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7eeff500",
-      "title": "Don't let the adorable AI agents fool you",
-      "url": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you",
-      "primary_url": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "46efa02faee68d53f0b68720d4668201159b7265",
-          "title": "Don't let the adorable AI agents fool you",
-          "url": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b9fed351",
-      "title": "Error-Prone AI Nearly Sparked World War Three Last Month",
-      "url": "https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month",
-      "primary_url": "https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "6677143ab545a7191a8b1bb0c1600e0a44469b6d",
-          "title": "Error-Prone AI Nearly Sparked World War Three Last Month",
-          "url": "https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aa4bf10b",
-      "title": "I ditched Chrome, Gmail, and Docs for Gemini Spark; my Pixel phone improved instantly",
-      "url": "https://www.androidpolice.com/i-ditched-chrome-gmail-docs-for-gemini-spark-my-pixel-phone-improved",
-      "primary_url": "https://www.androidpolice.com/i-ditched-chrome-gmail-docs-for-gemini-spark-my-pixel-phone-improved",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "132561bf41cd8bfce8347bf1dd5960bed9bc501c",
-          "title": "I ditched Chrome, Gmail, and Docs for Gemini Spark; my Pixel phone improved instantly",
-          "url": "https://www.androidpolice.com/i-ditched-chrome-gmail-docs-for-gemini-spark-my-pixel-phone-improved",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T14:30:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_346bc474",
-      "title": "Sources: Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure (Bloomberg)",
-      "url": "https://www.techmeme.com/261002/p13",
-      "primary_url": "https://www.techmeme.com/261002/p13",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "5fb2d4c2b648d97af2fdd581aeb367e93d9e9434",
-          "title": "Sources: Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure (Bloomberg)",
-          "url": "https://www.techmeme.com/261002/p13",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e7be37b",
-      "title": "Anthropic tells IPO investors US government actions could hit its business",
-      "url": "https://thenextweb.com/news/anthropic-ipo-prospectus-government-risk-customers",
-      "primary_url": "https://thenextweb.com/news/anthropic-ipo-prospectus-government-risk-customers",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "523c1ac2b93ecf1b66ad4f39d1373ac42714aed9",
-          "title": "Anthropic tells IPO investors US government actions could hit its business",
-          "url": "https://thenextweb.com/news/anthropic-ipo-prospectus-government-risk-customers",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T14:19:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e66f9b28",
-      "title": "We're Missing a Key Reason Why Americans Hate AI",
-      "url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
-      "primary_url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "62f40a6d0adc96d9f90322d24814358db31f8894",
-          "title": "We're Missing a Key Reason Why Americans Hate AI",
-          "url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T14:18:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3364b969",
-      "title": "Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory",
-      "url": "https://juejin.cn/post/7690888878326087721",
-      "primary_url": "https://juejin.cn/post/7690888878326087721",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "d1565492c279527d9186ade1dbd7e67da6433318",
-          "title": "Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory",
-          "url": "https://juejin.cn/post/7690888878326087721",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b95088d4",
-      "title": "Claude Opus 5.5 中转站验真：1x Kiro 反代真的在跑 Opus 5.5 吗？",
-      "url": "https://juejin.cn/post/7690861778460229651",
-      "primary_url": "https://juejin.cn/post/7690861778460229651",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "9cf0b8845ff1aacf1b8f147244eebd3e15769958",
-          "title": "Claude Opus 5.5 中转站验真：1x Kiro 反代真的在跑 Opus 5.5 吗？",
-          "url": "https://juejin.cn/post/7690861778460229651",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1a8dfc35",
-      "title": "Claude Opus 5.5 最新焚诀发布了！",
-      "url": "https://juejin.cn/post/7690930433831354378",
-      "primary_url": "https://juejin.cn/post/7690930433831354378",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "5af7ef2692340dd551ebafae12f2d3b054e07e7d",
-          "title": "Claude Opus 5.5 最新焚诀发布了！",
-          "url": "https://juejin.cn/post/7690930433831354378",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dd1c878c",
-      "title": "DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流",
-      "url": "https://juejin.cn/post/7690807431082082338",
-      "primary_url": "https://juejin.cn/post/7690807431082082338",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "8348aaaaededb09cd1187546b33b0e1502981f7f",
-          "title": "DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流",
-          "url": "https://juejin.cn/post/7690807431082082338",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5a1a9897",
-      "title": "Never Boring AI",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "primary_url": "https://www.producthunt.com/products/never-boring-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "70085f292b379935eea7d38ffb5d39e50d152700",
-          "title": "Never Boring AI",
-          "url": "https://www.producthunt.com/products/never-boring-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_99f0be58",
-      "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
-      "url": "https://juejin.cn/post/7691151105850654758",
-      "primary_url": "https://juejin.cn/post/7691151105850654758",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "c93cccac1261d17183762df974b1350afffa70a4",
-          "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
-          "url": "https://juejin.cn/post/7691151105850654758",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_45545c32",
-      "title": "Syllaby AI Avatar 2.0",
-      "url": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
-      "primary_url": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "6f3b0d48f0930a03cfee4ee431dc20c76525250e",
-          "title": "Syllaby AI Avatar 2.0",
-          "url": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1c544153",
-      "title": "Veltrix AI for E-commerce",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
-      "primary_url": "https://www.producthunt.com/products/veltrix-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "2f58ca43bf5c0d961813f47dbe4815b559accb0b",
-          "title": "Veltrix AI for E-commerce",
-          "url": "https://www.producthunt.com/products/veltrix-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_76cf696a",
-      "title": "一个人+AI做情侣食谱小程序，30天纯赚",
-      "url": "https://juejin.cn/post/7691030977348108351",
-      "primary_url": "https://juejin.cn/post/7691030977348108351",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "ec5c9445b885c9dd4fed29c5b1c3c83756fb7359",
-          "title": "一个人+AI做情侣食谱小程序，30天纯赚",
-          "url": "https://juejin.cn/post/7691030977348108351",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8ccabcac",
-      "title": "隔离内网下 AI Agent 工程实战",
-      "url": "https://juejin.cn/post/7690784318688297010",
-      "primary_url": "https://juejin.cn/post/7690784318688297010",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "4070f9469e7c1a059662840e463f66c5e5b85437",
-          "title": "隔离内网下 AI Agent 工程实战",
-          "url": "https://juejin.cn/post/7690784318688297010",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T14:11:13.997000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2e418f80",
-      "title": "[Xcode] xcode 27 ai 功能境内能用吗？",
-      "url": "https://www.v2ex.com/t/1246175",
-      "primary_url": "https://www.v2ex.com/t/1246175",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "7519373eeed90e42bd69f647bad6d87b1cba6648",
-          "title": "[Xcode] xcode 27 ai 功能境内能用吗？",
-          "url": "https://www.v2ex.com/t/1246175",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T13:49:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_194016ce",
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "primary_url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "75ec0c3d7a4893744a2e6f301a9f6b689b9dc515",
-          "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-          "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:47:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_408187d7",
-      "title": "Don't be fooled–LLMs don't reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-      "primary_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "cb2beb14f3a7296840ff0211aaa6db3b723dc96c",
-          "title": "Don't be fooled–LLMs don't reason",
-          "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:45:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_098abdc2",
-      "title": "Claude-Shaped Science",
-      "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "primary_url": "https://www.anthropic.com/research/claude-shaped-science",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f51a6d806039eaae30d991b13a70ed25cfd7205d",
-          "title": "Claude-Shaped Science",
-          "url": "https://www.anthropic.com/research/claude-shaped-science",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:38:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e4757f0",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
-      "primary_url": "https://www.kapa.ai/blog/company-knowledge-bench",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "87aa7690e72adda7b173473307b2bcf56d2be1e6",
-          "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-          "url": "https://www.kapa.ai/blog/company-knowledge-bench",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:37:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d6b772cb",
-      "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
-      "url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview",
-      "primary_url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "c4b207a8a53db38f4b336c69207588cd15c375a2",
-          "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
-          "url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T13:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_11ecf6b1",
-      "title": "[推广] Codex 纯 Pro 池｜按量 0.2，阶梯最低 0.15，包月不到 0.1 ｜成功率稳定 99+",
-      "url": "https://www.v2ex.com/t/1246168",
-      "primary_url": "https://www.v2ex.com/t/1246168",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "696fe1874db3496bad9d77548bfeb45eaba14051",
-          "title": "[推广] Codex 纯 Pro 池｜按量 0.2，阶梯最低 0.15，包月不到 0.1 ｜成功率稳定 99+",
-          "url": "https://www.v2ex.com/t/1246168",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T13:23:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9e1c6216",
-      "title": "[站长] 做了 20 年地方站，花了十几万，写了 6 坨代码，今年靠 AI 终于做成了",
-      "url": "https://www.v2ex.com/t/1246167",
-      "primary_url": "https://www.v2ex.com/t/1246167",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "eb5f3e13ec740370adf58bcbb07e1a37828ffcdd",
-          "title": "[站长] 做了 20 年地方站，花了十几万，写了 6 坨代码，今年靠 AI 终于做成了",
-          "url": "https://www.v2ex.com/t/1246167",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T13:23:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_65370800",
-      "title": "[OpenAI] 20X 到期退订转 plus，赠送的 62500 可以继续用吧",
-      "url": "https://www.v2ex.com/t/1246166",
-      "primary_url": "https://www.v2ex.com/t/1246166",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "78e04dc07f1ea96f7a585aa93534cc7e56b9a12f",
-          "title": "[OpenAI] 20X 到期退订转 plus，赠送的 62500 可以继续用吧",
-          "url": "https://www.v2ex.com/t/1246166",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-02T13:22:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ac605409",
-      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow",
-      "primary_url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "953e5a6dd007ec9cd0a44573d4c0cc2d2af244d8",
-          "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-          "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T13:19:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2d6375b7",
-      "title": "Tencent leases 100,000 AI chips from Oracle in a $7bn deal, FT reports",
-      "url": "https://thenextweb.com/news/tencent-oracle-100000-ai-chips-7bn-lease-ft",
-      "primary_url": "https://thenextweb.com/news/tencent-oracle-100000-ai-chips-7bn-lease-ft",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "4ce36028dd4c3e81db0ec064710c03efa948d625",
-          "title": "Tencent leases 100,000 AI chips from Oracle in a $7bn deal, FT reports",
-          "url": "https://thenextweb.com/news/tencent-oracle-100000-ai-chips-7bn-lease-ft",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T13:09:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ae062921",
-      "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
-      "url": "https://www.techmeme.com/261002/p11",
-      "primary_url": "https://www.techmeme.com/261002/p11",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "0a728107d96a418e2ec5ae3256a2607230cc92d2",
-          "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
-          "url": "https://www.techmeme.com/261002/p11",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T13:05:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7e926309",
-      "title": "AI agents aggressively tried to hack US and Canadian government websites",
-      "url": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
-      "primary_url": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "40c576687a6b29aa55f1d41ec66a14064ca44091",
-          "title": "AI agents aggressively tried to hack US and Canadian government websites",
-          "url": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T13:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_533eeca2",
-      "title": "Nvidia’s Huang questioned Amodei’s AI warnings at White House, WSJ reports",
-      "url": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
-      "primary_url": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "a85342d2383f15c3568f1873fd2de88eaa809970",
-          "title": "Nvidia’s Huang questioned Amodei’s AI warnings at White House, WSJ reports",
-          "url": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T12:58:32Z"
         }
       ],
       "item_count": 1,
