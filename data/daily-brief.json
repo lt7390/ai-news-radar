@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:47:01.438294Z",
+  "generated_at": "2026-10-03T07:09:17.170871Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 16,
   "items": [
-    {
-      "title": "A model guide for the GPT-6 family",
-      "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-02T16:15:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
     {
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "title_zh": null,
@@ -22,17 +11,6 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-10-02T15:19:50Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "title_zh": null,
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-02T04:01:31Z",
       "ai_is_related": true,
       "ai_score": 0.95
     },
@@ -55,6 +33,28 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-10-02T19:11:30Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+      "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-02T16:15:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-03T06:18:38Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -112,6 +112,61 @@
       "published_at": "2026-10-02T18:07:12Z",
       "ai_is_related": true,
       "ai_score": 1.0
+    },
+    {
+      "title": "Capy is like a 24/7 standup for your agents https://t.co/cNQwkWMxSz",
+      "title_zh": null,
+      "url": "https://x.com/garrytan/status/2106102038706970794",
+      "source": "Follow Builders · X · Garry Tan",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-02T19:20:30Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
+    },
+    {
+      "title": "People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
+      "title_zh": null,
+      "url": "https://x.com/mattturck/status/2106076198027890750",
+      "source": "Follow Builders · X · Matt Turck",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-02T17:37:49Z",
+      "ai_is_related": false,
+      "ai_score": 0.33
+    },
+    {
+      "title": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, al...",
+      "title_zh": null,
+      "url": "https://x.com/garrytan/status/2106063850453991758",
+      "source": "Follow Builders · X · Garry Tan",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-02T16:48:45Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
+    },
+    {
+      "title": "Agent 时代，最重要的新对象，可能不是Agent",
+      "title_zh": "Agent 时代，最重要的新对象，可能不是Agent",
+      "url": "https://www.huxiu.com/article/4895239.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-03T03:26:25Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "[分享发现] seo 分析工具 https://meagent.io/seo-agent",
+      "title_zh": "[分享发现] seo 分析工具 https://meagent.io/seo-agent",
+      "url": "https://www.v2ex.com/t/1246238",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-03T06:04:05Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "The Four Horsemen of Agentic Coding",
