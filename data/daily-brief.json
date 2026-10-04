@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-03T20:15:11.642132Z",
+  "generated_at": "2026-10-04T00:09:58.121495Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-03T22:56:48Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+      "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-03T21:52:11Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
     {
       "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
       "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
@@ -37,70 +59,15 @@
       "ai_score": 1.0
     },
     {
-      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-      "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "source": "Baseten 工程博客（网页）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-02T21:09:34Z",
+      "title": "Edge AI Daily 早报（10月4日）",
+      "title_zh": "Edge AI Daily 早报（10月4日）",
+      "url": "https://www.tmtpost.com/8158829.html",
+      "source": "钛媒体 TMTPost",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-03T23:50:31Z",
       "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "here is my official @OpenAI DevDay FOOD vibe check (I know you’ve been waiting) https://t.co/JnLpqALBg7",
-      "title_zh": null,
-      "url": "https://x.com/danshipper/status/2106144801653506531",
-      "source": "Follow Builders · X · Dan Shipper",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T22:10:25Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
-      "title": "What are you exploring with Claude this weekend?",
-      "title_zh": null,
-      "url": "https://x.com/claudeai/status/2106125480193913276",
-      "source": "Follow Builders · X · Claude",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T20:53:39Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
-      "title": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5. https://t.co/0q8bZJAi4T",
-      "title_zh": null,
-      "url": "https://x.com/claudeai/status/2106125478956507480",
-      "source": "Follow Builders · X · Claude",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T20:53:38Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
-      "title": "A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5. https://t.co/04cupOr4Tg",
-      "title_zh": null,
-      "url": "https://x.com/claudeai/status/2106125477710901276",
-      "source": "Follow Builders · X · Claude",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T20:53:38Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
-      "title": "\"You should know\" is a great way of staying on top of what's possible with Claude and also a great example of the kind of things mods enable. You can really make Claude Code yours. https://t.co/En0OhotxQL",
-      "title_zh": null,
-      "url": "https://x.com/trq212/status/2106119299484221762",
-      "source": "Follow Builders · X · Thariq",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-02T20:29:05Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
+      "ai_score": 0.67
     },
     {
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
@@ -112,6 +79,39 @@
       "published_at": "2026-10-03T16:49:10Z",
       "ai_is_related": true,
       "ai_score": 0.67
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "title_zh": null,
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "source": "TechCrunch",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-03T16:30:01Z",
+      "ai_is_related": true,
+      "ai_score": 0.71
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "title_zh": null,
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-03T15:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.67
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "title_zh": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-10-03T14:31:56Z",
+      "ai_is_related": true,
+      "ai_score": 0.71
     },
     {
       "title": "Personal Agent 和Coding Agent 的本质区别。",
@@ -143,6 +143,17 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-03T17:35:36.081000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "title_zh": null,
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "Hacker News · 24h最热",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-10-03T17:03:37Z",
       "ai_is_related": false,
       "ai_score": 0.32
     },
@@ -193,8 +204,8 @@
     {
       "title": "Show HN: Offrun – manage every coding agent from one workspace",
       "title_zh": null,
-      "url": "https://news.ycombinator.com/item?id=49942434",
-      "source": "hackernews",
+      "url": "https://offrun.dev",
+      "source": "Hacker News · 24h最热",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-03T08:40:17Z",
@@ -209,17 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-10-03T07:21:19.148000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[Google] Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
-      "title_zh": "[Google] Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
-      "url": "https://www.v2ex.com/t/1246247",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-03T07:10:06Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
