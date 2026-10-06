@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:45:48.484792Z",
+  "generated_at": "2026-10-06T10:50:03.775358Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -13,6 +13,17 @@
       "published_at": "2026-10-06T06:44:39Z",
       "ai_is_related": true,
       "ai_score": 0.99
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-05T15:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
     },
     {
       "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
@@ -92,26 +103,15 @@
       "ai_score": 1.0
     },
     {
-      "title": "The most common mistake teams make is to treat evals as an additional QA step once the agent is built. AI products are fundamentally different. Your evals are your product spec.",
-      "title_zh": null,
-      "url": "https://x.com/realmadhuguru/status/2107292113214091355",
-      "source": "Follow Builders · X · Madhu Guru",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-06T02:09:26Z",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-05T17:53:35Z",
       "ai_is_related": true,
-      "ai_score": 0.8
-    },
-    {
-      "title": "my favorite name for this pattern is \"local hands\", Claude runs in the cloud but can access your files locally- also coming to cowork https://t.co/fLX963TUxY",
-      "title_zh": null,
-      "url": "https://x.com/trq212/status/2107229483015258493",
-      "source": "Follow Builders · X · Thariq",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-05T22:00:33Z",
-      "ai_is_related": true,
-      "ai_score": 0.84
+      "ai_score": 1.0
     },
     {
       "title": "A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments. The files agents need to access, the CRM environments, email, and more. It...",
