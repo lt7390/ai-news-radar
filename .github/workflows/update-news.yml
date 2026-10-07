@@ -90,6 +90,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 记下本轮检出的远端基线，供 push 被拒后区分「并发轮次已推新快照」与「权限类异常」。
+          BASE_SHA=$(git rev-parse HEAD)
           # Stage the whole data dir so newly added output files can never be
           # silently dropped again (the daily-brief/stories-merged freeze was
           # caused by a stale filename whitelist here). .gitignore keeps
@@ -110,11 +112,31 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update ai news snapshot"
-          # 运行期间有人推了同分支时裸 push 会被拒(non-fast-forward),整轮数据白跑。
-          # rebase 到最新远端再推,最多重试 3 次;数据文件都是本轮生成的快照,rebase 无冲突风险。
-          for attempt in 1 2 3; do
-            git push && exit 0
-            echo "push rejected (attempt $attempt), rebasing onto latest remote..."
-            git pull --rebase origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; exit 1; }
-          done
-          git push
+          # 快照幂等：data/*.json 每轮都是整包重写，远端若已前进，说明并发的另一轮已
+          # 交付同样新鲜的快照，本轮静默让路即可，不视为失败。
+          # 原先这里 rebase 重试，注释假定「数据文件都是本轮生成的快照，rebase 无冲突风险」。
+          # 该假定 2026-10-07 15:45 被证伪：schedule 被 GitHub 延迟后，与 watchdog 兜底的
+          # dispatch 撞车，两轮各自整包重写同一批 JSON，rebase 逐文件 content conflict，
+          # exit 1 报了告警。而当时远端已经有可用新快照，整个重跑本来就没必要。
+          if git push; then
+            echo "Snapshot pushed."
+            exit 0
+          fi
+          echo "push rejected, inspecting remote state..."
+          git fetch --no-tags origin "${GITHUB_REF_NAME}" || { echo "::error::fetch 失败"; exit 1; }
+          REMOTE_SHA=$(git rev-parse FETCH_HEAD)
+          REMOTE_TIP=$(git log -1 --format='%an // %s' FETCH_HEAD)
+          if [ "$REMOTE_SHA" = "$BASE_SHA" ]; then
+            # 远端没前进，拒推就不是并发冲突，而是权限/分支保护/网络，不能静默吞掉。
+            echo "::error::远端 tip 仍等于本轮基线 ${BASE_SHA}，push 被拒非并发冲突，需人工查 token 权限 / 分支保护 / 网络"
+            exit 1
+          fi
+          case "$REMOTE_TIP" in
+            "github-actions[bot] // chore: update ai news snapshot")
+              echo "远端已被并发 run 推送新快照（${REMOTE_TIP} @ ${REMOTE_SHA:0:7}），本轮数据同样新鲜，静默让路，不视为失败。"
+              exit 0
+              ;;
+          esac
+          # 远端确实前进了，但新 tip 不是并发的快照提交：要人工看一眼。
+          echo "::error::push 被拒，远端前进到新 tip 但非快照提交: ${REMOTE_TIP} @ ${REMOTE_SHA:0:7}，需人工排查"
+          exit 1
