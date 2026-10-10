@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-10-10T14:01:23.774312Z",
+  "generated_at": "2026-10-10T18:14:15.285956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "title_zh": null,
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-09T15:20:29Z",
-      "ai_is_related": true,
-      "ai_score": 0.98
-    },
     {
       "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
       "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
@@ -44,6 +33,17 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-10-10T13:59:54.693141Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-10T13:56:02Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -114,6 +114,28 @@
       "ai_score": 1.0
     },
     {
+      "title": "教师办公Agent入门指南",
+      "title_zh": "教师办公Agent入门指南",
+      "url": "https://waytoagi.feishu.cn/wiki/ZvHYw4CH4ipYehklzGPccwX0nhh?from=from_copylink",
+      "source": "社区更新 · 2026-10-10",
+      "source_tier_rank": 2,
+      "source_tier_label": "社区更新",
+      "published_at": "2026-10-10T18:13:41.526342Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "近期海外爆火的 Personal Agent 的完整复盘",
+      "title_zh": "近期海外爆火的 Personal Agent 的完整复盘",
+      "url": "https://waytoagi.feishu.cn/wiki/OKAnw7hAyiOIF8k1Y48ceQWMnmf?from=from_copylink",
+      "source": "社区更新 · 2026-10-10",
+      "source_tier_rank": 2,
+      "source_tier_label": "社区更新",
+      "published_at": "2026-10-10T18:13:41.526342Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
       "title": "Some interesting machine & agent Vercel traffic stats. • Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024. • 60%+ of deployments on Vercel are now agentic, up fro...",
       "title_zh": null,
       "url": "https://x.com/rauchg/status/2108733051283050964",
@@ -132,28 +154,6 @@
       "source_tier_rank": 2,
       "source_tier_label": "Builders/X源",
       "published_at": "2026-10-09T21:20:47Z",
-      "ai_is_related": false,
-      "ai_score": 0.57
-    },
-    {
-      "title": "万字报告，个人 Agent 竞品分析，谁最适合当你的助理？",
-      "title_zh": "万字报告，个人 Agent 竞品分析，谁最适合当你的助理？",
-      "url": "https://waytoagi.feishu.cn/wiki/P7oXw2zVuipEzCkSbJ2cWnl9nRg?from=from_copylink",
-      "source": "社区更新 · 2026-10-09",
-      "source_tier_rank": 2,
-      "source_tier_label": "社区更新",
-      "published_at": "2026-10-09T17:34:18.038525Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Working With Agents in Slack https://t.co/QkNBc5wqIs",
-      "title_zh": null,
-      "url": "https://x.com/danshipper/status/2108588611000275009",
-      "source": "Follow Builders · X · Dan Shipper",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-10-09T16:01:15Z",
       "ai_is_related": false,
       "ai_score": 0.57
     },
@@ -213,13 +213,13 @@
       "ai_score": 0.47
     },
     {
-      "title": "能否利用自回归扩散模型生成市场数据？",
-      "title_zh": "能否利用自回归扩散模型生成市场数据？",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data",
-      "source": "blog.janestreet.com",
+      "title": "[分享创造] 关于自己的 agent-harness 的实践与迭代过程中一些好玩的点",
+      "title_zh": "[分享创造] 关于自己的 agent-harness 的实践与迭代过程中一些好玩的点",
+      "url": "https://www.v2ex.com/t/1247742",
+      "source": "V2EX (创意工作者社区)",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
-      "published_at": "2026-10-10T11:44:00.769000Z",
+      "published_at": "2026-10-10T16:51:32Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
