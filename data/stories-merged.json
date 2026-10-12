@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-12T16:45:58.796390Z",
+  "generated_at": "2026-10-12T19:25:58.259483Z",
   "window_hours": 24,
-  "total_stories": 176,
+  "total_stories": 197,
   "stories": [
+    {
+      "story_id": "story_7c1c56e8",
+      "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "primary_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "github.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "e3ea9ace5d71835bc12e67ebcfd26e609b0319f8",
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News：AI 热帖",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T11:22:24Z"
+        },
+        {
+          "id": "5a8d5a7dfa130542456f3aaaed2113fcaf4fa8ba",
+          "title": "QGIS 禁止使用人工智能辅助的贡献",
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "github.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T12:48:18.792000Z"
+        },
+        {
+          "id": "a071106a526699aa05eb2e399b00a2976579133f",
+          "title": "QGIS: No AI contributions permitted",
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T11:22:24Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9980
+    },
     {
       "story_id": "story_509eaac8",
       "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
@@ -33,6 +73,72 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_64a376a6",
+      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "3df9e5d8e050de37bee7775e1f9be729c18d418f",
+          "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+          "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+          "source": "Ars Technica：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T18:21:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_280c232a",
+      "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+      "url": "https://x.com/arena/status/2109706854700044523",
+      "primary_url": "https://x.com/arena/status/2109706854700044523",
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "sources": [
+        {
+          "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
+          "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+          "url": "https://x.com/arena/status/2109706854700044523",
+          "source": "X：Arena (@arena)",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T18:04:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_044d1695",
+      "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
+      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+      "primary_url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+      "source_count": 1,
+      "source_names": [
+        "Amazon Science（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "0e3a671a7441e014235d27d12338ee7135f910ce",
+          "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
+          "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+          "source": "Amazon Science（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T17:36:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_c6f625d2",
@@ -615,6 +721,50 @@
       "score": 9920
     },
     {
+      "story_id": "story_3a989c9c",
+      "title": "Meta's Frontier Model: Muse Wonder",
+      "url": "https://aibreakfast.beehiiv.com/p/meta-s-frontier-model-muse-wonder",
+      "primary_url": "https://aibreakfast.beehiiv.com/p/meta-s-frontier-model-muse-wonder",
+      "source_count": 1,
+      "source_names": [
+        "AI Breakfast"
+      ],
+      "sources": [
+        {
+          "id": "692e9a1f8573029bbdca185351ecde0b23910291",
+          "title": "Meta's Frontier Model: Muse Wonder",
+          "url": "https://aibreakfast.beehiiv.com/p/meta-s-frontier-model-muse-wonder",
+          "source": "AI Breakfast",
+          "site_id": "aibreakfast",
+          "published_at": "2026-10-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5af6d641",
+      "title": "我把 Jev 部署到了一个开源Agent Harness中",
+      "url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-10-12"
+      ],
+      "sources": [
+        {
+          "id": "8f05c3b57f714406156278534337a1937ef3aa18",
+          "title": "我把 Jev 部署到了一个开源Agent Harness中",
+          "url": "https://waytoagi.feishu.cn/wiki/NkknwTOIzimajRkwBepc3KbWnwe?from=from_copylink",
+          "source": "社区更新 · 2026-10-12",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-12T19:25:06.121872Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
       "story_id": "story_93aa4bf1",
       "title": "AI音乐周刊 W.A 049",
       "url": "https://waytoagi.feishu.cn/wiki/WSm2wJGMYiPFgnkEwaOclrExnaf?from=from_copylink",
@@ -923,94 +1073,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_ecf8ede6",
-      "title": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel. - Napkin math somewher...",
-      "url": "https://x.com/karpathy/status/2109361546505966046",
-      "primary_url": "https://x.com/karpathy/status/2109361546505966046",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Andrej Karpathy"
-      ],
-      "sources": [
-        {
-          "id": "c5bfeee73e07ec03ea9d72c69b2d2af232eaf49e",
-          "title": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel. - Napkin math somewher...",
-          "url": "https://x.com/karpathy/status/2109361546505966046",
-          "source": "Follow Builders · X · Andrej Karpathy",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T19:12:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_7cfaf97e",
-      "title": "People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and h...",
-      "url": "https://x.com/mattturck/status/2109345191010472332",
-      "primary_url": "https://x.com/mattturck/status/2109345191010472332",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "6f42133df38188fa49543e37681240293818486c",
-          "title": "People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and h...",
-          "url": "https://x.com/mattturck/status/2109345191010472332",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T18:07:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_6a5e3fc3",
-      "title": "10.5—10.11｜本周顶级 AI 论文",
-      "url": "https://waytoagi.feishu.cn/wiki/KcvdwvBYJivQPWkn4yVcIRYGnnH?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/KcvdwvBYJivQPWkn4yVcIRYGnnH?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-10-11"
-      ],
-      "sources": [
-        {
-          "id": "9bb3232bf763a918cd2015af4803f9a7a25e944c",
-          "title": "10.5—10.11｜本周顶级 AI 论文",
-          "url": "https://waytoagi.feishu.cn/wiki/KcvdwvBYJivQPWkn4yVcIRYGnnH?from=from_copylink",
-          "source": "社区更新 · 2026-10-11",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T16:48:30.867965Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_af2e38c9",
-      "title": "如何构建 AI Agent：从一个提示词到生产级部署",
-      "url": "https://waytoagi.feishu.cn/wiki/UuHFwalEHimXJqkwbDicrseOnUe?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/UuHFwalEHimXJqkwbDicrseOnUe?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-10-11"
-      ],
-      "sources": [
-        {
-          "id": "3a312e6a08c3efb73adbcbca5409e01980dc7492",
-          "title": "如何构建 AI Agent：从一个提示词到生产级部署",
-          "url": "https://waytoagi.feishu.cn/wiki/UuHFwalEHimXJqkwbDicrseOnUe?from=from_copylink",
-          "source": "社区更新 · 2026-10-11",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-11T16:48:30.867965Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_600c2f07",
       "title": "AI 办公大战，盯上了企业的人力预算",
       "url": "https://www.tmtpost.com/8165026.html",
@@ -1074,7 +1136,7 @@
     },
     {
       "story_id": "story_5cfb2818",
-      "title": "Federal agents search Rep. Ilhan Omar's Washington home as part of a criminal investigation - AP News",
+      "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
       "source_count": 1,
@@ -1083,12 +1145,64 @@
       ],
       "sources": [
         {
+          "id": "6b6af63cc23eabea693275cf7e6f8d4c160d7f3c",
+          "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-12T18:53:00Z"
+        },
+        {
           "id": "84da59eff1f4ac2b87081f8aa18b4383b8e5a719",
           "title": "Federal agents search Rep. Ilhan Omar's Washington home as part of a criminal investigation - AP News",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-10-12T16:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8bda5821",
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him",
+      "primary_url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "9eecd78203fed350ced2259f1eba5c46b35b0e56",
+          "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+          "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-12T17:55:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2ae19147",
+      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "primary_url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "source_count": 1,
+      "source_names": [
+        "NPR Top News"
+      ],
+      "sources": [
+        {
+          "id": "2afcbd85a476ceaa247349df714bbc6960639420",
+          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+          "source": "NPR Top News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-12T17:17:17Z"
         }
       ],
       "item_count": 1,
@@ -1110,7 +1224,29 @@
           "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
           "source": "BBC World",
           "site_id": "opmlrss",
-          "published_at": "2026-10-12T16:04:13Z"
+          "published_at": "2026-10-12T17:09:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_289b3c89",
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
+      "primary_url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "b4bd89e6ebcdf7e689a702275a8d77b979ac622b",
+          "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+          "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-12T17:00:27Z"
         }
       ],
       "item_count": 1,
@@ -1177,6 +1313,28 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-10-12T14:59:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d4b50bc6",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "primary_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "87d5b2d1b59d5c7449092b7b34991fde8ffa63d8",
+          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-12T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1843,48 +2001,105 @@
       "score": 9720
     },
     {
-      "story_id": "story_5e9f78f7",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source_count": 1,
+      "story_id": "story_e78d6d52",
+      "title": "AI编程代理生成的代码更多，但并不意味着生成的软件更多",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "primary_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "source_count": 2,
       "source_names": [
-        "The Verge"
+        "arstechnica.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d008195934f18f8f249726ef01528e93c22c68ac",
-          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T18:33:56Z"
+          "id": "88b0831c675f847dd44ef4df363981be54ff57b6",
+          "title": "AI编程代理生成的代码更多，但并不意味着生成的软件更多",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+          "source": "arstechnica.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T19:09:55.137000Z"
+        },
+        {
+          "id": "f9dfbb93ea648a4cd5c67402ee58ae036479de8a",
+          "title": "AI coding agents generate more code, but not more software",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T17:14:01Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
-      "story_id": "story_01f5b903",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "primary_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "source_count": 1,
+      "story_id": "story_64604df8",
+      "title": "Meta 发布 Muse Wonder 与 Muse Wonder Full 模型，主打个人与专业智能体能力",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "primary_url": "https://research.meta.ai/blog/muse-wonder",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "research.meta.ai",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a01e6b9753085f3eaa72bdcefe8b85c3355e0e4d",
-          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T16:52:33Z"
+          "id": "3b8ba7b2c5d0347bf333211140e88b56be505e44",
+          "title": "缪斯奇观",
+          "url": "https://research.meta.ai/blog/muse-wonder",
+          "source": "research.meta.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T17:33:59.334000Z"
+        },
+        {
+          "id": "70dc1467cf837ebc26a2b8eb362cf3568c709242",
+          "title": "Muse Wonder",
+          "url": "https://research.meta.ai/blog/muse-wonder",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T16:48:01Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_63841978",
+      "title": "GLM-Legal：推动代理式法律智能的发展",
+      "url": "https://z.ai/blog/glm-legal",
+      "primary_url": "https://z.ai/blog/glm-legal",
+      "source_count": 2,
+      "source_names": [
+        "z.ai",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "2fbd2780d4541a32c0831cfc08027f4a89b482e1",
+          "title": "GLM-Legal：推动代理式法律智能的发展",
+          "url": "https://z.ai/blog/glm-legal",
+          "source": "z.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T17:18:16.911000Z"
+        },
+        {
+          "id": "0ca27c260db953d139a5203ed18d805cc9a0949f",
+          "title": "GLM-Legal",
+          "url": "https://z.ai/blog/glm-legal",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T16:11:45Z"
+        },
+        {
+          "id": "4941d30627d42038552ed16edae1b485453d77f7",
+          "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+          "url": "https://z.ai/blog/glm-legal",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T16:11:45Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
     },
     {
       "story_id": "story_77a6e9be",
@@ -1912,37 +2127,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-10-12T14:52:37Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_7c1c56e8",
-      "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "primary_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "source_count": 2,
-      "source_names": [
-        "github.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "5a8d5a7dfa130542456f3aaaed2113fcaf4fa8ba",
-          "title": "QGIS 禁止使用人工智能辅助的贡献",
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "github.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-12T12:48:18.792000Z"
-        },
-        {
-          "id": "64fcbe109e9ac0ff18e1f570b19cb59bea628940",
-          "title": "QGIS bans AI assisted contributions",
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-12T11:22:24Z"
         }
       ],
       "item_count": 2,
@@ -2073,6 +2257,556 @@
       "score": 9570
     },
     {
+      "story_id": "story_b0ec229f",
+      "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+      "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+      "primary_url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "4ce9b3c5bbd4ef0874b8c0b8ab5f246d72125bc8",
+          "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+          "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T19:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b39f5764",
+      "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+      "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models",
+      "primary_url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "cb58a6c21080f03def3313aa1d7c992cea277722",
+          "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+          "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T18:51:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e85f666b",
+      "title": "人工智能在数学领域的迅猛发展将科学推向了一个陌生的新领域",
+      "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+      "source_count": 1,
+      "source_names": [
+        "www.economist.com"
+      ],
+      "sources": [
+        {
+          "id": "a1084c3ad7c75d0ceebc5ac3da544fa4112f6b05",
+          "title": "人工智能在数学领域的迅猛发展将科学推向了一个陌生的新领域",
+          "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+          "source": "www.economist.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T18:38:25.150000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5f9ecbed",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "primary_url": "https://github.com/openai/codex/issues/48195",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6fe5a8d164e027c2029a072c20f02b7642c050ea",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T18:29:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3a45d59e",
+      "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://news.ycombinator.com/item?id=50058850",
+      "primary_url": "https://news.ycombinator.com/item?id=50058850",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "9a3904d8420618b314c5385243929e1aee3b2c58",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://news.ycombinator.com/item?id=50060694",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T18:29:04Z"
+        },
+        {
+          "id": "67ba1016cdd2a1aa9651a4ec3905d9a3d8a481e5",
+          "title": "Just say no to OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=50060500",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T18:17:29Z"
+        },
+        {
+          "id": "14d3ca07bdad9eaac257e0f6e0eeaf44503541f0",
+          "title": "AI coding agents generate more code, but not more software",
+          "url": "https://news.ycombinator.com/item?id=50059523",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T17:14:01Z"
+        },
+        {
+          "id": "08c2bc0a0dc547635380cb42f9c8f5e1e757be19",
+          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T16:46:34Z"
+        },
+        {
+          "id": "f6386e7834232b457e4d87d54add1e0b5c3a7bce",
+          "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "url": "https://news.ycombinator.com/item?id=50058850",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T16:31:55Z"
+        },
+        {
+          "id": "0e92249d952f1a2415698294a665e28536fb7682",
+          "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "url": "https://news.ycombinator.com/item?id=50057668",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T15:16:45Z"
+        },
+        {
+          "id": "3c40361bab13a2cf0fcdc096671c63a010159678",
+          "title": "Why aren't AI companies being charged for hacking?",
+          "url": "https://news.ycombinator.com/item?id=50057278",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T14:52:37Z"
+        },
+        {
+          "id": "20f3493510f0b7becd1f6709980c7e733ee9d98a",
+          "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+          "url": "https://news.ycombinator.com/item?id=50055654",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T12:46:52Z"
+        },
+        {
+          "id": "6f33ddfea5a68c7a99fa992198752c8d64dec86d",
+          "title": "QGIS bans AI assisted contributions",
+          "url": "https://news.ycombinator.com/item?id=50054751",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T11:22:24Z"
+        },
+        {
+          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
+          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://news.ycombinator.com/item?id=50049588",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T00:15:12Z"
+        },
+        {
+          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "url": "https://news.ycombinator.com/item?id=50049388",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T23:47:59Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "item_count": 12,
+      "score": 7
+    },
+    {
+      "story_id": "story_e7405ea6",
+      "title": "AMD puts 32,768 CPU cores in a rack built for AI agents",
+      "url": "https://thenextweb.com/news/amd-helion-agentic-rack-power",
+      "primary_url": "https://thenextweb.com/news/amd-helion-agentic-rack-power",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "788579d260149aef28900655b909c10a20ba3ce9",
+          "title": "AMD puts 32,768 CPU cores in a rack built for AI agents",
+          "url": "https://thenextweb.com/news/amd-helion-agentic-rack-power",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T18:29:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a3eaf58f",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
+      "primary_url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "89951c38c8f47e60a00339f11433bf4927fe2ba2",
+          "title": "Just say no to OpenAI and Anthropic",
+          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-10-12T18:17:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c5c53614",
+      "title": "[分享发现] facebook 又发布新模型了",
+      "url": "https://www.v2ex.com/t/1248250",
+      "primary_url": "https://www.v2ex.com/t/1248250",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "e1d5640ac31b6a332b757a7a22427c658551a592",
+          "title": "[分享发现] facebook 又发布新模型了",
+          "url": "https://www.v2ex.com/t/1248250",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T18:16:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_67994c81",
+      "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+      "url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+      "primary_url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "3d067b0ffb418b9223f7e51192f6450d02ecce1c",
+          "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+          "url": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T18:07:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6637ba3b",
+      "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+      "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+      "primary_url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "c06f45cab5e18310449d490ee3f0ebc14516c07f",
+          "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+          "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T18:03:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_74f63868",
+      "title": "Meta says its new Muse model has reached the AI frontier",
+      "url": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
+      "primary_url": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "5b1688ea10d3974ded879ef96ba0bf1e4ba67c2c",
+          "title": "Meta says its new Muse model has reached the AI frontier",
+          "url": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:51:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c4059af0",
+      "title": "Rep. Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home",
+      "url": "https://time.com/article/2026/10/12/Ilhan-omar-home-raid-federal-agents-immigration-allegations-democrats-response",
+      "primary_url": "https://time.com/article/2026/10/12/Ilhan-omar-home-raid-federal-agents-immigration-allegations-democrats-response",
+      "source_count": 1,
+      "source_names": [
+        "TIME Magazine"
+      ],
+      "sources": [
+        {
+          "id": "14cd145ac90686e8743fb065e52f4ba910c825d1",
+          "title": "Rep. Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home",
+          "url": "https://time.com/article/2026/10/12/Ilhan-omar-home-raid-federal-agents-immigration-allegations-democrats-response",
+          "source": "TIME Magazine",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:41:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_00b8294a",
+      "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)",
+      "url": "https://www.techmeme.com/261012/p34",
+      "primary_url": "https://www.techmeme.com/261012/p34",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "125ae054744b29d1a118631c4699a25b85ecd862",
+          "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)",
+          "url": "https://www.techmeme.com/261012/p34",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:25:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6be2ca03",
+      "title": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\" (Robert Hart/The Verge)",
+      "url": "https://www.techmeme.com/261012/p33",
+      "primary_url": "https://www.techmeme.com/261012/p33",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "452e135432f257babeb487c4c4fb88edd3f0f322",
+          "title": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\" (Robert Hart/The Verge)",
+          "url": "https://www.techmeme.com/261012/p33",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9a6b28c3",
+      "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)",
+      "url": "https://www.techmeme.com/261012/p32",
+      "primary_url": "https://www.techmeme.com/261012/p32",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "0f1fabfe0fd0993a1880846a42ffc5228d73b0bb",
+          "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)",
+          "url": "https://www.techmeme.com/261012/p32",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c27fbe65",
+      "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
+      "url": "https://www.techmeme.com/261012/p31",
+      "primary_url": "https://www.techmeme.com/261012/p31",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "5910825dec472939c7db09e6bedfa573ac0de423",
+          "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
+          "url": "https://www.techmeme.com/261012/p31",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:00:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2f70ee09",
+      "title": "Meta Unveils New Series of Advanced A.I. Models",
+      "url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "primary_url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "0d96f917bad1bffb4a02bfc5117a2dff72d01730",
+          "title": "Meta Unveils New Series of Advanced A.I. Models",
+          "url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:00:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c9d4f15c",
+      "title": "AI Coding Agents Generate More Code, But Not More Software",
+      "url": "https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software",
+      "primary_url": "https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "799785a0b777afbf248f0bf69a245115a8e9509b",
+          "title": "AI Coding Agents Generate More Code, But Not More Software",
+          "url": "https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e41af6ba",
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "f612455eac37928607c3089668a9d1b9e58f9f95",
+          "title": "Meta has some Wonder Full new AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02556f3f",
+      "title": "As laptop price hikes loom, this future-proof 32GB HP OmniBook AI laptop drops to $1,300",
+      "url": "https://www.techradar.com/pro/as-laptop-price-hikes-loom-this-future-proof-32gb-hp-omnibook-ai-laptop-drops-to-usd1-300",
+      "primary_url": "https://www.techradar.com/pro/as-laptop-price-hikes-loom-this-future-proof-32gb-hp-omnibook-ai-laptop-drops-to-usd1-300",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "27dc5380f51351165754cfe567e2f41e993ce145",
+          "title": "As laptop price hikes loom, this future-proof 32GB HP OmniBook AI laptop drops to $1,300",
+          "url": "https://www.techradar.com/pro/as-laptop-price-hikes-loom-this-future-proof-32gb-hp-omnibook-ai-laptop-drops-to-usd1-300",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T16:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4964af14",
+      "title": "AI is the prime suspect in the PS5 jailbreak surge",
+      "url": "https://mashable.com/tech/ps5-jailbreaks-flooding-in-thanks-to-ai",
+      "primary_url": "https://mashable.com/tech/ps5-jailbreaks-flooding-in-thanks-to-ai",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "36df343533282a0517907ad4b74ef0ccbd20d64c",
+          "title": "AI is the prime suspect in the PS5 jailbreak surge",
+          "url": "https://mashable.com/tech/ps5-jailbreaks-flooding-in-thanks-to-ai",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T16:57:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_8e0001db",
       "title": "Alisahryar1 / 免费Claude代码",
       "url": "https://github.com/Alishahryar1/free-claude-code",
@@ -2117,22 +2851,66 @@
       "score": 7
     },
     {
-      "story_id": "story_63841978",
-      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
-      "url": "https://z.ai/blog/glm-legal",
-      "primary_url": "https://z.ai/blog/glm-legal",
+      "story_id": "story_0135e142",
+      "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "primary_url": "https://github.com/morluto/rea",
       "source_count": 1,
       "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "4941d30627d42038552ed16edae1b485453d77f7",
-          "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
-          "url": "https://z.ai/blog/glm-legal",
+          "id": "770fcc876ed138769ce7e09aef0ec66f09a7e9bd",
+          "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+          "url": "https://github.com/morluto/rea",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-10-12T16:11:45Z"
+          "published_at": "2026-10-12T16:31:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_eafc07bf",
+      "title": "UK says it will again test OpenAI and Anthropic models before release",
+      "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic",
+      "primary_url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0cbfe58dac3dd96a38e3ac97038e8664e53bcfd1",
+          "title": "UK says it will again test OpenAI and Anthropic models before release",
+          "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T16:19:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_90804efb",
+      "title": "Britain steps up its defences against AI risks",
+      "url": "https://thenextweb.com/news/uk-ai-cyber-defence-package",
+      "primary_url": "https://thenextweb.com/news/uk-ai-cyber-defence-package",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "71ef52f8999909912c8d6f872b311a9b3068edbe",
+          "title": "Britain steps up its defences against AI risks",
+          "url": "https://thenextweb.com/news/uk-ai-cyber-defence-package",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T16:11:17Z"
         }
       ],
       "item_count": 1,
@@ -2199,6 +2977,28 @@
           "source": "V2EX (创意工作者社区)",
           "site_id": "iris",
           "published_at": "2026-10-12T15:53:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b9561a56",
+      "title": "Andrej Karpathy says this AI gap is widening",
+      "url": "https://www.businessinsider.com/andrej-karpathy-ai-gap-widening-usage-2026-10",
+      "primary_url": "https://www.businessinsider.com/andrej-karpathy-ai-gap-widening-usage-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "56e1e3682e8ace12d3c528c7f0114fd3a6900af4",
+          "title": "Andrej Karpathy says this AI gap is widening",
+          "url": "https://www.businessinsider.com/andrej-karpathy-ai-gap-widening-usage-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T15:51:11Z"
         }
       ],
       "item_count": 1,
@@ -2315,6 +3115,28 @@
       "score": 7
     },
     {
+      "story_id": "story_b5887a69",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "primary_url": "https://taylor.town/kk-ai-2026",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "7f6144c2ec3cb6bdff4be14525d1a011982ef607",
+          "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "url": "https://taylor.town/kk-ai-2026",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T15:16:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_6661ecb3",
       "title": "[奇思妙想] AI 强悍的代码能力是否能促使各个平台使用同一语言开发",
       "url": "https://www.v2ex.com/t/1248242",
@@ -2334,68 +3156,6 @@
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4afc3c54",
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://news.ycombinator.com/item?id=50049588",
-      "primary_url": "https://news.ycombinator.com/item?id=50049588",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "3c40361bab13a2cf0fcdc096671c63a010159678",
-          "title": "Why aren't AI companies being charged for hacking?",
-          "url": "https://news.ycombinator.com/item?id=50057278",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T14:52:37Z"
-        },
-        {
-          "id": "20f3493510f0b7becd1f6709980c7e733ee9d98a",
-          "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-          "url": "https://news.ycombinator.com/item?id=50055654",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T12:46:52Z"
-        },
-        {
-          "id": "6f33ddfea5a68c7a99fa992198752c8d64dec86d",
-          "title": "QGIS bans AI assisted contributions",
-          "url": "https://news.ycombinator.com/item?id=50054751",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T11:22:24Z"
-        },
-        {
-          "id": "12621b09ca8e70466e06fdab25b956d4f6d12372",
-          "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-          "url": "https://news.ycombinator.com/item?id=50049588",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T00:15:12Z"
-        },
-        {
-          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
-          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "url": "https://news.ycombinator.com/item?id=50049388",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T23:47:59Z"
-        },
-        {
-          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "The gap in shared understanding of LLM capability is widening",
-          "url": "https://news.ycombinator.com/item?id=50047422",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T20:20:52Z"
-        }
-      ],
-      "item_count": 6,
       "score": 7
     },
     {
@@ -2723,28 +3483,6 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-10-12T13:06:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d4b50bc6",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "primary_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "8c009b1a833c9da6ed072cf4b508bde05511a7b5",
-          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-10-12T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3505,15 +4243,15 @@
       "primary_url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "9c82abb1579ea3892fcfd28630b963d0efeb5e87",
+          "id": "6de7977da03afcab22cdbd0cbf6edafe241be63d",
           "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
           "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-10-12T01:57:00Z"
         }
       ],
@@ -3823,182 +4561,6 @@
           "source": "V2EX (创意工作者社区)",
           "site_id": "iris",
           "published_at": "2026-10-11T20:02:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_634e482a",
-      "title": "Gemini and Chrome are the productivity duo I didn't know I needed",
-      "url": "https://www.androidpolice.com/gemini-and-chrome-productivity-duo-i-didnt-know-i-needed",
-      "primary_url": "https://www.androidpolice.com/gemini-and-chrome-productivity-duo-i-didnt-know-i-needed",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "807cda838b1c02a83404ff7939e5638a2e118e46",
-          "title": "Gemini and Chrome are the productivity duo I didn't know I needed",
-          "url": "https://www.androidpolice.com/gemini-and-chrome-productivity-duo-i-didnt-know-i-needed",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T19:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e87d2eda",
-      "title": "Anthropic is out with new nonsense about Claude",
-      "url": "https://dair-community.social/@emilymbender/117412868905734653",
-      "primary_url": "https://dair-community.social/@emilymbender/117412868905734653",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "7a2544364a8a01bec414121e41ba8d921189ce2c",
-          "title": "Anthropic is out with new nonsense about Claude",
-          "url": "https://dair-community.social/@emilymbender/117412868905734653",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T18:16:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2603262b",
-      "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
-      "url": "https://www.techmeme.com/261011/p9",
-      "primary_url": "https://www.techmeme.com/261011/p9",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "7a38af7af3409fc3a3cc1efb5d00e2d52defbbbd",
-          "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
-          "url": "https://www.techmeme.com/261011/p9",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T18:15:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1aebc28d",
-      "title": "[分享创造] [开源自荐] 小喷 1.1.0： Mac 菜单栏语音伙伴，支持 ChatGPT 订阅和本机 Ollama",
-      "url": "https://www.v2ex.com/t/1247918",
-      "primary_url": "https://www.v2ex.com/t/1247918",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "ce69bdc6c849486a970a03095af313d6e50f0cc4",
-          "title": "[分享创造] [开源自荐] 小喷 1.1.0： Mac 菜单栏语音伙伴，支持 ChatGPT 订阅和本机 Ollama",
-          "url": "https://www.v2ex.com/t/1247918",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-11T17:31:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a9278892",
-      "title": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
-      "url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-      "primary_url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "5a420c815df95dfd359f403e79c9247e56482e0a",
-          "title": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
-          "url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T17:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7ea62cac",
-      "title": "US probes Foxconn, Luxshare and 18 others over AI server power patents",
-      "url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
-      "primary_url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "06c7cb1d27711b2e347a254782ee8f998094d2e4",
-          "title": "US probes Foxconn, Luxshare and 18 others over AI server power patents",
-          "url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T17:11:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d2ba45be",
-      "title": "AI won’t fix America’s debt, Guardian analysis argues",
-      "url": "https://thenextweb.com/news/ai-growth-us-debt-guardian-porter-analysis",
-      "primary_url": "https://thenextweb.com/news/ai-growth-us-debt-guardian-porter-analysis",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "57cd4427e6af922b9f64a77a5966274dfbb805dd",
-          "title": "AI won’t fix America’s debt, Guardian analysis argues",
-          "url": "https://thenextweb.com/news/ai-growth-us-debt-guardian-porter-analysis",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T16:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_807e6504",
-      "title": "[OpenAI] 全天稳定不降智 GPT 进群领额度",
-      "url": "https://www.v2ex.com/t/1247914",
-      "primary_url": "https://www.v2ex.com/t/1247914",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "5c56e9134e64173942c117b9facce5b199b030c7",
-          "title": "[OpenAI] 全天稳定不降智 GPT 进群领额度",
-          "url": "https://www.v2ex.com/t/1247914",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-11T16:48:40Z"
         }
       ],
       "item_count": 1,
