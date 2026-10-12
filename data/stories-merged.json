@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-11T21:06:19.783850Z",
+  "generated_at": "2026-10-12T00:47:01.685814Z",
   "window_hours": 24,
-  "total_stories": 122,
+  "total_stories": 121,
   "stories": [
+    {
+      "story_id": "story_509eaac8",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "sources": [
+        {
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
     {
       "story_id": "story_3802d292",
       "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
@@ -20,28 +42,6 @@
           "source": "Daily Digest",
           "site_id": "aihubtoday",
           "published_at": "2026-10-11T04:50:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e7de7dd4",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
         }
       ],
       "item_count": 1,
@@ -158,50 +158,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_9c764f79",
-      "title": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences resea...",
-      "url": "https://x.com/levie/status/2109079686286565378",
-      "primary_url": "https://x.com/levie/status/2109079686286565378",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "6a74cacee82620f6bd2e90aace2dab9a670fcfb2",
-          "title": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences resea...",
-          "url": "https://x.com/levie/status/2109079686286565378",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T00:32:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_ee6ab26f",
-      "title": "Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. > ask a fund to show conviction, and ask to double down especially when the chips are down. > ask them not do contracted pro rat...",
-      "url": "https://x.com/nikunj/status/2109038632975876395",
-      "primary_url": "https://x.com/nikunj/status/2109038632975876395",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
-        {
-          "id": "4eefd5c3c903789d08038cab16d8817a93a96f70",
-          "title": "Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. > ask a fund to show conviction, and ask to double down especially when the chips are down. > ask them not do contracted pro rat...",
-          "url": "https://x.com/nikunj/status/2109038632975876395",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-10T21:49:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_086480e9",
       "title": "AI创造的新工作，可能根本轮不到你",
       "url": "https://www.tmtpost.com/8164296.html",
@@ -264,35 +220,48 @@
       "score": 9770
     },
     {
-      "story_id": "story_05298e9b",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source_count": 2,
+      "story_id": "story_dabdf922",
+      "title": "Edge AI Daily 早报（10月12日）",
+      "url": "https://www.tmtpost.com/8164715.html",
+      "primary_url": "https://www.tmtpost.com/8164715.html",
+      "source_count": 1,
       "source_names": [
-        "The Verge",
-        "Hacker News · 24h最热"
+        "钛媒体 TMTPost"
       ],
       "sources": [
         {
-          "id": "283a37ea6f8b9a39af764ce9527d6e24df06ea13",
-          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
+          "id": "dcde5407ca377e98896067c0804abe14972cf504",
+          "title": "Edge AI Daily 早报（10月12日）",
+          "url": "https://www.tmtpost.com/8164715.html",
+          "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
-          "published_at": "2026-10-10T22:10:17Z"
-        },
-        {
-          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T03:41:53Z"
+          "published_at": "2026-10-12T00:42:38Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_29938a4c",
+      "title": "AI FOMO，正让企业和员工都成为“演员”",
+      "url": "https://www.huxiu.com/article/4896658.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4896658.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "d2318f9ae0f663b5d4ccb2ef2e744c7195d420f2",
+          "title": "AI FOMO，正让企业和员工都成为“演员”",
+          "url": "https://www.huxiu.com/article/4896658.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-11T23:36:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_5e9f78f7",
@@ -317,6 +286,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_01f5b903",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "primary_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a01e6b9753085f3eaa72bdcefe8b85c3355e0e4d",
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-11T16:52:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_cf6db486",
       "title": "本末科技，还没吃上具身智能这碗饭",
       "url": "https://www.tmtpost.com/8164407.html",
@@ -333,28 +324,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-10-11T13:08:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_90bfa044",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "0ee2f57f1f76dd694bc24a1c954b3e0cd4a77a12",
-          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -655,70 +624,35 @@
       "score": 9720
     },
     {
-      "story_id": "story_36df47f5",
-      "title": "Edge AI Daily 早报（10月11日）",
-      "url": "https://www.tmtpost.com/8164056.html",
-      "primary_url": "https://www.tmtpost.com/8164056.html",
-      "source_count": 1,
+      "story_id": "story_555a2b72",
+      "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source_count": 2,
       "source_names": [
-        "钛媒体 TMTPost"
+        "twitter.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "878b46e8dbd4a353546f2e4e189b8198f17fc29a",
-          "title": "Edge AI Daily 早报（10月11日）",
-          "url": "https://www.tmtpost.com/8164056.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T00:43:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_24109e56",
-      "title": "算力基建的战争，才刚刚在液冷赛道上演",
-      "url": "https://www.tmtpost.com/8163921.html",
-      "primary_url": "https://www.tmtpost.com/8163921.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
+          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
+          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "twitter.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T00:03:41.228000Z"
+        },
         {
-          "id": "bd9e62a75531f3cad59903a67d3ef079147759a2",
-          "title": "算力基建的战争，才刚刚在液冷赛道上演",
-          "url": "https://www.tmtpost.com/8163921.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T00:25:00Z"
+          "id": "89b2a6f7d99a51918786217e884b8c6c7b4db847",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T20:20:52Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7fa2f193",
-      "title": "Agent时代，费控为什么干不掉TMC？",
-      "url": "https://www.huxiu.com/article/4896563.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4896563.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "cedcfa2630428efa8731cfd34046a752238e529f",
-          "title": "Agent时代，费控为什么干不掉TMC？",
-          "url": "https://www.huxiu.com/article/4896563.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-11T00:05:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_e703b72a",
@@ -741,7 +675,7 @@
         },
         {
           "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
@@ -750,6 +684,324 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_023abec0",
+      "title": "[程序员] Claude Max 满血",
+      "url": "https://www.v2ex.com/t/1247940",
+      "primary_url": "https://www.v2ex.com/t/1247940",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "2cca100f672b7cb422db446c45ce3cd348d56ca1",
+          "title": "[程序员] Claude Max 满血",
+          "url": "https://www.v2ex.com/t/1247940",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T00:45:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b09f147d",
+      "title": "[分享发现] A 轮估值 75 亿美元，决策模型 Jev 凭什么？",
+      "url": "https://www.v2ex.com/t/1247939",
+      "primary_url": "https://www.v2ex.com/t/1247939",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "ffd38841c19f932f680657cae0249ae91aaf5632",
+          "title": "[分享发现] A 轮估值 75 亿美元，决策模型 Jev 凭什么？",
+          "url": "https://www.v2ex.com/t/1247939",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T00:44:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_78414224",
+      "title": "[程序员] 我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
+      "url": "https://www.v2ex.com/t/1247932",
+      "primary_url": "https://www.v2ex.com/t/1247932",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "44a0790742fa244c0672fdd89183a9b07b196432",
+          "title": "[程序员] 我开源项目给用户免费用 GPT6 Luna，还是招来了一堆素质极差的人盗刷。",
+          "url": "https://www.v2ex.com/t/1247932",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T00:19:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f631c24c",
+      "title": "[问与答] 当前这个形势下， claude max100 可以升级到 max200 吗",
+      "url": "https://www.v2ex.com/t/1247931",
+      "primary_url": "https://www.v2ex.com/t/1247931",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "cdaa98a7b5101b3f7554a031f221b1bbd2bab99d",
+          "title": "[问与答] 当前这个形势下， claude max100 可以升级到 max200 吗",
+          "url": "https://www.v2ex.com/t/1247931",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T00:18:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_964286b2",
+      "title": "[推广] 芒果 AI- Deepseek-4.1 、Kimi、Glm 0.05 折！注册就有体验金可以使用",
+      "url": "https://www.v2ex.com/t/1247930",
+      "primary_url": "https://www.v2ex.com/t/1247930",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "db2706f65404d5ab3a51e612d62d31138483acdf",
+          "title": "[推广] 芒果 AI- Deepseek-4.1 、Kimi、Glm 0.05 折！注册就有体验金可以使用",
+          "url": "https://www.v2ex.com/t/1247930",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-12T00:17:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6a262752",
+      "title": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+      "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison",
+      "primary_url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "b37582757216eef12e7e67992a2729a2c664ae6f",
+          "title": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+          "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b403c909",
+      "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+      "primary_url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
+          "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:58:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3c2002d6",
+      "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+      "url": "https://www.techmeme.com/261011/p12",
+      "primary_url": "https://www.techmeme.com/261011/p12",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e3a0a1a17499f12a810df2e48c7ca8c996ba2abe",
+          "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+          "url": "https://www.techmeme.com/261011/p12",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:50:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_496ea4b2",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://news.ycombinator.com/item?id=50049388",
+      "primary_url": "https://news.ycombinator.com/item?id=50049388",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "url": "https://news.ycombinator.com/item?id=50049388",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T23:47:59Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
+        },
+        {
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T02:02:38Z"
+        },
+        {
+          "id": "ab90575d32851d9449e1cdd815b0a801abfe7f99",
+          "title": "Generative AI scandal has come to one of Nikon's competitions",
+          "url": "https://news.ycombinator.com/item?id=50038640",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T00:47:37Z"
+        }
+      ],
+      "item_count": 5,
+      "score": 7
+    },
+    {
+      "story_id": "story_145f3d12",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "d839c4b513c69d2e0fcbba763ded58906c11b3d1",
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:07:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b87c5803",
+      "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
+      "url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026",
+      "primary_url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "dfabacf10469eac6b3a228b5c9a343fb229c1e5a",
+          "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
+          "url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T22:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_74576a78",
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass",
+      "primary_url": "https://pub.sakana.ai/mass",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "cf4bc90fdf10110ebc76ad0e2b71d213573a5cd2",
+          "title": "Recursive self-improvement through collective intelligence",
+          "url": "https://pub.sakana.ai/mass",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T22:22:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ad56e6f1",
+      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261011/p11",
+      "primary_url": "https://www.techmeme.com/261011/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "bde5ba6e4cf16cbe893d78a90f530b727ad3e41d",
+          "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+          "url": "https://www.techmeme.com/261011/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T21:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_855072bb",
@@ -922,28 +1174,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-10-11T16:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_01f5b903",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "primary_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "ca958b72d39720b8e94bf97f7af1a58519310cac",
-          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T16:52:33Z"
         }
       ],
       "item_count": 1,
@@ -1544,60 +1774,6 @@
       "score": 7
     },
     {
-      "story_id": "story_c3ebe8bd",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://news.ycombinator.com/item?id=50037299",
-      "primary_url": "https://news.ycombinator.com/item?id=50037299",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
-          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "url": "https://news.ycombinator.com/item?id=50042330",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T12:01:08Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "ab90575d32851d9449e1cdd815b0a801abfe7f99",
-          "title": "Generative AI scandal has come to one of Nikon's competitions",
-          "url": "https://news.ycombinator.com/item?id=50038640",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T00:47:37Z"
-        },
-        {
-          "id": "4ed0b09ebf72b154d90718ec5a44b14a2d538415",
-          "title": "Veda: The First Agentic Hobby Operating System",
-          "url": "https://news.ycombinator.com/item?id=50038473",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T00:22:33Z"
-        },
-        {
-          "id": "bb2c87ea74cd9db7ef82149fb047a4d64e00830c",
-          "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://news.ycombinator.com/item?id=50037299",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T21:19:42Z"
-        }
-      ],
-      "item_count": 5,
-      "score": 7
-    },
-    {
       "story_id": "story_09b7c624",
       "title": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
       "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
@@ -1730,8 +1906,30 @@
       "score": 7
     },
     {
+      "story_id": "story_90bfa044",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "3e23208cc0c1d4554fa6a73dfca7d92d43378d35",
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f992fe16",
-      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "primary_url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "source_count": 1,
@@ -1741,7 +1939,7 @@
       "sources": [
         {
           "id": "58d39f86d302296f1b6fc07d7c78d2a60cef20da",
-          "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+          "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
           "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
@@ -2346,6 +2544,28 @@
       "score": 7
     },
     {
+      "story_id": "story_05298e9b",
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T03:41:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_7166068d",
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
@@ -2516,248 +2736,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-10-11T00:47:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_87d9d64a",
-      "title": "[分享创造] [开源自荐] Artiface：在浏览器里查看本地和服务器上的 AI Agent 输出内容",
-      "url": "https://www.v2ex.com/t/1247758",
-      "primary_url": "https://www.v2ex.com/t/1247758",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "18f6e019f51c10a96e12b18ccdd4c26f99d6a303",
-          "title": "[分享创造] [开源自荐] Artiface：在浏览器里查看本地和服务器上的 AI Agent 输出内容",
-          "url": "https://www.v2ex.com/t/1247758",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-11T00:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4a27ea35",
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "primary_url": "https://github.com/vahmoh25/Veda",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d4b4d4f489adca941ca570548be927283de682d3",
-          "title": "Veda: The First Agentic Hobby Operating System",
-          "url": "https://github.com/vahmoh25/Veda",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T00:22:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3509128c",
-      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "primary_url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "02be499c8addf3f8ca02c7c0deb326e57d2a5b9a",
-          "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-10-11T00:08:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b6543546",
-      "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
-      "url": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event",
-      "primary_url": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "70eaeae2d5001dca3252543a4c1a7eddaa67ec80",
-          "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
-          "url": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T23:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f9581f92",
-      "title": "[程序员] grokbot 有 bug 啊",
-      "url": "https://www.v2ex.com/t/1247756",
-      "primary_url": "https://www.v2ex.com/t/1247756",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "d46c3877c8f9ec2a21ae98ba734895be111142cd",
-          "title": "[程序员] grokbot 有 bug 啊",
-          "url": "https://www.v2ex.com/t/1247756",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-10T23:57:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_24800ca5",
-      "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "primary_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "source_count": 1,
-      "source_names": [
-        "www.ft.com"
-      ],
-      "sources": [
-        {
-          "id": "61ff8cb9db2b3627e2a2d60365c0d60c4ec11a14",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-          "source": "www.ft.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T23:49:58.953000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b66eedb8",
-      "title": "[程序员] grok bot 说是接上 opus5.5, 30 刀够用吗？",
-      "url": "https://www.v2ex.com/t/1247754",
-      "primary_url": "https://www.v2ex.com/t/1247754",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "07b80b9658f3adb0c2335b5314be84b43b83822d",
-          "title": "[程序员] grok bot 说是接上 opus5.5, 30 刀够用吗？",
-          "url": "https://www.v2ex.com/t/1247754",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-10T23:26:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ae412a17",
-      "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
-      "url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled",
-      "primary_url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "62ace5e7e5c2671ce45481a37fea1df95b6fd613",
-          "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
-          "url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T22:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a2180ee",
-      "title": "[OpenAI] codex 下午 15:00~16:00 重置？",
-      "url": "https://www.v2ex.com/t/1247751",
-      "primary_url": "https://www.v2ex.com/t/1247751",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "efe1b23bb414c4bba88fed800daf2e475aacfdf8",
-          "title": "[OpenAI] codex 下午 15:00~16:00 重置？",
-          "url": "https://www.v2ex.com/t/1247751",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-10T22:38:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cec8e652",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "primary_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2e57fe153a32186169db7939216b63a638f9ca6b",
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T21:47:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d98fd8a8",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "primary_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-          "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T21:19:42Z"
         }
       ],
       "item_count": 1,
