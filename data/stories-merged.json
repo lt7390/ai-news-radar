@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T19:42:12.178258Z",
+  "generated_at": "2026-10-21T22:50:06.200659Z",
   "window_hours": 24,
-  "total_stories": 298,
+  "total_stories": 288,
   "stories": [
     {
       "story_id": "story_6d72427c",
@@ -10,17 +10,17 @@
       "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "source_count": 3,
       "source_names": [
-        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "openai.com",
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "id": "6059845713389b336204469bfc3779696c929de8",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
           "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
           "published_at": "2026-10-21T07:00:00Z"
         },
         {
@@ -50,6 +50,37 @@
       ],
       "item_count": 4,
       "score": 10080
+    },
+    {
+      "story_id": "story_70723481",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
+          "title": "OpenAI 模型即将登陆 Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T18:37:43.968000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
     },
     {
       "story_id": "story_f9255f69",
@@ -90,28 +121,6 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-10-21T17:35:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_9df61022",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "primary_url": "https://openai.com/index/att-legal",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:00:00Z"
         }
       ],
       "item_count": 1,
@@ -162,6 +171,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_8f9e95c0",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_b5deda84",
       "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
       "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
@@ -178,50 +209,6 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-10-21T12:51:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_ce32759f",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "primary_url": "https://openai.com/index/empowering-cyber-defenders",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "96e956bc8165a33199679b06852babe0adcca0b0",
-          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-          "url": "https://openai.com/index/empowering-cyber-defenders",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_c29efc53",
-      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "sources": [
-        {
-          "id": "0c4d254591046e4f818b6b7e7ff734ffb00b07f6",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:00Z"
         }
       ],
       "item_count": 1,
@@ -425,28 +412,6 @@
           "source": "X：OpenAI (@OpenAI)",
           "site_id": "aihot",
           "published_at": "2026-10-21T14:04:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_5afba805",
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
         }
       ],
       "item_count": 1,
@@ -1121,6 +1086,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_f0751624",
+      "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
+      "url": "https://claude.com/blog/claude-duet",
+      "primary_url": "https://claude.com/blog/claude-duet",
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "sources": [
+        {
+          "id": "b76fa39e02aff3e6fd696ba8b58fb002f3eab122",
+          "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
+          "url": "https://claude.com/blog/claude-duet",
+          "source": "Claude：Blog（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_5a823103",
       "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
       "url": "https://vllm.ai/blog/2026-10-21-humming",
@@ -1297,50 +1284,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_1da110e1",
-      "title": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to...",
-      "url": "https://x.com/joshwoodward/status/2112676777290248675",
-      "primary_url": "https://x.com/joshwoodward/status/2112676777290248675",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Josh Woodward"
-      ],
-      "sources": [
-        {
-          "id": "d369679a3262111919c24c4c3ef9cc76a12d4e9b",
-          "title": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to...",
-          "url": "https://x.com/joshwoodward/status/2112676777290248675",
-          "source": "Follow Builders · X · Josh Woodward",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-20T22:46:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_1787b9fc",
-      "title": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery. If you so desire, you'll reach the maximum of your capability and intell...",
-      "url": "https://x.com/rauchg/status/2112638107749355867",
-      "primary_url": "https://x.com/rauchg/status/2112638107749355867",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
-        {
-          "id": "cb80884f39bd56e20189cdd858e0d7e23726a6a1",
-          "title": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery. If you so desire, you'll reach the maximum of your capability and intell...",
-          "url": "https://x.com/rauchg/status/2112638107749355867",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-20T20:12:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_beef64dc",
       "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
@@ -1366,37 +1309,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-10-21T13:51:55Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_70723481",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "2feb1fb4259a72b61e892eb8c69410f644db745a",
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
         }
       ],
       "item_count": 2,
@@ -1465,22 +1377,162 @@
       "score": 9770
     },
     {
-      "story_id": "story_949d2397",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "story_id": "story_8fdf35b0",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+      "primary_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "056e5da396e852b37e273337504992c1098bae2a",
+          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+          "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T22:45:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_471337a9",
+      "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+      "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "75d1fb423b832c74afcc73f980906fc0b4c2dbea",
+          "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+          "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T22:16:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_432aef26",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "9ba50902301f1312a9adb755499fe632afe0f24f",
+          "title": "Broad access through consistent standards",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_3639fe2b",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "primary_url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3c5b970594edf1999815627390dfba2a76295fb3",
+          "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+          "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T20:33:09Z"
+        },
+        {
+          "id": "b83b99170bf8a4ef77a059fcee6f67f467440c7d",
+          "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+          "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:33:09Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b9590634",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "0624eb057a7e0275f3a540603e9d8c37cac407a0",
-          "title": "Walmart is inviting AI agents to shop for you",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+          "id": "2d316640ca39011af2c023b449250cbe4ead338e",
+          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
           "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-10-21T19:30:00Z"
+          "published_at": "2026-10-21T19:53:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c09313bc",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
+      "primary_url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "3ae243f2e375a193762a4c7056861207374d3884",
+          "title": "The new human-crafted Apple Music brand matters in an AI world",
+          "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T19:44:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b8501d17",
+      "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "07e4ab7b2d0c0fc53be41764dd4573c46af64495",
+          "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T19:42:00Z"
         }
       ],
       "item_count": 1,
@@ -1503,6 +1555,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-10-21T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_76691ff3",
+      "title": "Some websites go dark as operators address an AI-detected flaw in a web programming language - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "f7af0b7821df27de97e8a75d6653d8862a6bc55b",
+          "title": "Some websites go dark as operators address an AI-detected flaw in a web programming language - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T19:01:00Z"
         }
       ],
       "item_count": 1,
@@ -1619,6 +1693,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_9df61022",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "primary_url": "https://openai.com/index/att-legal",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "f479d90f51bdd4d62a8f9c0e3b4b0dc180f23897",
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d0653f53",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
+      "primary_url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "24882ea985831562bb3594e465c8be1ffca08d61",
+          "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+          "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T15:14:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_976fdeae",
       "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
       "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
@@ -1635,28 +1753,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-10-21T15:09:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b8501d17",
-      "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "07e4ab7b2d0c0fc53be41764dd4573c46af64495",
-          "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T14:42:00Z"
         }
       ],
       "item_count": 1,
@@ -1729,28 +1825,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_25fe20fb",
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
-      "primary_url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "470ddf37b3df9f3d0d88490d263361a6c97e69c2",
-          "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-          "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_e1a4cb14",
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
@@ -1767,6 +1841,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-10-21T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5afba805",
+      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "5223e643bc29f42e73e4148b776cd64a05912755",
+          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T13:57:43Z"
         }
       ],
       "item_count": 1,
@@ -1833,50 +1929,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-10-21T13:04:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_8f9e95c0",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "4b211b6d8b70bd2a7d6482fd9d2ebbeea2c300a6",
-          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1f36ea45",
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
-      "primary_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9820a1e33b2224feaba881edb07cabd2e894d794",
-          "title": "Mach9 raises $34M after pivoting to AI CAD software",
-          "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2053,28 +2105,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-10-21T10:39:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_32f5d2fd",
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
-      "primary_url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "d68e556e52bb435f32c76260d23e7a15887a2f1c",
-          "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-          "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-21T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2983,6 +3013,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_ce32759f",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "primary_url": "https://openai.com/index/empowering-cyber-defenders",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "324f2b1cb48397367b072f0a505bacb6420389c9",
+          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+          "url": "https://openai.com/index/empowering-cyber-defenders",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_4b746433",
       "title": "The anatomy of a personal health agent",
       "url": "https://www.nature.com/articles/s41586-026-11161-8",
@@ -3093,92 +3145,66 @@
       "score": 9720
     },
     {
-      "story_id": "story_39494a09",
-      "title": "AI on the ballot? Voters in US midterms revolt against data centres",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres",
-      "primary_url": "https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres",
-      "source_count": 1,
+      "story_id": "story_0fd02e34",
+      "title": "Claude·杜埃",
+      "url": "https://claude.com/product/claude-duet",
+      "primary_url": "https://claude.com/product/claude-duet",
+      "source_count": 2,
       "source_names": [
-        "France24 English"
+        "claude.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "1ba20256127e6f75893b09c914eb99224ef08cc2",
-          "title": "AI on the ballot? Voters in US midterms revolt against data centres",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-20T22:45:33Z"
+          "id": "1f89256dfca0d875900e9b2bb1df7ec5188dd81d",
+          "title": "克劳德·杜埃",
+          "url": "https://claude.com/product/claude-duet",
+          "source": "claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T20:12:12.028000Z"
+        },
+        {
+          "id": "e4adfb3ba17598bb1fc12ff2c707590b375b4914",
+          "title": "Claude Duet",
+          "url": "https://claude.com/product/claude-duet",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-21T19:14:01Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
-      "story_id": "story_7585a11b",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "primary_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "source_count": 1,
+      "story_id": "story_c29efc53",
+      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "openai.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "fb8961418ee977a641470bdf8ed56b765041d322",
-          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-20T20:35:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1be57de7",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "primary_url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
+          "id": "513a6e1e385c5464b648e218e6ae4de7ef4ba66f",
+          "title": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T19:57:05.302000Z"
+        },
         {
-          "id": "1ae008fb7ce749fc726a520d39d6ce806aafa58b",
-          "title": "SpaceX says big AI growth fueled revenue jump",
-          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-20T20:26:58Z"
+          "id": "8dc4a6e11a4b0050226c4be707f71b59fd512cb0",
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-21T13:37:00Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c6ef53cb",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "87853e7c5676910faabb6812e345af0c5332beb3",
-          "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-          "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-20T20:07:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_85631b77",
@@ -3243,75 +3269,462 @@
       "score": 9570
     },
     {
-      "story_id": "story_215ccbd7",
-      "title": "Anthropic在2026年上半年录得超过800亿美元的净亏损",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
-      "primary_url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "e442b939283361c878d41ab031dd2f7dfe1cba9a",
-          "title": "Anthropic在2026年上半年录得超过800亿美元的净亏损",
-          "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
-          "source": "www.reuters.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T04:54:15.064000Z"
-        },
-        {
-          "id": "879807572155be0ee8542936c9547db7c0d725ac",
-          "title": "Anthropic logged net loss of over $80B in first half of 2026",
-          "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-20T20:09:46Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_b113a585",
-      "title": "Mistral Large 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "primary_url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "story_id": "story_b5537930",
+      "title": "SuperCMO AI",
+      "url": "https://www.producthunt.com/products/supercmo-ai",
+      "primary_url": "https://www.producthunt.com/products/supercmo-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "producthunt"
       ],
       "sources": [
         {
-          "id": "1658be895e9ad055e6b0c161b0ce1649cd9f163d",
-          "title": "Mistral Large 4",
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-21T19:20:55Z"
+          "id": "2b7246578259659895706b020b173506bf584c03",
+          "title": "SuperCMO AI",
+          "url": "https://www.producthunt.com/products/supercmo-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T22:49:41.330000Z"
         }
       ],
       "item_count": 1,
       "score": 7
     },
     {
-      "story_id": "story_0fd02e34",
+      "story_id": "story_06c91270",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "primary_url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "096053f8c0c99aeed7eef249bc332ca1c6e941cd",
+          "title": "Meta to create a new class of shares to fund AI push",
+          "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T21:30:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5608ce89",
+      "title": "Walmart rolls out AI agent shopping features while Amazon tries to curb the tech",
+      "url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
+      "primary_url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "5c0c45dec0f70e1ded3aa8c8764664d0e6d5c23e",
+          "title": "Walmart rolls out AI agent shopping features while Amazon tries to curb the tech",
+          "url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T21:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_70fe9fbe",
+      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots",
+      "primary_url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "e6bf6840115c441641ea1cb265b8eec7beb9b426",
+          "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+          "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T21:03:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f22dd824",
+      "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
+      "url": "https://www.techmeme.com/261021/p49",
+      "primary_url": "https://www.techmeme.com/261021/p49",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ade9d8775e0f5283503ceca9301cca6f942a4a6e",
+          "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
+          "url": "https://www.techmeme.com/261021/p49",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T21:01:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e77bb6dc",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+      "primary_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2ee7d8218461d97af2eeb235383cac756dd38e77",
+          "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+          "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:57:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_641a3383",
+      "title": "Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent",
+      "url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+      "primary_url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "c97e9559554cfb309124f112565ad477e2309f36",
+          "title": "Meta CEO Mark Zuckerberg says 10 million people have set up a Muse AI agent",
+          "url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:57:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_48a3d2ec",
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+      "primary_url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "fdf292d5c89aeeebb66a67d9fe8080bb666a46e6",
+          "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+          "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:53:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9c22a397",
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+      "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "primary_url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "df5f725aadd19a6f2edcde3eb56abcdec3401529",
+          "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+          "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:41:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4f7f781a",
+      "title": "Anthropic answers Meta and OpenAI with a new personal agent, Claude Duet",
+      "url": "https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10",
+      "primary_url": "https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "cba023d4757bd04a67cf6297cbfd2716e020876e",
+          "title": "Anthropic answers Meta and OpenAI with a new personal agent, Claude Duet",
+          "url": "https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:29:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_139b7fb1",
+      "title": "Meta Raises Its A.I. Spending, Even as Cash Pressures Grow",
+      "url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "primary_url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "7468c7813ba7bb99cb968f8700e9aacaa7729a01",
+          "title": "Meta Raises Its A.I. Spending, Even as Cash Pressures Grow",
+          "url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:28:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_41dbc9f3",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "primary_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "64fa46f42e645e0652bfe1acc9a2b2af4fbb9b03",
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:27:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_acf9a37b",
+      "title": "[OpenAI] 肝了一天写来一个软件， workbuddy 的专家团做的， 结果是一个卵， 让我大跌眼睛",
+      "url": "https://www.v2ex.com/t/1250781",
+      "primary_url": "https://www.v2ex.com/t/1250781",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "d19d22d551998edebec9a6cd24f0729442fb2918",
+          "title": "[OpenAI] 肝了一天写来一个软件， workbuddy 的专家团做的， 结果是一个卵， 让我大跌眼睛",
+          "url": "https://www.v2ex.com/t/1250781",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-21T20:22:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_71ebdb64",
+      "title": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261021/p47",
+      "primary_url": "https://www.techmeme.com/261021/p47",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a362f7695b473894db341714b692d6bce45ca97c",
+          "title": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)",
+          "url": "https://www.techmeme.com/261021/p47",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2f08b89e",
+      "title": "Meta narrows capex forecast as it leans into the AI agent wars",
+      "url": "https://www.businessinsider.com/meta-capex-narrows-ai-agent-wars-quarter-3-earnings-2026-10",
+      "primary_url": "https://www.businessinsider.com/meta-capex-narrows-ai-agent-wars-quarter-3-earnings-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "bad7714516435df4298c53450a13dcd31aa73b0c",
+          "title": "Meta narrows capex forecast as it leans into the AI agent wars",
+          "url": "https://www.businessinsider.com/meta-capex-narrows-ai-agent-wars-quarter-3-earnings-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T20:14:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_06c6c633",
+      "title": "GM's OnStar gets an AI makeover — but humans will still answer when airbags deploy",
+      "url": "https://www.businessinsider.com/gm-onstar-ai-makeover-humans-still-help-during-emergency-calls-2026-10",
+      "primary_url": "https://www.businessinsider.com/gm-onstar-ai-makeover-humans-still-help-during-emergency-calls-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "baa7fcfc1b7b489fc87d8dbfbceeae389cec249f",
+          "title": "GM's OnStar gets an AI makeover — but humans will still answer when airbags deploy",
+          "url": "https://www.businessinsider.com/gm-onstar-ai-makeover-humans-still-help-during-emergency-calls-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T19:57:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e5439943",
+      "title": "无论是人工智能还是公共债务，都可能导致市场崩盘。但两者同时引发崩盘的可能性不大。",
+      "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+      "primary_url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+      "source_count": 1,
+      "source_names": [
+        "www.economist.com"
+      ],
+      "sources": [
+        {
+          "id": "f95ed96716ef8255c98d28998075c74eefd3247c",
+          "title": "无论是人工智能还是公共债务，都可能导致市场崩盘。但两者同时引发崩盘的可能性不大。",
+          "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+          "source": "www.economist.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T19:57:05.916000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_88ab9e36",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+      "primary_url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "630e8feb2ae4d45a8b79440d8892936e636d589b",
+          "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+          "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T19:52:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4826c698",
+      "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
+      "url": "https://www.techmeme.com/261021/p45",
+      "primary_url": "https://www.techmeme.com/261021/p45",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "aa81a7bfb73b011c33b04c1f6f9ef2ecdb330e02",
+          "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
+          "url": "https://www.techmeme.com/261021/p45",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T19:45:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_041e74a4",
+      "title": "[程序员] 半夜的 deepseek 官方 api 为什么只有 60tps",
+      "url": "https://www.v2ex.com/t/1250779",
+      "primary_url": "https://www.v2ex.com/t/1250779",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "8694504732cf305ff9273a4cb9a25758315ba8f0",
+          "title": "[程序员] 半夜的 deepseek 官方 api 为什么只有 60tps",
+          "url": "https://www.v2ex.com/t/1250779",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-21T19:43:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e281c83c",
       "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "primary_url": "https://claude.com/product/claude-duet",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "primary_url": "https://claude.com/resources/articles/claude-duet",
       "source_count": 1,
       "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e4adfb3ba17598bb1fc12ff2c707590b375b4914",
+          "id": "29501fec035b04294af26bc4c8a702283d40939e",
           "title": "Claude Duet",
-          "url": "https://claude.com/product/claude-duet",
+          "url": "https://claude.com/resources/articles/claude-duet",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-10-21T19:14:01Z"
+          "published_at": "2026-10-21T19:40:18Z"
         }
       ],
       "item_count": 1,
@@ -3327,6 +3740,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "2209affd54211a2cbbaf1240aa98ec3e2f5c7b93",
+          "title": "Claude Duet",
+          "url": "https://news.ycombinator.com/item?id=50186455",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T19:40:18Z"
+        },
         {
           "id": "e860fe64826609117b6c523c4c53d8a46cb6ef4c",
           "title": "Claude Duet",
@@ -3430,17 +3851,83 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-10-21T03:36:43Z"
-        },
-        {
-          "id": "a3928e6a728006213fa8bc9de2f6abde86f2a047",
-          "title": "On AI writing",
-          "url": "https://news.ycombinator.com/item?id=50171771",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-20T19:55:11Z"
         }
       ],
       "item_count": 14,
+      "score": 7
+    },
+    {
+      "story_id": "story_949d2397",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "50544d2c20f1c806a8154f0825911bf3c4ee48ab",
+          "title": "Walmart is inviting AI agents to shop for you",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b113a585",
+      "title": "Mistral Large 4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "primary_url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1658be895e9ad055e6b0c161b0ce1649cd9f163d",
+          "title": "Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-21T19:20:55Z"
+        },
+        {
+          "id": "7d22179b1860cf9008056e8c723c70fa7c568c16",
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-21T19:20:55Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 7
+    },
+    {
+      "story_id": "story_25076164",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "primary_url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "c3edb005aaba3b580957f8c745db883557bb7bbf",
+          "title": "Google staff resign in backlash over its AI contracts with military",
+          "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-21T19:14:21Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3592,6 +4079,28 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-10-21T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_69656d8e",
+      "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
+      "url": "https://www.techmeme.com/261021/p43",
+      "primary_url": "https://www.techmeme.com/261021/p43",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "26ae01774fabd6964ff10e80381f3fd32339e5c1",
+          "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
+          "url": "https://www.techmeme.com/261021/p43",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T17:45:08Z"
         }
       ],
       "item_count": 1,
@@ -4082,28 +4591,6 @@
       "score": 7
     },
     {
-      "story_id": "story_d0653f53",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
-      "primary_url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "c252a7887cdc4925c35c19c49c873beff14b047c",
-          "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-          "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-10-21T15:14:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_61d7c65a",
       "title": "What Claude Code's multi-agent code review costs and finds",
       "url": "https://quickchat.ai/post/claude-code-multi-agent-code-review",
@@ -4544,6 +5031,28 @@
       "score": 7
     },
     {
+      "story_id": "story_25fe20fb",
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
+      "primary_url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "fd4281c563a4d03b605cc777536c293dc6136e52",
+          "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+          "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_c7c165e7",
       "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)",
       "url": "https://www.techmeme.com/261021/p28",
@@ -4734,6 +5243,28 @@
           "title": "AI 'antidetect' browsers are making scams, fraud, and influence operations harder to spot",
           "url": "https://www.techradar.com/pro/security/ai-antidetect-browsers-are-making-scams-fraud-and-influence-operations-harder-to-spot",
           "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1f36ea45",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+      "primary_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "939d223c520b659e307e59b354545cc043c08cef",
+          "title": "Mach9 raises $34M after pivoting to AI CAD software",
+          "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+          "source": "TechCrunch",
           "site_id": "techurls",
           "published_at": "2026-10-21T13:00:00Z"
         }
@@ -5226,6 +5757,28 @@
       "score": 7
     },
     {
+      "story_id": "story_32f5d2fd",
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
+      "primary_url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "7326ed877eb8aa27c931c540b833c7fa92ca1d0a",
+          "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+          "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-10-21T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f06e0a83",
       "title": "How America's AI Trust Issues Could Impact the Midterms",
       "url": "https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms",
@@ -5594,6 +6147,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-10-21T05:17:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_215ccbd7",
+      "title": "Anthropic在2026年上半年录得超过800亿美元的净亏损",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+      "primary_url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+      "source_count": 1,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "sources": [
+        {
+          "id": "e442b939283361c878d41ab031dd2f7dfe1cba9a",
+          "title": "Anthropic在2026年上半年录得超过800亿美元的净亏损",
+          "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+          "source": "www.reuters.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T04:54:15.064000Z"
         }
       ],
       "item_count": 1,
@@ -6012,776 +6587,6 @@
           "source": "Reddit (热门)",
           "site_id": "iris",
           "published_at": "2026-10-20T23:36:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_400e2c51",
-      "title": "Citadel founder Ken Griffin says AI is coming for white-collar jobs, but not at his firms",
-      "url": "https://www.businessinsider.com/ai-white-collar-jobs-citadel-ken-griffin-alpha-humans-2026-10",
-      "primary_url": "https://www.businessinsider.com/ai-white-collar-jobs-citadel-ken-griffin-alpha-humans-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "75ec8ba9676f87d4bd3afe38a7ffc78ad18d8b97",
-          "title": "Citadel founder Ken Griffin says AI is coming for white-collar jobs, but not at his firms",
-          "url": "https://www.businessinsider.com/ai-white-collar-jobs-citadel-ken-griffin-alpha-humans-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:39:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cfd6e6c6",
-      "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
-      "url": "https://www.techmeme.com/261020/p53",
-      "primary_url": "https://www.techmeme.com/261020/p53",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "4fc3f9117d8742a769149a874c39197ce659a365",
-          "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
-          "url": "https://www.techmeme.com/261020/p53",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:30:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_db9db2e6",
-      "title": "People are using AI vibe coding to remove ads and trackers from smart TVs",
-      "url": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "primary_url": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "d2ec6269c517873f2d66f7cb7e7559a93b5ebf95",
-          "title": "People are using AI vibe coding to remove ads and trackers from smart TVs",
-          "url": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7d087418",
-      "title": "我数了 647 条大厂前端 JD：AI 不再只是加分项",
-      "url": "https://juejin.cn/post/7698254253442793507",
-      "primary_url": "https://juejin.cn/post/7698254253442793507",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "906d3c18c33461e51f00767ed31d4522f38d9902",
-          "title": "我数了 647 条大厂前端 JD：AI 不再只是加分项",
-          "url": "https://juejin.cn/post/7698254253442793507",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-10-20T22:29:32.060000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5f87b619",
-      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-      "primary_url": "https://twitter.com/Polymarket/status/2112634886070919426",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d098d21b2c7b4ed4f1c3c525e298c2099c9d8e84",
-          "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-          "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-20T22:27:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_03f209d1",
-      "title": "Korean AI data centre firm Elice sinks 32% in a record-worst IPO debut",
-      "url": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
-      "primary_url": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "18c4003f4e36fb32e6ba1d219e3c134886394ba4",
-          "title": "Korean AI data centre firm Elice sinks 32% in a record-worst IPO debut",
-          "url": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:24:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3552df20",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-      "primary_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "142b3e501a11f7deff90d54757a8c2d208031590",
-          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:24:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c1e957c8",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "primary_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "66246578732d77589cb927019ae90034100441c3",
-          "title": "Google’s more personalized Gemini AI is heading to your car",
-          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:11:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f7705175",
-      "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
-      "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
-      "primary_url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "7fe182035e18a021b877fcda4a2172b64d1b916c",
-          "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
-          "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:10:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7a0042cc",
-      "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
-      "url": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
-      "primary_url": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "9ce7a17a5f9713c1209475215ae553eb24806eff",
-          "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
-          "url": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:08:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_be670af4",
-      "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
-      "url": "https://www.techmeme.com/261020/p52",
-      "primary_url": "https://www.techmeme.com/261020/p52",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "e6d29424190c1694d886a174eb356c7db6ed655d",
-          "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
-          "url": "https://www.techmeme.com/261020/p52",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T22:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cfbd952f",
-      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "33468154c5eefdb85cad89428d4e0600f6bc2ef9",
-          "title": "Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T21:25:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5ae1a01d",
-      "title": "SpaceX says its capex could double this quarter as AI spending grows",
-      "url": "https://www.businessinsider.com/spacex-ai-spending-third-quarter-earnings-2026-10",
-      "primary_url": "https://www.businessinsider.com/spacex-ai-spending-third-quarter-earnings-2026-10",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "4dc1621a5bfb320e6785ac89d7cb04743b00804b",
-          "title": "SpaceX says its capex could double this quarter as AI spending grows",
-          "url": "https://www.businessinsider.com/spacex-ai-spending-third-quarter-earnings-2026-10",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T21:20:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6d21b312",
-      "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
-      "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin",
-      "primary_url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "5472d3a6750997b4fa756a5501787130b7d5c8d8",
-          "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
-          "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T21:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b69a2da7",
-      "title": "I replaced Google Photos, Drive, and Gemini with free open source alternatives; now I can't go back",
-      "url": "https://www.androidpolice.com/replaced-google-photos-drive-gemini-with-free-open-source-alternatives-now-i-can-not-go-back",
-      "primary_url": "https://www.androidpolice.com/replaced-google-photos-drive-gemini-with-free-open-source-alternatives-now-i-can-not-go-back",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "6b6ce776e4dc1365e3e37098d506fc9931826122",
-          "title": "I replaced Google Photos, Drive, and Gemini with free open source alternatives; now I can't go back",
-          "url": "https://www.androidpolice.com/replaced-google-photos-drive-gemini-with-free-open-source-alternatives-now-i-can-not-go-back",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T21:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e273fa89",
-      "title": "Ex-OpenAI research chief Bob McGrew’s Arda raises $232M for US factories",
-      "url": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
-      "primary_url": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "70268d46d1f241b9622388a46bda3fa421540eaa",
-          "title": "Ex-OpenAI research chief Bob McGrew’s Arda raises $232M for US factories",
-          "url": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:55:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dae60148",
-      "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)",
-      "url": "https://www.techmeme.com/261020/p46",
-      "primary_url": "https://www.techmeme.com/261020/p46",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a9b11e717523bf42d595ba037a85e07cb1a55c09",
-          "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)",
-          "url": "https://www.techmeme.com/261020/p46",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:50:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a3e6bf6b",
-      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "primary_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2089a6af36d933c71b9706674ab06534ee3dc2ff",
-          "title": "SpaceX’s AI business is beating expectations",
-          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:40:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_766c765b",
-      "title": "China Condemns U.S. Ban on DeepSeek A.I. in Government Systems",
-      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "primary_url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "78cb98da385443e78489028a73c2344175c167a7",
-          "title": "China Condemns U.S. Ban on DeepSeek A.I. in Government Systems",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:37:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9749f0b4",
-      "title": "人工智能驱动的个人助理可能会重塑数字经济",
-      "url": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
-      "primary_url": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "a71f298f6136c810814e88cc655327c54878e986",
-          "title": "人工智能驱动的个人助理可能会重塑数字经济",
-          "url": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T20:36:27.284000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f8e54b47",
-      "title": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
-      "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-      "primary_url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "342e3f1a31740a62e1bff76c2a059ac4b7129281",
-          "title": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
-          "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:32:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b0b5ea64",
-      "title": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
-      "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
-      "primary_url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "a9c977923a605d4031974d830a6b462cca770f33",
-          "title": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
-          "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:31:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a564e3e1",
-      "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
-      "url": "https://www.techmeme.com/261020/p43",
-      "primary_url": "https://www.techmeme.com/261020/p43",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "ee28e77aae60523f7ac6f2584debb894d189be9b",
-          "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
-          "url": "https://www.techmeme.com/261020/p43",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:26:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6b9ce5c2",
-      "title": "Reliable Robotics tops a $1bn valuation with $115M for self-flying planes",
-      "url": "https://thenextweb.com/news/reliable-robotics-115m-1bn-valuation-autonomous-flight",
-      "primary_url": "https://thenextweb.com/news/reliable-robotics-115m-1bn-valuation-autonomous-flight",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "fb6f83dd4365b8d0e1a0b1e2e83eaff994d2a9d0",
-          "title": "Reliable Robotics tops a $1bn valuation with $115M for self-flying planes",
-          "url": "https://thenextweb.com/news/reliable-robotics-115m-1bn-valuation-autonomous-flight",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:13:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8b3184ad",
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3",
-      "primary_url": "https://mistral.ai/news/voxtral-3",
-      "source_count": 1,
-      "source_names": [
-        "mistral.ai"
-      ],
-      "sources": [
-        {
-          "id": "defd172717882a6efc6c0022a3a057c82ddcc541",
-          "title": "Voxtral 3",
-          "url": "https://mistral.ai/news/voxtral-3",
-          "source": "mistral.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T20:11:46.143000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_83c84daa",
-      "title": "随着Vibecoders涌入Next Fest，Steam用户纷纷呼吁增加“无AI”筛选功能",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "primary_url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "source_count": 1,
-      "source_names": [
-        "www.ign.com"
-      ],
-      "sources": [
-        {
-          "id": "8a9b7d83330a5c98e9bedcf8ff4bae2525b2bd0d",
-          "title": "随着Vibecoders涌入Next Fest，Steam用户纷纷呼吁增加“无AI”筛选功能",
-          "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-          "source": "www.ign.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T20:11:45.865000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eb89dcdd",
-      "title": "发布虚假数据，被大型语言模型引用",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "primary_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "source_count": 1,
-      "source_names": [
-        "peec.ai"
-      ],
-      "sources": [
-        {
-          "id": "5a7544d1721362a529caf181934e304bc3b92730",
-          "title": "发布虚假数据，被大型语言模型引用",
-          "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-          "source": "peec.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T20:11:45.183000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a2caf9f2",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
-      "primary_url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "3ab86eda4b09e1e8470519238bfe8e98fd63be81",
-          "title": "Gemini's Personal Intelligence is coming to cars",
-          "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:00:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_038da8ca",
-      "title": "Google Support Pages Start Defaulting to AI Chatbots",
-      "url": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots",
-      "primary_url": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "ead9f5fdf49969c104516753df0610541494c14e",
-          "title": "Google Support Pages Start Defaulting to AI Chatbots",
-          "url": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_89bce144",
-      "title": "Google brings Gemini Personal Intelligence to Android Auto",
-      "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto",
-      "primary_url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "28c267ae42eaf980badde829aa8786f58015d183",
-          "title": "Google brings Gemini Personal Intelligence to Android Auto",
-          "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_883ff07c",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
-      "primary_url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "385828ef9eae5a765d99d402dc83bde0354325a1",
-          "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-          "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e77b63f8",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "primary_url": "https://www.bolkunov.com/p/on-ai-writing",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "08db06b811f2f28a76744ce4bd32a71c6487297f",
-          "title": "On AI writing",
-          "url": "https://www.bolkunov.com/p/on-ai-writing",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-20T19:55:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_26847059",
-      "title": "'Some agents exhibited unintended web-browsing behavior': Tencent admits AI agents it was testing made more than 2,600 attempts in 11 days to slip past Alibaba's map defenses, just to find out which zoo gate people use",
-      "url": "https://www.techradar.com/pro/some-agents-exhibited-unintended-web-browsing-behavior-tencent-admits-ai-agents-it-was-testing-made-more-than-2-600-attempts-in-11-days-to-slip-past-alibabas-map-defenses-just-to-find-out-which-zoo-gate-people-use",
-      "primary_url": "https://www.techradar.com/pro/some-agents-exhibited-unintended-web-browsing-behavior-tencent-admits-ai-agents-it-was-testing-made-more-than-2-600-attempts-in-11-days-to-slip-past-alibabas-map-defenses-just-to-find-out-which-zoo-gate-people-use",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "dc373059387bcf9e6c1a39c7ece07ebb0bbc97b7",
-          "title": "'Some agents exhibited unintended web-browsing behavior': Tencent admits AI agents it was testing made more than 2,600 attempts in 11 days to slip past Alibaba's map defenses, just to find out which zoo gate people use",
-          "url": "https://www.techradar.com/pro/some-agents-exhibited-unintended-web-browsing-behavior-tencent-admits-ai-agents-it-was-testing-made-more-than-2-600-attempts-in-11-days-to-slip-past-alibabas-map-defenses-just-to-find-out-which-zoo-gate-people-use",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T19:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_05a2a483",
-      "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
-      "url": "https://www.techmeme.com/261020/p40",
-      "primary_url": "https://www.techmeme.com/261020/p40",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "94406b88b8aab5eafd8b4b4159c3d78c6c161fe2",
-          "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
-          "url": "https://www.techmeme.com/261020/p40",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T19:46:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_95d336fc",
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "c5a5dcafb2864fc069975a37f9c0cd7a592f1b07",
-          "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-          "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "site_id": "techurls",
-          "published_at": "2026-10-20T19:42:32Z"
         }
       ],
       "item_count": 1,
