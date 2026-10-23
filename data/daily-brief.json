@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-10-23T02:04:04.177674Z",
+  "generated_at": "2026-10-23T08:52:54.691064Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 17,
   "items": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "title_zh": null,
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-23T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
     {
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "title_zh": null,
@@ -13,17 +24,6 @@
       "published_at": "2026-10-22T22:24:34Z",
       "ai_is_related": true,
       "ai_score": 0.95
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-22T19:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.91
     },
     {
       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
@@ -48,70 +48,92 @@
       "ai_score": 0.87
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+      "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-10-22T19:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+      "title_zh": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+      "url": "https://www.aibase.com/news/31833",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-23T08:52:12.031100Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+      "title_zh": "Anthropic 把智能体\"说明书\"交出去：Agent Skills 标准捐给社区",
+      "url": "https://www.aibase.com/news/31831",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-23T08:52:12.031100Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+      "title_zh": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+      "url": "https://www.aibase.com/news/31829",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-23T08:52:12.031100Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+      "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-23T06:04:55Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+      "title_zh": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+      "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-10-23T01:06:29Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "This has always been the case for designers and developers, but now it's extending to everybody else",
       "title_zh": null,
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-22T07:51:31Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
+      "url": "https://x.com/zarazhangrui/status/2113510486834921598",
+      "source": "Follow Builders · X · Zara Zhang",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-23T05:59:01Z",
+      "ai_is_related": false,
+      "ai_score": 0.33
     },
     {
-      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-      "title_zh": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-      "url": "https://x.com/Kling_ai/status/2113156632134005040",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-22T06:32:56Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Kling 4.0 现已上线 OnSolo",
-      "title_zh": "Kling 4.0 现已上线 OnSolo",
-      "url": "https://x.com/Kling_ai/status/2113142473145078041",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-10-22T05:36:40Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
-      "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
-      "url": "https://www.aibase.com/news/31816",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-23T02:03:15.378436Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
-      "title_zh": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
-      "url": "https://www.aibase.com/news/31818",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-23T02:03:15.378436Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元",
-      "title_zh": "OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元",
-      "url": "https://www.aibase.com/news/31819",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-10-23T02:03:15.378436Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
+      "title": "Aside Browser is a real solution to making your agents actually great at using the web. @AsideAI https://t.co/3eFHCPk3KZ",
+      "title_zh": null,
+      "url": "https://x.com/garrytan/status/2113367007567794563",
+      "source": "Follow Builders · X · Garry Tan",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-10-22T20:28:53Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
     },
     {
       "title": "【做skill/Acoding必看】你的 Agent 工作流漏了关键一步",
@@ -158,46 +180,13 @@
       "ai_score": 0.47
     },
     {
-      "title": "中层不会消失，只是换成了Agent",
-      "title_zh": "中层不会消失，只是换成了Agent",
-      "url": "https://www.tmtpost.com/8177643.html",
-      "source": "钛媒体 TMTPost",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-10-22T08:17:48Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "齐俊元完成2亿美元融资，但Personal Agent仍然是个伪命题",
-      "title_zh": "齐俊元完成2亿美元融资，但Personal Agent仍然是个伪命题",
-      "url": "https://www.huxiu.com/article/4899418.html?f=rss",
-      "source": "虎嗅",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-10-22T03:14:18Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
-      "title": "WorldTUI：我训练了一个3.6亿参数的模型，让它模拟终端",
-      "title_zh": "WorldTUI：我训练了一个3.6亿参数的模型，让它模拟终端",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal",
-      "source": "simedw.com",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-10-22T07:46:45.389000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[分享发现] 分享一个无界面的 RustDesk TCP 端口转发：专门给 SSH / Agent / 安卓 Moshi",
-      "title_zh": "[分享发现] 分享一个无界面的 RustDesk TCP 端口转发：专门给 SSH / Agent / 安卓 Moshi",
-      "url": "https://www.v2ex.com/t/1250933",
+      "title": "[问与答] 4060ti+7900xtx 双卡推理，后续可能升级 14600k，有没有电源推荐",
+      "title_zh": "[问与答] 4060ti+7900xtx 双卡推理，后续可能升级 14600k，有没有电源推荐",
+      "url": "https://www.v2ex.com/t/1251307",
       "source": "V2EX (创意工作者社区)",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
-      "published_at": "2026-10-22T06:38:50Z",
+      "published_at": "2026-10-23T08:25:09Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
