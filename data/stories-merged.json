@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-10-23T22:41:53.645384Z",
+  "generated_at": "2026-10-24T02:02:56.275858Z",
   "window_hours": 24,
-  "total_stories": 231,
+  "total_stories": 217,
   "stories": [
+    {
+      "story_id": "story_759fe46e",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "e9f35b5675c9d44941e9fe0277dc6cb14a3ea118",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T10:00:00Z"
+        },
+        {
+          "id": "317c3b777df83cd4ef038d91a9d2359ea8619cec",
+          "title": "OpenAI: Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-10-23T19:50:56Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_5a60bcdb",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -48,48 +79,26 @@
       "score": 10020
     },
     {
-      "story_id": "story_36e5104f",
-      "title": "Codex CLI 0.164.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_6c84906e",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "url": "https://x.com/OpenAI/status/2113766354386084338",
+      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：OpenAI (@OpenAI)"
       ],
       "sources": [
         {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://x.com/OpenAI/status/2113766354386084338",
+          "source": "X：OpenAI (@OpenAI)",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
         }
       ],
       "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_f138b050",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
+      "score": 9920
     },
     {
       "story_id": "story_7e345764",
@@ -958,94 +967,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_d626421d",
-      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-      "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-      "primary_url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-      "source_count": 1,
-      "source_names": [
-        "X：MiniMax (@MiniMax_AI)"
-      ],
-      "sources": [
-        {
-          "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
-          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-          "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-          "source": "X：MiniMax (@MiniMax_AI)",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T01:06:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_d4f713da",
-      "title": "An AI found php2shell, and attackers got there first",
-      "url": "https://aibreakfast.beehiiv.com/p/an-ai-found-php2shell-and-attackers-got-there-first",
-      "primary_url": "https://aibreakfast.beehiiv.com/p/an-ai-found-php2shell-and-attackers-got-there-first",
-      "source_count": 1,
-      "source_names": [
-        "AI Breakfast"
-      ],
-      "sources": [
-        {
-          "id": "2f6569c001d3d1bdbd8b90f397373f7e05554bdf",
-          "title": "An AI found php2shell, and attackers got there first",
-          "url": "https://aibreakfast.beehiiv.com/p/an-ai-found-php2shell-and-attackers-got-there-first",
-          "source": "AI Breakfast",
-          "site_id": "aibreakfast",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_4956bfdc",
-      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-      "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-      "primary_url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "sources": [
-        {
-          "id": "49de42612d7efde89fb0907ed4101d76139b1b28",
-          "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-          "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-          "source": "Claude：Blog（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_d1a74438",
-      "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "primary_url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "source_count": 1,
-      "source_names": [
-        "英国 AI Security Institute：Blog（网页）"
-      ],
-      "sources": [
-        {
-          "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
-          "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-          "source": "英国 AI Security Institute：Blog（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T23:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_7f685e15",
       "title": "Claude Opus 5.5 做视频进阶篇，技术栈全拆解丨万字教程",
       "url": "https://waytoagi.feishu.cn/wiki/WMgBwwfuViCd0AkhZ5hckiWXngg?from=from_copylink",
@@ -1200,79 +1121,273 @@
       "score": 9820
     },
     {
-      "story_id": "story_64700a7e",
-      "title": "If you feel stuck in your career, stop waiting for clarity. create it through action. A lot of PMs reaching out for advice tell me they feel stuck as AI rapidly changes their role. They want to get into AI but don’t k...",
-      "url": "https://x.com/realmadhuguru/status/2113437016818057641",
-      "primary_url": "https://x.com/realmadhuguru/status/2113437016818057641",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Madhu Guru"
-      ],
-      "sources": [
-        {
-          "id": "977f9fd933ab63c89f11794a8cfa0fd23011c7a1",
-          "title": "If you feel stuck in your career, stop waiting for clarity. create it through action. A lot of PMs reaching out for advice tell me they feel stuck as AI rapidly changes their role. They want to get into AI but don’t k...",
-          "url": "https://x.com/realmadhuguru/status/2113437016818057641",
-          "source": "Follow Builders · X · Madhu Guru",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-23T01:07:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_65117b6b",
-      "title": "6 steps you should take to secure your accounts right now given all the incidents. In my new video, I share a prompt to have AI walk you through all 6 steps and generate a personalized security report. 📌 Watch now and...",
-      "url": "https://x.com/petergyang/status/2113405131106742406",
-      "primary_url": "https://x.com/petergyang/status/2113405131106742406",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "39428fb350e08ee21bc1806bb29e24dd34dd0904",
-          "title": "6 steps you should take to secure your accounts right now given all the incidents. In my new video, I share a prompt to have AI walk you through all 6 steps and generate a personalized security report. 📌 Watch now and...",
-          "url": "https://x.com/petergyang/status/2113405131106742406",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-22T23:00:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_759fe46e",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "story_id": "story_ab08f709",
+      "title": "AI艺人扎堆出道，赚钱的却没几个？",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34312898",
+      "primary_url": "https://m.thepaper.cn/newsDetail_forward_34312898",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "Hacker News · 24h最热"
+        "澎湃新闻",
+        "钛媒体 TMTPost"
       ],
       "sources": [
         {
-          "id": "b96b9a5e3433e286059d8191b569c5b476e802f1",
-          "title": "Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
+          "id": "92b18c7066e3cdfccf5de39e68d5584b92c039fa",
+          "title": "AI艺人扎堆出道，赚钱的却没几个？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34312898",
+          "source": "澎湃新闻",
           "site_id": "opmlrss",
-          "published_at": "2026-10-23T10:00:00Z"
+          "published_at": "2026-10-24T01:03:45Z"
         },
         {
-          "id": "e50b22e5e98b03e338a687170bbc26e4e39b6279",
-          "title": "OpenAI: Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z"
+          "id": "6840904f0d0268db2290569d4695a03fcabc96c1",
+          "title": "AI艺人扎堆出道，赚钱的却没几个？",
+          "url": "https://www.tmtpost.com/8178914.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T07:32:06Z"
         }
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_9545797a",
+      "title": "188天就退场，大厂AI 产品正在加速洗牌",
+      "url": "https://www.tmtpost.com/8179714.html",
+      "primary_url": "https://www.tmtpost.com/8179714.html",
+      "source_count": 2,
+      "source_names": [
+        "钛媒体 TMTPost",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "0b4972b0c965e8f51c33e24c553d3590bff4b479",
+          "title": "188天就退场，大厂AI 产品正在加速洗牌",
+          "url": "https://www.tmtpost.com/8179714.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T00:26:00Z"
+        },
+        {
+          "id": "3cc5e3bc4ff8be02f5579f0e25010f1b962fe209",
+          "title": "188天就退场，大厂AI 产品正在加速洗牌",
+          "url": "https://www.huxiu.com/article/4899844.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T04:12:40Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_e3c28060",
+      "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+      "url": "https://www.tmtpost.com/8179692.html",
+      "primary_url": "https://www.tmtpost.com/8179692.html",
+      "source_count": 2,
+      "source_names": [
+        "钛媒体 TMTPost",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "84de675b226ea27f7b60e926f123c28ad50990b9",
+          "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "https://www.tmtpost.com/8179692.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T00:14:00Z"
+        },
+        {
+          "id": "9ce641541391d640cb93dc78b19aa4f16d612d9d",
+          "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+          "url": "https://www.huxiu.com/article/4899921.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T08:29:22Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_298f22df",
+      "title": "博纳花两年、投千万，趟出第一部AI院线长片",
+      "url": "https://www.tmtpost.com/8179389.html",
+      "primary_url": "https://www.tmtpost.com/8179389.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "59cb91e222d1098d07d98fd76fd6029a19776fd4",
+          "title": "博纳花两年、投千万，趟出第一部AI院线长片",
+          "url": "https://www.tmtpost.com/8179389.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:53:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7bb80ea3",
+      "title": "Edge AI Daily 早报（10月24日）",
+      "url": "https://www.tmtpost.com/8179994.html",
+      "primary_url": "https://www.tmtpost.com/8179994.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "36c98dff28e330db4a8051572922481a6cb9ec67",
+          "title": "Edge AI Daily 早报（10月24日）",
+          "url": "https://www.tmtpost.com/8179994.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:43:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0dffe34c",
+      "title": "王毅：中美有能力发展和管控人工智能",
+      "url": "https://www.zaobao.com/news/china/story20261024-9887003",
+      "primary_url": "https://www.zaobao.com/news/china/story20261024-9887003",
+      "source_count": 1,
+      "source_names": [
+        "联合早报-中港台"
+      ],
+      "sources": [
+        {
+          "id": "32ee91259b631d44d5f720d022127ed18f60187e",
+          "title": "王毅：中美有能力发展和管控人工智能",
+          "url": "https://www.zaobao.com/news/china/story20261024-9887003",
+          "source": "联合早报-中港台",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:18:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_abe062ee",
+      "title": "机器人领域的OpenAI，来了？",
+      "url": "https://www.tmtpost.com/8179875.html",
+      "primary_url": "https://www.tmtpost.com/8179875.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "1ebbaadba0623f011174968a89a6ef289fb148ba",
+          "title": "机器人领域的OpenAI，来了？",
+          "url": "https://www.tmtpost.com/8179875.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_cb969d01",
+      "title": "首部AI院线电影票房遇冷，但字节、快手仍在冲击大银幕",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34315985",
+      "primary_url": "https://m.thepaper.cn/newsDetail_forward_34315985",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "dd532f9f78b3ba5c42b133c47972bc6341a8e55a",
+          "title": "首部AI院线电影票房遇冷，但字节、快手仍在冲击大银幕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34315985",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:14:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_eff4728a",
+      "title": "6大AI、30个剧本实测：谁造出了“烧心体”？",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34318871",
+      "primary_url": "https://m.thepaper.cn/newsDetail_forward_34318871",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "c294b7f7442128548cf259c2da8f1acf39842c34",
+          "title": "6大AI、30个剧本实测：谁造出了“烧心体”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34318871",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T01:02:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2a88b437",
+      "title": "《过来人》和Yuki：两场AI音乐试验都在守“人味”",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
+      "primary_url": "https://m.thepaper.cn/newsDetail_forward_34317944",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "df766c4629320fa209285c348dfe1fdfe3f9e1b5",
+          "title": "《过来人》和Yuki：两场AI音乐试验都在守“人味”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-24T00:15:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_14efb19b",
+      "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
+      "url": "https://www.huxiu.com/article/4900070.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900070.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "8e5435940c411d853acd78ae26eec5dc232b74dd",
+          "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
+          "url": "https://www.huxiu.com/article/4900070.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T23:15:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_78c968c7",
@@ -1363,28 +1478,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_f4c5bc46",
-      "title": "Barclays is latest to redirect spending toward AI as it trims its workforce - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "803c9bf40588f8a096d633c3001f1088b5f42fe4",
-          "title": "Barclays is latest to redirect spending toward AI as it trims its workforce - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T16:27:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_8f0d2fcf",
       "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
@@ -1407,6 +1500,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_f4c5bc46",
+      "title": "Barclays is latest to redirect spending toward AI as it trims its workforce - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "803c9bf40588f8a096d633c3001f1088b5f42fe4",
+          "title": "Barclays is latest to redirect spending toward AI as it trims its workforce - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T16:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_af2bbfbb",
       "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
@@ -1423,6 +1538,36 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-10-23T16:02:43Z"
+        },
+        {
+          "id": "5c9d3d34de5914cd637f5ff0b1c6f666bd90981b",
+          "title": "What some of Anthropic’s backers are worth before its IPO",
+          "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T16:02:43Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b8a6b67b",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "primary_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "fcc24dd418ca15fdddbb108223238a81ef60827c",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-23T14:47:41Z"
         }
       ],
       "item_count": 1,
@@ -2089,28 +2234,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_75f1782f",
-      "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
-      "url": "https://www.huxiu.com/article/4899921.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899921.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "9ce641541391d640cb93dc78b19aa4f16d612d9d",
-          "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
-          "url": "https://www.huxiu.com/article/4899921.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T08:29:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_8a9c452c",
       "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
       "url": "https://www.huxiu.com/article/4899912.html?f=rss",
@@ -2199,28 +2322,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_0073bfde",
-      "title": "AI艺人扎堆出道，赚钱的却没几个？",
-      "url": "https://www.tmtpost.com/8178914.html",
-      "primary_url": "https://www.tmtpost.com/8178914.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "6840904f0d0268db2290569d4695a03fcabc96c1",
-          "title": "AI艺人扎堆出道，赚钱的却没几个？",
-          "url": "https://www.tmtpost.com/8178914.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T07:32:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_5c821ff1",
       "title": "Claude 偷砍额度被抓包，AI 会员正在集体变成“鬼秤”",
       "url": "https://www.huxiu.com/article/4899883.html?f=rss",
@@ -2287,28 +2388,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c78e53f7",
-      "title": "188天就退场，大厂AI 产品正在加速洗牌",
-      "url": "https://www.huxiu.com/article/4899844.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899844.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "3cc5e3bc4ff8be02f5579f0e25010f1b962fe209",
-          "title": "188天就退场，大厂AI 产品正在加速洗牌",
-          "url": "https://www.huxiu.com/article/4899844.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T04:12:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_6fe19d65",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
@@ -2327,11 +2406,11 @@
           "published_at": "2026-10-23T04:00:00Z"
         },
         {
-          "id": "ce599b497de2f6f25040d52508c57540ebaf3576",
+          "id": "6807c833e1cc8681efc1b154f57a7ffdae65e43d",
           "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-10-23T04:00:00Z"
         }
       ],
@@ -2427,424 +2506,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4404b2d5",
-      "title": "从“坐不住”到“不买账”，陶哲轩称AI的数学成果是“有毒废料”",
-      "url": "https://www.tmtpost.com/8177772.html",
-      "primary_url": "https://www.tmtpost.com/8177772.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "683a88d1364fb5e373e324b1b1bf141804981ec5",
-          "title": "从“坐不住”到“不买账”，陶哲轩称AI的数学成果是“有毒废料”",
-          "url": "https://www.tmtpost.com/8177772.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:55:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e47e49ba",
-      "title": "Will ICE agents play a role in the 2026 US midterm elections?",
-      "url": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "7b64742dbfc63b350216b7f1e217fc0e3f3df29a",
-          "title": "Will ICE agents play a role in the 2026 US midterm elections?",
-          "url": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:47:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b5cc2a8d",
-      "title": "Gemini 4 Argon Token消耗量暴涨3倍，谷歌CEO首谈砍掉3.5 Pro内幕",
-      "url": "https://www.tmtpost.com/8177973.html",
-      "primary_url": "https://www.tmtpost.com/8177973.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "e8d63fcf896faabbaf04952fb591655885418aa5",
-          "title": "Gemini 4 Argon Token消耗量暴涨3倍，谷歌CEO首谈砍掉3.5 Pro内幕",
-          "url": "https://www.tmtpost.com/8177973.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:43:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d292d9a0",
-      "title": "具身智能集体早熟，谁来买单？",
-      "url": "https://www.tmtpost.com/8177987.html",
-      "primary_url": "https://www.tmtpost.com/8177987.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "9782e66338ed25f4aa73c8a09ca01d376cbdfd15",
-          "title": "具身智能集体早熟，谁来买单？",
-          "url": "https://www.tmtpost.com/8177987.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:36:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_38f99b6a",
-      "title": "精明如迪士尼，为何要买下一家快破产的AI公司？",
-      "url": "https://www.tmtpost.com/8177974.html",
-      "primary_url": "https://www.tmtpost.com/8177974.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "7b8c9618c4b27ab9bcddc91aad40daa50702b46a",
-          "title": "精明如迪士尼，为何要买下一家快破产的AI公司？",
-          "url": "https://www.tmtpost.com/8177974.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:36:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ca71748f",
-      "title": "美国中期选举牵动股市 民主党全面胜选恐冲击AI股",
-      "url": "https://www.zaobao.com/news/world/story20261023-9881009",
-      "primary_url": "https://www.zaobao.com/news/world/story20261023-9881009",
-      "source_count": 1,
-      "source_names": [
-        "联合早报-国际"
-      ],
-      "sources": [
-        {
-          "id": "30decf0b2c10c2390abe171976c066b2b8edd7bd",
-          "title": "美国中期选举牵动股市 民主党全面胜选恐冲击AI股",
-          "url": "https://www.zaobao.com/news/world/story20261023-9881009",
-          "source": "联合早报-国际",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:31:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6cea6e47",
-      "title": "资本开抢AI 3D，「御三家」半年吸纳超80亿元",
-      "url": "https://www.tmtpost.com/8178004.html",
-      "primary_url": "https://www.tmtpost.com/8178004.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "1b4e224568371de039d94c85445ac05957e26118",
-          "title": "资本开抢AI 3D，「御三家」半年吸纳超80亿元",
-          "url": "https://www.tmtpost.com/8178004.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_bc30c0e2",
-      "title": "观察｜算力企业进入癫狂状态：Anthropic借600亿付10%利息，CoreWeave违约概率超60%",
-      "url": "https://www.huxiu.com/article/4899775.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899775.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "01a99e49d14db46580c2843754d19a999b2b9a52",
-          "title": "观察｜算力企业进入癫狂状态：Anthropic借600亿付10%利息，CoreWeave违约概率超60%",
-          "url": "https://www.huxiu.com/article/4899775.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:22:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_358c36cb",
-      "title": "比尔·盖茨最新访谈：AI 是有史以来最危险的技术，未来20年将是人类最动荡的转型期",
-      "url": "https://www.huxiu.com/article/4899760.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899760.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "3560fd06baedbcf4c972711e5e6d197657886bc1",
-          "title": "比尔·盖茨最新访谈：AI 是有史以来最危险的技术，未来20年将是人类最动荡的转型期",
-          "url": "https://www.huxiu.com/article/4899760.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T01:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b2ef1fb8",
-      "title": "Edge AI Daily 早报（10月23日）",
-      "url": "https://www.tmtpost.com/8178206.html",
-      "primary_url": "https://www.tmtpost.com/8178206.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "986105910cd968ebe826338d05a3eb902ee7f790",
-          "title": "Edge AI Daily 早报（10月23日）",
-          "url": "https://www.tmtpost.com/8178206.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:44:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_99eea760",
-      "title": "我好像陷入了某种，AI时代的虚无主义。",
-      "url": "https://www.huxiu.com/article/4899768.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899768.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "eb2222646ee98578a5a6b10b378c9d1665b8b309",
-          "title": "我好像陷入了某种，AI时代的虚无主义。",
-          "url": "https://www.huxiu.com/article/4899768.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:35:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_67e6cc26",
-      "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
-      "url": "https://www.huxiu.com/article/4899762.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899762.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "69ff37e4453b6311e50ab50625d445a7d187d8b5",
-          "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
-          "url": "https://www.huxiu.com/article/4899762.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:32:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f80de83f",
-      "title": "7年心血恐被AI抢先，数学家带两名中国博士生，3天赶出95页论文",
-      "url": "https://www.huxiu.com/article/4899766.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899766.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "0d65f60dcd33088742f7eec2dd367b860e89f069",
-          "title": "7年心血恐被AI抢先，数学家带两名中国博士生，3天赶出95页论文",
-          "url": "https://www.huxiu.com/article/4899766.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:29:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f9d48179",
-      "title": "AI漫剧的老板们在给算力打工",
-      "url": "https://www.huxiu.com/article/4899765.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899765.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "fe32973f8831ace7072c2063e0866d250d6a9f2f",
-          "title": "AI漫剧的老板们在给算力打工",
-          "url": "https://www.huxiu.com/article/4899765.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:24:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7694ab12",
-      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-      "url": "https://sspai.com/post/117104",
-      "primary_url": "https://sspai.com/post/117104",
-      "source_count": 1,
-      "source_names": [
-        "少数派"
-      ],
-      "sources": [
-        {
-          "id": "fa395c2c07de6082a6d5145597c0f514453c3900",
-          "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-          "url": "https://sspai.com/post/117104",
-          "source": "少数派",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:20:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_39c8c1e0",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "d0b6c9232284da69320b142686e05622e9902d56",
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ea28a517",
-      "title": "AI短剧火疯了，赢家却没几个",
-      "url": "https://www.huxiu.com/article/4899741.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4899741.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "efac520fdbdc896811eca5d325ee441de9732957",
-          "title": "AI短剧火疯了，赢家却没几个",
-          "url": "https://www.huxiu.com/article/4899741.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-22T23:24:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_bc75e05c",
-      "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
-      "url": "https://www.tmtpost.com/8178216.html",
-      "primary_url": "https://www.tmtpost.com/8178216.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "cef553e276046f3ec839a1e9a793f6281632480a",
-          "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
-          "url": "https://www.tmtpost.com/8178216.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-22T23:24:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_fc7b3b98",
-      "title": "【钛晨报】《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
-      "url": "https://www.tmtpost.com/8178065.html",
-      "primary_url": "https://www.tmtpost.com/8178065.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "96fc9893631f1d9017a8c9968922c21e30d3f0e4",
-          "title": "【钛晨报】《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
-          "url": "https://www.tmtpost.com/8178065.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-22T23:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_949e8720",
       "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
       "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
@@ -2876,10 +2537,10 @@
       "score": 9570
     },
     {
-      "story_id": "story_bb736ccb",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://news.ycombinator.com/item?id=50202217",
-      "primary_url": "https://news.ycombinator.com/item?id=50202217",
+      "story_id": "story_74a85347",
+      "title": "OpenAI: Securing our frontier model training environment",
+      "url": "https://news.ycombinator.com/item?id=50214416",
+      "primary_url": "https://news.ycombinator.com/item?id=50214416",
       "source_count": 2,
       "source_names": [
         "hackernews",
@@ -2893,6 +2554,14 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "8547b36620cbf4908e7a368d19a7e0ddce242a28",
+          "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+          "url": "https://news.ycombinator.com/item?id=50214373",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:46:38Z"
         },
         {
           "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
@@ -2909,87 +2578,9 @@
           "source": "news.ycombinator.com",
           "site_id": "buzzing",
           "published_at": "2026-10-23T08:06:59.690000Z"
-        },
-        {
-          "id": "77f62db47e0db8fa2233fa99867e7e02aa5409f2",
-          "title": "AI compute is the new oil–and needs a new market",
-          "url": "https://news.ycombinator.com/item?id=50202671",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-22T23:45:16Z"
-        },
-        {
-          "id": "4236c301418b38737fb2fc5d3fd3ad24524465ba",
-          "title": "LLMs are making formal software verification feasible at a much larger scale",
-          "url": "https://news.ycombinator.com/item?id=50202217",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-10-22T22:54:43Z"
         }
       ],
-      "item_count": 5,
-      "score": 9570
-    },
-    {
-      "story_id": "story_ae177e4d",
-      "title": "Etsy is cracking down on AI slop. Here’s what’s changing.",
-      "url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
-      "primary_url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
-      "source_count": 2,
-      "source_names": [
-        "Mashable",
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "37662506739311c811b22b2ff180a77a569de57e",
-          "title": "Etsy is cracking down on AI slop. Here’s what’s changing.",
-          "url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T18:46:30Z"
-        },
-        {
-          "id": "32414c8f4b998e51a0bbe84575f7193ea58a7a5a",
-          "title": "Etsy is cracking down on AI slop listings",
-          "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T00:09:58Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_9e24992f",
-      "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
-      "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "primary_url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "7a90fb4139ef9c108986bb116b3101d74408a3e0",
-          "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
-          "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T18:00:00Z"
-        },
-        {
-          "id": "3d71a47c12c85c744f2850a332a9f96987a0c63e",
-          "title": "Left alone with nothing to do, AI agents started playing",
-          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T00:45:37Z"
-        }
-      ],
-      "item_count": 2,
+      "item_count": 4,
       "score": 9570
     },
     {
@@ -3055,35 +2646,268 @@
       "score": 9570
     },
     {
-      "story_id": "story_4a14aad2",
-      "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "primary_url": "https://www.anthropic.com/research/formal-verification",
-      "source_count": 2,
+      "story_id": "story_7a3a09cb",
+      "title": "[程序员] 做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
+      "url": "https://www.v2ex.com/t/1251413",
+      "primary_url": "https://www.v2ex.com/t/1251413",
+      "source_count": 1,
       "source_names": [
-        "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "V2EX (创意工作者社区)"
       ],
       "sources": [
         {
-          "id": "4cea80120de15cf5b77d0a81f090e35503a9854e",
-          "title": "大型语言模型（LLMs）使得在更大规模上进行形式化软件验证成为可能",
-          "url": "https://www.anthropic.com/research/formal-verification",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T01:37:52.370000Z"
-        },
-        {
-          "id": "9d7b717eb9b1a6fc90fac675a38dcf4799f33a24",
-          "title": "LLMs are making formal software verification feasible at a much larger scale",
-          "url": "https://www.anthropic.com/research/formal-verification",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-22T22:54:43Z"
+          "id": "88b8c03d337d6fa62964a31ada9af770cc3cb6c9",
+          "title": "[程序员] 做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
+          "url": "https://www.v2ex.com/t/1251413",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-24T01:57:18Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_003a8e35",
+      "title": "[推广] 智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+      "url": "https://www.v2ex.com/t/1251411",
+      "primary_url": "https://www.v2ex.com/t/1251411",
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "sources": [
+        {
+          "id": "522b8161503782ba11991644b595f51be817455e",
+          "title": "[推广] 智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+          "url": "https://www.v2ex.com/t/1251411",
+          "source": "V2EX (创意工作者社区)",
+          "site_id": "iris",
+          "published_at": "2026-10-24T01:33:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d6cff010",
+      "title": "1024程序员节：AI时代，为什么我们依然需要程序员",
+      "url": "https://juejin.cn/post/7699079109012897792",
+      "primary_url": "https://juejin.cn/post/7699079109012897792",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "ecffe98eb72acc27b5e88232a8ce2e449081f167",
+          "title": "1024程序员节：AI时代，为什么我们依然需要程序员",
+          "url": "https://juejin.cn/post/7699079109012897792",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T01:33:06.485000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a87863c5",
+      "title": "为什么你的 Claude Code 还在转圈等，别人的已经干完三件事了？",
+      "url": "https://juejin.cn/post/7698999578180747291",
+      "primary_url": "https://juejin.cn/post/7698999578180747291",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "a5d64ca079ab2d2a78e1ff8acdc8951dbf361ef6",
+          "title": "为什么你的 Claude Code 还在转圈等，别人的已经干完三件事了？",
+          "url": "https://juejin.cn/post/7698999578180747291",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T01:33:06.485000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_586a1b80",
+      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
+      "url": "https://www.techmeme.com/261023/p26",
+      "primary_url": "https://www.techmeme.com/261023/p26",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "37256f22d5e33b07b1d968ff4c5dcb0c1c7d342e",
+          "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
+          "url": "https://www.techmeme.com/261023/p26",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T01:20:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8fc9dab4",
+      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+      "url": "https://www.techmeme.com/261023/p25",
+      "primary_url": "https://www.techmeme.com/261023/p25",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "fa1536ad838c77c19d5bd893ebc2526f6d3aa1d2",
+          "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+          "url": "https://www.techmeme.com/261023/p25",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T00:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7aae0e6c",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "bfc3a090dc76045fd053af41acf7c0ed82fc287f",
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T00:05:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_18ebbe0e",
+      "title": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
+      "url": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+      "primary_url": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "56fc12e7479af63051eb23200d96a7432a218dcc",
+          "title": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
+          "url": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T23:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e0fef5f0",
+      "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
+      "url": "https://www.techmeme.com/261023/p24",
+      "primary_url": "https://www.techmeme.com/261023/p24",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "87e48a56801e2c466e55e28cf0f7ea1f3b9a725e",
+          "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
+          "url": "https://www.techmeme.com/261023/p24",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T23:10:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_73c73f01",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "primary_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f4bdb6abd25fb296e2ed977227c21e5afc460aac",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T23:05:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_534e6dde",
+      "title": "I paired Gemini Notebook with YouTube to study complex topics faster than standard note apps allow",
+      "url": "https://www.androidpolice.com/paired-gemini-notebook-with-youtube-to-study-complex-topics-faster",
+      "primary_url": "https://www.androidpolice.com/paired-gemini-notebook-with-youtube-to-study-complex-topics-faster",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "5e14cee586aef3724d7232b81f08ab4a50c8c46d",
+          "title": "I paired Gemini Notebook with YouTube to study complex topics faster than standard note apps allow",
+          "url": "https://www.androidpolice.com/paired-gemini-notebook-with-youtube-to-study-complex-topics-faster",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T23:00:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_25b1c57a",
+      "title": "谷歌为建造人工智能数据中心砍伐了1,300英亩栖息地后，狼群涌入了芬兰的村庄 - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZ1RxQWRNVDNGYWpBbWRrR041bUpnMFJhWVAydENnUzFrNnkybjhvU2l4WFp3ZUJPb1BOWndZNGN2bE12eTRNbUJGOEFqVU1laU9WOVc3R3Nxb1FHYk1FUHl2OUN0dmgxcVM0a3A2SklPb3ExTXZSbUl2MXNNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZ1RxQWRNVDNGYWpBbWRrR041bUpnMFJhWVAydENnUzFrNnkybjhvU2l4WFp3ZUJPb1BOWndZNGN2bE12eTRNbUJGOEFqVU1laU9WOVc3R3Nxb1FHYk1FUHl2OUN0dmgxcVM0a3A2SklPb3ExTXZSbUl2MXNNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_count": 1,
+      "source_names": [
+        "news.google.com"
+      ],
+      "sources": [
+        {
+          "id": "bbf2d70e351006042a0d931779236f6e7a405906",
+          "title": "谷歌为建造人工智能数据中心砍伐了1,300英亩栖息地后，狼群涌入了芬兰的村庄 - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZ1RxQWRNVDNGYWpBbWRrR041bUpnMFJhWVAydENnUzFrNnkybjhvU2l4WFp3ZUJPb1BOWndZNGN2bE12eTRNbUJGOEFqVU1laU9WOVc3R3Nxb1FHYk1FUHl2OUN0dmgxcVM0a3A2SklPb3ExTXZSbUl2MXNNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T22:46:06.945000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_6195fb7e",
@@ -3108,6 +2932,50 @@
       "score": 7
     },
     {
+      "story_id": "story_2ab52257",
+      "title": "Mark Cuban says the best defense against malicious AI agents is more AI",
+      "url": "https://www.businessinsider.com/mark-cuban-warns-of-ai-threats-at-reuters-next-event-2026-10",
+      "primary_url": "https://www.businessinsider.com/mark-cuban-warns-of-ai-threats-at-reuters-next-event-2026-10",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "ba50ccdd5f0d6a63e4c9f3aaf6f26357c48e678f",
+          "title": "Mark Cuban says the best defense against malicious AI agents is more AI",
+          "url": "https://www.businessinsider.com/mark-cuban-warns-of-ai-threats-at-reuters-next-event-2026-10",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T22:38:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cb0f67c1",
+      "title": "OpenAI says it's cutting off internet access for frontier model training",
+      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
+      "primary_url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "e67122a00d58c961c932215bff6aee28c7e534e2",
+          "title": "OpenAI says it's cutting off internet access for frontier model training",
+          "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T22:37:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_c2ab07b9",
       "title": "Dessa：有史以来最真实的全双工语音模型",
       "url": "https://block.xyz/dessa",
@@ -3124,6 +2992,28 @@
           "source": "block.xyz",
           "site_id": "buzzing",
           "published_at": "2026-10-23T21:58:58.301000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cf26469c",
+      "title": "How worried should I be about the AI hacking panic and “Black October”?",
+      "url": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
+      "primary_url": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
+      "source_count": 1,
+      "source_names": [
+        "Recode"
+      ],
+      "sources": [
+        {
+          "id": "392a506e70bc623976cd33a65bc3bcc4cff4eb21",
+          "title": "How worried should I be about the AI hacking panic and “Black October”?",
+          "url": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
+          "source": "Recode",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T21:55:00Z"
         }
       ],
       "item_count": 1,
@@ -3262,6 +3152,28 @@
       "score": 7
     },
     {
+      "story_id": "story_2ad62136",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer",
+      "primary_url": "https://corgi.computer",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6698c92958ef8ab165d954d6d2a893f496763a85",
+          "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+          "url": "https://corgi.computer",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:46:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_fc5d0cf7",
       "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
       "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
@@ -3350,6 +3262,28 @@
       "score": 7
     },
     {
+      "story_id": "story_ae177e4d",
+      "title": "Etsy is cracking down on AI slop. Here’s what’s changing.",
+      "url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
+      "primary_url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "37662506739311c811b22b2ff180a77a569de57e",
+          "title": "Etsy is cracking down on AI slop. Here’s what’s changing.",
+          "url": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T18:46:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_01dedca3",
       "title": "The US wants to fill thousands of acres of public land with AI data centers — land records show 35 data center-related developments are planned so far",
       "url": "https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far",
@@ -3388,6 +3322,28 @@
           "source": "TIME Magazine",
           "site_id": "techurls",
           "published_at": "2026-10-23T18:06:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9e24992f",
+      "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
+      "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "primary_url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "7a90fb4139ef9c108986bb116b3101d74408a3e0",
+          "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
+          "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-10-23T18:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3888,28 +3844,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-10-23T14:55:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b8a6b67b",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "primary_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "f20d86687686f6d99c479e6c6cb1a6943343d79c",
-          "title": "Meta delays new business terms after publisher pushback on AI scraping",
-          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T14:47:41Z"
         }
       ],
       "item_count": 1,
@@ -4466,10 +4400,10 @@
       "score": 7
     },
     {
-      "story_id": "story_387c8380",
-      "title": "[酷工作] [全职 / AI 公司] 测试开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
-      "url": "https://www.v2ex.com/t/1251134",
-      "primary_url": "https://www.v2ex.com/t/1251134",
+      "story_id": "story_44e95fdb",
+      "title": "[酷工作] [全职 / AI 公司] 前端工程师｜招募像姚顺雨一样，有技术追求的工程师",
+      "url": "https://www.v2ex.com/t/1251346",
+      "primary_url": "https://www.v2ex.com/t/1251346",
       "source_count": 1,
       "source_names": [
         "V2EX (创意工作者社区)"
@@ -4482,17 +4416,9 @@
           "source": "V2EX (创意工作者社区)",
           "site_id": "iris",
           "published_at": "2026-10-23T11:23:02Z"
-        },
-        {
-          "id": "e6855d18be1361fc4a2d32bcc60bebed61a73d25",
-          "title": "[酷工作] [全职 / AI 公司] 测试开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
-          "url": "https://www.v2ex.com/t/1251134",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:40:20Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 1,
       "score": 7
     },
     {
@@ -4974,248 +4900,6 @@
           "source": "V2EX (创意工作者社区)",
           "site_id": "iris",
           "published_at": "2026-10-23T02:03:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5026321e",
-      "title": "[问与答] 如果想用 AI 做逆向和渗透，推荐用什么大模型和工具",
-      "url": "https://www.v2ex.com/t/1251146",
-      "primary_url": "https://www.v2ex.com/t/1251146",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "ab150ff4057a0f905c16bb40d24b7fbc5f21ec19",
-          "title": "[问与答] 如果想用 AI 做逆向和渗透，推荐用什么大模型和工具",
-          "url": "https://www.v2ex.com/t/1251146",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:53:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5d5f07d5",
-      "title": "[程序员] 老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
-      "url": "https://www.v2ex.com/t/1251139",
-      "primary_url": "https://www.v2ex.com/t/1251139",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "fec4b7d5b4bbb6614b7ec75374d92b810469a0b7",
-          "title": "[程序员] 老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
-          "url": "https://www.v2ex.com/t/1251139",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:42:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_18c80cf9",
-      "title": "[问与答] ChatGPT Plus 土区老用户 500 里拉订阅价，断订后重新续费还是保持原来的价格吗？",
-      "url": "https://www.v2ex.com/t/1251138",
-      "primary_url": "https://www.v2ex.com/t/1251138",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "06799703f05ff6b452c8ae42f5e61905913ef2d5",
-          "title": "[问与答] ChatGPT Plus 土区老用户 500 里拉订阅价，断订后重新续费还是保持原来的价格吗？",
-          "url": "https://www.v2ex.com/t/1251138",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:41:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_490257d1",
-      "title": "[推广] 数万开发者在用的 Claude 中转，新人领 10 美元",
-      "url": "https://www.v2ex.com/t/1251136",
-      "primary_url": "https://www.v2ex.com/t/1251136",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "82c923c99e123460ea943aab2e77ca58596fa165",
-          "title": "[推广] 数万开发者在用的 Claude 中转，新人领 10 美元",
-          "url": "https://www.v2ex.com/t/1251136",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:41:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a9a1a783",
-      "title": "[Claude] 求一个 Claude Team 车位，想直接进 Team",
-      "url": "https://www.v2ex.com/t/1251135",
-      "primary_url": "https://www.v2ex.com/t/1251135",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "7f1a771bf9a046f9f3bc99ae274db4620a236336",
-          "title": "[Claude] 求一个 Claude Team 车位，想直接进 Team",
-          "url": "https://www.v2ex.com/t/1251135",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:40:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c973df9c",
-      "title": "[宽带症候群] [分享] 用 AI 搓了两个 OpenWrt 小工具： eBPF PPPoE Relay 和 Fake Flow",
-      "url": "https://www.v2ex.com/t/1251133",
-      "primary_url": "https://www.v2ex.com/t/1251133",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "cfb4d4c6d9f63f8febd93319ecaf620890ee8e41",
-          "title": "[宽带症候群] [分享] 用 AI 搓了两个 OpenWrt 小工具： eBPF PPPoE Relay 和 Fake Flow",
-          "url": "https://www.v2ex.com/t/1251133",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:39:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c64056b9",
-      "title": "[分享发现] 生图 ai，注册送 5000+积分， img2.5 一张图 150 积分，签到还送积分",
-      "url": "https://www.v2ex.com/t/1251127",
-      "primary_url": "https://www.v2ex.com/t/1251127",
-      "source_count": 1,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "sources": [
-        {
-          "id": "08f5b058cbf8743a51d292a2d7e2a2c46a9b45ce",
-          "title": "[分享发现] 生图 ai，注册送 5000+积分， img2.5 一张图 150 积分，签到还送积分",
-          "url": "https://www.v2ex.com/t/1251127",
-          "source": "V2EX (创意工作者社区)",
-          "site_id": "iris",
-          "published_at": "2026-10-23T01:23:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b1f16b9f",
-      "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
-      "url": "https://www.techmeme.com/261022/p59",
-      "primary_url": "https://www.techmeme.com/261022/p59",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "60b182de2dbfcb587edaded23f6591bc75a58faf",
-          "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
-          "url": "https://www.techmeme.com/261022/p59",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-23T01:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_822cf02a",
-      "title": "人工智能与“科学公共领域”的圈地运动",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "primary_url": "https://arxiv.org/abs/2610.27251",
-      "source_count": 1,
-      "source_names": [
-        "arxiv.org"
-      ],
-      "sources": [
-        {
-          "id": "ea96c8d0fedc0c9d59b5bd372a06df541ab0f735",
-          "title": "人工智能与“科学公共领域”的圈地运动",
-          "url": "https://arxiv.org/abs/2610.27251",
-          "source": "arxiv.org",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T00:03:55.247000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4df8f27b",
-      "title": "AI compute is the new oil–and needs a new market",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "primary_url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "df1eaf6d39cd66876d08793b673822e0c065ef85",
-          "title": "AI compute is the new oil–and needs a new market",
-          "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-10-22T23:45:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_12089993",
-      "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
-      "url": "https://www.techmeme.com/261022/p56",
-      "primary_url": "https://www.techmeme.com/261022/p56",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "97d19ae1bc121bf761191d7b7ec85ac688ba295a",
-          "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
-          "url": "https://www.techmeme.com/261022/p56",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-10-22T23:05:43Z"
         }
       ],
       "item_count": 1,
