@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T18:54:35.725343Z",
+  "generated_at": "2026-11-05T00:33:59.726635Z",
   "category": "ai",
-  "total": 308,
+  "total": 304,
   "items": [
     {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -12,6 +12,16 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-11-04T07:00:00Z"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "title_zh": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-11-04T08:00:00Z"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -32,16 +42,6 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-11-04T17:50:10Z"
-    },
-    {
-      "title": "Frontier Models improving open-weight models?",
-      "title_zh": "Frontier Models improving open-weight models?",
-      "url": "https://aibreakfast.beehiiv.com/p/frontier-models-improving-open-weight-models",
-      "source": "AI Breakfast",
-      "_site": "AI Breakfast",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-11-04T00:00:00Z"
     },
     {
       "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
@@ -364,76 +364,6 @@
       "ts": "2026-11-04T10:13:48.257211Z"
     },
     {
-      "title": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now. Team and Enterprise admins can set them up, and teammates are connected automatically the first time they use the...",
-      "title_zh": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now. Team and Enterprise admins can set them up, and teammates are connected automatically the first time they use the...",
-      "url": "https://x.com/bcherny/status/2117693181651542387",
-      "source": "Follow Builders · X · Boris Cherny",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-03T18:59:33Z"
-    },
-    {
-      "title": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was h...",
-      "title_zh": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was h...",
-      "url": "https://x.com/_catwu/status/2117731934340337676",
-      "source": "Follow Builders · X · Cat Wu",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-03T21:33:33Z"
-    },
-    {
-      "title": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically. You can now ge...",
-      "title_zh": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically. You can now ge...",
-      "url": "https://x.com/rauchg/status/2117734833824948373",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-11-03T21:45:04Z"
-    },
-    {
-      "title": "Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh j/k what a generational run from cat https://t.co/Uy1hGnnrvW",
-      "title_zh": "Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh j/k what a generational run from cat https://t.co/Uy1hGnnrvW",
-      "url": "https://x.com/petergyang/status/2117738099627450657",
-      "source": "Follow Builders · X · Peter Yang",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-03T21:58:03Z"
-    },
-    {
-      "title": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-      "title_zh": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-      "url": "https://x.com/thsottiaux/status/2117746467058405665",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-11-03T22:31:18Z"
-    },
-    {
-      "title": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding. https://t.co/361D7QAayL https://t.co/Ty6FyvydwW",
-      "title_zh": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding. https://t.co/361D7QAayL https://t.co/Ty6FyvydwW",
-      "url": "https://x.com/amasad/status/2117761721750475146",
-      "source": "Follow Builders · X · Amjad Masad",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-11-03T23:31:55Z"
-    },
-    {
-      "title": "My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground.. For insights, I have a regular cron job that runs this now every two weeks. It tells me all th...",
-      "title_zh": "My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground.. For insights, I have a regular cron job that runs this now every two weeks. It tells me all th...",
-      "url": "https://x.com/nikunj/status/2117773647868018897",
-      "source": "Follow Builders · X · Nikunj Kothari",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-04T00:19:18Z"
-    },
-    {
       "title": "Think about how much time we all waste waiting on hold or trying to navigate legacy phone systems (\"say 1 to proceed\" 🤮). That's why I love Grok @Bot's new phone call feature. Try it with these 5 use cases: 1. Negotia...",
       "title_zh": "Think about how much time we all waste waiting on hold or trying to navigate legacy phone systems (\"say 1 to proceed\" 🤮). That's why I love Grok @Bot's new phone call feature. Try it with these 5 use cases: 1. Negotia...",
       "url": "https://x.com/petergyang/status/2117783921748558185",
@@ -532,166 +462,6 @@
       "tier": 2,
       "ai": true,
       "ts": "2026-11-04T18:53:53.768424Z"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "title_zh": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T19:34:43Z"
-    },
-    {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "title_zh": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T20:16:17Z"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "title_zh": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T21:43:08Z"
-    },
-    {
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "title_zh": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T22:04:02Z"
-    },
-    {
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "title_zh": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T22:20:50Z"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "title_zh": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T22:41:03Z"
-    },
-    {
-      "title": "连夜实测iPhone 国行AI，亮点和槽点都在这了",
-      "title_zh": "连夜实测iPhone 国行AI，亮点和槽点都在这了",
-      "url": "https://www.huxiu.com/article/4902779.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T23:00:13Z"
-    },
-    {
-      "title": "红果、绿泡泡这类AI 短剧产品会“腻”吗？",
-      "title_zh": "红果、绿泡泡这类AI 短剧产品会“腻”吗？",
-      "url": "https://www.huxiu.com/article/4902780.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T23:08:48Z"
-    },
-    {
-      "title": "AI女主“撞脸”作者，AI剧再陷争议",
-      "title_zh": "AI女主“撞脸”作者，AI剧再陷争议",
-      "url": "https://www.huxiu.com/article/4902744.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T23:32:37Z"
-    },
-    {
-      "title": "iPhone 国行AI：有亮点有槽点，还有一个惊喜点",
-      "title_zh": "iPhone 国行AI：有亮点有槽点，还有一个惊喜点",
-      "url": "https://www.huxiu.com/article/4902784.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T23:33:53Z"
-    },
-    {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "title_zh": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-03T23:37:45Z"
-    },
-    {
-      "title": "AI agents run this automated biology lab that sequences DNA and more",
-      "title_zh": "AI agents run this automated biology lab that sequences DNA and more",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8",
-      "source": "Nature",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-04T00:00:00Z"
-    },
-    {
-      "title": "AI agents enter the ‘wet lab’",
-      "title_zh": "AI agents enter the ‘wet lab’",
-      "url": "https://www.nature.com/articles/d41586-026-03270-1",
-      "source": "Nature",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-04T00:00:00Z"
-    },
-    {
-      "title": "An AI-native experimental laboratory for autonomous biomolecular operations",
-      "title_zh": "An AI-native experimental laboratory for autonomous biomolecular operations",
-      "url": "https://www.nature.com/articles/s41586-026-11228-6",
-      "source": "Nature",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-04T00:00:00Z"
-    },
-    {
-      "title": "Anthropic 招股书里，藏着中国AI 最难跨越的鸿沟",
-      "title_zh": "Anthropic 招股书里，藏着中国AI 最难跨越的鸿沟",
-      "url": "https://www.huxiu.com/article/4902791.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-04T00:10:04Z"
-    },
-    {
-      "title": "AI推理芯片，再获大额融资",
-      "title_zh": "AI推理芯片，再获大额融资",
-      "url": "https://www.huxiu.com/article/4902795.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-04T00:29:10Z"
     },
     {
       "title": "AI陪聊公司Character破产，用户私密聊天记录能拍卖吗？",
@@ -862,6 +632,16 @@
       "tier": 3,
       "ai": true,
       "ts": "2026-11-04T07:16:02Z"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "title_zh": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-04T08:00:00Z"
     },
     {
       "title": "腾讯混元发布新一代大语言模型Hy4",
@@ -1234,554 +1014,154 @@
       "ts": "2026-11-04T18:26:07Z"
     },
     {
-      "title": "Fujifilm To Boost Tape Production 5x As AI Fuels Archiving Demand",
-      "title_zh": "Fujifilm To Boost Tape Production 5x As AI Fuels Archiving Demand",
-      "url": "https://hardware.slashdot.org/story/26/11/03/190206/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "title_zh": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T19:01:00Z"
+      "ts": "2026-11-04T19:16:25Z"
     },
     {
-      "title": "Fujifilm To Bost Tape Production 5x As AI Fuels Archiving Demand",
-      "title_zh": "Fujifilm To Bost Tape Production 5x As AI Fuels Archiving Demand",
-      "url": "https://hardware.slashdot.org/story/26/11/03/190206/fujifilm-to-bost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:01:00Z"
-    },
-    {
-      "title": "278M PII detection model bests OpenAI, AWS and Microsoft",
-      "title_zh": "278M PII detection model bests OpenAI, AWS and Microsoft",
-      "url": "https://arxiv.org/abs/2610.30518",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:02:50Z"
-    },
-    {
-      "title": "Siri AI Gets More Capable in iOS 27.3",
-      "title_zh": "Siri AI Gets More Capable in iOS 27.3",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai",
-      "source": "Mac Rumors",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:06:38Z"
-    },
-    {
-      "title": "'Stylish, highly upgradable Copilot mini PC': The Minisforum AI X1 Pro-470 proved a devastatingly effective AI workstation in our tests — with a price cut at Best Buy not even Amazon can beat",
-      "title_zh": "'Stylish, highly upgradable Copilot mini PC': The Minisforum AI X1 Pro-470 proved a devastatingly effective AI workstation in our tests — with a price cut at Best Buy not even Amazon can beat",
-      "url": "https://www.techradar.com/pro/stylish-highly-upgradable-copilot-mini-pc-the-minisforum-ai-x1-pro-470-proved-a-devastatingly-effective-ai-workstation-in-our-tests-with-a-price-cut-at-best-buy-not-even-amazon-can-beat",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:13:48Z"
-    },
-    {
-      "title": "Apple Watch’s always-listening AI tools arrive in the iOS 27.3 beta",
-      "title_zh": "Apple Watch’s always-listening AI tools arrive in the iOS 27.3 beta",
-      "url": "https://thenextweb.com/news/apple-ios-27-3-beta-audio-intelligence-health-app-china",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:15:35Z"
-    },
-    {
-      "title": "Itch.io adds a filter for games with gen AI disclosures",
-      "title_zh": "Itch.io adds a filter for games with gen AI disclosures",
-      "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:27:28Z"
-    },
-    {
-      "title": "Bill Ackman says AI hyperscalers' revenue will blow past expectations even as capex jitters rise",
-      "title_zh": "Bill Ackman says AI hyperscalers' revenue will blow past expectations even as capex jitters rise",
-      "url": "https://www.businessinsider.com/bill-ackman-stock-picks-ai-hyperscalers-revenue-amzn-msft-meta-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:27:32Z"
-    },
-    {
-      "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
-      "title_zh": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
-      "url": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:34:36Z"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "title_zh": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "title_zh": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T19:34:43Z"
+      "ts": "2026-11-04T19:29:52Z"
     },
     {
-      "title": "[Apple] 国行 AI 真的来了",
-      "title_zh": "[Apple] 国行 AI 真的来了",
-      "url": "https://www.v2ex.com/t/1254288",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:41:58Z"
-    },
-    {
-      "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
-      "title_zh": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
-      "url": "https://www.techmeme.com/261103/p26",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:45:03Z"
-    },
-    {
-      "title": "UK AI minister says a serious cyber breach is ‘extremely likely’",
-      "title_zh": "UK AI minister says a serious cyber breach is ‘extremely likely’",
-      "url": "https://thenextweb.com/news/uk-ai-minister-narayan-cyber-attack-extremely-likely",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:53:22Z"
-    },
-    {
-      "title": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
-      "title_zh": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
-      "url": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T19:57:41Z"
-    },
-    {
-      "title": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
-      "title_zh": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
-      "url": "https://it.slashdot.org/story/26/11/03/1939254/binance-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-billion-in-crypto",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:00:00Z"
-    },
-    {
-      "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
-      "title_zh": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
-      "url": "https://www.techmeme.com/261103/p27",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:15:00Z"
-    },
-    {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "title_zh": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:16:17Z"
-    },
-    {
-      "title": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
-      "title_zh": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
-      "url": "https://www.techmeme.com/261103/p28",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:30:02Z"
-    },
-    {
-      "title": "The midterm races to watch if you care about money, Musk, and the AI boom",
-      "title_zh": "The midterm races to watch if you care about money, Musk, and the AI boom",
-      "url": "https://www.businessinsider.com/midterms-key-races-election-night-results-2026-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:40:12Z"
-    },
-    {
-      "title": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
-      "title_zh": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
-      "url": "https://www.businessinsider.com/chatgpt-20-percent-google-search-volume-adam-fry-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:45:10Z"
-    },
-    {
-      "title": "Google threatens schools: Ban AI and lose search access",
-      "title_zh": "Google threatens schools: Ban AI and lose search access",
-      "url": "https://mashable.com/life/google-restricts-search-from-schools-that-ban-ai",
-      "source": "Mashable",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:49:41Z"
-    },
-    {
-      "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-      "title_zh": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
-      "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T20:57:15Z"
-    },
-    {
-      "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
-      "title_zh": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
-      "url": "https://www.techmeme.com/261103/p31",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:00:53Z"
-    },
-    {
-      "title": "Anthropic releases FlashProve, open-source code that cryptographically verifies an AI response came from a given model, not a cheaper one swapped in by a router (Anthropic)",
-      "title_zh": "Anthropic releases FlashProve, open-source code that cryptographically verifies an AI response came from a given model, not a cheaper one swapped in by a router (Anthropic)",
-      "url": "https://www.techmeme.com/261103/p32",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:10:03Z"
-    },
-    {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "title_zh": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:20:03Z"
-    },
-    {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "title_zh": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://news.ycombinator.com/item?id=50358352",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:20:03Z"
-    },
-    {
-      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "title_zh": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:25:48Z"
-    },
-    {
-      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "title_zh": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "url": "https://news.ycombinator.com/item?id=50358414",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:25:48Z"
-    },
-    {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "title_zh": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:26:44Z"
-    },
-    {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "title_zh": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://news.ycombinator.com/item?id=50358422",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:26:44Z"
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "title_zh": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:40:53Z"
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "title_zh": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://news.ycombinator.com/item?id=50358582",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:40:53Z"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "title_zh": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "title_zh": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T21:43:08Z"
+      "ts": "2026-11-04T19:30:04Z"
     },
     {
-      "title": "中国人工智能股票市场的困境发出了警示",
-      "title_zh": "中国人工智能股票市场的困境发出了警示",
-      "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-      "source": "www.economist.com",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "title_zh": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T21:43:45.083000Z"
+      "ts": "2026-11-04T20:06:21Z"
     },
     {
-      "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
-      "title_zh": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
-      "url": "https://www.techmeme.com/261103/p36",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:50:01Z"
-    },
-    {
-      "title": "More daily API calls than Google searches, now applied to LLM inference",
-      "title_zh": "More daily API calls than Google searches, now applied to LLM inference",
-      "url": "https://inference.alchemy.com",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T21:50:48Z"
-    },
-    {
-      "title": "The Shark AV2501S AI Ultra robot vacuum is almost half off at Amazon — save $270",
-      "title_zh": "The Shark AV2501S AI Ultra robot vacuum is almost half off at Amazon — save $270",
-      "url": "https://mashable.com/tech/nov-3-shark-ai-robot-vacuum-early-black-friday-deal",
-      "source": "Mashable",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T22:00:00Z"
-    },
-    {
-      "title": "I replaced Google Keep with Gemini; it's been a game changer for my notes",
-      "title_zh": "I replaced Google Keep with Gemini; it's been a game changer for my notes",
-      "url": "https://www.androidpolice.com/i-replaced-google-keep-with-gemini-its-been-a-game-changer",
-      "source": "Android Police",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T22:00:10Z"
-    },
-    {
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "title_zh": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "title_zh": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
       "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:04:02Z"
+      "ts": "2026-11-04T20:23:24Z"
     },
     {
-      "title": "Younger adults will consult AI before a financial advisor on money problems",
-      "title_zh": "Younger adults will consult AI before a financial advisor on money problems",
-      "url": "https://www.techradar.com/pro/younger-adults-will-consult-ai-before-a-financial-advisor-on-money-problems",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
+      "title_zh": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
+      "url": "https://www.france24.com/en/asia-pacific/20261104-how-chinese-ai-is-censoring-the-controversy-around-mbappes-chairman-mao-comments",
+      "source": "France24 English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:05:00Z"
+      "ts": "2026-11-04T20:28:09Z"
     },
     {
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "title_zh": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "title_zh": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:20:50Z"
+      "ts": "2026-11-04T20:41:29Z"
     },
     {
-      "title": "Why Every AI Model Will Ship as a Torrent",
-      "title_zh": "Why Every AI Model Will Ship as a Torrent",
-      "url": "https://pirateface.co/articles/one-model-one-swarm",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
+      "title_zh": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
+      "source": "France24 English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:36:22Z"
+      "ts": "2026-11-04T20:44:52Z"
     },
     {
-      "title": "Infino AI",
-      "title_zh": "Infino AI",
-      "url": "https://www.producthunt.com/products/infino-ai",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "title_zh": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "source": "ArsTechnica",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:36:46.506000Z"
+      "ts": "2026-11-04T20:55:50Z"
     },
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "title_zh": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Meta acquires AI coding startup Conductor",
+      "title_zh": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T22:41:03Z"
+      "ts": "2026-11-04T21:10:56Z"
     },
     {
-      "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
-      "title_zh": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
-      "url": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "title_zh": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T23:00:00Z"
+      "ts": "2026-11-04T21:25:44Z"
     },
     {
-      "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
-      "title_zh": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
-      "url": "https://www.techmeme.com/261103/p39",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "title_zh": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T23:05:01Z"
+      "ts": "2026-11-04T21:56:01Z"
     },
     {
-      "title": "《生成式人工智能基础小书：直观的数学入门指南》",
-      "title_zh": "《生成式人工智能基础小书：直观的数学入门指南》",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "source": "arxiv.org",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "title_zh": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T23:18:41.098000Z"
+      "ts": "2026-11-04T22:13:16Z"
     },
     {
-      "title": "美国科技巨头隐藏的AI债务在6个月内激增90%，达到3.2万亿美元",
-      "title_zh": "美国科技巨头隐藏的AI债务在6个月内激增90%，达到3.2万亿美元",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "source": "asia.nikkei.com",
-      "_site": "Buzzing",
-      "tier": 5,
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "title_zh": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T23:34:45.822000Z"
+      "ts": "2026-11-04T22:45:09Z"
     },
     {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "title_zh": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年",
+      "title_zh": "【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年",
+      "url": "https://www.tmtpost.com/8194022.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-03T23:37:45Z"
-    },
-    {
-      "title": "Prompting Is Programming",
-      "title_zh": "Prompting Is Programming",
-      "url": "https://www.brethorsting.com/blog/2026/11/prompting-is-programming",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T23:49:06Z"
-    },
-    {
-      "title": "Cat Wu, a face of the blockbuster app Claude Code, leaves Anthropic",
-      "title_zh": "Cat Wu, a face of the blockbuster app Claude Code, leaves Anthropic",
-      "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T23:55:09Z"
-    },
-    {
-      "title": "Apple Begins Opening Siri AI to Developers",
-      "title_zh": "Apple Begins Opening Siri AI to Developers",
-      "url": "https://daringfireball.net/linked/2026/11/03/apple-begins-opening-siri-ai-to-developers",
-      "source": "Daring Fireball",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-03T23:58:49Z"
-    },
-    {
-      "title": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
-      "title_zh": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
-      "url": "https://www.techmeme.com/261103/p41",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-04T00:00:50Z"
-    },
-    {
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "title_zh": "Graduates are managing AI - but are they learning much else?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-04T00:04:35Z"
-    },
-    {
-      "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
-      "title_zh": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
-      "url": "https://www.techmeme.com/261103/p42",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-04T00:20:01Z"
+      "ts": "2026-11-04T23:20:00Z"
     },
     {
       "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
@@ -2604,6 +1984,16 @@
       "ts": "2026-11-04T14:37:02Z"
     },
     {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "title_zh": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T14:37:22Z"
+    },
+    {
       "title": "[分享创造] 做了个免登录、AI 能直接提交的 AI 导航站",
       "title_zh": "[分享创造] 做了个免登录、AI 能直接提交的 AI 导航站",
       "url": "https://www.v2ex.com/t/1254557",
@@ -2696,6 +2086,26 @@
     {
       "title": "Pierre Computer is being acquired by OpenAI",
       "title_zh": "Pierre Computer is being acquired by OpenAI",
+      "url": "https://news.ycombinator.com/item?id=50366863",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T15:21:21Z"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "title_zh": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T15:21:21Z"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "title_zh": "OpenAI to acquire Pierre Computer Company",
       "url": "https://news.ycombinator.com/item?id=50366863",
       "source": "hackernews",
       "_site": "NewsNow",
@@ -2874,6 +2284,16 @@
       "ts": "2026-11-04T16:11:09Z"
     },
     {
+      "title": "[Claude] 大家做项目使用 Claude Code 还是 CoWork？",
+      "title_zh": "[Claude] 大家做项目使用 Claude Code 还是 CoWork？",
+      "url": "https://www.v2ex.com/t/1254568",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T16:11:09Z"
+    },
+    {
       "title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
       "title_zh": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
       "url": "https://www.techmeme.com/261104/p40",
@@ -3034,16 +2454,6 @@
       "ts": "2026-11-04T17:42:43Z"
     },
     {
-      "title": "对话式导购 + RAG + MCP 智能商品推荐系统",
-      "title_zh": "对话式导购 + RAG + MCP 智能商品推荐系统",
-      "url": "https://juejin.cn/post/7703772628574486579",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-04T17:45:57.039000Z"
-    },
-    {
       "title": "Orphex MCP",
       "title_zh": "Orphex MCP",
       "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
@@ -3074,6 +2484,26 @@
       "ts": "2026-11-04T17:45:57.039000Z"
     },
     {
+      "title": "对话式导购 + RAG + MCP 智能商品推荐系统",
+      "title_zh": "对话式导购 + RAG + MCP 智能商品推荐系统",
+      "url": "https://juejin.cn/post/7703772628574486579",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T17:45:57.039000Z"
+    },
+    {
+      "title": "ChatGPT will now make you animated GIFs",
+      "title_zh": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:00:00Z"
+    },
+    {
       "title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
       "title_zh": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
       "url": "https://www.techmeme.com/261104/p45",
@@ -3082,6 +2512,536 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-11-04T18:02:18Z"
+    },
+    {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "title_zh": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:26:07Z"
+    },
+    {
+      "title": "Foxconn reveals bid to grab 50% of the global AI server market within the next few years",
+      "title_zh": "Foxconn reveals bid to grab 50% of the global AI server market within the next few years",
+      "url": "https://www.techradar.com/pro/foxconn-reveals-bid-to-grab-50-of-the-global-ai-server-market-within-the-next-few-years",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:45:00Z"
+    },
+    {
+      "title": "Pangram’s new models spot AI fakes in images and video, it says",
+      "title_zh": "Pangram’s new models spot AI fakes in images and video, it says",
+      "url": "https://thenextweb.com/news/pangram-image-1-0-flash-ai-image-video-detection",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:49:05Z"
+    },
+    {
+      "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+      "title_zh": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+      "url": "https://www.techmeme.com/261104/p46",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:50:00Z"
+    },
+    {
+      "title": "Scammers are using AI to fake images of lost pets, demand ransom for their return, according to report",
+      "title_zh": "Scammers are using AI to fake images of lost pets, demand ransom for their return, according to report",
+      "url": "https://mashable.com/tech/scammers-use-ai-generated-images-lost-pets-demand-ransom",
+      "source": "Mashable",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:53:16Z"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "title_zh": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-11-04T18:53:29Z"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "title_zh": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://news.ycombinator.com/item?id=50369925",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-11-04T18:53:29Z"
+    },
+    {
+      "title": "[问与答] 「AI 味」到底是什么？",
+      "title_zh": "[问与答] 「AI 味」到底是什么？",
+      "url": "https://www.v2ex.com/t/1254579",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T18:59:48Z"
+    },
+    {
+      "title": "The AI boom has sparked a fiber frenzy, and suppliers like Corning are racing to keep up",
+      "title_zh": "The AI boom has sparked a fiber frenzy, and suppliers like Corning are racing to keep up",
+      "url": "https://www.businessinsider.com/fiber-manufacturers-are-ramping-up-to-meet-data-center-demand-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:02:04Z"
+    },
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "title_zh": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:16:25Z"
+    },
+    {
+      "title": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
+      "title_zh": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
+      "url": "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:20:45Z"
+    },
+    {
+      "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
+      "title_zh": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
+      "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:24:20Z"
+    },
+    {
+      "title": "SpaceX is snapping up hundreds of homes near its new flagship AI data center — but only if the owners agree to one incredible catch",
+      "title_zh": "SpaceX is snapping up hundreds of homes near its new flagship AI data center — but only if the owners agree to one incredible catch",
+      "url": "https://www.techradar.com/pro/spacex-is-snapping-up-hundreds-of-homes-near-its-new-flagship-ai-data-center-but-only-if-the-owners-agree-to-one-incredible-catch",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:25:00Z"
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "title_zh": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:29:52Z"
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "title_zh": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:30:04Z"
+    },
+    {
+      "title": "大型语言模型可证明推理方面的进展",
+      "title_zh": "大型语言模型可证明推理方面的进展",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "source": "www.anthropic.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:37:46.946000Z"
+    },
+    {
+      "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+      "title_zh": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+      "url": "https://www.techmeme.com/261104/p48",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:45:48Z"
+    },
+    {
+      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "title_zh": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "source": "New York Times",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:53:16Z"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "title_zh": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:55:14Z"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "title_zh": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://news.ycombinator.com/item?id=50370654",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T19:55:14Z"
+    },
+    {
+      "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
+      "title_zh": "OpenAI Acquires Pierre Computer to Supercharge Codex",
+      "url": "https://developers.slashdot.org/story/26/11/04/1957217/openai-acquires-pierre-computer-to-supercharge-codex",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:00:00Z"
+    },
+    {
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "title_zh": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:06:21Z"
+    },
+    {
+      "title": "腾讯 Hy4",
+      "title_zh": "腾讯 Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "source": "hy.tencent.ai",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:08:58.499000Z"
+    },
+    {
+      "title": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+      "title_zh": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p49",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:10:01Z"
+    },
+    {
+      "title": "Apple is Putting Employees on an AI Budget",
+      "title_zh": "Apple is Putting Employees on an AI Budget",
+      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending",
+      "source": "Mac Rumors",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:20:29Z"
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "title_zh": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:23:24Z"
+    },
+    {
+      "title": "Pangram expands its AI detection tools to video and images",
+      "title_zh": "Pangram expands its AI detection tools to video and images",
+      "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:28:18Z"
+    },
+    {
+      "title": "Apple cuts engineers’ daily AI budgets as it reins in spending",
+      "title_zh": "Apple cuts engineers’ daily AI budgets as it reins in spending",
+      "url": "https://thenextweb.com/news/apple-cuts-employee-ai-token-budgets",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:40:46Z"
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "title_zh": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:41:29Z"
+    },
+    {
+      "title": "Satellite images reveal trouble brewing at Microsoft's AI data center partners",
+      "title_zh": "Satellite images reveal trouble brewing at Microsoft's AI data center partners",
+      "url": "https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:42:05Z"
+    },
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "title_zh": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "source": "Ars Technica",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T20:55:50Z"
+    },
+    {
+      "title": "Everything is an AI scam now",
+      "title_zh": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:05:19Z"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "title_zh": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:10:56Z"
+    },
+    {
+      "title": "OpenAI将收购Pierre Computer Company",
+      "title_zh": "OpenAI将收购Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "openai.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:12:50.695000Z"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "title_zh": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:25:44Z"
+    },
+    {
+      "title": "Meta isn't naming its AI models after fruit anymore",
+      "title_zh": "Meta isn't naming its AI models after fruit anymore",
+      "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:53:20Z"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "title_zh": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T21:56:01Z"
+    },
+    {
+      "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+      "title_zh": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+      "url": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T22:00:00Z"
+    },
+    {
+      "title": "Gemini Gems are going away soon; here's how you should get ready",
+      "title_zh": "Gemini Gems are going away soon; here's how you should get ready",
+      "url": "https://www.androidpolice.com/gemini-gems-are-going-away-soon-heres-how-you-should-get-ready",
+      "source": "Android Police",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T22:00:10Z"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "title_zh": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T22:13:16Z"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "title_zh": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T22:45:09Z"
+    },
+    {
+      "title": "Midterms deliver clear message: The AI reckoning is here",
+      "title_zh": "Midterms deliver clear message: The AI reckoning is here",
+      "url": "https://mashable.com/tech/midterms-ai-backlash",
+      "source": "Mashable",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T22:47:52Z"
+    },
+    {
+      "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
+      "title_zh": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
+      "url": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:00:00Z"
+    },
+    {
+      "title": "现在什么都是AI骗局了",
+      "title_zh": "现在什么都是AI骗局了",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+      "source": "www.davidralphlewis.co.uk",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:04:46.586000Z"
+    },
+    {
+      "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+      "title_zh": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+      "url": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv",
+      "source": "Mac Rumors",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:20:15Z"
+    },
+    {
+      "title": "[阅读] 2026 年九月 读人工智能，护眼 3 本",
+      "title_zh": "[阅读] 2026 年九月 读人工智能，护眼 3 本",
+      "url": "https://www.v2ex.com/t/1254581",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:24:30Z"
+    },
+    {
+      "title": "Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)",
+      "title_zh": "Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)",
+      "url": "https://www.techmeme.com/261104/p55",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:30:01Z"
+    },
+    {
+      "title": "Local privilege escalation vulnerabilities in Linux",
+      "title_zh": "Local privilege escalation vulnerabilities in Linux",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:33:14Z"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "title_zh": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-04T23:35:44Z"
+    },
+    {
+      "title": "Axon Sued Over AI-Powered License Plate Reader Network",
+      "title_zh": "Axon Sued Over AI-Powered License Plate Reader Network",
+      "url": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Tiny's new AI workstation is anything but — packing in 16 TB SSD array and 128 GB GPU memory, but with an eye-watering price tag to boot",
+      "title_zh": "Tiny's new AI workstation is anything but — packing in 16 TB SSD array and 128 GB GPU memory, but with an eye-watering price tag to boot",
+      "url": "https://www.techradar.com/pro/tinys-new-ai-workstation-is-anything-but-packing-in-16-tb-ssd-array-and-128-gb-gpu-memory-but-with-an-eye-watering-price-tag-to-boot",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-05T00:05:00Z"
+    },
+    {
+      "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
+      "title_zh": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p56",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-05T00:15:03Z"
+    },
+    {
+      "title": "[分享创造] 全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex",
+      "title_zh": "[分享创造] 全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex",
+      "url": "https://www.v2ex.com/t/1254583",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-05T00:15:51Z"
     }
   ]
 }
