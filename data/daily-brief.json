@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-23T10:46:25.939347Z",
+  "generated_at": "2026-11-23T16:33:25.888268Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "title_zh": null,
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
     {
       "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
       "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
@@ -35,6 +46,17 @@
       "published_at": "2026-11-23T10:45:19.080696Z",
       "ai_is_related": true,
       "ai_score": 1.0
+    },
+    {
+      "title": "Jensen reinstated as NVIDIA CEO",
+      "title_zh": null,
+      "url": "https://aibreakfast.beehiiv.com/p/jensen-reinstated-as-nvidia-ceo",
+      "source": "AI Breakfast",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.65
     },
     {
       "title": "@grok list all the recommendations by most recommended and write 1 sentence each why",
@@ -92,28 +114,6 @@
       "ai_score": 0.65
     },
     {
-      "title": "Desktop AI apps are generally a security &amp; privacy nightmare. We worked with Windows to ship a world-class security model for Replit Desktop. Which is why Christie’s, the world’s preeminent custodian of rare art,...",
-      "title_zh": null,
-      "url": "https://x.com/amasad/status/2124604574606795002",
-      "source": "Follow Builders · X · Amjad Masad",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-11-22T20:42:58Z",
-      "ai_is_related": true,
-      "ai_score": 0.77
-    },
-    {
-      "title": "I found a secret prompt that makes all your vibecoded projects scale and perform better, with higher reliability. “Use Postgres”",
-      "title_zh": null,
-      "url": "https://x.com/thenanyu/status/2124592238974156861",
-      "source": "Follow Builders · X · Nan Yu",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-11-22T19:53:57Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
       "title": "Yes to all of this. As agents take on more and more long running project work, and you have swarms of agents that parallelize work against a goal, the agent harness and architecture for orchestration will have to evol...",
       "title_zh": null,
       "url": "https://x.com/levie/status/2124658150771188157",
@@ -158,6 +158,17 @@
       "ai_score": 0.33
     },
     {
+      "title": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
+      "title_zh": null,
+      "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
+      "source": "France24 English",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-11-23T12:11:43Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
       "title": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
       "title_zh": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
       "url": "https://www.tmtpost.com/8209450.html",
@@ -169,6 +180,39 @@
       "ai_score": 0.47
     },
     {
+      "title": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！",
+      "title_zh": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！",
+      "url": "https://juejin.cn/post/7711033019449262130",
+      "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-23T16:33:10.008000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Gauth Personal Study Agent",
+      "title_zh": null,
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "producthunt",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-23T16:33:10.008000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "[推广] 有人需要用生图生视频的模型吗 $0.04 一张",
+      "title_zh": "[推广] 有人需要用生图生视频的模型吗 $0.04 一张",
+      "url": "https://www.v2ex.com/t/1259245",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-23T13:00:18Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
       "title": "Agentic Training",
       "title_zh": null,
       "url": "https://www.producthunt.com/products/agentic-training",
@@ -176,50 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-11-23T10:46:07.175000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Inkling 2 Mini 实测解析：26.4B 模型把中间层循环跑 3 遍，20GB 内存塞进笔记本",
-      "title_zh": "Inkling 2 Mini 实测解析：26.4B 模型把中间层循环跑 3 遍，20GB 内存塞进笔记本",
-      "url": "https://juejin.cn/post/7710225291802656822",
-      "source": "juejin",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-23T10:24:56.751000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[分享创造] 免费用（送 100 个兑换码）！一款 Agent 自动化创建微信表情包的平台上线了，包含主角、静态图、动态图、物料等生成，完全 Agent 给你创建，对话式的来管理你的每一个表情包",
-      "title_zh": "[分享创造] 免费用（送 100 个兑换码）！一款 Agent 自动化创建微信表情包的平台上线了，包含主角、静态图、动态图、物料等生成，完全 Agent 给你创建，对话式的来管理你的每一个表情包",
-      "url": "https://www.v2ex.com/t/1259216",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-23T09:53:21Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "title_zh": null,
-      "url": "https://github.com/mjwsolo/localcode",
-      "source": "Hacker News · 24h最热",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-22T22:18:48Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "title_zh": null,
-      "url": "https://pequalnp.com",
-      "source": "Hacker News · 24h最热",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-22T21:53:45Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
