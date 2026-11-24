@@ -1,28 +1,8 @@
 {
-  "generated_at": "2026-11-24T14:20:56.199179Z",
+  "generated_at": "2026-11-24T20:46:09.111537Z",
   "category": "ai",
-  "total": 309,
+  "total": 328,
   "items": [
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "title_zh": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "source": "Google DeepMind",
-      "_site": "Official AI Updates",
-      "tier": 0,
-      "ai": true,
-      "ts": "2026-11-23T16:59:40Z"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "title_zh": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
-      "_site": "Official AI Updates",
-      "tier": 0,
-      "ai": true,
-      "ts": "2026-11-23T17:20:37Z"
-    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "title_zh": "OpenAI and Cisco introduce Shirudo",
@@ -42,6 +22,46 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "title_zh": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "title_zh": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "title_zh": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-11-24T11:00:00Z"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "title_zh": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face Blog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-11-24T16:34:13Z"
     },
     {
       "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
@@ -264,106 +284,6 @@
       "ts": "2026-11-24T14:20:08.152407Z"
     },
     {
-      "title": "I asked Fable to study all my https://t.co/3Z4NESzNKd coding sessions and decide whether Opus or Gemini Neon is best. Think of it as a 'personal eval'. It picked Neon. Google being so, so back seems widely (and wildly...",
-      "title_zh": "I asked Fable to study all my https://t.co/3Z4NESzNKd coding sessions and decide whether Opus or Gemini Neon is best. Think of it as a 'personal eval'. It picked Neon. Google being so, so back seems widely (and wildly...",
-      "url": "https://x.com/rauchg/status/2124880074168242369",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T14:57:42Z"
-    },
-    {
-      "title": "One trick a startup can use to self-prompt in a loop: ask yourself “are we dying?” If you ask you might spot the thing killing you and avert it https://t.co/oJuZIg115y",
-      "title_zh": "One trick a startup can use to self-prompt in a loop: ask yourself “are we dying?” If you ask you might spot the thing killing you and avert it https://t.co/oJuZIg115y",
-      "url": "https://x.com/garrytan/status/2124905972296560973",
-      "source": "Follow Builders · X · Garry Tan",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T16:40:37Z"
-    },
-    {
-      "title": "If you like news and drama, there’s simply no month like November for AI.. https://t.co/yMFFGz3Qg6",
-      "title_zh": "If you like news and drama, there’s simply no month like November for AI.. https://t.co/yMFFGz3Qg6",
-      "url": "https://x.com/nikunj/status/2124915267864301581",
-      "source": "Follow Builders · X · Nikunj Kothari",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T17:17:33Z"
-    },
-    {
-      "title": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
-      "title_zh": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
-      "url": "https://x.com/thsottiaux/status/2124923055072043052",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T17:48:30Z"
-    },
-    {
-      "title": "Zero data retention (ZDR) with Enterprise Frontier Safeguards (EFS) is now in public beta for eligible businesses. It looks for misuse across many requests while remaining compatible with ZDR. We developed it with ove...",
-      "title_zh": "Zero data retention (ZDR) with Enterprise Frontier Safeguards (EFS) is now in public beta for eligible businesses. It looks for misuse across many requests while remaining compatible with ZDR. We developed it with ove...",
-      "url": "https://x.com/claudeai/status/2124929944530587712",
-      "source": "Follow Builders · X · Claude",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T18:15:52Z"
-    },
-    {
-      "title": "EFS is available on the Claude Platform, Claude Platform on AWS, Amazon Bedrock, and Claude on Google Cloud. Support for EFS in Microsoft Foundry is coming soon.",
-      "title_zh": "EFS is available on the Claude Platform, Claude Platform on AWS, Amazon Bedrock, and Claude on Google Cloud. Support for EFS in Microsoft Foundry is coming soon.",
-      "url": "https://x.com/claudeai/status/2124929946925793294",
-      "source": "Follow Builders · X · Claude",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T18:15:53Z"
-    },
-    {
-      "title": "This is an agent you don't have to prompt. It's proactive. Excited about this launch. https://t.co/KrINO0HQUT",
-      "title_zh": "This is an agent you don't have to prompt. It's proactive. Excited about this launch. https://t.co/KrINO0HQUT",
-      "url": "https://x.com/adityaag/status/2124947675913367832",
-      "source": "Follow Builders · X · Aditya Agarwal",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T19:26:20Z"
-    },
-    {
-      "title": "A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can’t imag...",
-      "title_zh": "A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can’t imag...",
-      "url": "https://x.com/bcherny/status/2124961485801836573",
-      "source": "Follow Builders · X · Boris Cherny",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T20:21:12Z"
-    },
-    {
-      "title": "Anyone can use /ship. If you’re on a Team or Enterprise plan, your admin can turn on Claude Ship per GitHub repo. I’d start with one repo and run Approvals in observe mode until you trust it. https://t.co/p0T6zDSIwM",
-      "title_zh": "Anyone can use /ship. If you’re on a Team or Enterprise plan, your admin can turn on Claude Ship per GitHub repo. I’d start with one repo and run Approvals in observe mode until you trust it. https://t.co/p0T6zDSIwM",
-      "url": "https://x.com/bcherny/status/2124961488691740941",
-      "source": "Follow Builders · X · Boris Cherny",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T20:21:13Z"
-    },
-    {
-      "title": "It multiplies my velocity. I don’t need to wait around for code review or babysit PRs, and the results are better. Code Review looks for bugs, PR Steward works on fixes and failing checks, and Claude Approvals approve...",
-      "title_zh": "It multiplies my velocity. I don’t need to wait around for code review or babysit PRs, and the results are better. Code Review looks for bugs, PR Steward works on fixes and failing checks, and Claude Approvals approve...",
-      "url": "https://x.com/bcherny/status/2124961487454384442",
-      "source": "Follow Builders · X · Boris Cherny",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-11-23T20:21:13Z"
-    },
-    {
       "title": "New research from Replit on scaling laws for agent swarms. We show that scaling the number of agents can yield dramatic performance gains, but unlike traditional scaling laws, more compute doesn't necessarily translat...",
       "title_zh": "New research from Replit on scaling laws for agent swarms. We show that scaling the number of agents can yield dramatic performance gains, but unlike traditional scaling laws, more compute doesn't necessarily translat...",
       "url": "https://x.com/amasad/status/2124969305674748175",
@@ -494,76 +414,6 @@
       "ts": "2026-11-24T03:52:13Z"
     },
     {
-      "title": "丘成桐：AI时代，中国数学的黄金时代",
-      "title_zh": "丘成桐：AI时代，中国数学的黄金时代",
-      "url": "http://www.news.cn/20261123/77009f47e69844459ceb15a1d9047e6d/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T14:27:10Z"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "title_zh": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T14:43:03Z"
-    },
-    {
-      "title": "模拟法庭拆解AI侵权边界，解码AI治理的上海方案",
-      "title_zh": "模拟法庭拆解AI侵权边界，解码AI治理的上海方案",
-      "url": "https://m.thepaper.cn/newsDetail_forward_34540900",
-      "source": "澎湃新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T15:23:05Z"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "title_zh": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "source": "Google DeepMind Blog",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": false,
-      "ts": "2026-11-23T16:59:40Z"
-    },
-    {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "title_zh": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T17:14:23Z"
-    },
-    {
-      "title": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
-      "title_zh": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
-      "url": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
-      "source": "France24 English",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T19:06:15Z"
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "title_zh": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-11-23T19:14:46Z"
-    },
-    {
       "title": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - AP News",
       "title_zh": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmt4N1d4MGFnXzJiOXBseVl4SExXOGZ4YkVoXzdMV0RCd1dnMHc5RWpJNTNCOTFxb2VSa3I1M19rZnRYaG4zOTZHZWtoQmRyc2RIdURGUEFnRWlaZkhSNi1aTXQyRmpQaGc4aHptWnRoTmQ1M3dIQlZrRDhIck8zQm1TNmdmUVdOVTg2SmJLdTlLbk1oMDZUdDFxTHFPbWc?oc=5",
@@ -684,6 +534,16 @@
       "ts": "2026-11-23T22:59:44Z"
     },
     {
+      "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia - AP News",
+      "title_zh": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlRN0NpaE9iX3lkTllwNV9tS2l0SzBIWHowY3hTYnN0cnFVelpxN2hPUTZlcUdOYVZ4VTl1cVVrYmlpaU1wSDdEemlrLXRUQ09JTkRqRlJfbExMZHZ3dGtxcEQ4VVlSM204TXR5SEtjaGtlTEdublU0TlJVemNSVUJqb3NDQUJnX1RPRUJJSTZfMFEzbEMwdTBya1VSV3M?oc=5",
+      "source": "AP World News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-23T23:04:00Z"
+    },
+    {
       "title": "英伟达的10天压力测试：没有黄仁勋，全球AI蒸发4万亿美元",
       "title_zh": "英伟达的10天压力测试：没有黄仁勋，全球AI蒸发4万亿美元",
       "url": "https://www.huxiu.com/article/4907847.html?f=rss",
@@ -768,6 +628,26 @@
       "title_zh": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
       "url": "https://www.nature.com/articles/d41586-026-03719-3",
       "source": "Nature",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "title_zh": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "title_zh": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
       "_site": "OPML RSS",
       "tier": 3,
       "ai": true,
@@ -1184,6 +1064,16 @@
       "ts": "2026-11-24T10:56:56Z"
     },
     {
+      "title": "Searching for distant planets with Astra",
+      "title_zh": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T11:00:00Z"
+    },
+    {
       "title": "具身智能的未来，藏在一场没有标准答案的探索中",
       "title_zh": "具身智能的未来，藏在一场没有标准答案的探索中",
       "url": "https://www.huxiu.com/article/4908111.html?f=rss",
@@ -1334,524 +1224,134 @@
       "ts": "2026-11-24T13:09:16Z"
     },
     {
-      "title": "[OpenAI] 买了 100 刀的谷歌，下个月不再续订 Claude 和 Codex。",
-      "title_zh": "[OpenAI] 买了 100 刀的谷歌，下个月不再续订 Claude 和 Codex。",
-      "url": "https://www.v2ex.com/t/1259262",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T14:26:32Z"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "title_zh": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T14:43:03Z"
-    },
-    {
-      "title": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)",
-      "title_zh": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)",
-      "url": "https://www.techmeme.com/261123/p23",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T14:50:01Z"
-    },
-    {
-      "title": "[Claude] 是不是欧洲 claude 账号稳定点不封号,没弹 kyc,续费一年了",
-      "title_zh": "[Claude] 是不是欧洲 claude 账号稳定点不封号,没弹 kyc,续费一年了",
-      "url": "https://www.v2ex.com/t/1259267",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T14:51:10Z"
-    },
-    {
-      "title": "AI stocks roar back from brutal rout after Jensen Huang is reinstated as Nvidia CEO",
-      "title_zh": "AI stocks roar back from brutal rout after Jensen Huang is reinstated as Nvidia CEO",
-      "url": "https://www.businessinsider.com/ai-stock-rally-jensen-huang-nvidia-reinstated-ceo-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T14:51:42Z"
-    },
-    {
-      "title": "Why kill switches won’t contain AI incidents",
-      "title_zh": "Why kill switches won’t contain AI incidents",
-      "url": "https://www.techradar.com/pro/why-kill-switches-wont-contain-ai-incidents",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:00:38Z"
-    },
-    {
-      "title": "[分享创造] 在 GPT 的帮助下做了个 Windows 解压工具 Unbox，双击就能解压，高仿 Win11 原生复制窗口",
-      "title_zh": "[分享创造] 在 GPT 的帮助下做了个 Windows 解压工具 Unbox，双击就能解压，高仿 Win11 原生复制窗口",
-      "url": "https://www.v2ex.com/t/1259270",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:03:38Z"
-    },
-    {
-      "title": "Signal can now block AI agents out of your private chats — but not on your Mac",
-      "title_zh": "Signal can now block AI agents out of your private chats — but not on your Mac",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/signal-can-now-block-ai-agents-out-of-your-private-chats-but-not-on-your-mac",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:28:11Z"
-    },
-    {
-      "title": "You can now turn off AI content and features on Canva",
-      "title_zh": "You can now turn off AI content and features on Canva",
-      "url": "https://www.techradar.com/ai-platforms-assistants/the-choice-should-always-be-yours-tired-of-seeing-ai-slop-on-canva-you-can-now-turn-most-of-it-off-with-one-simple-switch-but-some-might-still-slip-through",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:51:11Z"
-    },
-    {
-      "title": "Amazon buys Decart’s AI tech and its founders in a deal worth about $7.5bn",
-      "title_zh": "Amazon buys Decart’s AI tech and its founders in a deal worth about $7.5bn",
-      "url": "https://thenextweb.com/news/amazon-decart-7-5bn-optimization-stack-founders-trainium",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:51:20Z"
-    },
-    {
-      "title": "The Meta Ray-Ban Gen 2 AI glasses just dropped to $284",
-      "title_zh": "The Meta Ray-Ban Gen 2 AI glasses just dropped to $284",
-      "url": "https://www.androidpolice.com/meta-ray-ban-gen-2-wayfarer-ai-glasses-284",
-      "source": "Android Police",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:54:57Z"
-    },
-    {
-      "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
-      "title_zh": "Two states sue SpaceX over sexually explicit Grok deepfakes",
-      "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:57:49Z"
-    },
-    {
-      "title": "Lean and Mathlib certify Alpöge’s Claude-assisted Riemann hypothesis proof",
-      "title_zh": "Lean and Mathlib certify Alpöge’s Claude-assisted Riemann hypothesis proof",
-      "url": "https://thenextweb.com/news/lean-mathlib-certify-riemann-hypothesis-proof-alpoge-claude",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T15:59:52Z"
-    },
-    {
-      "title": "Buckle Up the AI Bubble Is Popping",
-      "title_zh": "Buckle Up the AI Bubble Is Popping",
-      "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:01:20Z"
-    },
-    {
-      "title": "'Some people get so excited about ‘free’ software that they forget the risks': New report finds rush to develop software faster with AI is creating a costly new problem",
-      "title_zh": "'Some people get so excited about ‘free’ software that they forget the risks': New report finds rush to develop software faster with AI is creating a costly new problem",
-      "url": "https://www.techradar.com/pro/some-people-get-so-excited-about-free-software-that-they-forget-the-risks-new-report-finds-rush-to-develop-software-faster-with-ai-is-creating-a-costly-new-problem",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:05:00Z"
-    },
-    {
-      "title": "NVDA、INTC、MU、AMD等芯片股大涨：丹·艾夫斯称“空头感到得偿所愿”，但AI浪潮势不可挡 - Yahoo Finance",
-      "title_zh": "NVDA、INTC、MU、AMD等芯片股大涨：丹·艾夫斯称“空头感到得偿所愿”，但AI浪潮势不可挡 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:11:57.254000Z"
-    },
-    {
-      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-      "title_zh": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-      "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-      "source": "New York Times",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:13:32Z"
-    },
-    {
-      "title": "Marlowe raises a $277M seed to run AI on chips that aren’t Nvidia’s",
-      "title_zh": "Marlowe raises a $277M seed to run AI on chips that aren’t Nvidia’s",
-      "url": "https://thenextweb.com/news/marlowe-277m-seed-multi-silicon-ai-inference-factories",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:14:54Z"
-    },
-    {
-      "title": "Tesla’s FSD v15 adds Reality View, a live AI-generated view of the road",
-      "title_zh": "Tesla’s FSD v15 adds Reality View, a live AI-generated view of the road",
-      "url": "https://thenextweb.com/news/tesla-fsd-v15-reality-view-25x-safety",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:27:04Z"
-    },
-    {
-      "title": "[Claude] 大约从 10 天前开始，我的 claude 特别费，并且 Fable 和 all models 的值 基本相同，怪不怪？",
-      "title_zh": "[Claude] 大约从 10 天前开始，我的 claude 特别费，并且 Fable 和 all models 的值 基本相同，怪不怪？",
-      "url": "https://www.v2ex.com/t/1259281",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:28:48Z"
-    },
-    {
-      "title": "AI 写代码越来越快，程序员为什么反而更累了",
-      "title_zh": "AI 写代码越来越快，程序员为什么反而更累了",
-      "url": "https://juejin.cn/post/7710966014792810515",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！",
-      "title_zh": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！",
-      "url": "https://juejin.cn/post/7711033019449262130",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "China probes Shanghai party chief Chen Jining over corruption",
+      "title_zh": "China probes Shanghai party chief Chen Jining over corruption",
+      "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": false,
-      "ts": "2026-11-23T16:33:10.008000Z"
+      "ts": "2026-11-24T15:26:50Z"
     },
     {
-      "title": "Gemini 4 Neon+Antigravity，干活真猛啊。",
-      "title_zh": "Gemini 4 Neon+Antigravity，干活真猛啊。",
-      "url": "https://juejin.cn/post/7710893312785465387",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "title_zh": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+      "source": "Wired",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
+      "ts": "2026-11-24T16:00:00Z"
     },
     {
-      "title": "Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索",
-      "title_zh": "Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索",
-      "url": "https://juejin.cn/post/7710701905597186063",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "Gauth Personal Study Agent",
-      "title_zh": "Gauth Personal Study Agent",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "Othor AI",
-      "title_zh": "Othor AI",
-      "url": "https://www.producthunt.com/products/othor-ai",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "百万 Token 砍到 0.5 美元！微软新模型半价、DeepSeek 连夜撤回搜索费，11 月底开发者怎么搭最省钱？",
-      "title_zh": "百万 Token 砍到 0.5 美元！微软新模型半价、DeepSeek 连夜撤回搜索费，11 月底开发者怎么搭最省钱？",
-      "url": "https://juejin.cn/post/7710159383124951055",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "Agent开发 00｜从 ChatGPT 到生产级 AI Agent",
-      "title_zh": "Agent开发 00｜从 ChatGPT 到生产级 AI Agent",
-      "url": "https://juejin.cn/post/7710178154624008246",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:10.008000Z"
-    },
-    {
-      "title": "AI server makers raise prices up to 45% after deals are signed, FT reports",
-      "title_zh": "AI server makers raise prices up to 45% after deals are signed, FT reports",
-      "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:33:13Z"
-    },
-    {
-      "title": "Anthropic kept IPO bankers off OpenAI work for six months, Reuters reports",
-      "title_zh": "Anthropic kept IPO bankers off OpenAI work for six months, Reuters reports",
-      "url": "https://thenextweb.com/news/anthropic-ipo-bankers-four-person-teams-rivals-reuters",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:46:24Z"
-    },
-    {
-      "title": "AI copycats are cloning creators’ videos for millions of views, BBC finds",
-      "title_zh": "AI copycats are cloning creators’ videos for millions of views, BBC finds",
-      "url": "https://thenextweb.com/news/ai-reskinning-creators-videos-copied-bbc",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T16:58:07Z"
-    },
-    {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "title_zh": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "title_zh": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T17:14:23Z"
+      "ts": "2026-11-24T16:02:37Z"
     },
     {
-      "title": "How should an LLM see a computer?",
-      "title_zh": "How should an LLM see a computer?",
-      "url": "https://www.greptile.com/blog/trex-computer-use",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:19:25Z"
-    },
-    {
-      "title": "How should an LLM see a computer?",
-      "title_zh": "How should an LLM see a computer?",
-      "url": "https://news.ycombinator.com/item?id=50615520",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:19:25Z"
-    },
-    {
-      "title": "Sierra raises $1.75B at a $30B valuation for AI customer service agents",
-      "title_zh": "Sierra raises $1.75B at a $30B valuation for AI customer service agents",
-      "url": "https://thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:28:39Z"
-    },
-    {
-      "title": "Sources: Musk has told employees SpaceX is falling behind in AI, making it more lucrative to rent out computing than use it to improve SpaceX's own products (New York Times)",
-      "title_zh": "Sources: Musk has told employees SpaceX is falling behind in AI, making it more lucrative to rent out computing than use it to improve SpaceX's own products (New York Times)",
-      "url": "https://www.techmeme.com/261123/p31",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:35:00Z"
-    },
-    {
-      "title": "You can block AI slop and spam on these social media platforms",
-      "title_zh": "You can block AI slop and spam on these social media platforms",
-      "url": "https://www.engadget.com/2320284/how-block-ai-slop-spam-social-media-platforms",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:45:00Z"
-    },
-    {
-      "title": "Google Search’s AI Mode can now read your Wallet, with Drive next",
-      "title_zh": "Google Search’s AI Mode can now read your Wallet, with Drive next",
-      "url": "https://thenextweb.com/news/google-ai-mode-personal-intelligence-wallet-drive-gemini",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T17:58:44Z"
-    },
-    {
-      "title": "Over 150 child safety groups urge Amazon and eBay to drop AI toys",
-      "title_zh": "Over 150 child safety groups urge Amazon and eBay to drop AI toys",
-      "url": "https://thenextweb.com/news/child-safety-groups-amazon-ebay-ai-toys",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T18:03:42Z"
-    },
-    {
-      "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
-      "title_zh": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
-      "url": "https://www.techmeme.com/261123/p35",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T18:25:01Z"
-    },
-    {
-      "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
-      "title_zh": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
-      "url": "https://thenextweb.com/news/google-deepmind-gemini-agents-quantum-algorithms-lean",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T18:32:46Z"
-    },
-    {
-      "title": "[程序员] 土区 Gemini AI Pro/Plus 年付半价哟，有需要的可以冲。",
-      "title_zh": "[程序员] 土区 Gemini AI Pro/Plus 年付半价哟，有需要的可以冲。",
-      "url": "https://www.v2ex.com/t/1259288",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T18:35:13Z"
-    },
-    {
-      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "title_zh": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T19:04:52Z"
-    },
-    {
-      "title": "PwC's talent leader shares how the firm will certify 85,000 workers in critical thinking for the AI age",
-      "title_zh": "PwC's talent leader shares how the firm will certify 85,000 workers in critical thinking for the AI age",
-      "url": "https://www.businessinsider.com/pwc-talent-leader-shares-critical-thinking-certificate-in-ai-era-2026-11",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T19:09:27Z"
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "title_zh": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "title_zh": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T19:14:46Z"
+      "ts": "2026-11-24T16:10:00Z"
     },
     {
-      "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-      "title_zh": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-      "url": "https://www.techmeme.com/261123/p38",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-11-23T19:30:02Z"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "title_zh": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "title_zh": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
       "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:00:00Z"
+      "ts": "2026-11-24T16:30:00Z"
     },
     {
-      "title": "I replaced PowerPoint with Gemini Notebook to generate accurate slide decks from my own notes",
-      "title_zh": "I replaced PowerPoint with Gemini Notebook to generate accurate slide decks from my own notes",
-      "url": "https://www.androidpolice.com/replaced-powerpoint-with-gemini-notebook-generate-accurate-slide-decks-from-my-notes",
-      "source": "Android Police",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_zh": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:00:10Z"
+      "ts": "2026-11-24T16:46:00Z"
     },
     {
-      "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
-      "title_zh": "Anthropic softens its data retention policy for Mythos and Fable model use",
-      "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "title_zh": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:02:30Z"
+      "ts": "2026-11-24T17:00:00Z"
     },
     {
-      "title": "Claude Ship",
-      "title_zh": "Claude Ship",
-      "url": "https://claude.com/resources/articles/introducing-claude-ship",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "AI 会聊天，就等于会陪伴吗？",
+      "title_zh": "AI 会聊天，就等于会陪伴吗？",
+      "url": "https://www.huxiu.com/article/4908186.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:14:18Z"
+      "ts": "2026-11-24T17:00:09Z"
     },
     {
-      "title": "[推广] GPT 代充到底要不要给密码？说下瑶瑶 ai 训练师那边是怎么开的",
-      "title_zh": "[推广] GPT 代充到底要不要给密码？说下瑶瑶 ai 训练师那边是怎么开的",
-      "url": "https://www.v2ex.com/t/1259290",
-      "source": "V2EX (创意工作者社区)",
-      "_site": "Info Flow",
-      "tier": 5,
+      "title": "Tidal will start banning AI-generated music next month",
+      "title_zh": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:25:58Z"
+      "ts": "2026-11-24T17:17:09Z"
     },
     {
-      "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-      "title_zh": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-      "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "title_zh": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
+      "source": "ArsTechnica",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-11-23T20:33:07Z"
+      "ts": "2026-11-24T17:34:34Z"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_zh": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T18:02:59Z"
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "title_zh": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T18:15:00Z"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-11-24T18:30:42Z"
     },
     {
       "title": "Tesla's new FSD screen makes an AI video of the road as you drive",
@@ -2434,6 +1934,16 @@
       "ts": "2026-11-24T08:32:46Z"
     },
     {
+      "title": "Anthropic launches Claude Ship to help developers ship code faster",
+      "title_zh": "Anthropic launches Claude Ship to help developers ship code faster",
+      "url": "https://stocks.apple.com/ASK1V-B8BTtKP1t9uAPp4zw",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T08:44:30Z"
+    },
+    {
       "title": "[前端开发] 用 Claude 出个产品原型，居然自带一个图片编辑器，完成度还很高",
       "title_zh": "[前端开发] 用 Claude 出个产品原型，居然自带一个图片编辑器，完成度还很高",
       "url": "https://www.v2ex.com/t/1259491",
@@ -2534,8 +2044,8 @@
       "ts": "2026-11-24T09:45:17Z"
     },
     {
-      "title": "[分享创造] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
-      "title_zh": "[分享创造] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
+      "title": "[推广] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
+      "title_zh": "[推广] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
       "url": "https://www.v2ex.com/t/1259515",
       "source": "V2EX (创意工作者社区)",
       "_site": "Info Flow",
@@ -2544,8 +2054,8 @@
       "ts": "2026-11-24T09:45:31Z"
     },
     {
-      "title": "[推广] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
-      "title_zh": "[推广] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
+      "title": "[分享创造] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
+      "title_zh": "[分享创造] 自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
       "url": "https://www.v2ex.com/t/1259515",
       "source": "V2EX (创意工作者社区)",
       "_site": "Info Flow",
@@ -2794,6 +2304,16 @@
       "ts": "2026-11-24T12:02:30Z"
     },
     {
+      "title": "Quit Internet Videos Before AI Perfects Them",
+      "title_zh": "Quit Internet Videos Before AI Perfects Them",
+      "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T12:20:15Z"
+    },
+    {
       "title": "[推广] 维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
       "title_zh": "[推广] 维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
       "url": "https://www.v2ex.com/t/1259544",
@@ -2964,6 +2484,26 @@
       "ts": "2026-11-24T13:23:47Z"
     },
     {
+      "title": "Anthropic breaks below $83 IPO price",
+      "title_zh": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T13:23:47Z"
+    },
+    {
+      "title": "Anthropic breaks below $83 IPO price",
+      "title_zh": "Anthropic breaks below $83 IPO price",
+      "url": "https://news.ycombinator.com/item?id=50627836",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T13:23:47Z"
+    },
+    {
       "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
       "title_zh": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
       "url": "https://www.techmeme.com/261124/p18",
@@ -2996,6 +2536,16 @@
     {
       "title": "[分享发现] 看到大家在说 Gemini PRO 开了发现没啥用啊",
       "title_zh": "[分享发现] 看到大家在说 Gemini PRO 开了发现没啥用啊",
+      "url": "https://www.v2ex.com/t/1259558",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T13:39:21Z"
+    },
+    {
+      "title": "[Google Gemini] 看到大家在说 Gemini PRO 开了发现没啥用啊",
+      "title_zh": "[Google Gemini] 看到大家在说 Gemini PRO 开了发现没啥用啊",
       "url": "https://www.v2ex.com/t/1259558",
       "source": "V2EX (创意工作者社区)",
       "_site": "Info Flow",
@@ -3092,6 +2642,646 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-11-24T14:20:37.983000Z"
+    },
+    {
+      "title": "Anthropic在盘前交易中跌破83美元的IPO发行价",
+      "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "www.bloomberg.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T14:28:51.859000Z"
+    },
+    {
+      "title": "Where AI Meets Instinct in Formula 1",
+      "title_zh": "Where AI Meets Instinct in Formula 1",
+      "url": "https://time.com/collection/the-ceo-moment/2026/where-ai-meets-instinct-in-formula-1",
+      "source": "TIME Magazine",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T14:33:35Z"
+    },
+    {
+      "title": "Anthropic is below its IPO price",
+      "title_zh": "Anthropic is below its IPO price",
+      "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T14:41:15Z"
+    },
+    {
+      "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
+      "title_zh": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
+      "url": "https://www.techmeme.com/261124/p21",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T14:45:30Z"
+    },
+    {
+      "title": "IBM Consulting’s cyber chief tells companies to assume failure as AI speeds up attacks",
+      "title_zh": "IBM Consulting’s cyber chief tells companies to assume failure as AI speeds up attacks",
+      "url": "https://thenextweb.com/news/ibm-cybersecurity-mark-hughes-assume-failure-ai-attacks",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:12:10Z"
+    },
+    {
+      "title": "Anthropic’s Alpöge says the 250,000-page Riemann proof figure was a joke",
+      "title_zh": "Anthropic’s Alpöge says the 250,000-page Riemann proof figure was a joke",
+      "url": "https://thenextweb.com/news/alpoge-250000-page-riemann-proof-figure-joke-lean-clay-active",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:13:27Z"
+    },
+    {
+      "title": "Anthropic falls below $83 IPO price in Swift reversal after record listing",
+      "title_zh": "Anthropic falls below $83 IPO price in Swift reversal after record listing",
+      "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:15:50Z"
+    },
+    {
+      "title": "[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持美刀支付",
+      "title_zh": "[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/GCP 可至 65 折 AWS 新号 65 折/老号无需迁移 85 折 腾讯国际 55 折 支持美刀支付",
+      "url": "https://www.v2ex.com/t/1259571",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:25:00Z"
+    },
+    {
+      "title": "US tells agencies to patch a flaw hackers’ AI agents found on their own",
+      "title_zh": "US tells agencies to patch a flaw hackers’ AI agents found on their own",
+      "url": "https://thenextweb.com/news/cairn-ai-agents-zero-day-monai-label-cisa-amazon",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:50:26Z"
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "title_zh": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:51:07Z"
+    },
+    {
+      "title": "[分享创造] 利用 AI 开源了一个 macOS 小工具：LocalPeek 。把本机的 Redis、MySQL 和 Web 开发服务收进一个窗口，只读浏览、实时看日志。macOS 免费开源。",
+      "title_zh": "[分享创造] 利用 AI 开源了一个 macOS 小工具：LocalPeek 。把本机的 Redis、MySQL 和 Web 开发服务收进一个窗口，只读浏览、实时看日志。macOS 免费开源。",
+      "url": "https://www.v2ex.com/t/1259576",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T15:56:12Z"
+    },
+    {
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "title_zh": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+      "source": "Wired",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:00:00Z"
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "title_zh": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:02:37Z"
+    },
+    {
+      "title": "OpenAI reportedly hires from the CIA as foreign spies target AI labs",
+      "title_zh": "OpenAI reportedly hires from the CIA as foreign spies target AI labs",
+      "url": "https://thenextweb.com/news/openai-anthropic-us-intelligence-hires-state-espionage-ft",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:03:15Z"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "title_zh": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:09:23Z"
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "title_zh": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:10:00Z"
+    },
+    {
+      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+      "title_zh": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+      "url": "https://masondata.ai",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:11:52Z"
+    },
+    {
+      "title": "Tidal bans AI-generated music",
+      "title_zh": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:12:38Z"
+    },
+    {
+      "title": "Anthropic的股价低于其IPO发行价",
+      "title_zh": "Anthropic的股价低于其IPO发行价",
+      "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "source": "www.msn.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:21:08.128000Z"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "title_zh": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "source": "The Verge",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:30:00Z"
+    },
+    {
+      "title": "[Claude] 用虚拟卡+Apple Pay 成功支付 Claude Pro",
+      "title_zh": "[Claude] 用虚拟卡+Apple Pay 成功支付 Claude Pro",
+      "url": "https://www.v2ex.com/t/1259582",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:43:58Z"
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "title_zh": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:45:44Z"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_zh": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:46:00Z"
+    },
+    {
+      "title": "Kaszek closes $650M fund to back AI startups across Latin America",
+      "title_zh": "Kaszek closes $650M fund to back AI startups across Latin America",
+      "url": "https://thenextweb.com/news/kaszek-650m-fund-latin-america-ai-startups",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T16:58:40Z"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "title_zh": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:00:00Z"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "title_zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://news.ycombinator.com/item?id=50631041",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:00:55Z"
+    },
+    {
+      "title": "Signal Now Blocks AI Screen Access to Protect Chats",
+      "title_zh": "Signal Now Blocks AI Screen Access to Protect Chats",
+      "url": "https://www.macrumors.com/2026/11/24/signal-blocks-ai-access-to-protect-chats",
+      "source": "Mac Rumors",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:04:43Z"
+    },
+    {
+      "title": "[Codex] 有没有人和我一样想吐槽 codex 干活总是问一句答一句，明明可以继续却不继续往下，每次都要再发继续、需要我做什么。已经在全局加了规则限制。。。",
+      "title_zh": "[Codex] 有没有人和我一样想吐槽 codex 干活总是问一句答一句，明明可以继续却不继续往下，每次都要再发继续、需要我做什么。已经在全局加了规则限制。。。",
+      "url": "https://www.v2ex.com/t/1259584",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:05:16Z"
+    },
+    {
+      "title": "[宽带症候群] 从 openwrt 到用 AI 搓出 VPP 软路由：我的折腾之路与开源项目",
+      "title_zh": "[宽带症候群] 从 openwrt 到用 AI 搓出 VPP 软路由：我的折腾之路与开源项目",
+      "url": "https://www.v2ex.com/t/1259585",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:07:00Z"
+    },
+    {
+      "title": "Mathematicians are furious over an Anthropic researcher's joke about a 250,000-page proof",
+      "title_zh": "Mathematicians are furious over an Anthropic researcher's joke about a 250,000-page proof",
+      "url": "https://www.businessinsider.com/anthropic-levent-alpoe-riemann-hypothesis-page-length-joke-angers-mathematicians-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:07:20Z"
+    },
+    {
+      "title": "Tidal 禁止 AI 生成的音乐",
+      "title_zh": "Tidal 禁止 AI 生成的音乐",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "source": "variety.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:08:49.269000Z"
+    },
+    {
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "title_zh": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:10:45Z"
+    },
+    {
+      "title": "Anthropic’s new Siren test tempts Claude to break out of its sandbox",
+      "title_zh": "Anthropic’s new Siren test tempts Claude to break out of its sandbox",
+      "url": "https://thenextweb.com/news/anthropic-siren-claude-sandbox-escape-test",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:22:23Z"
+    },
+    {
+      "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)",
+      "title_zh": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)",
+      "url": "https://www.techmeme.com/261124/p27",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:25:02Z"
+    },
+    {
+      "title": "ChatGPT Health finally comes to Android",
+      "title_zh": "ChatGPT Health finally comes to Android",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt-can-now-make-sense-of-all-that-health-and-fitness-data-on-your-android-phone-and-it-could-make-your-smartwatch-a-lot-more-useful",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:34:28Z"
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "title_zh": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
+      "source": "Ars Technica",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:34:34Z"
+    },
+    {
+      "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+      "title_zh": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+      "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:46:41Z"
+    },
+    {
+      "title": "TIDAL will delete 29 million AI-generated songs from its catalogue",
+      "title_zh": "TIDAL will delete 29 million AI-generated songs from its catalogue",
+      "url": "https://thenextweb.com/news/tidal-delete-29-million-ai-generated-songs",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:57:18Z"
+    },
+    {
+      "title": "Tidal is banning AI-generated music entirely",
+      "title_zh": "Tidal is banning AI-generated music entirely",
+      "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T17:58:04Z"
+    },
+    {
+      "title": "Anthropic says leaders pushing AI can make workers feel watched",
+      "title_zh": "Anthropic says leaders pushing AI can make workers feel watched",
+      "url": "https://www.businessinsider.com/anthropic-ai-workplace-report-worker-resistance-surveillance-hiring-2026-11",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:00:52Z"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_zh": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:02:59Z"
+    },
+    {
+      "title": "'Get the foundation right': AWS CEO Matt Garman says AI safety can't rely on an 'emergency brake', calls for companies to be bold in their deployment",
+      "title_zh": "'Get the foundation right': AWS CEO Matt Garman says AI safety can't rely on an 'emergency brake', calls for companies to be bold in their deployment",
+      "url": "https://www.techradar.com/pro/get-the-foundation-right-aws-ceo-matt-garman-says-ai-safety-cant-rely-on-an-emergency-brake-calls-for-companies-to-be-bold-in-their-deployment",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:05:00Z"
+    },
+    {
+      "title": "Google filed a patent application for an AI TV channel starring you",
+      "title_zh": "Google filed a patent application for an AI TV channel starring you",
+      "url": "https://mashable.com/tech/google-ai-tv-patent-my-channel",
+      "source": "Mashable",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:07:42Z"
+    },
+    {
+      "title": "Google wants everyone to have their own AI-generated Truman Show",
+      "title_zh": "Google wants everyone to have their own AI-generated Truman Show",
+      "url": "https://www.makeuseof.com/google-wants-everyone-to-have-their-own-ai-generated-truman-show",
+      "source": "MakeUseOf",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:07:45Z"
+    },
+    {
+      "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
+      "title_zh": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
+      "url": "https://www.techmeme.com/261124/p29",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:20:03Z"
+    },
+    {
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "title_zh": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:21:43Z"
+    },
+    {
+      "title": "Google will make AI agents use new gateways to reach Gmail and Drive",
+      "title_zh": "Google will make AI agents use new gateways to reach Gmail and Drive",
+      "url": "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:24:54Z"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:30:42Z"
+    },
+    {
+      "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+      "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "source": "novaramedia.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:45:00.306000Z"
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "title_zh": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:55:12Z"
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "title_zh": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T18:55:12Z"
+    },
+    {
+      "title": "The biggest limitations of ChatGPT",
+      "title_zh": "The biggest limitations of ChatGPT",
+      "url": "https://www.engadget.com/2321242/chatgpt-biggest-limitations",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:00:00Z"
+    },
+    {
+      "title": "Mondo Beni is a pricey, cute camera robot that doesn't always know which way is up — but I'm still a fan",
+      "title_zh": "Mondo Beni is a pricey, cute camera robot that doesn't always know which way is up — but I'm still a fan",
+      "url": "https://www.techradar.com/science/robotics/mondo-robotics-beni-review",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:00:00Z"
+    },
+    {
+      "title": "'No recruiting team can talk to thousands of people': But study finds 90% of recruiters admit they turned away real candidates they thought were AI",
+      "title_zh": "'No recruiting team can talk to thousands of people': But study finds 90% of recruiters admit they turned away real candidates they thought were AI",
+      "url": "https://www.techradar.com/pro/no-recruiting-team-can-talk-to-thousands-of-people-but-study-finds-90-percent-of-recruiters-admit-they-turned-away-real-candidates-they-thought-were-ai",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:05:00Z"
+    },
+    {
+      "title": "Plaud's pocket-sized Note Pro AI voice recorder is built for the moments you miss in meetings — now at its lowest ever price",
+      "title_zh": "Plaud's pocket-sized Note Pro AI voice recorder is built for the moments you miss in meetings — now at its lowest ever price",
+      "url": "https://www.techradar.com/pro/plauds-pocket-sized-note-pro-ai-voice-recorder-is-built-for-the-moments-you-miss-in-meetings-now-at-its-lowest-ever-price",
+      "source": "TechRadar",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:09:55Z"
+    },
+    {
+      "title": "Compiling web applications into verified operations for AI agents",
+      "title_zh": "Compiling web applications into verified operations for AI agents",
+      "url": "https://protocolis.co/paper",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:12:02Z"
+    },
+    {
+      "title": "Compiling web applications into verified operations for AI agents",
+      "title_zh": "Compiling web applications into verified operations for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50632998",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:12:02Z"
+    },
+    {
+      "title": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
+      "title_zh": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
+      "url": "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:22:11Z"
+    },
+    {
+      "title": "一款用于您本地模型的训练引擎，利用您的闲置算力",
+      "title_zh": "一款用于您本地模型的训练引擎，利用您的闲置算力",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "github.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T19:32:51.351000Z"
+    },
+    {
+      "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+      "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "news.ycombinator.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T20:04:55.975000Z"
+    },
+    {
+      "title": "Three xAI co-founders launch Epochal to teach AI to predict the future",
+      "title_zh": "Three xAI co-founders launch Epochal to teach AI to predict the future",
+      "url": "https://thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T20:11:24Z"
+    },
+    {
+      "title": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+      "title_zh": "Declare 是一款专为您和您的 AI 设计的 UI 语言",
+      "url": "https://davidtemkin.github.io/declarelang",
+      "source": "davidtemkin.github.io",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T20:20:41.782000Z"
+    },
+    {
+      "title": "[推广] V2CC：北美家宽独享实体 Mac mini，预装 Claude Code，首单减 ¥200",
+      "title_zh": "[推广] V2CC：北美家宽独享实体 Mac mini，预装 Claude Code，首单减 ¥200",
+      "url": "https://www.v2ex.com/t/1259589",
+      "source": "V2EX (创意工作者社区)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T20:23:19Z"
+    },
+    {
+      "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+      "title_zh": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+      "url": "https://juejin.cn/post/7711283330075377698",
+      "source": "juejin",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-11-24T20:45:49.037000Z"
     }
   ]
 }
