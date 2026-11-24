@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:46:26.832765Z",
+  "generated_at": "2026-11-24T14:20:56.000016Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -13,6 +13,17 @@
       "published_at": "2026-11-24T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.98
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "title_zh": null,
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-11-23T21:20:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
     },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -37,6 +48,17 @@
       "ai_score": 0.87
     },
     {
+      "title": "腾讯混元发布并开源Hy MT3",
+      "title_zh": "腾讯混元发布并开源Hy MT3",
+      "url": "https://www.aibase.com/news/32503",
+      "source": "AIbase",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-11-24T14:20:08.152407Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
       "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
       "url": "https://www.aibase.com/news/32500",
@@ -51,17 +73,6 @@
       "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
       "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
       "url": "https://www.aibase.com/news/32493",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-11-24T09:45:20.037362Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-      "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-      "url": "https://www.aibase.com/news/32498",
       "source": "AIbase",
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
@@ -103,17 +114,6 @@
       "ai_score": 0.65
     },
     {
-      "title": "一个人带 18 个 AI 助手，最后全堵在了“等我看”这一格",
-      "title_zh": "一个人带 18 个 AI 助手，最后全堵在了“等我看”这一格",
-      "url": "https://waytoagi.feishu.cn/wiki/RGkuwjizqibQxxkMueCc5u8anhd?from=from_copylink",
-      "source": "社区更新 · 2026-11-23",
-      "source_tier_rank": 2,
-      "source_tier_label": "社区更新",
-      "published_at": "2026-11-24T03:29:38.238423Z",
-      "ai_is_related": true,
-      "ai_score": 0.65
-    },
-    {
       "title": "New research from Replit on scaling laws for agent swarms. We show that scaling the number of agents can yield dramatic performance gains, but unlike traditional scaling laws, more compute doesn't necessarily translat...",
       "title_zh": null,
       "url": "https://x.com/amasad/status/2124969305674748175",
@@ -147,15 +147,37 @@
       "ai_score": 0.33
     },
     {
-      "title": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
-      "title_zh": null,
-      "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
-      "source": "France24 English",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-11-23T12:11:43Z",
+      "title": "[问与答] 有一台 2 核 8G 的小服务器，求一个 Personal Agent 的选型和部署最佳实践",
+      "title_zh": "[问与答] 有一台 2 核 8G 的小服务器，求一个 Personal Agent 的选型和部署最佳实践",
+      "url": "https://www.v2ex.com/t/1259561",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-24T13:50:58Z",
       "ai_is_related": false,
-      "ai_score": 0.47
+      "ai_score": 0.32
+    },
+    {
+      "title": "[程序员] 多个 AGENT 项目怎么跟踪管理",
+      "title_zh": "[程序员] 多个 AGENT 项目怎么跟踪管理",
+      "url": "https://www.v2ex.com/t/1259555",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-24T13:27:06Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "[程序员] 朋友自研的推理引擎 EMBER，针对 Windows 平台单 5090 跑 DS4.1F 解码最快能达 107tps",
+      "title_zh": "[程序员] 朋友自研的推理引擎 EMBER，针对 Windows 平台单 5090 跑 DS4.1F 解码最快能达 107tps",
+      "url": "https://www.v2ex.com/t/1259545",
+      "source": "V2EX (创意工作者社区)",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-24T12:26:42Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "Agent开发工程师-学习大纲",
@@ -165,39 +187,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-11-24T09:46:07.298000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[程序员] 「求助，到底什么才是 Agent，如何入门、掌握、精通 Agent 开发？」",
-      "title_zh": "[程序员] 「求助，到底什么才是 Agent，如何入门、掌握、精通 Agent 开发？」",
-      "url": "https://www.v2ex.com/t/1259502",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-24T09:13:19Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[推广] Leaflow - 新时代的 Agent Infra ，帮你从 Vibe Coding 到 Vibe Shipping",
-      "title_zh": "[推广] Leaflow - 新时代的 Agent Infra ，帮你从 Vibe Coding 到 Vibe Shipping",
-      "url": "https://www.v2ex.com/t/1259492",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-24T08:48:53Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "[推广] 自建 GLM5.3 模型免费使用，送给有需要的 V 友们，羊毛大放送",
-      "title_zh": "[推广] 自建 GLM5.3 模型免费使用，送给有需要的 V 友们，羊毛大放送",
-      "url": "https://www.v2ex.com/t/1259468",
-      "source": "V2EX (创意工作者社区)",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-11-24T07:38:00Z",
       "ai_is_related": false,
       "ai_score": 0.32
     },
@@ -217,6 +206,17 @@
       "title_zh": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！",
       "url": "https://juejin.cn/post/7711033019449262130",
       "source": "juejin",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-11-23T16:33:10.008000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Gauth Personal Study Agent",
+      "title_zh": null,
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "producthunt",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-11-23T16:33:10.008000Z",
